@@ -588,6 +588,114 @@ section.section:first-of-type { border-top: none; }
   gap: 16px;
 }
 
+/* ── FORMAT CARDS (Section 04: Design Tokens download) ── */
+.format-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+@media (max-width: 991px) { .format-grid { grid-template-columns: 1fr; } }
+
+.format-card {
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 4px;
+  background: var(--color-neutral-10);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: border-color .25s;
+}
+.format-card:hover { border-color: var(--color-neutral-40); }
+
+.format-header {
+  padding: 32px 32px 24px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+}
+.format-info { flex: 1; min-width: 0; }
+.format-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.15;
+  color: var(--color-neutral-100);
+  margin-bottom: 6px;
+}
+.format-desc {
+  font-family: var(--font-text);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--color-neutral-70);
+}
+.format-badge {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--color-neutral-70);
+  background: var(--color-neutral-20);
+  border: 1px solid var(--color-neutral-30);
+  padding: 6px 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.format-preview {
+  flex: 1;
+  margin: 0 32px;
+  background: var(--color-neutral-100);
+  color: rgba(255,255,255,.85);
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", monospace;
+  font-size: 11.5px;
+  line-height: 1.6;
+  padding: 20px 24px;
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+  min-height: 168px;
+  white-space: pre;
+}
+.format-preview::after {
+  /* fade-out at the bottom hinting "more content below" */
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 56px;
+  background: linear-gradient(to bottom, rgba(14,15,17,0) 0%, var(--color-neutral-100) 100%);
+  pointer-events: none;
+}
+.format-preview .tk-comment { color: rgba(144,77,255,.75); font-style: italic; }
+.format-preview .tk-key     { color: #00D7EE; }
+.format-preview .tk-value   { color: rgba(255,255,255,.95); }
+.format-preview .tk-punc    { color: rgba(255,255,255,.5); }
+
+.format-actions {
+  padding: 24px 32px 32px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.format-actions .filename {
+  grid-column: 1 / -1;
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 11px;
+  color: var(--color-neutral-70);
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.format-actions .filename::before {
+  content: "";
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+}
+
 /* ── TOAST (copy feedback) ── */
 .toast {
   position: fixed;
@@ -919,6 +1027,76 @@ section.section:first-of-type { border-top: none; }
   </div>
 </section>
 
+<!-- ─────────── 04. DESIGN TOKENS / DOWNLOADS ─────────── -->
+<section class="section" id="tokens">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-num">04 / Design tokens</div>
+      <div>
+        <div class="section-title">Download the system</div>
+        <p>
+          The full color palette, gradient, and typography stack — packaged for
+          drop-in use in your own projects. Pick the format that matches your
+          stack, or grab the markdown version to feed an AI coding assistant.
+        </p>
+      </div>
+    </div>
+
+    <div class="format-grid">
+
+      <!-- CSS -->
+      <article class="format-card">
+        <div class="format-header">
+          <div class="format-info">
+            <div class="format-name">CSS Custom Properties</div>
+            <div class="format-desc">Drop into any web project. Use as <code style="font-family:ui-monospace,monospace;font-size:12px;color:var(--color-accent)">var(--color-accent)</code> after import.</div>
+          </div>
+          <div class="format-badge">.css</div>
+        </div>
+        <pre class="format-preview" id="preview-css"><span class="tk-comment">/* AHLab Brand Tokens */</span>
+<span class="tk-key">:root</span> <span class="tk-punc">{</span>
+  <span class="tk-key">--color-accent</span><span class="tk-punc">:</span> <span class="tk-value">#6100FF</span><span class="tk-punc">;</span>
+  <span class="tk-key">--color-accent-dark</span><span class="tk-punc">:</span> <span class="tk-value">#4400B3</span><span class="tk-punc">;</span>
+  <span class="tk-key">--gradient-start</span><span class="tk-punc">:</span> <span class="tk-value">#00D7EE</span><span class="tk-punc">;</span>
+  <span class="tk-key">--gradient-end</span><span class="tk-punc">:</span> <span class="tk-value">#6100FF</span><span class="tk-punc">;</span>
+  <span class="tk-comment">/* …8 more neutrals + fonts */</span>
+<span class="tk-punc">}</span></pre>
+        <div class="format-actions">
+          <div class="filename">theme.css</div>
+          <button class="btn primary" data-download="css">Download <span class="arrow">↓</span></button>
+          <button class="btn" data-copy="css">Copy</button>
+        </div>
+      </article>
+
+      <!-- Markdown -->
+      <article class="format-card">
+        <div class="format-header">
+          <div class="format-info">
+            <div class="format-name">Markdown Spec</div>
+            <div class="format-desc">For AI coding assistants. Paste into Claude, Cursor, or your project's <code style="font-family:ui-monospace,monospace;font-size:12px;color:var(--color-accent)">README.md</code>.</div>
+          </div>
+          <div class="format-badge">.md</div>
+        </div>
+        <pre class="format-preview" id="preview-md"><span class="tk-comment"># AHLab Design Tokens</span>
+
+<span class="tk-comment">## Colors</span>
+
+<span class="tk-comment">### Accent</span>
+<span class="tk-punc">|</span> <span class="tk-key">Token</span>           <span class="tk-punc">|</span> <span class="tk-key">Hex</span>     <span class="tk-punc">|</span> <span class="tk-key">Use</span>          <span class="tk-punc">|</span>
+<span class="tk-punc">|</span><span class="tk-punc">-----------------</span><span class="tk-punc">|</span><span class="tk-punc">---------</span><span class="tk-punc">|</span><span class="tk-punc">--------------</span><span class="tk-punc">|</span>
+<span class="tk-punc">|</span> <span class="tk-value">color-accent</span>    <span class="tk-punc">|</span> <span class="tk-value">#6100FF</span> <span class="tk-punc">|</span> <span class="tk-value">primary</span>      <span class="tk-punc">|</span>
+<span class="tk-punc">|</span> <span class="tk-value">gradient-start</span>  <span class="tk-punc">|</span> <span class="tk-value">#00D7EE</span> <span class="tk-punc">|</span> <span class="tk-value">cyan accent</span>  <span class="tk-punc">|</span></pre>
+        <div class="format-actions">
+          <div class="filename">theme.md</div>
+          <button class="btn primary" data-download="md">Download <span class="arrow">↓</span></button>
+          <button class="btn" data-copy="md">Copy</button>
+        </div>
+      </article>
+
+    </div>
+  </div>
+</section>
+
 <!-- ─────────── FOOTER ─────────── -->
 <footer class="site-footer">
   <div class="container">
@@ -933,6 +1111,7 @@ section.section:first-of-type { border-top: none; }
         <a href="#logos">Logos</a>
         <a href="#colors">Colors</a>
         <a href="#typography">Typography</a>
+        <a href="#tokens">Design tokens</a>
       </div>
       <div>
         <h5>Elsewhere</h5>
@@ -1028,6 +1207,258 @@ document.querySelectorAll('.copy-css-target').forEach(el => {
     el.classList.add('copied');
     setTimeout(() => el.classList.remove('copied'), 1400);
     showToast('Copied CSS');
+  });
+});
+
+// ── DESIGN TOKENS — single source of truth ────────────────
+// Edit this object once; both formats regenerate from it.
+const TOKENS = {
+  meta: {
+    name: 'Augmented Human Lab',
+    short: 'AHLab',
+    url: 'https://ahlab.org',
+    cdn: 'https://cdn.ahlab.org',
+    version: '1.0.0',
+  },
+  colors: {
+    accent: [
+      { name: 'Accent',         var: '--color-accent',        hex: '#6100FF', use: 'Primary brand color, links, CTAs' },
+      { name: 'Accent Dark',    var: '--color-accent-dark',   hex: '#4400B3', use: 'Hover states, pressed buttons' },
+      { name: 'Accent Light',   var: '--color-accent-light',  hex: '#904DFF', use: 'Highlights, decorative tints' },
+      { name: 'Gradient Start', var: '--gradient-start',      hex: '#00D7EE', use: 'Cyan endpoint of the brand gradient' },
+      { name: 'Gradient End',   var: '--gradient-end',        hex: '#6100FF', use: 'Purple endpoint of the brand gradient' },
+    ],
+    neutrals: [
+      { name: 'Neutral 10',  var: '--color-neutral-10',  hex: '#FFFFFF', use: 'Page background, cards on dark' },
+      { name: 'Neutral 20',  var: '--color-neutral-20',  hex: '#F4F7F9', use: 'Subtle surface tint' },
+      { name: 'Neutral 30',  var: '--color-neutral-30',  hex: '#EDF0F3', use: 'Borders, dividers' },
+      { name: 'Neutral 40',  var: '--color-neutral-40',  hex: '#C9D8E3', use: 'Disabled, placeholder backgrounds' },
+      { name: 'Neutral 60',  var: '--color-neutral-60',  hex: '#AAAFB6', use: 'Tertiary text, inactive icons' },
+      { name: 'Neutral 70',  var: '--color-neutral-70',  hex: '#838D95', use: 'Secondary text' },
+      { name: 'Neutral 80',  var: '--color-neutral-80',  hex: '#5E6875', use: 'Body text on light' },
+      { name: 'Neutral 100', var: '--color-neutral-100', hex: '#0E0F11', use: 'Headings, primary text' },
+    ],
+  },
+  gradient: {
+    name: 'Signature gradient',
+    css:  'linear-gradient(221deg, #00D7EE 0%, #6100FF 100%)',
+    angle: 221,
+    stops: [
+      { position: '0%',   color: '#00D7EE' },
+      { position: '100%', color: '#6100FF' },
+    ],
+  },
+  fonts: {
+    display: {
+      family: 'neue-haas-grotesk-display',
+      var: '--font-display',
+      stack: '"neue-haas-grotesk-display", sans-serif',
+      weights: [
+        { weight: 700, name: 'Bold',  use: 'Headlines, hero titles' },
+        { weight: 800, name: 'Black', use: 'Section labels, eyebrows, all-caps tags' },
+      ],
+    },
+    text: {
+      family: 'neue-haas-grotesk-text',
+      var: '--font-text',
+      stack: '"neue-haas-grotesk-text", sans-serif',
+      weights: [
+        { weight: 400, name: 'Regular',  use: 'Body copy' },
+        { weight: 500, name: 'Medium',   use: 'UI labels, nav links' },
+        { weight: 600, name: 'Semibold', use: 'Emphasis, button text' },
+      ],
+    },
+    embed: {
+      provider: 'Adobe Fonts (Typekit)',
+      kitId: 'zws2qzx',
+      url: 'https://use.typekit.net/zws2qzx.css',
+    },
+  },
+};
+
+// ── Generators: TOKENS → format strings ───────────────────
+function generateCSS(t) {
+  const lines = [];
+  lines.push('/* ============================================================');
+  lines.push(`   ${t.meta.name} — Brand Tokens`);
+  lines.push(`   v${t.meta.version} · ${t.meta.cdn}`);
+  lines.push('');
+  lines.push('   Drop-in CSS custom properties. After importing, use as:');
+  lines.push('     color: var(--color-accent);');
+  lines.push('     background: var(--gradient);');
+  lines.push('     font-family: var(--font-display);');
+  lines.push('   ============================================================ */');
+  lines.push('');
+  lines.push(':root {');
+  lines.push('  /* ── Accent ───────────────────────────────────── */');
+  for (const c of t.colors.accent) {
+    lines.push(`  ${(c.var + ':').padEnd(23)} ${c.hex};`);
+  }
+  lines.push('');
+  lines.push('  /* ── Signature gradient ───────────────────────── */');
+  lines.push(`  --gradient: ${t.gradient.css};`);
+  lines.push('');
+  lines.push('  /* ── Neutrals ─────────────────────────────────── */');
+  for (const c of t.colors.neutrals) {
+    lines.push(`  ${(c.var + ':').padEnd(23)} ${c.hex};`);
+  }
+  lines.push('');
+  lines.push('  /* ── Typography ───────────────────────────────── */');
+  lines.push(`  ${(t.fonts.display.var + ':').padEnd(23)} ${t.fonts.display.stack};`);
+  lines.push(`  ${(t.fonts.text.var + ':').padEnd(23)} ${t.fonts.text.stack};`);
+  lines.push('}');
+  lines.push('');
+  lines.push(`/* Fonts are served by ${t.fonts.embed.provider}.`);
+  lines.push(`   Add this to your <head> to load them:`);
+  lines.push(`   <link rel="stylesheet" href="${t.fonts.embed.url}"> */`);
+  lines.push('');
+  return lines.join('\n');
+}
+
+function generateMarkdown(t) {
+  const out = [];
+  out.push(`# ${t.meta.name} — Design Tokens`);
+  out.push('');
+  out.push(`Version ${t.meta.version} · ${t.meta.cdn}`);
+  out.push('');
+  out.push('This document is the canonical reference for the AHLab visual system.');
+  out.push('Paste it into an AI coding assistant (Claude, Cursor, Copilot) or a project');
+  out.push('README to make sure generated code uses the correct brand tokens.');
+  out.push('');
+  out.push('---');
+  out.push('');
+  out.push('## Colors');
+  out.push('');
+  out.push('### Accent palette');
+  out.push('');
+  out.push('| Token | CSS Variable | Hex | Usage |');
+  out.push('|---|---|---|---|');
+  for (const c of t.colors.accent) {
+    out.push(`| ${c.name} | \`${c.var}\` | \`${c.hex}\` | ${c.use} |`);
+  }
+  out.push('');
+  out.push('### Neutral palette');
+  out.push('');
+  out.push('| Token | CSS Variable | Hex | Usage |');
+  out.push('|---|---|---|---|');
+  for (const c of t.colors.neutrals) {
+    out.push(`| ${c.name} | \`${c.var}\` | \`${c.hex}\` | ${c.use} |`);
+  }
+  out.push('');
+  out.push('### Signature gradient');
+  out.push('');
+  out.push('The lab\'s signature gradient runs from cyan to purple at a 221° angle.');
+  out.push('Use it sparingly — full-bleed heroes, key CTAs, brand moments.');
+  out.push('');
+  out.push('```css');
+  out.push(`background: ${t.gradient.css};`);
+  out.push('```');
+  out.push('');
+  out.push('---');
+  out.push('');
+  out.push('## Typography');
+  out.push('');
+  out.push(`Both typefaces are cuts of **Neue Haas Grotesk**, served by ${t.fonts.embed.provider}.`);
+  out.push('Add this single line to your `<head>` to load them:');
+  out.push('');
+  out.push('```html');
+  out.push(`<link rel="stylesheet" href="${t.fonts.embed.url}">`);
+  out.push('```');
+  out.push('');
+  out.push('### Display — `--font-display`');
+  out.push('');
+  out.push('Use for headlines, hero titles, section labels, and any structural text.');
+  out.push('');
+  out.push('```css');
+  out.push(`font-family: ${t.fonts.display.stack};`);
+  out.push('```');
+  out.push('');
+  out.push('| Weight | Name | Usage |');
+  out.push('|---|---|---|');
+  for (const w of t.fonts.display.weights) {
+    out.push(`| ${w.weight} | ${w.name} | ${w.use} |`);
+  }
+  out.push('');
+  out.push('### Text — `--font-text`');
+  out.push('');
+  out.push('Use for body copy, paragraphs, and inline UI labels.');
+  out.push('');
+  out.push('```css');
+  out.push(`font-family: ${t.fonts.text.stack};`);
+  out.push('```');
+  out.push('');
+  out.push('| Weight | Name | Usage |');
+  out.push('|---|---|---|');
+  for (const w of t.fonts.text.weights) {
+    out.push(`| ${w.weight} | ${w.name} | ${w.use} |`);
+  }
+  out.push('');
+  out.push('---');
+  out.push('');
+  out.push('## Quick reference for AI assistants');
+  out.push('');
+  out.push('When generating new components or pages for the Augmented Human Lab:');
+  out.push('');
+  out.push('- **Primary accent** is `#6100FF` — never substitute another purple.');
+  out.push('- **Headlines** use `neue-haas-grotesk-display` at 700 weight.');
+  out.push('- **Body** uses `neue-haas-grotesk-text` at 400 weight.');
+  out.push('- **Backgrounds** are `#FFFFFF` (light) or `#0E0F11` (dark) — not pure black.');
+  out.push('- **Borders/dividers** are `#EDF0F3` at 1px or 2px.');
+  out.push('- The **signature gradient** is reserved for hero sections and key CTAs only.');
+  out.push('- Prefer generous whitespace and Swiss-grid layouts over dense compositions.');
+  out.push('');
+  out.push('---');
+  out.push('');
+  out.push(`*Generated from ${t.meta.cdn} · See the live brand kit for color swatches and font specimens.*`);
+  out.push('');
+  return out.join('\n');
+}
+
+// ── File download via Blob URL ────────────────────────────
+function downloadText(filename, content, mime) {
+  const blob = new Blob([content], { type: mime + ';charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  a.style.display = 'none';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  // Revoke a tick later so the click has time to dispatch
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+// Format registry — keyed by the data-* attribute on buttons
+const FORMATS = {
+  css: { filename: 'theme.css', mime: 'text/css',      build: () => generateCSS(TOKENS),      label: 'CSS' },
+  md:  { filename: 'theme.md',  mime: 'text/markdown', build: () => generateMarkdown(TOKENS), label: 'Markdown' },
+};
+
+// ── Wire up download buttons ──────────────────────────────
+document.querySelectorAll('[data-download]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const key = btn.dataset.download;
+    const fmt = FORMATS[key];
+    if (!fmt) return;
+    downloadText(fmt.filename, fmt.build(), fmt.mime);
+    showToast(`Downloaded ${fmt.filename}`);
+  });
+});
+
+// ── Wire up copy buttons ──────────────────────────────────
+document.querySelectorAll('[data-copy]').forEach(btn => {
+  btn.addEventListener('click', async () => {
+    const key = btn.dataset.copy;
+    const fmt = FORMATS[key];
+    if (!fmt) return;
+    const content = fmt.build();
+    const ok = await copy(content);
+    if (!ok) return;
+    const original = btn.textContent;
+    btn.textContent = '✓ Copied';
+    setTimeout(() => { btn.textContent = original; }, 1400);
+    showToast(`Copied ${fmt.label}`);
   });
 });
 </script>

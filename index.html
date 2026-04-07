@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AHLab Brand Kit — cdn.ahlab.org</title>
+<meta name="description" content="Official brand assets for the Augmented Human Lab — logos, color palette, typography, downloads.">
+<link rel="stylesheet" href="https://use.typekit.net/zws2qzx.css">
+<link rel="icon" href="https://ahlab.org/wp-content/uploads/2021/05/cropped-Group@2x-32x32.png" sizes="32x32">
+<style>
+:root {
+  /* ── BRAND TOKENS — single source of truth for this page ── */
+  --color-accent:        #6100FF;
+  --color-accent-dark:   #4400B3;
+  --color-accent-light:  #904DFF;
+  --gradient-start:      #00D7EE;
+  --gradient-end:        #6100FF;
+
+  --color-neutral-10:    #FFFFFF;
+  --color-neutral-20:    #F4F7F9;
+  --color-neutral-30:    #EDF0F3;
+  --color-neutral-40:    #C9D8E3;
+  --color-neutral-60:    #AAAFB6;
+  --color-neutral-70:    #838D95;
+  --color-neutral-80:    #5E6875;
+  --color-neutral-100:   #0E0F11;
+  --color-black:         #000000;
+
+  --font-display: "neue-haas-grotesk-display", sans-serif;
+  --font-text:    "neue-haas-grotesk-text", sans-serif;
+}
+
+/* ── reset ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-text);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--color-neutral-100);
+  background: var(--color-neutral-10);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; height: auto; display: block; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 48px;
+}
+@media (max-width: 767px) { .container { padding: 0 24px; } }
+
+/* ── HERO ── */
+.hero {
+  position: relative;
+  padding: 120px 0 100px;
+  background: linear-gradient(221deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+  color: #fff;
+  overflow: hidden;
+}
+.hero::before {
+  /* subtle noise/grain */
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(circle at 80% 20%, rgba(255,255,255,.10), transparent 50%),
+    radial-gradient(circle at 10% 90%, rgba(0,0,0,.12), transparent 50%);
+  pointer-events: none;
+}
+.hero-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 48px;
+  align-items: end;
+}
+.hero-eyebrow {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 1.71px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.75);
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.hero-eyebrow::before {
+  content: "";
+  display: inline-block;
+  width: 32px;
+  height: 1px;
+  background: rgba(255,255,255,.6);
+}
+.hero h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(48px, 8vw, 104px);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  color: #fff;
+  margin-bottom: 32px;
+}
+.hero h1 em {
+  font-style: italic;
+  font-weight: 500;
+  color: rgba(255,255,255,.75);
+}
+.hero-lede {
+  font-family: var(--font-text);
+  font-size: 19px;
+  line-height: 1.5;
+  color: rgba(255,255,255,.85);
+  max-width: 540px;
+}
+.hero-meta {
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.6);
+  text-align: right;
+  line-height: 1.8;
+}
+.hero-meta a { color: rgba(255,255,255,.85); border-bottom: 1px solid rgba(255,255,255,.3); transition: border-color .25s; }
+.hero-meta a:hover { border-bottom-color: #fff; }
+@media (max-width: 767px) {
+  .hero { padding: 80px 0 60px; }
+  .hero-grid { grid-template-columns: 1fr; gap: 32px; }
+  .hero-meta { text-align: left; }
+}
+
+/* ── SECTION SCAFFOLDING ── */
+section.section { padding: 100px 0; border-top: 1px solid var(--color-neutral-30); }
+section.section:first-of-type { border-top: none; }
+.section-header {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 48px;
+  margin-bottom: 64px;
+  align-items: baseline;
+}
+.section-num {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: 1.71px;
+  text-transform: uppercase;
+  color: var(--color-neutral-60);
+}
+.section-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--color-neutral-100);
+}
+.section-title + p {
+  margin-top: 16px;
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--color-neutral-70);
+  max-width: 580px;
+}
+@media (max-width: 767px) {
+  section.section { padding: 64px 0; }
+  .section-header { grid-template-columns: 1fr; gap: 12px; margin-bottom: 40px; }
+}
+
+/* ── LOGOS ── */
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+@media (max-width: 991px) { .logo-grid { grid-template-columns: 1fr; } }
+
+.logo-card {
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-color .25s;
+}
+.logo-card:hover { border-color: var(--color-neutral-40); }
+
+.logo-preview {
+  flex: 1;
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 48px;
+  position: relative;
+}
+.logo-preview.light { background: var(--color-neutral-20); }
+.logo-preview.dark  { background: var(--color-neutral-100); }
+.logo-preview.gradient {
+  background: linear-gradient(221deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+}
+.logo-preview img { max-height: 60px; width: auto; }
+.logo-preview.favicon img { max-height: 64px; width: 64px; image-rendering: -webkit-optimize-contrast; }
+
+.logo-meta {
+  padding: 20px 24px;
+  border-top: 1px solid var(--color-neutral-30);
+  background: var(--color-neutral-10);
+}
+.logo-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--color-neutral-100);
+  margin-bottom: 4px;
+}
+.logo-filename {
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", monospace;
+  font-size: 11px;
+  color: var(--color-neutral-70);
+  word-break: break-all;
+}
+.logo-actions {
+  display: flex;
+  gap: 8px;
+  padding: 12px 24px 20px;
+  background: var(--color-neutral-10);
+}
+.btn {
+  flex: 1;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 10px 14px;
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 3px;
+  color: var(--color-neutral-80);
+  background: transparent;
+  transition: all .2s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+.btn:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+.btn.primary {
+  background: var(--color-neutral-100);
+  border-color: var(--color-neutral-100);
+  color: #fff;
+}
+.btn.primary:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}
+.btn .arrow { font-size: 14px; line-height: 1; }
+
+/* ── COLOR PALETTE ── */
+.palette-group + .palette-group { margin-top: 56px; }
+.palette-group-label {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--color-neutral-60);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--color-neutral-30);
+}
+
+.swatch-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.swatch {
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform .25s cubic-bezier(.16,1,.3,1), box-shadow .25s;
+}
+.swatch:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+}
+.swatch-color {
+  height: 110px;
+  position: relative;
+}
+.swatch-color::after {
+  content: "Click to copy hex";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.95);
+  background: rgba(0,0,0,.35);
+  opacity: 0;
+  transition: opacity .25s;
+}
+.swatch:hover .swatch-color::after { opacity: 1; }
+.swatch-color.light::after { color: rgba(0,0,0,.85); background: rgba(255,255,255,.55); }
+.swatch-color.copied::after {
+  content: "✓ Copied";
+  opacity: 1;
+}
+.swatch-info {
+  padding: 14px 16px;
+  background: var(--color-neutral-10);
+  border-top: 1px solid var(--color-neutral-30);
+}
+.swatch-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--color-neutral-100);
+  margin-bottom: 2px;
+}
+.swatch-var {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 11px;
+  color: var(--color-neutral-70);
+  margin-bottom: 6px;
+  word-break: break-all;
+}
+.swatch-hex {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-neutral-100);
+  letter-spacing: 0.02em;
+}
+
+/* gradient swatch is full-width and special */
+.gradient-card {
+  margin-top: 32px;
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.gradient-preview {
+  height: 180px;
+  background: linear-gradient(221deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+  display: flex;
+  align-items: flex-end;
+  padding: 32px;
+}
+.gradient-preview .label {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.85);
+}
+.gradient-meta {
+  padding: 20px 24px;
+  background: var(--color-neutral-10);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 16px;
+  align-items: center;
+}
+.gradient-css {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 12px;
+  color: var(--color-neutral-80);
+  line-height: 1.6;
+  word-break: break-all;
+}
+
+/* ── TYPOGRAPHY ── */
+.type-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+}
+@media (max-width: 991px) { .type-grid { grid-template-columns: 1fr; } }
+
+.type-card {
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 4px;
+  padding: 40px;
+  background: var(--color-neutral-10);
+  transition: border-color .25s;
+}
+.type-card:hover { border-color: var(--color-neutral-40); }
+
+.type-label {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--color-neutral-60);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.type-tag {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-weight: 400;
+  font-size: 10px;
+  color: var(--color-neutral-70);
+  background: var(--color-neutral-20);
+  padding: 3px 8px;
+  border-radius: 2px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.type-sample-display {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  color: var(--color-neutral-100);
+  margin-bottom: 24px;
+}
+.type-sample-text {
+  font-family: var(--font-text);
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.55;
+  color: var(--color-neutral-100);
+  margin-bottom: 24px;
+}
+.type-weights {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 24px;
+  border-top: 1px solid var(--color-neutral-30);
+  margin-bottom: 24px;
+}
+.type-weight-row {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 16px;
+  align-items: baseline;
+}
+.type-weight-num {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 11px;
+  color: var(--color-neutral-60);
+}
+.type-weight-sample {
+  font-size: 18px;
+  color: var(--color-neutral-100);
+  line-height: 1.3;
+}
+.type-css {
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 11px;
+  color: var(--color-neutral-70);
+  background: var(--color-neutral-20);
+  padding: 12px 16px;
+  border-radius: 3px;
+  word-break: break-all;
+  position: relative;
+  cursor: pointer;
+  transition: background .2s;
+}
+.type-css:hover { background: var(--color-neutral-30); }
+.type-css::before {
+  content: "click to copy";
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  font-size: 9px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--color-neutral-70);
+  background: var(--color-neutral-10);
+  padding: 3px 8px;
+  border-radius: 2px;
+  opacity: 0;
+  transition: opacity .2s;
+}
+.type-css:hover::before { opacity: 1; }
+.type-css.copied::before { content: "✓ copied"; opacity: 1; color: var(--color-accent); }
+
+/* Source attribution */
+.type-source {
+  margin-top: 16px;
+  font-family: var(--font-text);
+  font-size: 12px;
+  color: var(--color-neutral-70);
+}
+.type-source a { color: var(--color-accent); border-bottom: 1px solid currentColor; }
+
+/* ── COPY-LINK ROW (for logos) ── */
+.copy-url {
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  font-family: ui-monospace, "SF Mono", monospace;
+  font-size: 10px;
+  color: var(--color-neutral-70);
+  background: var(--color-neutral-20);
+  padding: 8px 12px;
+  border: 1px solid var(--color-neutral-30);
+  border-radius: 3px;
+  text-align: left;
+  word-break: break-all;
+  cursor: pointer;
+  transition: all .2s;
+}
+.copy-url:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+.copy-url.copied {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: rgba(97, 0, 255, .04);
+}
+
+/* ── FOOTER ── */
+.site-footer {
+  background: var(--color-neutral-100);
+  color: rgba(255,255,255,.6);
+  padding: 64px 0 32px;
+  margin-top: 0;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  gap: 48px;
+  padding-bottom: 48px;
+  border-bottom: 1px solid rgba(255,255,255,.08);
+}
+@media (max-width: 767px) { .footer-grid { grid-template-columns: 1fr; gap: 32px; } }
+.footer-grid h5 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.5);
+  margin-bottom: 16px;
+}
+.footer-grid p, .footer-grid a {
+  font-size: 14px;
+  line-height: 1.6;
+  color: rgba(255,255,255,.7);
+  display: block;
+  margin-bottom: 8px;
+  transition: color .25s;
+}
+.footer-grid a:hover { color: var(--color-accent-light); }
+.footer-bottom {
+  padding-top: 24px;
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,.35);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+/* ── TOAST (copy feedback) ── */
+.toast {
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: var(--color-neutral-100);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 13px;
+  padding: 12px 24px;
+  border-radius: 4px;
+  box-shadow: 0 8px 32px rgba(0,0,0,.18);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .25s, transform .25s cubic-bezier(.16,1,.3,1);
+  z-index: 9999;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+.toast .check { color: var(--color-accent-light); margin-right: 6px; }
+</style>
+</head>
+<body>
+
+<!-- ─────────── HERO ─────────── -->
+<header class="hero">
+  <div class="container">
+    <div class="hero-grid">
+      <div>
+        <div class="hero-eyebrow">cdn.ahlab.org · brand kit</div>
+        <h1>Augmented<br>Human Lab<br><em>brand assets.</em></h1>
+        <p class="hero-lede">
+          Logos, colors, and typography for the Augmented Human Lab. Use these
+          assets when writing about our work, designing posters, or building on
+          top of the lab's identity.
+        </p>
+      </div>
+      <div class="hero-meta">
+        Maintained by AHLab<br>
+        <a href="https://ahlab.org/">ahlab.org →</a><br>
+        Last updated 2026
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ─────────── 01. LOGOS ─────────── -->
+<section class="section" id="logos">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-num">01 / Logos</div>
+      <div>
+        <div class="section-title">Logo &amp; mark</div>
+        <p>
+          The wordmark is the primary identity. Use the dark version on light
+          backgrounds and the light version on dark or photographic backgrounds.
+          Maintain at least 16 px clearspace on all sides.
+        </p>
+      </div>
+    </div>
+
+    <div class="logo-grid">
+
+      <!-- Logo: dark wordmark -->
+      <div class="logo-card">
+        <div class="logo-preview light">
+          <img src="https://ahlab.org/wp-content/uploads/2021/03/Group@2x.png" alt="AHLab dark wordmark">
+        </div>
+        <div class="logo-meta">
+          <div class="logo-name">Wordmark — Dark</div>
+          <div class="logo-filename">cdn.ahlab.org/media/site/Group@2x.png</div>
+        </div>
+        <div class="logo-actions">
+          <a class="btn primary" href="https://ahlab.org/wp-content/uploads/2021/03/Group@2x.png" download>Download <span class="arrow">↓</span></a>
+          <button class="btn copy-link-btn" data-url="https://cdn.ahlab.org/media/site/Group@2x.png">Copy URL</button>
+        </div>
+      </div>
+
+      <!-- Logo: light wordmark -->
+      <div class="logo-card">
+        <div class="logo-preview dark">
+          <img src="https://ahlab.org/wp-content/uploads/2021/03/Group-4@2x.png" alt="AHLab light wordmark">
+        </div>
+        <div class="logo-meta">
+          <div class="logo-name">Wordmark — Light</div>
+          <div class="logo-filename">cdn.ahlab.org/media/site/Group-4@2x.png</div>
+        </div>
+        <div class="logo-actions">
+          <a class="btn primary" href="https://ahlab.org/wp-content/uploads/2021/03/Group-4@2x.png" download>Download <span class="arrow">↓</span></a>
+          <button class="btn copy-link-btn" data-url="https://cdn.ahlab.org/media/site/Group-4@2x.png">Copy URL</button>
+        </div>
+      </div>
+
+      <!-- Favicon -->
+      <div class="logo-card">
+        <div class="logo-preview gradient favicon">
+          <img src="https://ahlab.org/wp-content/uploads/2021/05/cropped-Group@2x-32x32.png" alt="AHLab favicon">
+        </div>
+        <div class="logo-meta">
+          <div class="logo-name">Favicon</div>
+          <div class="logo-filename">cdn.ahlab.org/media/site/favicon-32x32.png</div>
+        </div>
+        <div class="logo-actions">
+          <a class="btn primary" href="https://ahlab.org/wp-content/uploads/2021/05/cropped-Group@2x-32x32.png" download>Download <span class="arrow">↓</span></a>
+          <button class="btn copy-link-btn" data-url="https://cdn.ahlab.org/media/site/favicon-32x32.png">Copy URL</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─────────── 02. COLORS ─────────── -->
+<section class="section" id="colors">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-num">02 / Colors</div>
+      <div>
+        <div class="section-title">Color palette</div>
+        <p>
+          A single confident purple, a signature cyan-to-purple gradient, and a
+          neutral grayscale ramp. Click any swatch to copy its hex value.
+        </p>
+      </div>
+    </div>
+
+    <!-- Accent colors -->
+    <div class="palette-group">
+      <div class="palette-group-label">Accent</div>
+      <div class="swatch-grid">
+        <div class="swatch" data-hex="#6100FF">
+          <div class="swatch-color" style="background:#6100FF"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Accent</div>
+            <div class="swatch-var">--color-accent</div>
+            <div class="swatch-hex">#6100FF</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#4400B3">
+          <div class="swatch-color" style="background:#4400B3"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Accent Dark</div>
+            <div class="swatch-var">--color-accent-dark</div>
+            <div class="swatch-hex">#4400B3</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#904DFF">
+          <div class="swatch-color" style="background:#904DFF"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Accent Light</div>
+            <div class="swatch-var">--color-accent-light</div>
+            <div class="swatch-hex">#904DFF</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#00D7EE">
+          <div class="swatch-color" style="background:#00D7EE"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Gradient Start</div>
+            <div class="swatch-var">--gradient-start</div>
+            <div class="swatch-hex">#00D7EE</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Featured gradient -->
+      <div class="gradient-card">
+        <div class="gradient-preview">
+          <div class="label">Signature gradient</div>
+        </div>
+        <div class="gradient-meta">
+          <div class="gradient-css">linear-gradient(221deg, #00D7EE 0%, #6100FF 100%)</div>
+          <button class="btn copy-css-btn" data-css="linear-gradient(221deg, #00D7EE 0%, #6100FF 100%)">Copy CSS</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Neutrals -->
+    <div class="palette-group">
+      <div class="palette-group-label">Neutrals</div>
+      <div class="swatch-grid">
+        <div class="swatch" data-hex="#FFFFFF">
+          <div class="swatch-color light" style="background:#FFFFFF;border:1px solid #EDF0F3"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 10</div>
+            <div class="swatch-var">--color-neutral-10</div>
+            <div class="swatch-hex">#FFFFFF</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#F4F7F9">
+          <div class="swatch-color light" style="background:#F4F7F9"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 20</div>
+            <div class="swatch-var">--color-neutral-20</div>
+            <div class="swatch-hex">#F4F7F9</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#EDF0F3">
+          <div class="swatch-color light" style="background:#EDF0F3"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 30</div>
+            <div class="swatch-var">--color-neutral-30</div>
+            <div class="swatch-hex">#EDF0F3</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#C9D8E3">
+          <div class="swatch-color light" style="background:#C9D8E3"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 40</div>
+            <div class="swatch-var">--color-neutral-40</div>
+            <div class="swatch-hex">#C9D8E3</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#AAAFB6">
+          <div class="swatch-color" style="background:#AAAFB6"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 60</div>
+            <div class="swatch-var">--color-neutral-60</div>
+            <div class="swatch-hex">#AAAFB6</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#838D95">
+          <div class="swatch-color" style="background:#838D95"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 70</div>
+            <div class="swatch-var">--color-neutral-70</div>
+            <div class="swatch-hex">#838D95</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#5E6875">
+          <div class="swatch-color" style="background:#5E6875"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 80</div>
+            <div class="swatch-var">--color-neutral-80</div>
+            <div class="swatch-hex">#5E6875</div>
+          </div>
+        </div>
+        <div class="swatch" data-hex="#0E0F11">
+          <div class="swatch-color" style="background:#0E0F11"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Neutral 100</div>
+            <div class="swatch-var">--color-neutral-100</div>
+            <div class="swatch-hex">#0E0F11</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─────────── 03. TYPOGRAPHY ─────────── -->
+<section class="section" id="typography">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-num">03 / Typography</div>
+      <div>
+        <div class="section-title">Typography</div>
+        <p>
+          Two cuts of Neue Haas Grotesk — Display for headlines and structural
+          labels, Text for body copy. Served via Adobe Fonts (Typekit).
+        </p>
+      </div>
+    </div>
+
+    <div class="type-grid">
+
+      <!-- Display -->
+      <div class="type-card">
+        <div class="type-label">
+          Display
+          <span class="type-tag">--font-display</span>
+        </div>
+        <div class="type-sample-display">Aa Bb Cc</div>
+        <div class="type-weights">
+          <div class="type-weight-row">
+            <div class="type-weight-num">700 / Bold</div>
+            <div class="type-weight-sample" style="font-family:var(--font-display);font-weight:700">Augmented Human Lab</div>
+          </div>
+          <div class="type-weight-row">
+            <div class="type-weight-num">800 / Black</div>
+            <div class="type-weight-sample" style="font-family:var(--font-display);font-weight:800;text-transform:uppercase;letter-spacing:1.5px;font-size:14px">Section Label</div>
+          </div>
+        </div>
+        <div class="type-css copy-css-target" data-css='font-family: "neue-haas-grotesk-display", sans-serif;'>font-family: "neue-haas-grotesk-display", sans-serif;</div>
+      </div>
+
+      <!-- Text -->
+      <div class="type-card">
+        <div class="type-label">
+          Text
+          <span class="type-tag">--font-text</span>
+        </div>
+        <div class="type-sample-text">
+          The Augmented Human Lab investigates how technology can extend our
+          perceptual and cognitive capabilities. We design devices, interfaces,
+          and systems that augment everyday human experience.
+        </div>
+        <div class="type-weights">
+          <div class="type-weight-row">
+            <div class="type-weight-num">400 / Regular</div>
+            <div class="type-weight-sample" style="font-weight:400">The quick brown fox jumps</div>
+          </div>
+          <div class="type-weight-row">
+            <div class="type-weight-num">500 / Medium</div>
+            <div class="type-weight-sample" style="font-weight:500">The quick brown fox jumps</div>
+          </div>
+          <div class="type-weight-row">
+            <div class="type-weight-num">600 / Semibold</div>
+            <div class="type-weight-sample" style="font-weight:600">The quick brown fox jumps</div>
+          </div>
+        </div>
+        <div class="type-css copy-css-target" data-css='font-family: "neue-haas-grotesk-text", sans-serif;'>font-family: "neue-haas-grotesk-text", sans-serif;</div>
+      </div>
+
+    </div>
+
+    <p class="type-source">
+      Both fonts are part of Adobe Fonts kit
+      <strong>zws2qzx</strong> · embed via
+      <code style="font-family:ui-monospace,monospace;font-size:12px;background:var(--color-neutral-20);padding:2px 6px;border-radius:2px">
+        &lt;link rel="stylesheet" href="https://use.typekit.net/zws2qzx.css"&gt;
+      </code>
+    </p>
+
+  </div>
+</section>
+
+<!-- ─────────── FOOTER ─────────── -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h5>Augmented Human Lab</h5>
+        <p>Smart Systems Institute<br>National University of Singapore</p>
+        <a href="mailto:info@ahlab.org">info@ahlab.org</a>
+      </div>
+      <div>
+        <h5>Brand Kit</h5>
+        <a href="#logos">Logos</a>
+        <a href="#colors">Colors</a>
+        <a href="#typography">Typography</a>
+      </div>
+      <div>
+        <h5>Elsewhere</h5>
+        <a href="https://ahlab.org/">ahlab.org</a>
+        <a href="https://wiki.ahlab.org/">wiki.ahlab.org</a>
+        <a href="https://cdn.ahlab.org/">cdn.ahlab.org</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2026 Augmented Human Lab</div>
+      <div>cdn.ahlab.org</div>
+    </div>
+  </div>
+</footer>
+
+<!-- Toast notification -->
+<div class="toast" id="toast"><span class="check">✓</span><span id="toast-msg">Copied</span></div>
+
+<script>
+// ── Clipboard helper with toast feedback ──────────────────
+const toast = document.getElementById('toast');
+const toastMsg = document.getElementById('toast-msg');
+let toastTimer = null;
+
+function showToast(msg) {
+  toastMsg.textContent = msg;
+  toast.classList.add('show');
+  if (toastTimer) clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove('show'), 1800);
+}
+
+async function copy(text) {
+  try {
+    await navigator.clipboard.writeText(text);
+    return true;
+  } catch (e) {
+    // Fallback for older browsers / non-secure contexts
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); document.body.removeChild(ta); return true; }
+    catch { document.body.removeChild(ta); return false; }
+  }
+}
+
+// ── Color swatches: click to copy hex ─────────────────────
+document.querySelectorAll('.swatch').forEach(el => {
+  el.addEventListener('click', async () => {
+    const hex = el.dataset.hex;
+    const ok = await copy(hex);
+    if (!ok) return;
+    const colorDiv = el.querySelector('.swatch-color');
+    colorDiv.classList.add('copied');
+    setTimeout(() => colorDiv.classList.remove('copied'), 1200);
+    showToast('Copied ' + hex);
+  });
+});
+
+// ── Logo URL copy buttons ─────────────────────────────────
+document.querySelectorAll('.copy-link-btn').forEach(btn => {
+  btn.addEventListener('click', async () => {
+    const url = btn.dataset.url;
+    const ok = await copy(url);
+    if (!ok) return;
+    const original = btn.textContent;
+    btn.textContent = '✓ Copied';
+    setTimeout(() => { btn.textContent = original; }, 1400);
+    showToast('Copied URL');
+  });
+});
+
+// ── CSS copy: gradient + font-family ──────────────────────
+document.querySelectorAll('.copy-css-btn').forEach(btn => {
+  btn.addEventListener('click', async () => {
+    const css = btn.dataset.css;
+    const ok = await copy(css);
+    if (!ok) return;
+    const original = btn.textContent;
+    btn.textContent = '✓ Copied';
+    setTimeout(() => { btn.textContent = original; }, 1400);
+    showToast('Copied CSS');
+  });
+});
+
+document.querySelectorAll('.copy-css-target').forEach(el => {
+  el.addEventListener('click', async () => {
+    const css = el.dataset.css;
+    const ok = await copy(css);
+    if (!ok) return;
+    el.classList.add('copied');
+    setTimeout(() => el.classList.remove('copied'), 1400);
+    showToast('Copied CSS');
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "id": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+  "slug": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+  "title": "FingerReader: A Wearable Device to Support Text-Reading on the Go",
+  "year": "2014",
+  "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. FingerReader: a wearable device to support text reading on the go. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 2359-2364).",
+  "award": null,
+  "links": [
+    {
+      "label": "DOI",
+      "url": "http://doi.acm.org/10.1145/2559206.2581220"
+    },
+    {
+      "label": "PDF",
+      "url": "http://fluid.media.mit.edu/sites/default/files/paper317.pdf"
+    }
+  ],
+  "venue": "CHI"
+}

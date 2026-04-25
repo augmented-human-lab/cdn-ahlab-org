@@ -1,0 +1,518 @@
+{
+  "id": "samitha-elvitigala",
+  "slug": "samitha-elvitigala",
+  "name": "Samitha Elvitigala",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/samitha-elvitigala/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/samitha-elvitigala/samitha-elvitigala.jpg",
+  "bio": "Samitha Elvitigala completed his PhD from Augmented Human Lab in Auckland Bioengineering Institute of the University of Auckland. During his PhD, he investigated novel wearable interfaces that can implicitly understand the physical and mental behaviors of humans. His research interests include Human-Computer Interaction, Ubiquitous Computing, and Assistive Augmentation.\n\nApart from his research Samitha likes traveling, Hiking and Cycling.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "ticklefoot",
+      "title": "TickleFoot",
+      "url": "/projects/ticklefoot/"
+    },
+    {
+      "slug": "stressshoe",
+      "title": "StressShoe",
+      "url": "/projects/stressshoe/"
+    },
+    {
+      "slug": "stressfoot",
+      "title": "StressFoot",
+      "url": "/projects/stressfoot/"
+    },
+    {
+      "slug": "rainbowhub",
+      "title": "RainbowHub",
+      "url": "/projects/rainbowhub/"
+    },
+    {
+      "slug": "phantomtouch",
+      "title": "PhantomTouch",
+      "url": "/projects/phantomtouch/"
+    },
+    {
+      "slug": "jammify",
+      "title": "Jammify",
+      "url": "/projects/jammify/"
+    },
+    {
+      "slug": "gymsoles",
+      "title": "GymSoles",
+      "url": "/projects/gymsoles/"
+    },
+    {
+      "slug": "cricketcoach",
+      "title": "CricketCoach",
+      "url": "/projects/cricketcoach/"
+    },
+    {
+      "slug": "capmat",
+      "title": "CapMat",
+      "url": "/projects/capmat/"
+    },
+    {
+      "slug": "2bit-tactile-hand",
+      "title": "2bit-Tactile Hand",
+      "url": "/projects/2bit-tactile-hand/"
+    },
+    {
+      "slug": "kyanite",
+      "title": "Kyanite",
+      "url": "/projects/kyanite/"
+    },
+    {
+      "slug": "doodle-daydream",
+      "title": "Doodle Daydream",
+      "url": "/projects/doodle-daydream/"
+    },
+    {
+      "slug": "wavesense",
+      "title": "WaveSense",
+      "url": "/projects/wavesense/"
+    },
+    {
+      "slug": "swimsight",
+      "title": "SwimSight",
+      "url": "/projects/swimsight/"
+    },
+    {
+      "slug": "stickamps",
+      "title": "StickAmps",
+      "url": "/projects/stickamps/"
+    },
+    {
+      "slug": "armsleeve",
+      "title": "ArmSleeve",
+      "url": "/projects/armsleeve/"
+    },
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water",
+      "citation": "Montoya, M.F., Qiao, H., Sasikumar, P., Elvitigala, D.S., Pell, S.J., Nanayakkara, S.C, Mueller, F. ‘Floyd’, 2024. Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613904.3642285"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1kFNShCVypGn7mNFvkka4nwg2KH-qgEDN/view?usp=drive_link"
+        }
+      ],
+      "slug": "exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water",
+      "url": "/publications/#exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water"
+    },
+    {
+      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
+      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3546738"
+        }
+      ],
+      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
+      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
+    },
+    {
+      "title": "TickleFoot: Design, Development and Evaluation of a Novel Foot-tickling Mechanism that Can Evoke Laughter",
+      "citation": "Elvitigala D.S., Boldu R., Nanayakkara S.C., and Matthies D.J.C. 2022. TickleFoot: Design, Development and Evaluation of a Novel Foot-Tickling Mechanism That Can Evoke Laughter. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 20 (June 2022), 23 pages.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3490496"
+        }
+      ],
+      "slug": "ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter",
+      "url": "/publications/#ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter"
+    },
+    {
+      "title": "StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks",
+      "citation": "Elvitigala, D.S., Scholl, P.M., Suriyaarachchi, H., Dissanayake, V. and Nanayakkara, S.C., 2021. StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks. In MobileHCI ’21: The ACM International Conference on Mobile Human-Computer Interaction, September 27–30, 2021, Touluse, France. Honorable Mention Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/1122445.1122456"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/10PlvD_vcwx00qjnCFUK3trsWURCCkBqb/view?usp=sharing"
+        }
+      ],
+      "slug": "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks",
+      "url": "/publications/#stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks"
+    },
+    {
+      "title": "mobiLLD: Exploring the Detection of Leg Length Discrepancy and Altering Gait with Mobile Smart Insoles",
+      "citation": "Matthies, D.J.C., Elvitigala, D.S., Fu, A., Yin, D. and Nanayakkara, S.C., 2021. mobiLLD: Exploring the Detection of Leg Length Discrepancy and Altering Gait with Mobile Smart Insoles. In The 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA 2021), June 29-July 2, 2021, Corfu, Greece.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3453892.3453896"
+        },
+        {
+          "label": "pdf",
+          "url": "http://www.denysmatthies.com/downloads/Matthies_mobiLLD_PETRA2021.pdf"
+        }
+      ],
+      "slug": "mobilld-exploring-the-detection-of-leg-length-discrepancy-and-altering-gait-with-mobile-smart-insoles",
+      "url": "/publications/#mobilld-exploring-the-detection-of-leg-length-discrepancy-and-altering-gait-with-mobile-smart-insoles"
+    },
+    {
+      "title": "Jammify: Interactive Multi-Sensory System for Digital Art Jamming",
+      "citation": "Muthukumarana S., Elvitigala D.S., Wu Q., Pai Y.S., Nanayakkara S.C. 2021. Jammify: Interactive Multi-sensory System for Digital Art Jamming. In Human-Computer-Interaction – INTERACT 2021, Springer International Publishing, Cham, 23–41",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1007/978-3-030-85607-6_2"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1IYyGOWazrK5HxzO-s2Bx687PW2n6E-JH/view?usp=sharing"
+        }
+      ],
+      "slug": "jammify-interactive-multi-sensory-system-for-digital-art-jamming",
+      "url": "/publications/#jammify-interactive-multi-sensory-system-for-digital-art-jamming"
+    },
+    {
+      "title": "GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats",
+      "citation": "Elvitigala, D.S., Matthies, D.J.C, Weerasinghe, C. and Nanayakkara, S.C., 2021. GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats. In The 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA 2021), June 29-July 2, 2021, Corfu, Greece. Best Student Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3453892.3453898"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1EPAO5dtUngEmLXIoWB_ydB6bzsfDvIMR/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats",
+      "url": "/publications/#gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats"
+    },
+    {
+      "title": "Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces",
+      "citation": "Elvitigala, D.S., Nanayakkara, S.C., and Huber, J., 2021. Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces. In Augmented Humans International Conference 2021 (AHs ’21), February 22–24, 2021, Rovaniemi, Finland.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3458709.3458958"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1KP1pV-9GWdhdWfqGX3RqeiBIyG2M6hBD/view?usp=sharing"
+        }
+      ],
+      "slug": "augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces",
+      "url": "/publications/#augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces"
+    },
+    {
+      "title": "Touch me Gently: Recreating the Perception of Touch using a Shape-Memory Alloy Matrix",
+      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2020, April. Touch me gently: recreating the perception of touch using a shape-memory alloy matrix. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/3313831.3376491"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1QUbXiFQhbaoTaWZdWwOF_P1BAeVCbpJs/view?usp=sharing"
+        }
+      ],
+      "slug": "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
+      "url": "/publications/#touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix"
+    },
+    {
+      "title": "StressFoot: Uncovering the Potential of the Foot for Acute Stress Sensing in Sitting Posture",
+      "citation": "Elvitigala, D.S., Matthies, D.J.C., and Nanayakkara, S.C., 2020. StressFoot: Uncovering the Potential of the Foot for Acute Stress Sensing in Sitting Posture. Sensors, 20(10), p.2882.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.3390/s20102882"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uNy7VxU7r78HUmD-ioSQmAou_vjKV_d2/view?usp=sharing"
+        }
+      ],
+      "slug": "stressfoot-uncovering-the-potential-of-the-foot-for-acute-stress-sensing-in-sitting-posture",
+      "url": "/publications/#stressfoot-uncovering-the-potential-of-the-foot-for-acute-stress-sensing-in-sitting-posture"
+    },
+    {
+      "title": "GymSoles++: Using Smart Wearables to Improve Body Posture when Performing Squats and Dead-Lifts.",
+      "citation": "Elvitigala D. S., Matthies D. J. C., Weerasinghe C., Shi Y., and Nanayakkara S.C., 2020. GymSoles++: Using Smart Wearables to Improve Body Posture when Performing Squats and Dead-Lifts. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3385331"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12-8uucgREP_yWssj9ufwEj6o7FshtQ_d/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-using-smart-wearables-to-improve-body-posture-when-performing-squats-and-dead-lifts",
+      "url": "/publications/#gymsoles-using-smart-wearables-to-improve-body-posture-when-performing-squats-and-dead-lifts"
+    },
+    {
+      "title": "PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix",
+      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2019, November. PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix. In SIGGRAPH Asia 2019 XR (pp. 29-30). ACM.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3355355.3361877"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/16BtIPNFhPXG83RBdOGvcfTQoRYnFG-7R/view?usp=sharing"
+        }
+      ],
+      "slug": "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
+      "url": "/publications/#phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix"
+    },
+    {
+      "title": "GymSoles: Improving Squats and Dead-Lifts by Visualizing the User’s Centre of Pressure",
+      "citation": "Elvitigala, D.S., Matthies, D.J., David, L., Weerasinghe, C. and Nanayakkara, S.C., 2019, May. GymSoles: Improving Squats and Dead-Lifts by Visualizing the User's Center of Pressure. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300404"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TxCTJcmr2k7xQLOp69HbGCyi6WaTZoIa/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure",
+      "url": "/publications/#gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure"
+    },
+    {
+      "title": "CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers",
+      "citation": "Muthukumarana, S., Matthies, D.J., Weerasinghe, C., Elvitigala, D.S. and Nanayakkara, S.C., 2019, March. CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311833"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1MizLM_-FhsL3H1D2T07_8nX8L9LGlDqe/view?usp=sharing"
+        }
+      ],
+      "slug": "cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers",
+      "url": "/publications/#cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers"
+    },
+    {
+      "title": "CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables",
+      "citation": "Dissanayake, V., Elvitigala, D.S., Zhang, H., Weerasinghe, C. and Nanayakkara, S.C., 2019, November. CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables. In 25th ACM Symposium on Virtual Reality Software and Technology (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3359996.3364239"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1OC0qHFuRFRBxF1gUHwpiOUKGXz3OfP68/view?usp=sharing"
+        }
+      ],
+      "slug": "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
+      "url": "/publications/#comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables"
+    },
+    {
+      "title": "CapMat: A Smart Foot Mat for User Authentication",
+      "citation": "Matthies, D.J., Elvitigala, D.S., Muthukumarana, S., Huber, J. and Nanayakkara, S.C., 2019, March. CapMat: a smart foot mat for user authentication. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311874"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1mHYxzlv5xAb_RaQvLQrWkwnJt0_yUctz/view?usp=sharing"
+        }
+      ],
+      "slug": "capmat-a-smart-foot-mat-for-user-authentication",
+      "url": "/publications/#capmat-a-smart-foot-mat-for-user-authentication"
+    },
+    {
+      "title": "2bit-TactileHand: Evaluating Tactons for Nobody Vibrotactile Displays on the Hand and Wrist.",
+      "citation": "Elvitigala, D.S., Matthies, D.J., Dissanayaka, V., Weerasinghe, C. and Nanayakkara, S.C., 2019, March. 2bit-TactileHand: Evaluating Tactons for On-Body Vibrotactile Displays on the Hand and Wrist. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311832"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Qvl1pDiOsk53wmYLPkYrtj1pVqgTBLpR/view?usp=sharing"
+        }
+      ],
+      "slug": "2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist",
+      "url": "/publications/#2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist"
+    },
+    {
+      "title": "Uncovering the Potential of the Foot as a Source of User Information",
+      "citation": "Elvitigala, D.S., 2018, October. Uncovering the Potential of the Foot as a Source of User Information. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (pp. 541-546). Doctoral Colloquium Best Presentation Runners Up Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267305.3267313"
+        }
+      ],
+      "slug": "uncovering-the-potential-of-the-foot-as-a-source-of-user-information",
+      "url": "/publications/#uncovering-the-potential-of-the-foot-as-a-source-of-user-information"
+    },
+    {
+      "title": "Supporting Rhythm Activities of Deaf Children using Music-Sensory-Substitution Systems.",
+      "citation": "Petry, B., Illandara, T., Elvitigala, D.S. and Nanayakkara, S.C., 2018, April. Supporting rhythm activities of deaf children using music-sensory-substitution systems. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-10).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3173574.3174060"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/114srp0L-VRv_cMyNHAm6rVli-x-Z3FS2/view?usp=sharing"
+        }
+      ],
+      "slug": "supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems",
+      "url": "/publications/#supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems"
+    },
+    {
+      "title": "Exploring the Potential of the Foot to Infer on User Information",
+      "citation": "Elvitigala, D.S., 2018, October. Exploring the Potential of the Foot to Infer on User Information. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (pp. 1805-1808). Best Presentation Runners-Up!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267305.3278604"
+        }
+      ],
+      "slug": "exploring-the-potential-of-the-foot-to-infer-on-user-information",
+      "url": "/publications/#exploring-the-potential-of-the-foot-to-infer-on-user-information"
+    },
+    {
+      "title": "Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers",
+      "citation": "Elvitigala, S., Chan, S. W. T., Howell, N., Matthies, D. J. and Nanayakkara, S. C., 2018, October. Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers. In Proceedings of the Symposium on Spatial User Interaction (pp. 186-186).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3274681"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1f1HKVvNJUjm2ZmrDFBJb09M2RK6g_swO/view?usp=sharing"
+        }
+      ],
+      "slug": "doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers",
+      "url": "/publications/#doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers"
+    },
+    {
+      "title": "GrabAmps: Grab a Wire to Sense the Current Flow",
+      "citation": "Elvitigala, D.S., Peiris, R., Wilhelm, E., Foong, S. and Nanayakkara, S.C., 2017, March. GrabAmps: grab a wire to sense the current flow. In Proceedings of the 8th Augmented Human International Conference (pp. 1-4).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041199"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/GrabAmps-AH2017CameraCopy-version2.pdf"
+        }
+      ],
+      "slug": "grabamps-grab-a-wire-to-sense-the-current-flow",
+      "url": "/publications/#grabamps-grab-a-wire-to-sense-the-current-flow"
+    },
+    {
+      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
+      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
+      "links": [
+        {
+          "label": "url",
+          "url": "http://dl.acm.org/citation.cfm?id=2985734"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
+        }
+      ],
+      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
+      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
+    },
+    {
+      "title": "SwimSight: Supporting Deaf Users to Participate in Swimming Games",
+      "citation": "Elvitigala, D.S., Wessolek, D., Achenbach, A.V., Singhabahu, C. and Nanayakkara, S.C., 2016, November. SwimSight: Supporting deaf users to participate in swimming games. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 567-570).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3010915.3010969"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/paper1591.pdf"
+        }
+      ],
+      "slug": "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
+      "url": "/publications/#swimsight-supporting-deaf-users-to-participate-in-swimming-games"
+    },
+    {
+      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
+      "links": [
+        {
+          "label": "webpage",
+          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
+        }
+      ],
+      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "ticklefoot",
+  "google_scholar": ""
+}

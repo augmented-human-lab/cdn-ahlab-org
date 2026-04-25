@@ -1,0 +1,48 @@
+{
+  "id": "ryo-hajika",
+  "slug": "ryo-hajika",
+  "name": "Ryo Hajika",
+  "email": "ryo@ahlab.org",
+  "role": "Research Engineer",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "2026-03",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/ryo-hajika/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/ryo-hajika/ryo-hajika.jpg",
+  "bio": "Ryo is an HCI (Human-Computer Interaction) designer, a software and electronics prototype engineer, and a videographer. He is interested in interaction technologies and new media art. He was previously a research lab technical manager at the School of Built Environment, Massey University (NZ) and a research assistant at the Empathic Computing Laboratory, the University of Auckland (NZ).",
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "self@ryo.space"
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

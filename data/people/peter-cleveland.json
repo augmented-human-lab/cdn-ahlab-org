@@ -1,0 +1,60 @@
+{
+  "id": "peter-cleveland",
+  "slug": "peter-cleveland",
+  "name": "Peter Cleveland",
+  "email": "peter@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2025-09",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/peter-cleveland/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/peter-cleveland/peter-cleveland.jpg",
+  "bio": "Peter is a creative technologist and interdisciplinary researcher with a background in the international film industry. He holds a PhD from Huri Te Ao / the School of Future Environments at Auckland University of Technology, New Zealand. His work bridges the theoretical and practical, and the virtual and real, to explore the relationships between humans, technologies, and environments. His research investigates how emerging technologies and approaches can be used to reimagine and respond to pressing environmental and social challenges. His work spans fields such as human–drone interaction, embodiment, and phenomenology, critically engaging with themes of perception, agency, and the ethics of technological intervention.",
+  "external_links": [],
+  "projects": [],
+  "publications": [
+    {
+      "title": "Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation",
+      "citation": "Dissanayake, D., Mysan, M., Luo, Y., Antoni, T., Cleveland, P., Sasikumar, P., Nanayakkara, S. C., 2026. Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772363.3798497"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1BNkKoR87_0D8bzfsWDP0wxX5draRdKu2/view?usp=sharing"
+        }
+      ],
+      "slug": "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
+      "url": "/publications/#interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

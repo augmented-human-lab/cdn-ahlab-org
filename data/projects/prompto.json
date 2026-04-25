@@ -1,0 +1,75 @@
+{
+  "id": "prompto",
+  "slug": "prompto",
+  "title": "Prompto",
+  "year": "2020",
+  "description": "Prospective memory lapses, which involve forgetting to perform intended actions, affect independent living in older adults. Although memory training using smartphone applications could address them, users are sometimes unaware of available times for training or forget about it, presenting a need for proactive prompts. Existing applications mostly provide time-based prompts and prompts based on users’ cognitive contexts remain an under-explored area. We developed Prompto, a conversational memory coach that detects physiological signals to suggest training sessions when users are relaxed and potentially more receptive.\n\nPrompto is an expansion of the project Prospero where we investigated if we can encourage receptivity to prompts for memory training sessions based on the user’s cognitive load.\n\nOur study with 21 older adults showed that users were more receptive to prompts and memory training under low cognitive load than under high cognitive load. Interviews and an in-the-wild deployment of Prompto indicated that the majority of users appreciated the concept, found it helpful and were likely to respond to its prompts. We contribute towards developing technologies with cognitive context-aware prompting based on users’ physiological readings.\n\nThis work was published in Proceedings of ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) in December 2020 and presented in Ubicomp 2021.",
+  "project_url": "https://ahlab.org/project/prompto/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/prompto/prompto.jpg",
+  "people": [
+    {
+      "slug": "samantha-chan",
+      "name": "Samantha Chan",
+      "url": "/people/samantha-chan/"
+    },
+    {
+      "slug": "shardul-sapkota",
+      "name": "Shardul Sapkota",
+      "url": "/people/shardul-sapkota/"
+    },
+    {
+      "slug": "rebecca-mathews",
+      "name": "Rebecca Mathews",
+      "url": "/people/rebecca-mathews/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent",
+      "citation": "Chan, S. W. T., Sapkota, S., Mathews, R., Zhang, H. and Nanayakkara, S. C., 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-23.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yw-HUkFRsdeuHzvP14rxq5RMq03kENsy/view?usp=sharing"
+        }
+      ],
+      "slug": "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent",
+      "url": "/publications/#prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
+    },
+    {
+      "title": "Biosignal-Sensitive Memory Improvement and Support Systems",
+      "citation": "Chan, S. W. T. 2020. Biosignal-Sensitive Memory Improvement and Support Systems. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–7.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi-org.ezproxy.auckland.ac.nz/10.1145/3334480.3375031"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TGUGp3DP9wQEccPRk8bo-OHiqdWnUkwd/view?usp=sharing"
+        }
+      ],
+      "slug": "biosignal-sensitive-memory-improvement-and-support-systems",
+      "url": "/publications/#biosignal-sensitive-memory-improvement-and-support-systems"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive"
+  ]
+}

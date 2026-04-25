@@ -1,0 +1,45 @@
+{
+  "id": "augmented-forearm",
+  "slug": "augmented-forearm",
+  "title": "Augmented Forearm",
+  "year": "2013",
+  "description": "Recent technical advances allow traditional wristwatches to be equipped with high processing power. Not only do they allow for glancing at the time, but they also allow users to interact with digital information. Extending the screen to cover the entire forearm is promising. It allows the display to be worn similarly to a wristwatch while providing a large display surface. In this project, we explore the design space of a display-augmented forearm, focusing on two specific properties of the forearm: its hybrid nature as a private and a public display surface and the way clothing influences information display. We developed a wearable prototype along with interactions that instantiate the design space: sleeve-store, sleeve-zoom, public forearm display and interactive tattoo.",
+  "project_url": "https://ahlab.org/project/augmented-forearm/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/augmented-forearm/augmented-forearm.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "yeo-kian-peen",
+      "name": "Yeo Kian Peen",
+      "url": "/people/yeo-kian-peen/"
+    },
+    {
+      "slug": "jurgen-steimle",
+      "name": "Jürgen Steimle",
+      "url": "/people/jurgen-steimle/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm",
+      "citation": "Olberding S., Yeo K.P., Nanayakkara S.C. and Steimle J. “AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm”, ACM SIGCHI Augmented Human, March, 2013.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_olberding_2013.pdf"
+        }
+      ],
+      "slug": "augmentedforearm-exploring-the-design-space-of-a-display-enhanced-forearm",
+      "url": "/publications/#augmentedforearm-exploring-the-design-space-of-a-display-enhanced-forearm"
+    }
+  ],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "wavesense",
+  "slug": "wavesense",
+  "title": "WaveSense",
+  "year": "2016",
+  "description": "Introduction of virtual reality devices such as Oculus and Samsung GearVR requires interaction methods go beyond the traditional touch / button based interfaces. However, computer vision based gesture recognition systems require larger physical space and energy resources that are extremely limited in compact devices. Other sensing approaches such as non-focused IR or magnetic markers has limited sensing range and expressibility making them unsuitable for many, including virtual reality applications. Alternatively, recently developed time of flight based low power sensing techniques such as Mime require significant processing power. We developed waveSense as a gesture sensing technology for such resource restricted devices. A novel Selective Volumetric Illumination (SVI) approach using off the shelf infrared (IR) emitters and non-focused IR sensors were introduced to achieve the power efficiency. Our current implementation consumes 8:65mW while sensing hand gestures within 60cm radius from the sensors.",
+  "project_url": "https://ahlab.org/project/wavesense/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/wavesense/wavesense.jpg",
+  "people": [
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "juan-pablo-forero-cortes",
+      "name": "Juan Pablo Forero Cortés",
+      "url": "/people/juan-pablo-forero-cortes/"
+    },
+    {
+      "slug": "anusha-withana",
+      "name": "Anusha Withana",
+      "url": "/people/anusha-withana/"
+    },
+    {
+      "slug": "tharindu-kaluarachchi",
+      "name": "Tharindu Kaluarachchi",
+      "url": "/people/tharindu-kaluarachchi/"
+    },
+    {
+      "slug": "chanaka-singhabahu",
+      "name": "Chanaka Singhabahu",
+      "url": "/people/chanaka-singhabahu/"
+    },
+    {
+      "slug": "shi-yilei",
+      "name": "Shi Yilei",
+      "url": "/people/shi-yilei/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "WaveSense: Low Power Voxel-tracking Technique for Resource Limited Devices",
+      "citation": "Withana, A., Kaluarachchi, T., Singhabahu, C., Ransiri, S., Shi, Y. and Nanayakkara, S.C., 2020. waveSense: Low Power Voxel-tracking Technique for Resource Limited Devices. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3384790"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Ug6C2P7oOwuX8aUGQGA_UgnKDhhWpV2p/view?usp=sharing"
+        }
+      ],
+      "slug": "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
+      "url": "/publications/#wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices"
+    },
+    {
+      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
+      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
+      "links": [
+        {
+          "label": "url",
+          "url": "http://dl.acm.org/citation.cfm?id=2985734"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
+        }
+      ],
+      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
+      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
+    }
+  ],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

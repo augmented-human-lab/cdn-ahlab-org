@@ -1,0 +1,81 @@
+{
+  "id": "michelle-wu",
+  "slug": "michelle-wu",
+  "name": "Michelle Wu",
+  "role": "Master Student",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Master Student",
+      "start": "2021-05",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/michelle-wu/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/michelle-wu/michelle-wu.jpg",
+  "bio": "Michelle is currently studying towards a Bachelor of Design. She comes from an Arts background (Sociology and Employment Relations, University of Auckland.) She decided to pursue a second degree in design because she is passionate about combining sociological knowledge with design methods, with the goal of designing solutions to mitigate social issues.\n\nDuring her free time, Michelle enjoys cooking, reading, painting, hiking and playing netball.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
+      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3546738"
+        }
+      ],
+      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
+      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "kiwrious",
+  "google_scholar": ""
+}

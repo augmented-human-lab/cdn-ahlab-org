@@ -1,0 +1,149 @@
+{
+  "id": "paul-denny",
+  "slug": "paul-denny",
+  "name": "Paul Denny",
+  "role": "Associate Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/paul-denny/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/paul-denny/paul-denny.jpg",
+  "bio": "Dr. Paul Denny is an Associate Professor in Computer Science at the University of Auckland, New Zealand. His research interests include developing and evaluating tools for supporting collaborative learning, particularly involving student-generated resources, and exploring the ways that students engage with these environments. One of his projects, PeerWise, hosts more than six million practice questions, with associated solutions and explanations, created by students from 90 countries. He has fostered a community of educational researchers around this project, more than 160 of whom have published their work as a result. Dr Denny has been recognized for contributions to teaching both nationally and internationally, receiving New Zealand's National Tertiary Teaching Excellence Award (2009), the Computing Research and Education Association of Australasia Award for Outstanding Contributions to Teaching (2010), and the QS Reimagine Education Overall Award (2018).",
+  "external_links": [
+    {
+      "label": "https://www.cs.auckland.ac.nz/~paul/",
+      "url": "https://www.cs.auckland.ac.nz/~paul/"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "scratch-and-sense",
+      "title": "Scratch and Sense",
+      "url": "/projects/scratch-and-sense/"
+    },
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Investigating the Use of Productive Failure as a Design Paradigm for Learning Introductory Python Programming",
+      "citation": "Suriyaarachchi, H., Denny, P. and Nanayakkara, S.C., 2025. Investigating the Use of Productive Failure as a Design Paradigm for Learning Introductory Python Programming. In: Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSETS 2025). New York, NY, USA: Association for Computing Machinery, pp.1085–1091.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3641554.3701911"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1yPnKqSyvdFMd6o4P15F6kIDkAnjYUXdw/view?usp=sharing"
+        }
+      ],
+      "slug": "investigating-the-use-of-productive-failure-as-a-design-paradigm-for-learning-introductory-python-programming",
+      "url": "/publications/#investigating-the-use-of-productive-failure-as-a-design-paradigm-for-learning-introductory-python-programming"
+    },
+    {
+      "title": "Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups",
+      "citation": "Suriyaarachchi, H., Nassani, A., Denny, P. and Nanayakkara, S.C. 2023. Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups. In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2023). Association for Computing Machinery, New York, NY, USA, 187–193.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3587102.3588854"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Z1oDWS8r8P8ZdoY94MWnmYqAaOxGbE4_/view?usp=sharing"
+        }
+      ],
+      "slug": "using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups",
+      "url": "/publications/#using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups"
+    },
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Scratch and Sense: Using Real-Time Sensor Data to Motivate Students Learning Scratch",
+      "citation": "Suriyaarachchi, H., Denny, P. and Nanayakkara, S.C., 2022. Scratch and Sense: Using Real-Time Sensor Data to Motivate Students Learning Scratch. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2022), March 3–5, 2022, Providence, RI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3478431.3499316"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/190zsSnnTMiqlosHbzEDOWRCSzWuT2_kM/view?usp=sharing"
+        }
+      ],
+      "slug": "scratch-and-sense-using-real-time-sensor-data-to-motivate-students-learning-scratch",
+      "url": "/publications/#scratch-and-sense-using-real-time-sensor-data-to-motivate-students-learning-scratch"
+    },
+    {
+      "title": "Primary School Students Programming with Real-Time Environmental Sensor Data",
+      "citation": "Suriyaarachchi, H., Denny, P., Cortés, J.P.F., Weerasinghe, C. and Nanayakkara, S.C., 2022. Primary School Students Programming with Real-Time Environmental Sensor Data. In Australasian Computing Education Conference (ACE ’22), February 14–18, 2022, Virtual Event, Australia.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3511861.3511871"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12H6A0apCmvWOAB66L2-fCa3nGPjrT9n8/view?usp=sharing"
+        }
+      ],
+      "slug": "primary-school-students-programming-with-real-time-environmental-sensor-data",
+      "url": "/publications/#primary-school-students-programming-with-real-time-environmental-sensor-data"
+    },
+    {
+      "title": "Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry",
+      "citation": "Cao, J., Chan, S.W.T., Garbett, D.L., Denny, P., Nassani, A., Scholl, P.M. and Nanayakkara, S.C., 2021. Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry. In Interaction Design and Children (IDC ’21), June 24–30, 2021, Athens, Greece. ACM, New York, NY, USA, 7 pages. Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3459990.3460716"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1PePtQbU4Qquk1UpyIv9DXGpejZnoNlbf/view?usp=sharing"
+        }
+      ],
+      "slug": "sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry",
+      "url": "/publications/#sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "scratch-and-sense",
+  "google_scholar": ""
+}

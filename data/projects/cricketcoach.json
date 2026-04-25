@@ -1,0 +1,59 @@
+{
+  "id": "cricketcoach",
+  "slug": "cricketcoach",
+  "title": "CricketCoach",
+  "year": "2018",
+  "description": "CricketCoach is a smart system that creates awareness of the hand-grip force for cricket players. A custom Force-Sensitive Resistor (FSR) matrix was developed and attached to the bat’s handle to sense the gripping. Two wristbands, incorporating vibration motors, provide feedback that helps non-expert users to understand the relative forces exerted by each hand while performing a stroke. A preliminary user study was conducted to collect first insights. The results show that both, binary vibration, as well as vibration patterns, improved the execution of batting strikes significantly. This work has been presented at the Augmented Human International Conference 2019 (AH2019) in Reims, France.",
+  "project_url": "https://ahlab.org/project/cricketcoach/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/cricketcoach/cricketcoach.jpg",
+  "people": [
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "denys-matthies",
+      "name": "Denys Matthies",
+      "url": "/people/denys-matthies/"
+    },
+    {
+      "slug": "chamod-weerasinghe",
+      "name": "Chamod Weerasinghe",
+      "url": "/people/chamod-weerasinghe/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers",
+      "citation": "Muthukumarana, S., Matthies, D.J., Weerasinghe, C., Elvitigala, D.S. and Nanayakkara, S.C., 2019, March. CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311833"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1MizLM_-FhsL3H1D2T07_8nX8L9LGlDqe/view?usp=sharing"
+        }
+      ],
+      "slug": "cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers",
+      "url": "/publications/#cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

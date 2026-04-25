@@ -1,0 +1,39 @@
+{
+  "id": "mobile-360-video-interaction",
+  "slug": "mobile-360-video-interaction",
+  "title": "Mobile 360° Video Interaction",
+  "year": "2015",
+  "description": "Omnidirectional videos (ODV), also known as panoramic videos, are an emerging, new kind of media. ODVs are typically recorded with cameras that cover up to 360° of the recorded scene. Due to the limitation of the human vision, ODVs cannot be viewed as-is. There is a larger body of work that focuses on browsing ODVs on ordinary 2D displays, e.g. on an LCD using a desktop computer or on a smartphone. We developed a new approach for ODV browsing using an immersive, head-mounted system. The novelty of our implementation lies in decoupling navigation in time from navigation in space: navigation in time is mapped to gesture-based interactions and navigation in space is mapped to head movements. We argue that this enables more natural ways of interacting with ODVs.",
+  "project_url": "https://ahlab.org/project/mobile-360-video-interaction/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/mobile-360-video-interaction/mobile-360-video-interaction.jpg",
+  "people": [
+    {
+      "slug": "benjamin-petry",
+      "name": "Benjamin Petry",
+      "url": "/people/benjamin-petry/"
+    },
+    {
+      "slug": "jochen-huber",
+      "name": "Jochen Huber",
+      "url": "/people/jochen-huber/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Towards Effective Interaction with Omnidirectional Videos Using Immersive Virtual Reality Headsets",
+      "citation": "Petry, B. and Huber, J., 2015, March. Towards effective interaction with omnidirectional videos using immersive virtual reality headsets. In Proceedings of the 6th Augmented Human International Conference (pp. 217-218).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Petry-and-Huber-2015-Towards-Effective-Interaction-with-Omnidirectional.pdf"
+        }
+      ],
+      "slug": "towards-effective-interaction-with-omnidirectional-videos-using-immersive-virtual-reality-headsets",
+      "url": "/publications/#towards-effective-interaction-with-omnidirectional-videos-using-immersive-virtual-reality-headsets"
+    }
+  ],
+  "principles": [
+    "perceptual"
+  ]
+}

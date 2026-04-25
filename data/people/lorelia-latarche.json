@@ -1,0 +1,43 @@
+{
+  "id": "lorelia-latarche",
+  "slug": "lorelia-latarche",
+  "name": "Lorelia Latarche",
+  "email": "lorelia@ahlab.org",
+  "role": "Visiting Student",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Visiting Student",
+      "start": "2026-01",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/lorelia-latarche/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/lorelia-latarche/lorelia-latarche.jpg",
+  "bio": "Lorélia Latarche joined the Augmented Human Lab at the National University of Singapore as a visiting PhD researcher for a six-month research stay. This collaboration is part of her doctoral project AMANIA and focuses on the use of audio drones for search and rescue. Her work explores how audio sensing and interaction can support drone operations in search-and-rescue contexts.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

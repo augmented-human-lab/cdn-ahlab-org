@@ -1,0 +1,37 @@
+{
+  "id": "lightsense",
+  "slug": "lightsense",
+  "title": "LightSense",
+  "year": "2021",
+  "description": "LightSense is the latest interactive XR installation by the arc/sec Lab for Cyber-Physical Architecture and Interactive Systems. It was developed in collaboration with the Augmented Human Lab and the Empathic Computing Lab at the University of Auckland. The kinetic construction combines a lightweight structure with 3D holographic animations. An integrated AI system, which has been trained to learn hundred-thousands of poems, allows the structure to engage, lead and sustain conversations with the audience. Analysing the emotional tenor of this conversation, the system is able to perform autonomous architectural behaviours, immersing the visitors in Pavilions of Love, Anger, Curiosity and Joy.\n\nArtists from Empathic Computing Lab : Amit Barde (IN), Ryo Hajika (JP)",
+  "project_url": "https://ahlab.org/project/lightsense/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/lightsense/lightsense.jpg",
+  "people": [
+    {
+      "slug": "uwe-rieger",
+      "name": "Uwe Rieger",
+      "url": "/people/uwe-rieger/"
+    },
+    {
+      "slug": "yinan-liu",
+      "name": "Yinan Liu",
+      "url": "/people/yinan-liu/"
+    },
+    {
+      "slug": "tharindu-kaluarachchi",
+      "name": "Tharindu Kaluarachchi",
+      "url": "/people/tharindu-kaluarachchi/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "perceptual",
+    "sociocultural"
+  ]
+}

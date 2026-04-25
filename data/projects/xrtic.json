@@ -1,0 +1,59 @@
+{
+  "id": "xrtic",
+  "slug": "xrtic",
+  "title": "XRtic",
+  "year": "2022",
+  "description": "XRtic is a prototyping toolkit enabling real-world cloth deformations to be used in novel ways in eXtended Reality (XR) applications. XRtic was developed based on the insights gathered from semi-structured interviews with XR developers. It is a fully functional implementation which consists of custom-made actuators that can be attached to regular clothing, a controller bus system, and a controller interface. Using the XRtic toolkit, users can design and integrate different cloth deformation types synchronised with virtual content in a plug-and-play manner. XR developers can use XRtic to trigger cloth deformation based on particular actions or states of an XR application. We believe XRtic will provide a substantial commencement for the XR community to use cloth deformations in novel ways with XR applications.\n\nExternal Collaborator: Noel Park",
+  "project_url": "https://ahlab.org/project/xrtic/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/xrtic/xrtic.jpg",
+  "people": [
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "alaeddin-nassani",
+      "name": "Alaeddin Nassani",
+      "url": "/people/alaeddin-nassani/"
+    },
+    {
+      "slug": "jurgen-steimle",
+      "name": "Jürgen Steimle",
+      "url": "/people/jurgen-steimle/"
+    },
+    {
+      "slug": "mark-billinghurst",
+      "name": "Mark Billinghurst",
+      "url": "/people/mark-billinghurst/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation",
+      "citation": "Muthukumarana, S., Nassani, A., Park, N., Steimle, J., Billinghurst, B., and Nanayakkara, S.C., XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2022.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ISMAR55827.2022.00071"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m1irQX5MT0JKANEgfIncgX2kCWCJPDE0/view?usp=sharing"
+        }
+      ],
+      "slug": "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
+      "url": "/publications/#xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

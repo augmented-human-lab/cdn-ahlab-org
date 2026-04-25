@@ -1,0 +1,19 @@
+{
+  "id": "wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android",
+  "slug": "wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android",
+  "title": "WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android",
+  "year": "2021",
+  "citation": "Wen, E., Weber, G. and Nanayakkara, S.C., 2021. WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android (WIP Paper). In Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '21)",
+  "award": null,
+  "links": [
+    {
+      "label": "DOI",
+      "url": "https://doi.org/10.1145/3461648.3463849"
+    },
+    {
+      "label": "PDF",
+      "url": "https://drive.google.com/file/d/1XN5feC-vtZ3O7gdKS6PdXtjVwnXPLKvV/view?usp=sharing"
+    }
+  ],
+  "venue": "ACM"
+}

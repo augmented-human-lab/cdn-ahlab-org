@@ -1,0 +1,19 @@
+{
+  "id": "this-ring-reads-books-and-magazines-to-the-blind",
+  "slug": "this-ring-reads-books-and-magazines-to-the-blind",
+  "title": "This Ring Reads Books And Magazines To The Blind",
+  "year": "2014",
+  "type": "news",
+  "outlet": "Huffington Post",
+  "url": "http://www.huffingtonpost.com/2014/07/08/fingerreader-read-blind-mit_n_5565898.html",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

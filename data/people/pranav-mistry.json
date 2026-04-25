@@ -1,0 +1,80 @@
+{
+  "id": "pranav-mistry",
+  "slug": "pranav-mistry",
+  "name": "Pranav Mistry",
+  "role": "CEO",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/pranav-mistry/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/pranav-mistry/pranav-mistry.jpg",
+  "bio": "Pranav is the CEO and President of STAR Labs at Samsung. Before Samsung, he was a Research Assistant and final year PhD candidate at the MIT Media Lab,",
+  "external_links": [
+    {
+      "label": "pranavmistry.com",
+      "url": "https://www.pranavmistry.com"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "sparsh",
+      "title": "Sparsh",
+      "url": "/projects/sparsh/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Touch and Copy, Touch and Paste",
+      "citation": "Mistry, P., Nanayakkara, S.C., and Maes, P., 2011. Touch and copy, touch and paste. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1095-1098).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/1979742.1979714"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_mistry_2011_2.pdf"
+        }
+      ],
+      "slug": "touch-and-copy-touch-and-paste",
+      "url": "/publications/#touch-and-copy-touch-and-paste"
+    },
+    {
+      "title": "SPARSH: Passing Data using the Body as a Medium",
+      "citation": "Mistry, P., Nanayakkara, S.C. and Maes, P., 2011, March. Sparsh: Passing data using the body as a medium. In Proceedings of the ACM 2011 conference on Computer supported cooperative work (pp. 689-692).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/1958824.1958946"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/P_mistry_2011.pdf"
+        }
+      ],
+      "slug": "sparsh-passing-data-using-the-body-as-a-medium",
+      "url": "/publications/#sparsh-passing-data-using-the-body-as-a-medium"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "sparsh",
+  "google_scholar": ""
+}

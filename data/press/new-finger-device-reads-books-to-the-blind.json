@@ -1,0 +1,19 @@
+{
+  "id": "new-finger-device-reads-books-to-the-blind",
+  "slug": "new-finger-device-reads-books-to-the-blind",
+  "title": "New Finger Device Reads Books To The Blind",
+  "year": "2014",
+  "type": "news",
+  "outlet": "Janet Fang, IFL Science!",
+  "url": "http://www.iflscience.com/health-and-medicine/new-finger-device-reads-books-blind",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "yongzhen-li",
+  "slug": "yongzhen-li",
+  "name": "Yongzhen Li",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/yongzhen-li/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/yongzhen-li/yongzhen-li.jpg",
+  "bio": "Yongzhen received his bachelor degree in Bioinformatics at Huazhong Agricultural University, China. Now he is a student doing the Master of Information Technology program at the University of Auckland since he is interested in the latest technology. He plans to be a mobile application developer or game developer in the future. Yongzhen is now working on Real-time Emotion Detection project with Suranga. He loves sports and basketball is his favourite. He enjoys playing computer games as well in his spare time.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

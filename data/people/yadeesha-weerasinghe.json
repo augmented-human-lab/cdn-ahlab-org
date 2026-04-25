@@ -1,0 +1,49 @@
+{
+  "id": "yadeesha-weerasinghe",
+  "slug": "yadeesha-weerasinghe",
+  "name": "Yadeesha Weerasinghe",
+  "email": "yadeesha@ahlab.org",
+  "role": "PhD Student",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "PhD Student",
+      "start": "2024-02",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/yadeesha-weerasinghe/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/yadeesha-weerasinghe/yadeesha-weerasinghe.jpg",
+  "bio": "Yadeesha joined the Augmented Human Lab at the National University of Singapore (NUS) as a Research Intern and is currently an undergraduate at the University of Colombo School of Computing. Her focus on Human Computer Interactions, Educational Technology, and Assistive Technologies reflects a passion for improving lives through innovative solutions.\n\nBeyond her academic pursuits, Yadeesha is an enthusiastic hockey player, and in her free time, she enjoys baking, hiking, and reading.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee",
+      "url": "/projects/aisee/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "aisee",
+  "google_scholar": ""
+}

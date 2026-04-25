@@ -1,0 +1,42 @@
+{
+  "id": "douwe-schmaal",
+  "slug": "douwe-schmaal",
+  "name": "Douwe Schmaal",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/douwe-schmaal/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/douwe-schmaal/douwe-schmaal.jpg",
+  "bio": "Douwe is a student from The Netherlands. He is studying Human Technology and is in his third and final year of this pre-bachelor study. He is an intern and will stay in Augmented Human Lab for the next 5 months. During his study, he gained experience in conducting researches. He also knows his way around computers. His other interests are video games, movies, and sports. He chose to go to New Zealand because of his interest in movies (mainly Lord of the Rings and Star Wars).",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

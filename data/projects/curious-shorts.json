@@ -1,0 +1,44 @@
+{
+  "id": "curious-shorts",
+  "slug": "curious-shorts",
+  "title": "Curious Shorts",
+  "year": "2025",
+  "description": "Short-form video platforms like YouTube Shorts captivate users with engaging content, but their potential for promoting incidental learning remains underexplored. We present Curious Shorts, a conceptual framework that extends the Hook Model, designed to enhance curiosity-driven exploration and incidental learning on these platforms. In Study 1, we empirically tested two designs that incorporate 'curiosity nudges' — interactive prompts that spark curiosity and encourage further exploration — with follow-up videos to satisfy that curiosity. Results show that specific, question-driven prompts proved most effective, significantly boosting curiosity and encouraging more focused and intentional viewing compared to the baseline. Study 2 examined whether this design enhances incidental learning without compromising engagement. Findings confirmed improved learning outcomes. However, when applied to a realistic viewing environment interspersed with entertainment videos, engagement remained high while learning benefits diminished. We conclude with implications for balancing learning and engagement on short-form video platforms and propose directions for future research.\n\nAdditional Collaborators: Ashwin Ram",
+  "project_url": "https://ahlab.org/project/curious-shorts/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/curious-shorts/curious-shorts.jpg",
+  "people": [
+    {
+      "slug": "felicia-tan",
+      "name": "Felicia Tan",
+      "url": "/people/felicia-tan/"
+    },
+    {
+      "slug": "moritz-messerschmidt",
+      "name": "Moritz Messerschmidt",
+      "url": "/people/moritz-messerschmidt/"
+    },
+    {
+      "slug": "hasini-amanda",
+      "name": "Hasini Amanda",
+      "url": "/people/hasini-amanda/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms",
+      "citation": "Tan, F.F., Ram, A., Messerschmidt, A.M., Dissanayake, H.A., and Nanayakkara, S.C. 2025. Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms. Accepted to the Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25).",
+      "links": [],
+      "slug": "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms",
+      "url": "/publications/#curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
+    }
+  ],
+  "principles": [
+    "cognitive"
+  ]
+}

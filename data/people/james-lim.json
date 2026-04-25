@@ -1,0 +1,42 @@
+{
+  "id": "james-lim",
+  "slug": "james-lim",
+  "name": "James Lim",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/james-lim/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/james-lim/james-lim.jpg",
+  "bio": "James is a student at the University of Auckland, where he is part of the Master of Information Technology Programme. He graduated from Biomedical Science in 2016. During his Master studies, he is interested in machine learning and cognitive systems. He hopes to advance his skill set, in order to discover intelligent behaviour. He believes these behaviours could assist people daily, hence joining the Augment Human Lab.\n\nHe enjoys good chats, especially about the mind and neurology.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

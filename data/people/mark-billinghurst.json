@@ -1,0 +1,177 @@
+{
+  "id": "mark-billinghurst",
+  "slug": "mark-billinghurst",
+  "name": "Mark Billinghurst",
+  "role": "Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/mark-billinghurst/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/mark-billinghurst/mark-billinghurst.jpg",
+  "bio": "Prof. Mark Billinghurst has a wealth of knowledge and expertise in human-computer interface technology, particularly in the area of Augmented Reality (the overlay of three-dimensional images on the real world).\n\nIn 2002, the former HIT Lab US Research Associate completed his PhD in Electrical Engineering, at the University of Washington, under the supervision of Professor Thomas Furness III and Professor Linda Shapiro. As part of the research for his thesis titled Shared Space: Exploration in Collaborative Augmented Reality, Dr Billinghurst invented the Magic Book – an animated children’s book that comes to life when viewed through the lightweight head-mounted display (HMD).\n\nNot surprisingly, Dr Billinghurst has achieved several accolades in recent years for his contribution to Human Interface Technology research. He was awarded a Discover Magazine Award in 2001, for Entertainment for creating the Magic Book technology. He was selected as one of eight leading New Zealand innovators and entrepreneurs to be showcased at the Carter Holt Harvey New Zealand Innovation Pavilion at the America’s Cup Village from November 2002 until March 2003. In 2004 he was nominated for a prestigious World Technology Network (WTN) World Technology Award in the education category and in 2005 he was appointed to the New Zealand Government’s Growth and Innovation Advisory Board.\n\nOriginally educated in New Zealand, Dr Billinghurst is a two-time graduate of Waikato University where he completed a BCMS (Bachelor of Computing and Mathematical Science)(first class honours) in 1990 and a Master of Philosophy (Applied Mathematics & Physics) in 1992.\n\nResearch interests: Dr. Billinghurst’s research focuses primarily on advanced 3D user interfaces such as:\n\nWearable Computing – Spatial and collaborative interfaces for small wearable computers. These interfaces address the idea of what is possible when you merge ubiquitous computing and communications on the body. Shared Space – An interface that demonstrates how augmented reality, the overlaying of virtual objects on the real world, can radically enhance face-face and remote collaboration. Multimodal Input – Combining natural language and artificial intelligence techniques to allow human-computer interaction with an intuitive mix of voice, gesture, speech, gaze and body motion.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "xrtic",
+      "title": "XRtic",
+      "url": "/projects/xrtic/"
+    },
+    {
+      "slug": "vrhook",
+      "title": "VRHook",
+      "url": "/projects/vrhook/"
+    },
+    {
+      "slug": "affect-in-the-wild",
+      "title": "Affect in the Wild",
+      "url": "/projects/affect-in-the-wild/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Augmented Tabletop Interaction as an Assistive Tool: Tidd’s Role in Daily Life Skills Training for Autistic Children",
+      "citation": "Wu, Q., Wang, W., Liu, Q., Zhang, R., Pai, Y.S., Billinghurst, M. and Nanayakkara, S.C., 2025. Augmented tabletop interaction as an assistive tool: Tidd’s role in daily life skills training for autistic children. International Journal of Human-Computer Studies, p.103517.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1016/j.ijhcs.2025.103517"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1ewUCSSh27_SffFbCk7AbVU74bM-_TlID/view?usp=sharing"
+        }
+      ],
+      "slug": "augmented-tabletop-interaction-as-an-assistive-tool-tidds-role-in-daily-life-skills-training-for-autistic-children",
+      "url": "/publications/#augmented-tabletop-interaction-as-an-assistive-tool-tidds-role-in-daily-life-skills-training-for-autistic-children"
+    },
+    {
+      "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
+      "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TVCG.2024.3372044"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1eTlLX4o3eOzI7aPUcRHMiWoCrRe1aDqF/view?usp=drive_link"
+        }
+      ],
+      "slug": "vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research",
+      "url": "/publications/#vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research"
+    },
+    {
+      "title": "Early Autism Screening in Children Using Facial Recognition",
+      "citation": "Wu, Q., Xiao, X., Liu, Y., Billinghurst, M. and Nanayakkara, S.C., 2024, May. Early autism screening in children using facial recognition. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613905.3651045"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1KuR88zGwSXJeohUUl9fdpgd8pH_YqcUn/view?usp=drive_link"
+        }
+      ],
+      "slug": "early-autism-screening-in-children-using-facial-recognition",
+      "url": "/publications/#early-autism-screening-in-children-using-facial-recognition"
+    },
+    {
+      "title": "A User Study on Sharing Physiological Cues in VR Assembly Tasks",
+      "citation": "Sasikumar, P., Hajika, R., Gupta, K., Selvan, T., Pai, Y.S., Bai, H., Nanayakkara, S.C., and Billinghurst, M. 2024. Title of the Article. In IEEE Conference on Virtual Reality and 3D User Interfaces, 2024.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1M7seP_4dbj9O4xGWd6oXtl2RrWy3D07b/view?usp=drive_link"
+        }
+      ],
+      "slug": "a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks",
+      "url": "/publications/#a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks"
+    },
+    {
+      "title": "XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation",
+      "citation": "Muthukumarana, S., Nassani, A., Park, N., Steimle, J., Billinghurst, B., and Nanayakkara, S.C., XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2022.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ISMAR55827.2022.00071"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m1irQX5MT0JKANEgfIncgX2kCWCJPDE0/view?usp=sharing"
+        }
+      ],
+      "slug": "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
+      "url": "/publications/#xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation"
+    },
+    {
+      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
+      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3526113.3545656"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
+        }
+      ],
+      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
+    },
+    {
+      "title": "Speech Emotion Recognition ‘in the Wild’ Using an Autoencoder",
+      "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition ‘in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1356"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1zo2rhxXPDy5cEuG8Ckl-RLfb0Wr9RV5_/view?usp=sharing"
+        }
+      ],
+      "slug": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
+      "url": "/publications/#speech-emotion-recognition-in-the-wild-using-an-autoencoder"
+    },
+    {
+      "title": "Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion",
+      "citation": "Siriwardhana, S., Kaluarachchi, T., Billinghurst, M. and Nanayakkara, S.C., 2020. Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion. IEEE Access, 8, pp.176274-176285.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ACCESS.2020.3026823"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m5tgMX_9H-BhszgCcuqOznzKfkytoYdT/view?usp=sharing"
+        }
+      ],
+      "slug": "multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion",
+      "url": "/publications/#multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "xrtic",
+  "google_scholar": ""
+}

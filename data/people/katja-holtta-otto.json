@@ -1,0 +1,42 @@
+{
+  "id": "katja-holtta-otto",
+  "slug": "katja-holtta-otto",
+  "name": "Katja Holtta-Otto",
+  "role": "Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/katja-holtta-otto/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/katja-holtta-otto/katja-holtta-otto.jpg",
+  "bio": "Katja Holtta-Otto is an Associate Professor at Aalto University.\n\nMore about Katja Holtta-Otto: https://people.aalto.fi/new/katja.holtta-otto/",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "kyanite",
+      "title": "Kyanite",
+      "url": "/projects/kyanite/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "kyanite",
+  "google_scholar": ""
+}

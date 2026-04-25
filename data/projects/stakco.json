@@ -1,0 +1,43 @@
+{
+  "id": "stakco",
+  "slug": "stakco",
+  "title": "Stakco",
+  "year": "2024",
+  "description": "Stakco presents a patent-pending interactive puzzle experience that enables users to rotate layers of the puzzle to reveal the final image. Puzzles have long been acknowledged for their capacity to provide leisurely enjoyment, mental stimulation, and stress reduction. The well-documented cognitive benefits and the ability to foster social interactions make puzzles a versatile and valuable activity.\n\nWe produce both physical and digital puzzles and are currently exploring the applications of our proprietary software to broaden the audience engaging in puzzles. This includes potential utilization by therapists working with children with autism. The shapes and designs within each puzzle can be quickly modified to offer limitless variations. This not only increases replayability but also creates diverse and personalized experiences for individuals of all backgrounds.",
+  "project_url": "https://ahlab.org/project/stakco/",
+  "external_links": [
+    {
+      "kind": "demo",
+      "label": "play.stakcos.com",
+      "url": "https://play.stakcos.com"
+    },
+    {
+      "kind": "website",
+      "label": "stakcos.com",
+      "url": "https://stakcos.com"
+    }
+  ],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/stakco/stakco.jpg",
+  "people": [
+    {
+      "slug": "sankha-cooray",
+      "name": "Sankha Cooray",
+      "url": "/people/sankha-cooray/"
+    },
+    {
+      "slug": "hannah-qiao",
+      "name": "Hannah Qiao",
+      "url": "/people/hannah-qiao/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "cognitive",
+    "sociocultural"
+  ]
+}

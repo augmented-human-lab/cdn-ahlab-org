@@ -1,0 +1,48 @@
+{
+  "id": "savithru-jayasinghe",
+  "slug": "savithru-jayasinghe",
+  "name": "Savithru Jayasinghe",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/savithru-jayasinghe/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/savithru-jayasinghe/savithru-jayasinghe.jpg",
+  "bio": "Savithtu was Cambridge-MIT exchange student who did a UROP with the group.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "eyering",
+      "title": "EyeRing",
+      "url": "/projects/eyering/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "eyering",
+  "google_scholar": ""
+}

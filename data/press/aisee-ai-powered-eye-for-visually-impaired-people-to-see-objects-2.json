@@ -1,0 +1,15 @@
+{
+  "id": "aisee-ai-powered-eye-for-visually-impaired-people-to-see-objects-2",
+  "slug": "aisee-ai-powered-eye-for-visually-impaired-people-to-see-objects-2",
+  "title": "AiSee: AI-Powered 'Eye' for Visually Impaired People to 'See' Objects",
+  "year": "2024",
+  "type": "news",
+  "outlet": "Adafruit",
+  "url": "https://blog.adafruit.com/2024/02/12/aisee-ai-powered-eye-for-visually-impaired-people-to-see-objects/",
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee"
+    }
+  ]
+}

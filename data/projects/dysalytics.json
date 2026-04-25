@@ -1,0 +1,32 @@
+{
+  "id": "dysalytics",
+  "slug": "dysalytics",
+  "title": "Dysalytics",
+  "year": "2025",
+  "description": "Our main research question is \"Can AI provide feedback for dysarthric speech as speech therapists do?\"\n\nSpeech impairments such as dysarthria significantly impact communication and quality of life. Current speech therapy tools often rely on manual transcription and subjective evaluation, limiting scalability and feedback precision. Our project addresses this by developing an explainable AI-assisted Speech Therapy Dashboard that analyzes patients’ read-speech recordings to provide objective, fine-grained feedback on pronunciation accuracy and misarticulation types.\n\nTogether with experts in speech therapy from Alexandra Hospital, Singapore (collaborators), we are in the process of speech recordings of dysarthria patients in Singapore, along with expert annotations from the therapists.\n\nWe have benchmarked leading ASR systems—wav2vec2, Whisper, and MERaLiON—for three stages of explainable speech feedback: overall clarity scoring, temporal localization, and mispronunciation classification. Our initial results are published in Interspeech 2025.",
+  "project_url": "https://ahlab.org/project/dysalytics/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/dysalytics/dysalytics.jpg",
+  "people": [
+    {
+      "slug": "chitralekha-gupta",
+      "name": "Chitralekha Gupta",
+      "url": "/people/chitralekha-gupta/"
+    },
+    {
+      "slug": "shreyas-sridhar",
+      "name": "Shreyas Sridhar",
+      "url": "/people/shreyas-sridhar/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "cognitive",
+    "identity"
+  ]
+}

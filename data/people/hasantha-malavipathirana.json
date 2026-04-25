@@ -1,0 +1,61 @@
+{
+  "id": "hasantha-malavipathirana",
+  "slug": "hasantha-malavipathirana",
+  "name": "Hasantha Malavipathirana",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/hasantha-malavipathirana/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/hasantha-malavipathirana/hasantha-malavipathirana.jpg",
+  "bio": "I'm a 3rd year undergraduate at University of Moratuwa, Sri Lanka and currently an intern at augmented senses group, SUTD. I'm studying Electronic and Telecommunication Engineering.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "feel-the-globe",
+      "title": "Feel the Globe",
+      "url": "/projects/feel-the-globe/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Feel & See the Globe: A Thermal, Interactive Installation",
+      "citation": "Huber, J., Malavipathirana, H., Wang, Y., Li, X., Fu, J.C., Maes, P. and Nanayakkara, S.C., 2015, March. Feel & see the globe: a thermal, interactive installation. In Proceedings of the 6th Augmented Human International Conference (pp. 215-216).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p215-huber.pdf"
+        }
+      ],
+      "slug": "feel-see-the-globe-a-thermal-interactive-installation",
+      "url": "/publications/#feel-see-the-globe-a-thermal-interactive-installation"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "feel-the-globe",
+  "google_scholar": ""
+}

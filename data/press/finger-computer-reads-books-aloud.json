@@ -1,0 +1,19 @@
+{
+  "id": "finger-computer-reads-books-aloud",
+  "slug": "finger-computer-reads-books-aloud",
+  "title": "Finger Computer Reads Books Aloud",
+  "year": "2014",
+  "type": "news",
+  "outlet": "Nic Halverson, Discovery News",
+  "url": "http://news.discovery.com/tech/gear-and-gadgets/finger-computer-reads-books-aloud-140221.htm",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

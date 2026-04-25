@@ -1,0 +1,116 @@
+{
+  "id": "elizabeth-taylor",
+  "slug": "elizabeth-taylor",
+  "name": "Elizabeth Taylor",
+  "role": "Senior Research Fellow",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/elizabeth-taylor/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/elizabeth-taylor/elizabeth-taylor.jpg",
+  "bio": "Elizabeth Taylor is a senior Research Fellow at the Tropical Marine Science Institute, National University of Singapore. She heads a multi-disciplinary team consisting of Research Fellows, full-time Research Engineers, Adjunct Research Associates from various institutions in Singapore, and NUS Research Scholars and students.\n\nMore info about Dr. Taylor: www.tmsi.nus.edu.sg/mmrl/staff.htm",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "soundfloor",
+      "title": "SoundFloor",
+      "url": "/projects/soundfloor/"
+    },
+    {
+      "slug": "hapticchair",
+      "title": "HapticChair",
+      "url": "/projects/hapticchair/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Enhancing Musical Experience for the Hearing-impaired using Visual and Haptic Displays",
+      "citation": "Nanayakkara S.C., Wyse L., Ong S.H. and Taylor E. “Enhancing Musical Experience for the Hearing-impaired using Visual and Haptic Inputs”, Human-Computer Interaction, 28 (2), pp.115-160, 2013.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/07370024.2012.697006"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2013_2.pdf"
+        }
+      ],
+      "slug": "enhancing-musical-experience-for-the-hearing-impaired-using-visual-and-haptic-displays",
+      "url": "/publications/#enhancing-musical-experience-for-the-hearing-impaired-using-visual-and-haptic-displays"
+    },
+    {
+      "title": "The Haptic Chair as a Speech Training Aid for the Deaf",
+      "citation": "Nanayakkara, S.C., Wyse, L. and Taylor, E.A., 2012, November. The haptic chair as a speech training aid for the deaf. In Proceedings of the 24th Australian Computer-Human Interaction Conference (pp. 405-410).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012.pdf"
+        }
+      ],
+      "slug": "the-haptic-chair-as-a-speech-training-aid-for-the-deaf",
+      "url": "/publications/#the-haptic-chair-as-a-speech-training-aid-for-the-deaf"
+    },
+    {
+      "title": "Palm-area sensitivity to vibrotactile stimuli above 1 kHz",
+      "citation": "Wyse L., Nanayakkara S.C., Seekings, P., Ong S.H. and Taylor E. “Palm-area sensitivity to vibrotactile stimuli above 1 kHz”, NIME’12.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_wyse_2012.pdf"
+        }
+      ],
+      "slug": "palm-area-sensitivity-to-vibrotactile-stimuli-above-1-khz",
+      "url": "/publications/#palm-area-sensitivity-to-vibrotactile-stimuli-above-1-khz"
+    },
+    {
+      "title": "Effectiveness of the Haptic Chair in Speech Training",
+      "citation": "Nanayakkara, S.C., Wyse, L. and Taylor, E.A., 2012, October. Effectiveness of the haptic chair in speech training. In Proceedings of the 14th international ACM SIGACCESS conference on Computers and accessibility (pp. 235-236).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/2384916.2384970"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_2.pdf"
+        }
+      ],
+      "slug": "effectiveness-of-the-haptic-chair-in-speech-training",
+      "url": "/publications/#effectiveness-of-the-haptic-chair-in-speech-training"
+    },
+    {
+      "title": "An enhanced musical experience for the deaf: design and evaluation of a music display and a haptic chair",
+      "citation": "Nanayakkara, S. C., Taylor, E., Wyse, L. and Ong, S. H. 2009. An enhanced musical experience for the deaf: design and evaluation of a music display and a haptic chair. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). Association for Computing Machinery, New York, NY, USA, 337–346.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/1518701.1518756"
+        }
+      ],
+      "slug": "an-enhanced-musical-experience-for-the-deaf-design-and-evaluation-of-a-music-display-and-a-haptic-chair",
+      "url": "/publications/#an-enhanced-musical-experience-for-the-deaf-design-and-evaluation-of-a-music-display-and-a-haptic-chair"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "soundfloor",
+  "google_scholar": ""
+}

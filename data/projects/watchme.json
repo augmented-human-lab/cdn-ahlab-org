@@ -1,0 +1,46 @@
+{
+  "id": "watchme",
+  "slug": "watchme",
+  "title": "WatchMe",
+  "year": "2012",
+  "description": "Remote monitoring allows us to understand the regular living behavior of the elderly and alert their loved ones in emergency situations. Project WatchMe, a software and hardware platform that focuses on making ambient monitoring intuitive and seamless. WatchMe system consists of a WatchMe server application and a WatchMe client application implemented on a regular smartwatch. Caretaker’s WatchMe watch can be paired with the WatchMe watch of the person who needs support, using a simple tap gesture. In addition to the uncomplicatedness of pairing and switching among different caretakers, the wristwatch interface requires minimal effort for ambient monitoring. It is also less disruptive compared to having to take a device, such as a mobile phone, out of the pocket periodically, to check the condition. The suggested platform can also be used to monitor and collect health related data constantly and identify significant patterns. We hope that the WatchMe system will contribute to improving the lives of the elderly by creating a healthy link between them and their loved ones.",
+  "project_url": "https://ahlab.org/project/watchme/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/watchme/watchme.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "roshan-peiris",
+      "name": "Roshan Peiris",
+      "url": "/people/roshan-peiris/"
+    },
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "WatchMe: Wrist-worn interface that makes remote monitoring seamless",
+      "citation": "Ransiri S. and Nanayakkara S. C. “WatchMe: Wrist-worn interface that makes remote monitoring seamless”, ASSETS, 2012.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_ransiri_2012.pdf"
+        }
+      ],
+      "slug": "watchme-wrist-worn-interface-that-makes-remote-monitoring-seamless",
+      "url": "/publications/#watchme-wrist-worn-interface-that-makes-remote-monitoring-seamless"
+    }
+  ],
+  "principles": [
+    "body",
+    "identity",
+    "sociocultural"
+  ]
+}

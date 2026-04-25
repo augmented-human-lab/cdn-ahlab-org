@@ -1,0 +1,49 @@
+{
+  "id": "hyung-woon-lee",
+  "slug": "hyung-woon-lee",
+  "name": "Hyung Woon Lee",
+  "email": "leehw@ahlab.org",
+  "role": "Research Assistant",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Research Assistant",
+      "start": "2023-01",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/hyung-woon-lee/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/hyung-woon-lee/hyung-woon-lee.jpg",
+  "bio": "Hyung Woon is a Research Assistant with experience in Computer Science and Psychology. He specializes in Artificial Intelligence / Machine Learning as well as Clinical and Cognitive Psychology (in the context of learning and education). His research interests lies in the intersection of Cognitive Sciences and AI, in the hopes of better understanding cognitive and learning processes through both computational perspectives and human perspectives. Outside the lab, Hyung Woon loves video games and music - and video game music in particular! He also plays the piano and the bagpipes (casually and competitively, respectively).",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "emodrink",
+      "title": "EmoDrink",
+      "url": "/projects/emodrink/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "emodrink",
+  "google_scholar": ""
+}

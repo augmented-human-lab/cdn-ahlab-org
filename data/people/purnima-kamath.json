@@ -1,0 +1,119 @@
+{
+  "id": "purnima-kamath",
+  "slug": "purnima-kamath",
+  "name": "Purnima Kamath",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2022-06",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/purnima-kamath/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/purnima-kamath/purnima-kamath.jpg",
+  "bio": "Purnima is a PhD Researcher with the Department of Communications and New Media at the National University of Singapore (NUS), being advised by Dr Lonce Wyse, Dr Suranga Nanayakkara and Dr Kokil Jaidka. Her research interests are at the intersection of deep learning for audio and human-computer interaction. She is also interested in exploring algorithmic computational creativity using deep neural networks and genetic algorithms.\n\nBefore NUS, she worked in the industry as a full-stack software engineer for ~15 years in various roles. She helped build and architect solutions for various financial institutions, such as Credit Suisse, Lehman Brothers, and Morgan Stanley, and consulting organizations, such as Capgemini and Oliver Wyman.\n\nShe believes that we all need to do more to improve gender diversity in tech. She co-founded the Women Who Code network in Singapore in 2016 and led the network in the city as a Director until 2020. She was also involved in building developer communities as a DevRel advocate for YOW! Conferences in the city until August 2020. She also previously volunteered for tech-for-good organizations such as Techladies, Engineers.SG and DataKind.SG and is constantly looking for opportunities to give back to the community.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "sound-designer-generative-ai-interactions",
+      "title": "Sound Designer-Generative AI Interactions",
+      "url": "/projects/sound-designer-generative-ai-interactions/"
+    },
+    {
+      "slug": "crowd-eval-audio",
+      "title": "Crowd-Eval-Audio",
+      "url": "/projects/crowd-eval-audio/"
+    },
+    {
+      "slug": "audio-morph-gan",
+      "title": "Audio-Morph GAN",
+      "url": "/projects/audio-morph-gan/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers",
+      "citation": "Kamath, P., Morreale, F., Bagaskara, P.L., Wei, Y., and Nanayakkara, S.C. 2024. Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613904.3642040"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1nSdZe0irBvTQlWiNCC0oC6V15PiZOsEV/view?usp=sharing"
+        }
+      ],
+      "slug": "sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers",
+      "url": "/publications/#sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers"
+    },
+    {
+      "title": "Example-Based Framework for Perceptually Guided Audio Texture Generation",
+      "citation": "Kamath, P., Gupta, C., Wyse, L., and Nanayakkara, S.C., “Example-Based Framework for Perceptually Guided Audio Texture Generation,” in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 2555-2565, 2024.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TASLP.2024.3393741"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1FsLz7rr1eNn0SPOZ-3-_WDTh-eqK55L1/view?usp=sharing"
+        }
+      ],
+      "slug": "example-based-framework-for-perceptually-guided-audio-texture-generation",
+      "url": "/publications/#example-based-framework-for-perceptually-guided-audio-texture-generation"
+    },
+    {
+      "title": "Towards Controllable Audio Texture Morphing",
+      "citation": "Gupta C*., Kamath P*., Wei. Y., Li, Z., Nanayakkara S.C., Wyse L. 2023. Towards Controllable Audio Texture Morphing. In 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '23), 4-10 June, 2023, Rhodes Island, Greece.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Od3J7IHFhiZ0fUatCoNCzD7Fp0AFBfg1/view?usp=sharing"
+        }
+      ],
+      "slug": "towards-controllable-audio-texture-morphing",
+      "url": "/publications/#towards-controllable-audio-texture-morphing"
+    },
+    {
+      "title": "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas",
+      "citation": "Kamath, P., Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S.C. and Wyse, L. 2023. Evaluating Descriptive Quality of AI Generated Audio Using Image-Schemas. In 28th International Conference on Intelligent User Interfaces (IUI ’23), March 27–31, 2023, Sydney, NSW, Australia.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3581641.3584083"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12oQ4uEVB4J1wura4sL9fYQEb8hnTkFtM/view?usp=sharing"
+        }
+      ],
+      "slug": "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas",
+      "url": "/publications/#evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "sound-designer-generative-ai-interactions",
+  "google_scholar": ""
+}

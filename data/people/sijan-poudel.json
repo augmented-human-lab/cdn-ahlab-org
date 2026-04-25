@@ -1,0 +1,42 @@
+{
+  "id": "sijan-poudel",
+  "slug": "sijan-poudel",
+  "name": "Sijan Poudel",
+  "role": "Intern",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2024-02",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/sijan-poudel/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/sijan-poudel/sijan-poudel.jpg",
+  "bio": "Sijan Poudel is currently a final-year Computer Engineering student at the University of British Columbia, graduating in May 2024. An optimist at heart, she is passionate about leveraging technology to improve day-to-day life of people. Her interest in HCI lies in human-AI interaction, educational tech, accessibility, multi-modal interactions, and promoting Diversity, Equity and Inclusion in technology.\n\nOriginally from Nepal, Sijan spent half of her life in Nepal and half in Japan before moving to Canada for her undergraduate studies. In the past, she has worked in the industry as a full-stack developer and a frontend developer. Her work as a full-stack-developer was awarded “Global Product of the Year” in the Challenger category at the Digital Engineering Awards in the US.\n\nIn her free time, she often likes coming up with new ideas, participating in competitions, and building projects based on her ideas. She also finds joy in creative pursuits, such as writing for children and drawing.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

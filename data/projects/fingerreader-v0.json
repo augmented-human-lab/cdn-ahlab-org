@@ -1,0 +1,125 @@
+{
+  "id": "fingerreader-v0",
+  "slug": "fingerreader-v0",
+  "title": "FingerReader-v0",
+  "year": "2015",
+  "description": "Accessing printed text in a mobile context is a major challenge for the blind. In this project, we conceptualise and design a finger-worn device, FingerReader, that assists blind users with reading printed text on the go. We introduce a novel computer vision algorithm for local-sequential text scanning that enables reading single lines, blocks of text or skimming the text with complementary, multimodal feedback. This system is implemented in a small finger-worn form factor, that enables a more manageable eyes-free operation with trivial setup. We also look to go beyond usage for persons with a visual impairment, and expect that the FingerReader may be useful to scaffold dyslexic readers, support early language learning for preschool children and reading non-textual languages.\n\nFor more information about FingerReader, it's conception, future directions and alternatives please contact us .\n\nThe industrial design was done by Jonathan Ng Ming-En and Sanjay Pushparajan.",
+  "project_url": "https://ahlab.org/project/fingerreader-v0/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/fingerreader-v0/fingerreader-v0.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "roger-boldu",
+      "name": "Roger Boldu",
+      "url": "/people/roger-boldu/"
+    },
+    {
+      "slug": "thisum-buddhika",
+      "name": "Thisum Buddhika",
+      "url": "/people/thisum-buddhika/"
+    },
+    {
+      "slug": "roy-shilkrot",
+      "name": "Roy Shilkrot",
+      "url": "/people/roy-shilkrot/"
+    },
+    {
+      "slug": "jochen-huber",
+      "name": "Jochen Huber",
+      "url": "/people/jochen-huber/"
+    },
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "connie-liu",
+      "name": "Connie Liu",
+      "url": "/people/connie-liu/"
+    },
+    {
+      "slug": "buddhishan-manamperi",
+      "name": "Buddhishan Manamperi",
+      "url": "/people/buddhishan-manamperi/"
+    },
+    {
+      "slug": "pattie-maes",
+      "name": "Pattie Maes",
+      "url": "/people/pattie-maes/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "FingerReader: A Wearable Device to Explore Printed Text on the Go",
+      "citation": "Shilkrot, R., Huber, J., Meng Ee, W., Maes, P. and Nanayakkara, S.C., 2015, April. FingerReader: a wearable device to explore printed text on the go. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 2363-2372).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "http://fluid.media.mit.edu/sites/default/files/FingerReaderCHI15%20Camera%20Ready-fonts%20embedded.pdf"
+        },
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2702123.2702421"
+        }
+      ],
+      "slug": "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
+      "url": "/publications/#fingerreader-a-wearable-device-to-explore-printed-text-on-the-go"
+    },
+    {
+      "title": "Digital Digits: A Comprehensive Survey of Finger Augmentation Devices",
+      "citation": "Shilkrot, R., Huber, J., Steimle, J., Nanayakkara, S.C. and Maes, P., 2015. Digital digits: A comprehensive survey of finger augmentation devices. ACM Computing Surveys (CSUR), 48(2), pp.1-29.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dl.acm.org/citation.cfm?doid=2830539.2828993"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/a30-shilkrot_0.pdf"
+        }
+      ],
+      "slug": "digital-digits-a-comprehensive-survey-of-finger-augmentation-devices",
+      "url": "/publications/#digital-digits-a-comprehensive-survey-of-finger-augmentation-devices"
+    },
+    {
+      "title": "FingerReader: A Wearable Device to Support Text-Reading on the Go",
+      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. FingerReader: a wearable device to support text reading on the go. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 2359-2364).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://doi.acm.org/10.1145/2559206.2581220"
+        },
+        {
+          "label": "pdf",
+          "url": "http://fluid.media.mit.edu/sites/default/files/paper317.pdf"
+        }
+      ],
+      "slug": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+      "url": "/publications/#fingerreader-a-wearable-device-to-support-text-reading-on-the-go"
+    },
+    {
+      "title": "A Wearable Text-Reading Device for the Visually-Impaired",
+      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. A wearable text-reading device for the visually-impaired. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 193-194).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://doi.acm.org/10.1145/2559206.2579520"
+        }
+      ],
+      "slug": "a-wearable-text-reading-device-for-the-visually-impaired",
+      "url": "/publications/#a-wearable-text-reading-device-for-the-visually-impaired"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive",
+    "perceptual",
+    "identity"
+  ]
+}

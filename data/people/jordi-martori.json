@@ -1,0 +1,42 @@
+{
+  "id": "jordi-martori",
+  "slug": "jordi-martori",
+  "name": "Jordi Martori",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/jordi-martori/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/jordi-martori/jordi-martori.jpg",
+  "bio": "Jordi is visiting from Universite de Lorraine in France, where he did his PhD in Distributed Systems. Before that, he did his B.Sc and M.Sc in Computer Engineering in La Salle, Universitat Ramon Llull in Barcelona.\n\nHis research interests focus on reliable communication, robust and autonomous distributed systems, and Internet of Things (IoT).",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

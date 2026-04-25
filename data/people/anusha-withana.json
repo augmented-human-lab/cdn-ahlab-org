@@ -1,0 +1,255 @@
+{
+  "id": "anusha-withana",
+  "slug": "anusha-withana",
+  "name": "Anusha Withana",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/anusha-withana/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/anusha-withana/anusha-withana.jpg",
+  "bio": "Anusha Withana , graduated from University of Moratuwa, Sri Lanka with a BSc (Hons.) degree in Electronic and Telecommunication Engineering in 2007. He worked as a core network engineer at Dialog Telekom PLC, Sri Lanka for one year before moving to Japan to pursuit his higher studies. He received his Master of Media Design from Keio University in 2010 and start reading for his PhD in Media Design at the same institute. His PhD thesis titled “Integration of Multimodal Interactions for Inter-­Spatial Continuum”, has been accepted by Keio University, Japan, and expected to be graduated in March, 2014.\n\nHis main research areas include non-­inclusive and multimodal interfaces, haptic systems, affective computing and ubiquitous computing. During his post-grad studies, he has conducted research on multi modal and cross modal effects on human spatial perception, created new interfaces such as through surface styluses for interacting with 3D content, novel automotive UIs, pseudo haptic interfaces and public haptic display systems. His research has been published in peer reviewed journals and international conference proceedings, and demonstrated in international exhibitions. Furthermore, he has been collaborated and worked as a research assistant in government grant research projects in Japan, including JST ERATO, JST CREST and SCOPE.\n\nAdditional to his research work, Anusha is interested in photography, cinema and cooking. He is also a bit of a food adventurist.\n\nPlease see my personal web page for more information: withana.info",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "zsense",
+      "title": "zSense",
+      "url": "/projects/zsense/"
+    },
+    {
+      "slug": "wavesense",
+      "title": "WaveSense",
+      "url": "/projects/wavesense/"
+    },
+    {
+      "slug": "postbits",
+      "title": "PostBits",
+      "url": "/projects/postbits/"
+    },
+    {
+      "slug": "armsleeve",
+      "title": "ArmSleeve",
+      "url": "/projects/armsleeve/"
+    },
+    {
+      "slug": "the-ribbon",
+      "title": "The RIBbon",
+      "url": "/projects/the-ribbon/"
+    },
+    {
+      "slug": "sonicsg",
+      "title": "SonicSG",
+      "url": "/projects/sonicsg/"
+    },
+    {
+      "slug": "rippletouch",
+      "title": "RippleTouch",
+      "url": "/projects/rippletouch/"
+    },
+    {
+      "slug": "sparkubes",
+      "title": "SparKubes",
+      "url": "/projects/sparkubes/"
+    },
+    {
+      "slug": "nzwarm",
+      "title": "nZwarm",
+      "url": "/projects/nzwarm/"
+    },
+    {
+      "slug": "keepers-bees",
+      "title": "Keepers & Bees",
+      "url": "/projects/keepers-bees/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "WaveSense: Low Power Voxel-tracking Technique for Resource Limited Devices",
+      "citation": "Withana, A., Kaluarachchi, T., Singhabahu, C., Ransiri, S., Shi, Y. and Nanayakkara, S.C., 2020. waveSense: Low Power Voxel-tracking Technique for Resource Limited Devices. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3384790"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Ug6C2P7oOwuX8aUGQGA_UgnKDhhWpV2p/view?usp=sharing"
+        }
+      ],
+      "slug": "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
+      "url": "/publications/#wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices"
+    },
+    {
+      "title": "SonicSG: From Floating to Sounding Pixels",
+      "citation": "Nanayakkara, S.C., Schroepfer, T., Wyse, L., Lian, A. and Withana, A., 2017, March. SonicSG: from floating to sounding pixels. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1wKFn3i8CcrO-L8pi0-3Kqa74dqC3dUMJ/view?usp=sharing"
+        }
+      ],
+      "slug": "sonicsg-from-floating-to-sounding-pixels",
+      "url": "/publications/#sonicsg-from-floating-to-sounding-pixels"
+    },
+    {
+      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
+      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
+      "links": [
+        {
+          "label": "url",
+          "url": "http://dl.acm.org/citation.cfm?id=2985734"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
+        }
+      ],
+      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
+      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
+    },
+    {
+      "title": "PostBits: using contextual locations for embedding cloud information in the home",
+      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
+        }
+      ],
+      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
+      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
+    },
+    {
+      "title": "ArmSleeve: A Patient Monitoring System to Support Occupational Therapists in Stroke Rehabilitation",
+      "citation": "Ploderer, B., Fong, J., Withana, A., Klaic, M., Nair, S., Crocher, V., Vetere, F. and Nanayakkara, S.C., 2016, June. ArmSleeve: a patient monitoring system to support occupational therapists in stroke rehabilitation. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (pp. 700-711).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2901790.2901799"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Microsoft-Word-pn149-ploderer.docx-p700-ploderer.pdf"
+        }
+      ],
+      "slug": "armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation",
+      "url": "/publications/#armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation"
+    },
+    {
+      "title": "zSense: Enabling Shallow Depth Gesture Recognition for Greater Input Expressivity on Smart Wearables",
+      "citation": "Withana, A., Peiris, R., Samarasekara, N. and Nanayakkara, S.C., 2015, April. zsense: Enabling shallow depth gesture recognition for greater input expressivity on smart wearables. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3661-3670).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2702123.2702371"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-04_CHI-zSense_Full.pdf"
+        }
+      ],
+      "slug": "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables",
+      "url": "/publications/#zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables"
+    },
+    {
+      "title": "RippleTouch: Initial Exploration of a Wave Resonant Based Full Body Haptic Interface",
+      "citation": "Withana, A., Koyama, S., Saakes, D., Minamizawa, K., Inami, M. and Nanayakkara, S.C., 2015, March. RippleTouch: initial exploration of a wave resonant based full body haptic interface. In Proceedings of the 6th Augmented Human International Conference (pp. 61-68).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2735711.2735790"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p61-withana.pdf"
+        }
+      ],
+      "slug": "rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface",
+      "url": "/publications/#rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface"
+    },
+    {
+      "title": "SparKubes: Exploring the Interplay between Digital and Physical Spaces with Minimalistic Interfaces",
+      "citation": "Ortega-Avila, S., Huber, J., Janaka, N., Withana, A., Fernando, P. and Nanayakkara, S.C., 2014, December. SparKubes: exploring the interplay between digital and physical spaces with minimalistic interfaces. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 204-207).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p204-ortega-avila.pdf"
+        }
+      ],
+      "slug": "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces",
+      "url": "/publications/#sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces"
+    },
+    {
+      "title": "nZwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Nanayakkara, S.C., Schroepfer, T., Withana, A., Wortmann, T. and Pablo, J., 2014. nZwarm: a swarm of luminous sea creatures that interact with passers-by. Wellington LUX.",
+      "links": [
+        {
+          "label": "lux",
+          "url": "http://lux.org.nz/speakers/nzwarm/"
+        }
+      ],
+      "slug": "nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    },
+    {
+      "title": "Keepers & Bees: an interactive light-art installation of interactive critters that visitors can interact with in real time via their smartphones",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., Withana, A., Wortmann, T. , Cornelius, A., Khew, Y.N., Lian, A. 2014. Keepers & Bees: an interactive light-art installation of interactive critters that visitors can interact with in real time via their smartphones. In Singapore, Archifest 2014 (Keepers: Singapore Designer Collaborative, Orchard Green,Singapore, 26 Sep - 11 October, 2014).",
+      "links": [
+        {
+          "label": "archifest14",
+          "url": "http://archifest.sg/2014/"
+        }
+      ],
+      "slug": "keepers-bees-an-interactive-light-art-installation-of-interactive-critters-that-visitors-can-interact-with-in-real-time-via-their-smartphones",
+      "url": "/publications/#keepers-bees-an-interactive-light-art-installation-of-interactive-critters-that-visitors-can-interact-with-in-real-time-via-their-smartphones"
+    },
+    {
+      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
+      "links": [
+        {
+          "label": "webpage",
+          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
+        }
+      ],
+      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "zsense",
+  "google_scholar": ""
+}

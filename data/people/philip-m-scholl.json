@@ -1,0 +1,118 @@
+{
+  "id": "philip-m-scholl",
+  "slug": "philip-m-scholl",
+  "name": "Philip M. Scholl",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/philip-m-scholl/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/philip-m-scholl/philip-m-scholl.jpg",
+  "bio": "Philip M. Scholl is currently a visiting Research Fellow at the Bioengineering Institute at the University of Auckland. He also holds a position as an academic officer at the University of Freiburg, Germany. Philipp M. Scholl is currently a visiting Research Fellow at the Bioengineering Institute at the University of Auckland. He also holds a position as an academic officer at the University of Freiburg, Germany. Before he worked at the University of Darmstadt, and University of Lancaster.\n\nPhil received his doctoral degree from the University of Freiburg, and a Diploma in Computer Science from the Karlsruhe Institute of Technology (KIT). He is a lecturer on Embedded Systems, Computer Architecture and Wearable Computing.\n\nSince 2012, Phil researches in the area of Wearable and Ubiquitous Computing with a focus on Activity Recognition from wearable computers, and human augmentation.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "stressshoe",
+      "title": "StressShoe",
+      "url": "/projects/stressshoe/"
+    },
+    {
+      "slug": "clothtiles",
+      "title": "ClothTiles",
+      "url": "/projects/clothtiles/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks",
+      "citation": "Elvitigala, D.S., Scholl, P.M., Suriyaarachchi, H., Dissanayake, V. and Nanayakkara, S.C., 2021. StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks. In MobileHCI ’21: The ACM International Conference on Mobile Human-Computer Interaction, September 27–30, 2021, Touluse, France. Honorable Mention Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/1122445.1122456"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/10PlvD_vcwx00qjnCFUK3trsWURCCkBqb/view?usp=sharing"
+        }
+      ],
+      "slug": "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks",
+      "url": "/publications/#stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks"
+    },
+    {
+      "title": "Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry",
+      "citation": "Cao, J., Chan, S.W.T., Garbett, D.L., Denny, P., Nassani, A., Scholl, P.M. and Nanayakkara, S.C., 2021. Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry. In Interaction Design and Children (IDC ’21), June 24–30, 2021, Athens, Greece. ACM, New York, NY, USA, 7 pages. Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3459990.3460716"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1PePtQbU4Qquk1UpyIv9DXGpejZnoNlbf/view?usp=sharing"
+        }
+      ],
+      "slug": "sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry",
+      "url": "/publications/#sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry"
+    },
+    {
+      "title": "ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys",
+      "citation": "Muthukumarana, S., Messerschmidt, M.A., Matthies, D.J.C., Steimle, J., Scholl, P.M., and Nanayakkara, S.C., 2021. ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3411764.3445613"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1UX7Q9UYPImpNHmt_FnGlT8p34sMy2UC0/view?usp=sharing"
+        }
+      ],
+      "slug": "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
+      "url": "/publications/#clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "stressshoe",
+  "google_scholar": ""
+}

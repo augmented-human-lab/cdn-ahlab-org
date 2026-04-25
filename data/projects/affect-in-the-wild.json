@@ -1,0 +1,107 @@
+{
+  "id": "affect-in-the-wild",
+  "slug": "affect-in-the-wild",
+  "title": "Affect in the Wild",
+  "year": "2022",
+  "description": "Emotion intelligence plays a significant role in human interactions. But when it comes to human-computer interactions, emotional intelligence still is not widely used. The rapid development of personal digital devices has opened an opportunity to integrate emotion into human-computer interactions. However, there is a gap between existing affective technologies and widespread usage of those technologies. Further, the growing concerns about user data privacy limit the adaptation of such technologies in real life. This project focuses on bridging the gap between affective technologies and consumer devices while preserving users' data privacy. Primarily, we look into signals that can capture from consumer devices such as smart wearables to identify human affective information without sharing user-generated signals with external services while consuming a small amount of resources on user devices. In technology-wise, we explore representation learning methods and federated learning techniques to bring affect recognition to user devices.\n\nThe feature image is using graphics of people & icons form freepick.",
+  "project_url": "https://ahlab.org/project/affect-in-the-wild/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/affect-in-the-wild/affect-in-the-wild.jpg",
+  "people": [
+    {
+      "slug": "vipula-dissanayake",
+      "name": "Vipula Dissanayake",
+      "url": "/people/vipula-dissanayake/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "elliott-wen",
+      "name": "Elliott Wen",
+      "url": "/people/elliott-wen/"
+    },
+    {
+      "slug": "mark-billinghurst",
+      "name": "Mark Billinghurst",
+      "url": "/people/mark-billinghurst/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
+      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3546738"
+        }
+      ],
+      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
+      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
+    },
+    {
+      "title": "SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning.",
+      "citation": "Dissanayake, V., Seneviratne, S., Rana, R., Wen, E., Kaluarachchi, T., Nanayakkara, S.C., (2022). SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning. IEEE Access",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ACCESS.2022.3149509"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1xbZw21O1GVtRDXDroGVNkpxOPK9firwv/view?usp=sharing"
+        }
+      ],
+      "slug": "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
+      "url": "/publications/#sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning"
+    },
+    {
+      "title": "Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition",
+      "citation": "Dissanayake V., Seneviratne S., Suriyaarachchi H., Wen E., Nanayakkara S.C. 2022. Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition. In Proceedings of Interspeech 2022",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.21437/Interspeech.2022-11258"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/10fhlbEhCmtt2AyR0XNNQk2lRO3PTuY-I/view?usp=share_link"
+        }
+      ],
+      "slug": "self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition",
+      "url": "/publications/#self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition"
+    },
+    {
+      "title": "Speech Emotion Recognition ‘in the Wild’ Using an Autoencoder",
+      "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition ‘in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1356"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1zo2rhxXPDy5cEuG8Ckl-RLfb0Wr9RV5_/view?usp=sharing"
+        }
+      ],
+      "slug": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
+      "url": "/publications/#speech-emotion-recognition-in-the-wild-using-an-autoencoder"
+    }
+  ],
+  "principles": [
+    "cognitive",
+    "identity"
+  ]
+}

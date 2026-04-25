@@ -1,0 +1,19 @@
+{
+  "id": "mits-fingerreader-could-make-life-easier-for-the-blind",
+  "slug": "mits-fingerreader-could-make-life-easier-for-the-blind",
+  "title": "MIT's FingerReader Could Make Life Easier For The Blind",
+  "year": "2014",
+  "type": "news",
+  "outlet": "Federico Guerrini, Forbes",
+  "url": "http://www.forbes.com/sites/federicoguerrini/2014/07/14/mits-fingerreader-could-make-life-easier-for-the-blind/",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

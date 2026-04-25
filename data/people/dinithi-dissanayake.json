@@ -1,0 +1,81 @@
+{
+  "id": "dinithi-dissanayake",
+  "slug": "dinithi-dissanayake",
+  "name": "Dinithi Dissanayake",
+  "email": "dinithi@ahlab.org",
+  "role": "PhD Candidate",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "PhD Candidate",
+      "start": "2023-08",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/dinithi-dissanayake/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/dinithi-dissanayake/dinithi-dissanayake.jpg",
+  "bio": "Dinithi is a PhD candidate at the National University of Singapore, School of Computing. She completed her bachelors in Electronic and Telecommunication Engineering from the University of Moratuwa, Sri Lanka in 2022. Prior to starting her PhD journey, she used to work as a Data Engineer at a leading digital IT service-providing company in Sri Lanka where she provided data science and ML solutions for telecommunication companies. Her research falls under the broad umbrella of Human-Centric AI, with a focus on building egocentric, context-aware systems that support real-world interaction and decision-making.",
+  "external_links": [
+    {
+      "label": "Dinithi's portfolio",
+      "url": "https://dinithidissanayake.com/"
+    }
+  ],
+  "projects": [],
+  "publications": [
+    {
+      "title": "Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation",
+      "citation": "Dissanayake, D., Mysan, M., Luo, Y., Antoni, T., Cleveland, P., Sasikumar, P., Nanayakkara, S. C., 2026. Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772363.3798497"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1BNkKoR87_0D8bzfsWDP0wxX5draRdKu2/view?usp=sharing"
+        }
+      ],
+      "slug": "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
+      "url": "/publications/#interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
+    },
+    {
+      "title": "VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games",
+      "citation": "Dissanayake, D., Gupta, C., Sasikumar, P. and Nanayakkara, S.C., 2025, April. VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3706599.3719891"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1LZDUh0bsjSQCEu32ka_tnmEJczgguyEW/view?usp=sharing"
+        }
+      ],
+      "slug": "vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games",
+      "url": "/publications/#vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

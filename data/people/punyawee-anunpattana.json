@@ -1,0 +1,48 @@
+{
+  "id": "punyawee-anunpattana",
+  "slug": "punyawee-anunpattana",
+  "name": "Punyawee Anunpattana",
+  "email": "punyawee@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2025-03",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/punyawee-anunpattana/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/punyawee-anunpattana/punyawee-anunpattana.jpg",
+  "bio": "Punyawee is a Research Fellow at the National University of Singapore (NUS), where he works on AI-driven adaptive learning, gamification, and educational technology. He holds a Ph.D. in Information Science from the Japan Advanced Institute of Science and Technology (JAIST), where his research focused on game informatics, human-computer interaction, and the transformative potential of AI and gamification in education. His work is centered on making learning more engaging and effective, with a particular emphasis on enhancing curiosity in the learning process.\n\nIn his leisure time, Punyawee enjoys playing games, watching films and TV series, and exploring new places. He has a passion for experiencing different cultures and landscapes. A true coffee enthusiast, he also enjoys making coffee during his free time.",
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://www.researchgate.net/profile/Punyawee-Anunpattana-2"
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

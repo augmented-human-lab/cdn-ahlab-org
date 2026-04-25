@@ -1,0 +1,26 @@
+{
+  "id": "sutdfoodcam",
+  "slug": "sutdfoodcam",
+  "title": "SUTDFoodCam",
+  "year": "2011",
+  "description": "SUTDFoodCam is an IP camera mounted in the L2 pantry (next to IDC space), pointing directly down at the counter. If you have any food left after events/meetings or you would like to share some new food with your colleagues, leave them on this pantry top. There is a button on the side wall next to the counter to be pressed when food is left. The button causes an email alert with a snapshot picture to be sent to the SUTDFoodCam mailing list. The whole idea is to promote impromptu introductions and informal social interactions through food sharing. To help protect people’s privacy, the camera is intentionally pointed such a way that only the countertop is seen. here to subscribe/unsubscribe for SUTDFoodCam alerts (only works within SUTD network)--> History --> The idea of SUTDFoodCam is borrowed from the MIT Media Lab . Media Lab 'Foodcam' is a web cam mounted in the E15-335 cafe, pointing directly down at the counter where food is traditionally left for community consumption. Foodcam hardware was originally programmed and deployed by Trevor Schroeder.",
+  "project_url": "https://ahlab.org/project/sutdfoodcam/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/sutdfoodcam/sutdfoodcam.jpg",
+  "people": [
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "sociocultural"
+  ]
+}

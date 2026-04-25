@@ -1,0 +1,58 @@
+{
+  "id": "actualtouch",
+  "slug": "actualtouch",
+  "title": "ActualTouch",
+  "year": "2020",
+  "description": "A finger held in the air exhibits microvibrations, which are reduced when it touches a static object. When a finger moves along a surface, the friction between them produces vibrations, which can not be produced with a free-moving finger in the air. With an inertial measurement unit (IMU) capturing such motion characteristics, we demonstrate the feasibility to detect contact between the finger and static objects. We call our technique ActualTouch. Studies show that a single nail-mounted IMU on the index finger provides sufficient data to train a binary touch status classifier (i.e., touch vs. no-touch), with an accuracy above 95%, generalised across users. This model, trained on a rigid tabletop surface, was found to retain an average accuracy of 96% for 7 other types of everyday surfaces with varying rigidity, and in walking and sitting scenarios where no touch occurred. ActualTouch can be combined with other interaction techniques, such as in a uni-stroke gesture recogniser on arbitrary surfaces, where touch status from ActualTouch is used to delimit the motion gesture data that feed into the recogniser. We demonstrate the potential of ActualTouch in a range of scenarios, such as interaction for augmented reality applications, and leveraging daily surfaces and objects for.",
+  "project_url": "https://ahlab.org/project/actualtouch/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/actualtouch/actualtouch.jpg",
+  "people": [
+    {
+      "slug": "shi-yilei",
+      "name": "Shi Yilei",
+      "url": "/people/shi-yilei/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "jiashuo-cao",
+      "name": "Jiashuo Cao",
+      "url": "/people/jiashuo-cao/"
+    },
+    {
+      "slug": "mengmeng-sun",
+      "name": "Mengmeng Sun",
+      "url": "/people/mengmeng-sun/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Ready, Steady, Touch!: Sensing Physical Contact with a Finger-Mounted IMU",
+      "citation": "Shi, Y., Zhang, H., Zhao, K., Cao, J., Sun, M. and Nanayakkara, S.C., 2020. Ready, steady, touch! sensing physical contact with a finger-mounted IMU. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(2), pp.1-25.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3397309"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1gEpRp35i_nJgMMf_RYiQBI7aKKMGmcpQ/view?usp=sharing"
+        }
+      ],
+      "slug": "ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu",
+      "url": "/publications/#ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu"
+    }
+  ],
+  "principles": [
+    "body"
+  ]
+}

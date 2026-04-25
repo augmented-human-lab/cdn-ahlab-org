@@ -1,0 +1,42 @@
+{
+  "id": "fatin-atiqah",
+  "slug": "fatin-atiqah",
+  "name": "Fatin Atiqah",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/fatin-atiqah/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/fatin-atiqah/fatin-atiqah.jpg",
+  "bio": "Fatin is a final year student at Institute Technical Education (ITE), studying Games Programming and Development.During her internship at STUD, She is currently working as a Game Programmer. She always strive to learn and explore new things around her. She loves creating games that can help to improve people's life and entertainment.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

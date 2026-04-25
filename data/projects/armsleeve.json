@@ -1,0 +1,69 @@
+{
+  "id": "armsleeve",
+  "slug": "armsleeve",
+  "title": "ArmSleeve",
+  "year": "2016",
+  "description": "\"ArmSleeve\", a patient monitoring system to support occupational therapists in their upper limb rehabilitation work with stroke patients. Occupational therapists can provide rehabilitation in clinics, but they have limited insights into how much their patients use their affected arm and hand in daily life, which is critical for effective recovery to occur.",
+  "project_url": "https://ahlab.org/project/armsleeve/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/armsleeve/armsleeve.jpg",
+  "people": [
+    {
+      "slug": "anusha-withana",
+      "name": "Anusha Withana",
+      "url": "/people/anusha-withana/"
+    },
+    {
+      "slug": "chamod-weerasinghe",
+      "name": "Chamod Weerasinghe",
+      "url": "/people/chamod-weerasinghe/"
+    },
+    {
+      "slug": "alexandru-dancu",
+      "name": "Alexandru Dancu",
+      "url": "/people/alexandru-dancu/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "frank-vetere",
+      "name": "Frank Vetere",
+      "url": "/people/frank-vetere/"
+    },
+    {
+      "slug": "bernd-ploderer",
+      "name": "Bernd Ploderer",
+      "url": "/people/bernd-ploderer/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ArmSleeve: A Patient Monitoring System to Support Occupational Therapists in Stroke Rehabilitation",
+      "citation": "Ploderer, B., Fong, J., Withana, A., Klaic, M., Nair, S., Crocher, V., Vetere, F. and Nanayakkara, S.C., 2016, June. ArmSleeve: a patient monitoring system to support occupational therapists in stroke rehabilitation. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (pp. 700-711).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2901790.2901799"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Microsoft-Word-pn149-ploderer.docx-p700-ploderer.pdf"
+        }
+      ],
+      "slug": "armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation",
+      "url": "/publications/#armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation"
+    }
+  ],
+  "principles": [
+    "body",
+    "identity"
+  ]
+}

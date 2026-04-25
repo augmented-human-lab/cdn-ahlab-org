@@ -1,0 +1,42 @@
+{
+  "id": "dinuka-jayaweera",
+  "slug": "dinuka-jayaweera",
+  "name": "Dinuka Jayaweera",
+  "role": "Project Manager",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Project Manager",
+      "start": "2024-03",
+      "end": "2025-05"
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/dinuka-jayaweera/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/dinuka-jayaweera/dinuka-jayaweera.jpg",
+  "bio": "Dinuka brings 7 years of experience in managing globally distributed software development, IT service management, and data engineering teams. She holds a master's degree in Business Administration specialized in Project Management and a bachelor’s degree in Computer Science. Passionate about giving back, Dinuka volunteers to support undergraduates and women in technology through global organizations like IEEE, Google Women Techmakers, and Systers, empowering others in their personal and professional development. Outside of work, she finds joy in blogging about her solo travels and practicing yoga.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

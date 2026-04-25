@@ -1,0 +1,95 @@
+{
+  "id": "santiago-ortega",
+  "slug": "santiago-ortega",
+  "name": "Santiago Ortega",
+  "role": "Research Engineer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/santiago-ortega/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/santiago-ortega/santiago-ortega.jpg",
+  "bio": "Santiago received his B.Sc. in Electrical Engineering and Computer Science from La Salle – Ramon Llull University (Barcelona, Spain), where he also worked as a Research Assistant at the Electronics and Robotics Lab during his studies. He spent the last year of his bachelor’s degree at The Robotics Institute in Carnegie Mellon University. There, he performed his B.Sc. thesis and joined the Human Sensing Lab (HSL) as a Research Associate. In the HSL he worked mainly on IntraFace, an application for facial image processing. For his bachelor´s thesis, Santiago developed a low-power FPGA-based Camera Sensor for image processing and robotics with the aim of creating a solution for robotic platforms and all kinds of applications requiring a smart vision sensor. In 2013, he joined the Augmented Senses Group at SUTD where he is currently working as a Research Engineer and part of the SUTD-MIT International Design Centre.\n\nHis interests are in the fields of Robotics, Human Robot Interaction (HRI), Human Computer Interaction (HCI), electronics and hardware design.\n\nBesides technology, his other passion is sport which he understands as a way of life. Off work, he likes running, cycling and hiking. He also enjoy spending his free time with the family, meeting up with friends for food and drinks, watching a good movie, and traveling to new places.\n\nWebsite: santioa.com",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "sparkubes",
+      "title": "SparKubes",
+      "url": "/projects/sparkubes/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    },
+    {
+      "slug": "birdie",
+      "title": "Birdie",
+      "url": "/projects/birdie/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SparKubes: Exploring the Interplay between Digital and Physical Spaces with Minimalistic Interfaces",
+      "citation": "Ortega-Avila, S., Huber, J., Janaka, N., Withana, A., Fernando, P. and Nanayakkara, S.C., 2014, December. SparKubes: exploring the interplay between digital and physical spaces with minimalistic interfaces. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 204-207).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p204-ortega-avila.pdf"
+        }
+      ],
+      "slug": "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces",
+      "url": "/publications/#sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces"
+    },
+    {
+      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
+      "links": [
+        {
+          "label": "webpage",
+          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
+        }
+      ],
+      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    },
+    {
+      "title": "Birdie: Towards a true flying experience",
+      "citation": "Petry, B., Ortega-Avila, S., Nanayakkara, S.C., and Foong, S., 2014, Birdie: Towards a true flying experience. In Workshop on Assistive Augmentation, Extended Abstracts of the 32nd Annual SIGCHI Conference on Human Factors in Computing Systems (CHI14). Toronto, Canada.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Birdie-Towards-a-true-flying-experience.pdf"
+        }
+      ],
+      "slug": "birdie-towards-a-true-flying-experience",
+      "url": "/publications/#birdie-towards-a-true-flying-experience"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "sparkubes",
+  "google_scholar": ""
+}

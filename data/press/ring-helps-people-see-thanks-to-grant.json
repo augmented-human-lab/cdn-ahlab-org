@@ -1,0 +1,19 @@
+{
+  "id": "ring-helps-people-see-thanks-to-grant",
+  "slug": "ring-helps-people-see-thanks-to-grant",
+  "title": "Ring helps people 'see', thanks to grant",
+  "year": "2016",
+  "type": "news",
+  "outlet": "Straits Times",
+  "url": "http://www.straitstimes.com/singapore/ring-helps-people-see-thanks-to-grant",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

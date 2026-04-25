@@ -1,0 +1,19 @@
+{
+  "id": "new-invention-fingerreader",
+  "slug": "new-invention-fingerreader",
+  "title": "New Invention: FingerReader",
+  "year": "2014",
+  "type": "video",
+  "outlet": "Fox 10",
+  "url": "http://up.anv.bz/latest/anvload.html",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

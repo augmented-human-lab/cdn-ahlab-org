@@ -1,0 +1,15 @@
+{
+  "id": "fingerreader-world-changing-ideas-award-finalist",
+  "slug": "fingerreader-world-changing-ideas-award-finalist",
+  "title": "FingerReader: World Changing Ideas Award Finalist",
+  "year": "2018",
+  "type": "award",
+  "outlet": "FastCompany",
+  "url": "https://www.fastcompany.com/40546728/the-2018-world-changing-ideas-awards-finalists",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    }
+  ]
+}

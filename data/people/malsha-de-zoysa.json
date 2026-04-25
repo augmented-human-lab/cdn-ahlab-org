@@ -1,0 +1,53 @@
+{
+  "id": "malsha-de-zoysa",
+  "slug": "malsha-de-zoysa",
+  "name": "Malsha de Zoysa",
+  "role": "Research Engineer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "2023-03",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/malsha-de-zoysa/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/malsha-de-zoysa/malsha-de-zoysa.jpg",
+  "bio": "Having graduated from the University of Sri Jayewardenepura with a degree in computer science, Malsha worked in the R&D department of a major software development company based in Sri Lanka for 6 years, developing AI-powered software solutions in the travel domain. She loves exploring new technologies and putting them together to build extraordinary things that can make the world a better place. Currently, Malsha is pursuing her master's degree in business psychology at London Metropolitan University in the UK. She's very curious about the workings of the human brain and how that knowledge can be applied to boost productivity and happiness.\n\nIn her free time, Malsha loves to hum around to music of all sorts and to turn the pages of a psychological thriller while enjoying a hot cup of tea.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "dronebuddy",
+      "title": "DroneBuddy",
+      "url": "/projects/dronebuddy/"
+    },
+    {
+      "slug": "itiles",
+      "title": "iTILES",
+      "url": "/projects/itiles/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "dronebuddy",
+  "google_scholar": ""
+}

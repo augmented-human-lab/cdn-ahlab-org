@@ -1,0 +1,61 @@
+{
+  "id": "aristee-thevenon",
+  "slug": "aristee-thevenon",
+  "name": "Aristée Thevenon",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/aristee-thevenon/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/aristee-thevenon/aristee-thevenon.jpg",
+  "bio": "Aristée Thevenon is an intern from the French National University of Civil Aviation, where he is a second-year engineer student specialised in embedded systems. During this year, he worked on mutual awareness and tangible interactions for a tactile overhead panel. With this internship, he hopes to improve his knowledge in Human-Computer Interface.\n\nApart from his studies, he enjoys videography and aeroplane piloting.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "eyeknowyou",
+      "title": "EyeKnowYou",
+      "url": "/projects/eyeknowyou/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam",
+      "citation": "Kaluarachchi, T., Sapkota, S., Taradel, J., Thevenon, A., Matthies, D.J.C., and Nanayakkara, S.C., 2021. EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam. In MobileHCI ’21 Extended Abstracts: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fxUMUGfoCUhy4GOb0qLt-o0BbSIzZQRv/view?usp=sharing"
+        }
+      ],
+      "slug": "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam",
+      "url": "/publications/#eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "eyeknowyou",
+  "google_scholar": ""
+}

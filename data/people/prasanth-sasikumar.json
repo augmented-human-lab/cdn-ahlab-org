@@ -1,0 +1,177 @@
+{
+  "id": "prasanth-sasikumar",
+  "slug": "prasanth-sasikumar",
+  "name": "Prasanth Sasikumar",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2023-05",
+      "end": "2026-03"
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/prasanth-sasikumar/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/prasanth-sasikumar/prasanth-sasikumar.jpg",
+  "bio": "Prasanth joined the Augmented Human Lab at the National University of Singapore (NUS) as a Research Fellow. With a strong focus on augmented reality (AR) and virtual reality (VR), Prasanth's research interests revolve around exploring the potential of these immersive technologies. His expertise lies in leveraging multimodal input and remote collaboration to enhance user experiences in AR and VR environments. Prasanth completed his PhD, which investigated the utilization of multimodal input for remote collaboration using AR and VR. Prior to that, he earned a master's degree in Human-Computer Interaction from HIT Lab NZ, where he studied the use of haptics in immersive environments.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "zenflow",
+      "title": "Zenflow",
+      "url": "/projects/zenflow/"
+    },
+    {
+      "slug": "emodrink",
+      "title": "EmoDrink",
+      "url": "/projects/emodrink/"
+    },
+    {
+      "slug": "xr-floatation-therapy",
+      "title": "XR Floatation Therapy",
+      "url": "/projects/xr-floatation-therapy/"
+    },
+    {
+      "slug": "seear",
+      "title": "SeEar",
+      "url": "/projects/seear/"
+    },
+    {
+      "slug": "emo-know",
+      "title": "EMO-KNOW",
+      "url": "/projects/emo-know/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation",
+      "citation": "Dissanayake, D., Mysan, M., Luo, Y., Antoni, T., Cleveland, P., Sasikumar, P., Nanayakkara, S. C., 2026. Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772363.3798497"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1BNkKoR87_0D8bzfsWDP0wxX5draRdKu2/view?usp=sharing"
+        }
+      ],
+      "slug": "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
+      "url": "/publications/#interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
+    },
+    {
+      "title": "VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games",
+      "citation": "Dissanayake, D., Gupta, C., Sasikumar, P. and Nanayakkara, S.C., 2025, April. VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3706599.3719891"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1LZDUh0bsjSQCEu32ka_tnmEJczgguyEW/view?usp=sharing"
+        }
+      ],
+      "slug": "vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games",
+      "url": "/publications/#vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games"
+    },
+    {
+      "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
+      "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TVCG.2024.3372044"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1eTlLX4o3eOzI7aPUcRHMiWoCrRe1aDqF/view?usp=drive_link"
+        }
+      ],
+      "slug": "vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research",
+      "url": "/publications/#vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research"
+    },
+    {
+      "title": "SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings",
+      "citation": "Samaradivakara, Y., Ushan, T., Pathirage, A., Sasikumar, P., Karunanayaka, K., Keppitiyagama, C., Nanayakkara, S.C, 2024. SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11–16, 2024, Honolulu, HI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613905.3650974"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Lea70xKlKilhKwF3W31LFrolj7sBZ5ri/view?usp=sharing"
+        }
+      ],
+      "slug": "seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings",
+      "url": "/publications/#seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings"
+    },
+    {
+      "title": "Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water",
+      "citation": "Montoya, M.F., Qiao, H., Sasikumar, P., Elvitigala, D.S., Pell, S.J., Nanayakkara, S.C, Mueller, F. ‘Floyd’, 2024. Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613904.3642285"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1kFNShCVypGn7mNFvkka4nwg2KH-qgEDN/view?usp=drive_link"
+        }
+      ],
+      "slug": "exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water",
+      "url": "/publications/#exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water"
+    },
+    {
+      "title": "A User Study on Sharing Physiological Cues in VR Assembly Tasks",
+      "citation": "Sasikumar, P., Hajika, R., Gupta, K., Selvan, T., Pai, Y.S., Bai, H., Nanayakkara, S.C., and Billinghurst, M. 2024. Title of the Article. In IEEE Conference on Virtual Reality and 3D User Interfaces, 2024.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1M7seP_4dbj9O4xGWd6oXtl2RrWy3D07b/view?usp=drive_link"
+        }
+      ],
+      "slug": "a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks",
+      "url": "/publications/#a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks"
+    },
+    {
+      "title": "EMO-KNOW: A Large Scale Dataset on Emotion-Cause",
+      "citation": "Nguyen, M., Samaradivakara, Y., Sasikumar, P., Gupta, C. and Nanayakkara, S.C., 2023, December. EMO-KNOW: A Large Scale Dataset on Emotion-Cause. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 11043-11051).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.737"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1NsFaWPwX-DO21d_BEpvfUs5Ri8BMoOjb/view?usp=drive_link"
+        }
+      ],
+      "slug": "emo-know-a-large-scale-dataset-on-emotion-cause",
+      "url": "/publications/#emo-know-a-large-scale-dataset-on-emotion-cause"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "zenflow",
+  "google_scholar": ""
+}

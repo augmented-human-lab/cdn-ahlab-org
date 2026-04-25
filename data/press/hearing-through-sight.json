@@ -1,0 +1,15 @@
+{
+  "id": "hearing-through-sight",
+  "slug": "hearing-through-sight",
+  "title": "\"Hearing through sight\"",
+  "year": "2009",
+  "type": "news",
+  "outlet": "National University of Singapore Research Gallery",
+  "url": "http://www.eng.nus.edu.sg/research/Research_Gallery/research99.htm",
+  "projects": [
+    {
+      "slug": "hapticchair",
+      "title": "HapticChair"
+    }
+  ]
+}

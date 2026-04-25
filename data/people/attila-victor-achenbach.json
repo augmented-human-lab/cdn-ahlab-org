@@ -1,0 +1,75 @@
+{
+  "id": "attila-victor-achenbach",
+  "slug": "attila-victor-achenbach",
+  "name": "Attila Victor Achenbach",
+  "role": "Research Engineer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/attila-victor-achenbach/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/attila-victor-achenbach/attila-victor-achenbach.jpg",
+  "bio": "Attila was working as a research engineer in the Augmented Human Lab from Apr 2015 to Mar 2018. In the AHLab, he dealt with 3d modelling and rapid prototyping, and worked on various smart healthcare/rehab tech projects as well as assistive systems for people with different abilities.\n\nPrior to joining the AHLab at SUTD, Attila worked in R&D at the department for Robot and Assistive Systems of the Fraunhofer Institute for Manufacturing Engineering and Automation, Germany, at the Telecooperation Lab at Technische Universität Darmstadt, Germany, and at CIATEQ, México.\n\nHe had graduated from Karlsruhe Institute of Technology, Germany, as a mechatronics engineer with a focus on robotics and bionics, and professionally is especially interested in R&D in the field of assistive systems and augmenting human senses.\n\nPersonally, Attila enjoys exploring and learning, being creative, challenging the status quo, socializing and networking, helping others, as well as a wide variety of other interactive activities and sports. You would often find him at hackathons or talks and meetups related to (healthcare) technology, entrepreneurship, and social impact, or travelling for (cultural) exploration or sports like surfing, scuba diving, or skydiving.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "muss-bits",
+      "title": "MuSS-Bits",
+      "url": "/projects/muss-bits/"
+    },
+    {
+      "slug": "swimsight",
+      "title": "SwimSight",
+      "url": "/projects/swimsight/"
+    },
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SwimSight: Supporting Deaf Users to Participate in Swimming Games",
+      "citation": "Elvitigala, D.S., Wessolek, D., Achenbach, A.V., Singhabahu, C. and Nanayakkara, S.C., 2016, November. SwimSight: Supporting deaf users to participate in swimming games. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 567-570).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3010915.3010969"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/paper1591.pdf"
+        }
+      ],
+      "slug": "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
+      "url": "/publications/#swimsight-supporting-deaf-users-to-participate-in-swimming-games"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "muss-bits",
+  "google_scholar": ""
+}

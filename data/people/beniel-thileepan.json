@@ -1,0 +1,48 @@
+{
+  "id": "beniel-thileepan",
+  "slug": "beniel-thileepan",
+  "name": "Beniel Thileepan",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/beniel-thileepan/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/beniel-thileepan/beniel-thileepan.jpg",
+  "bio": "Beniel is an intern at Augmented Human Lab, at SUTD, Singapore. He was born in Trincomalee, Srilanka and currently an undergraduate in University of Moratuwa, Srilanka following B.Sc Engineering in Electronics and Telecommunication. He hopes to be an innovator and a researcher in the filed of electronics with his interest on image processing, machine vision, electronic design and algorithm development. He is currently working on visual recognition of scale invariant deformation tolerant object detection at AH Lab. Beniel hopes to work with current and future technologies with fusion of creativity for developing adaptive solutions.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "fingerreader",
+  "google_scholar": ""
+}

@@ -1,0 +1,41 @@
+{
+  "id": "the-ribbon",
+  "slug": "the-ribbon",
+  "title": "The RIBbon",
+  "year": "2015",
+  "description": "The RIBbon is an interactive lighting and architectural installation designed by the Advanced Architecture Laboratory and Augmented Human Laboratory of the Singapore University of Technology and Design (SUTD), head by Professor Thomas Schroepfer and Assistant Professor Suranga Nanayakkara respectively.\n\nThe installation pulsates in resonance with the festive music of the Singapore River and responds to pedestrian traffic along the bridge. It consists of 224 acrylic tubes, wired with Philips Flex LMX LED light strands that are supported by laser-cut steel ribs to weave a tapestry of 1,200 lights along Read Bridge. The ribs are laser-cut steel plate members which are tied back to the existing bridge parapet wall with steel cable wires. Only 2 ribs meet the ground on both sides of the bridge with the rest of the ribs forming a light-weight cantilevering structure that is interconnected with steel supports.\n\nThe interactivity of the RIBbon is controlled by a sensor system based on the fusion of infrared cameras and microphones with advanced signal processing techniques. This sensor system provides an estimation of the human activity level on the bridge. The base visualisation will be controlled by a music playlist connected directly to the light controller. This base visualisation will be modulated by the human activity on the bridge.\n\nThe rigid steel members come together to create an organic form of different heights and experiences. From children to adults, each will find their own eye line animated with a colourful, vibrant experience.",
+  "project_url": "https://ahlab.org/project/the-ribbon/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/the-ribbon/the-ribbon.jpg",
+  "people": [
+    {
+      "slug": "roger-boldu",
+      "name": "Roger Boldu",
+      "url": "/people/roger-boldu/"
+    },
+    {
+      "slug": "anusha-withana",
+      "name": "Anusha Withana",
+      "url": "/people/anusha-withana/"
+    },
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "thomas-schroepfer",
+      "name": "Thomas Schroepfer",
+      "url": "/people/thomas-schroepfer/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "sociocultural"
+  ]
+}

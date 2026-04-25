@@ -1,0 +1,96 @@
+{
+  "id": "prospero",
+  "slug": "prospero",
+  "title": "Prospero",
+  "year": "2019",
+  "description": "The Prospero project explores the use of a conversational agent and investigates what is the most suitable occasion for delivering memory training. With the hypothesis that users are more likely to accept prompts for memory training during idle or relaxed moments (when they are not busy), we used physiological sensors to measure electrodermal activity (EDA) and heart-rate variability (HRV) to monitor the users' cognitive load and issued prompts when the cognitive load was low.\n\nThe project was presented and published at Augmented Humans 2019 and CHI 2020 (Extended Abstracts). It received the Gold Award (best in Student Digital Category) at the Best Design Awards by the Designers Institute of New Zealand, Fast Company 2020 World Changing Ideas Awards Honorable Mention and Velocity Innovation Challenge 2019 Female Founders Prize by UniServices.",
+  "project_url": "https://ahlab.org/project/prospero/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/prospero/prospero.jpg",
+  "people": [
+    {
+      "slug": "samantha-chan",
+      "name": "Samantha Chan",
+      "url": "/people/samantha-chan/"
+    },
+    {
+      "slug": "vipula-dissanayake",
+      "name": "Vipula Dissanayake",
+      "url": "/people/vipula-dissanayake/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "shardul-sapkota",
+      "name": "Shardul Sapkota",
+      "url": "/people/shardul-sapkota/"
+    },
+    {
+      "slug": "rebecca-mathews",
+      "name": "Rebecca Mathews",
+      "url": "/people/rebecca-mathews/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent",
+      "citation": "Chan, S. W. T., Sapkota, S., Mathews, R., Zhang, H. and Nanayakkara, S. C., 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-23.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yw-HUkFRsdeuHzvP14rxq5RMq03kENsy/view?usp=sharing"
+        }
+      ],
+      "slug": "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent",
+      "url": "/publications/#prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
+    },
+    {
+      "title": "Biosignal-Sensitive Memory Improvement and Support Systems",
+      "citation": "Chan, S. W. T. 2020. Biosignal-Sensitive Memory Improvement and Support Systems. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–7.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi-org.ezproxy.auckland.ac.nz/10.1145/3334480.3375031"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TGUGp3DP9wQEccPRk8bo-OHiqdWnUkwd/view?usp=sharing"
+        }
+      ],
+      "slug": "biosignal-sensitive-memory-improvement-and-support-systems",
+      "url": "/publications/#biosignal-sensitive-memory-improvement-and-support-systems"
+    },
+    {
+      "title": "Prospero: A Personal Wearable Memory Coach",
+      "citation": "Chan, S. W. T., Zhang, H. and Nanayakkara, S. C., 2019, March. Prospero: A Personal Wearable Memory Coach. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311870"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1gzCAH8kVmlWjIDkt-ZBpCOT79vwFsf0Y/view?usp=sharing"
+        }
+      ],
+      "slug": "prospero-a-personal-wearable-memory-coach",
+      "url": "/publications/#prospero-a-personal-wearable-memory-coach"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive"
+  ]
+}

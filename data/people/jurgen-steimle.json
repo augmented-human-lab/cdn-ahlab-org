@@ -1,0 +1,114 @@
+{
+  "id": "jurgen-steimle",
+  "slug": "jurgen-steimle",
+  "name": "Jürgen Steimle",
+  "role": "Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/jurgen-steimle/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/jurgen-steimle/jurgen-steimle.jpg",
+  "bio": "Jürgen Steimle is a full professor at the Department of Computer Science and at the DFG-Cluster Of Excellence “Multimodal Computing and Interaction” at Saarland University.\n\nMore about Jürgen: https://hci.cs.uni-saarland.de/people/juergen-steimle/",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "xrtic",
+      "title": "XRtic",
+      "url": "/projects/xrtic/"
+    },
+    {
+      "slug": "clothtiles",
+      "title": "ClothTiles",
+      "url": "/projects/clothtiles/"
+    },
+    {
+      "slug": "postbits",
+      "title": "PostBits",
+      "url": "/projects/postbits/"
+    },
+    {
+      "slug": "augmented-forearm",
+      "title": "Augmented Forearm",
+      "url": "/projects/augmented-forearm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation",
+      "citation": "Muthukumarana, S., Nassani, A., Park, N., Steimle, J., Billinghurst, B., and Nanayakkara, S.C., XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2022.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ISMAR55827.2022.00071"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m1irQX5MT0JKANEgfIncgX2kCWCJPDE0/view?usp=sharing"
+        }
+      ],
+      "slug": "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
+      "url": "/publications/#xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation"
+    },
+    {
+      "title": "ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys",
+      "citation": "Muthukumarana, S., Messerschmidt, M.A., Matthies, D.J.C., Steimle, J., Scholl, P.M., and Nanayakkara, S.C., 2021. ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3411764.3445613"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1UX7Q9UYPImpNHmt_FnGlT8p34sMy2UC0/view?usp=sharing"
+        }
+      ],
+      "slug": "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
+      "url": "/publications/#clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
+    },
+    {
+      "title": "PostBits: using contextual locations for embedding cloud information in the home",
+      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
+        }
+      ],
+      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
+      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
+    },
+    {
+      "title": "AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm",
+      "citation": "Olberding S., Yeo K.P., Nanayakkara S.C. and Steimle J. “AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm”, ACM SIGCHI Augmented Human, March, 2013.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_olberding_2013.pdf"
+        }
+      ],
+      "slug": "augmentedforearm-exploring-the-design-space-of-a-display-enhanced-forearm",
+      "url": "/publications/#augmentedforearm-exploring-the-design-space-of-a-display-enhanced-forearm"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "xrtic",
+  "google_scholar": ""
+}

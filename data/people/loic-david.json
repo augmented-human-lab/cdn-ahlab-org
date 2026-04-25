@@ -1,0 +1,65 @@
+{
+  "id": "loic-david",
+  "slug": "loic-david",
+  "name": "Loïc David",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/loic-david/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/loic-david/loic-david.jpg",
+  "bio": "Loïc is an intern from the French National University of Civil Aviation, where he is a second-year engineer student specialized in IT for air transport. During his internship, he hopes to improve his skills and knowledge in HCI (Human-Computer Interaction) and to discover a new culture.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "gymsoles",
+      "title": "GymSoles",
+      "url": "/projects/gymsoles/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "GymSoles: Improving Squats and Dead-Lifts by Visualizing the User’s Centre of Pressure",
+      "citation": "Elvitigala, D.S., Matthies, D.J., David, L., Weerasinghe, C. and Nanayakkara, S.C., 2019, May. GymSoles: Improving Squats and Dead-Lifts by Visualizing the User's Center of Pressure. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300404"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TxCTJcmr2k7xQLOp69HbGCyi6WaTZoIa/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure",
+      "url": "/publications/#gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "gymsoles",
+  "google_scholar": ""
+}

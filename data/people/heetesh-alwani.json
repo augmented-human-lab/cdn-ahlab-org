@@ -1,0 +1,61 @@
+{
+  "id": "heetesh-alwani",
+  "slug": "heetesh-alwani",
+  "name": "Heetesh Alwani",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/heetesh-alwani/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/heetesh-alwani/heetesh-alwani.jpg",
+  "bio": "Heetesh is a visiting student from the Nanyang Technological University in Singapore, where he is a part of the Renaissance Engineering Programme. By joining the Augmented Human Lab, he hopes to develop his skill set so that he can design technology that will result in a more inclusive society. He enjoys new experiences and will try his hand at anything as long as he thinks it will be fun and fulfilling. In his free time, he enjoys reading about space and hopes to one day be a passenger on a commercial spacecraft.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "lighttank",
+      "title": "LightTank",
+      "url": "/projects/lighttank/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "LightTank",
+      "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3414686.3427113"
+        }
+      ],
+      "slug": "lighttank",
+      "url": "/publications/#lighttank"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "lighttank",
+  "google_scholar": ""
+}

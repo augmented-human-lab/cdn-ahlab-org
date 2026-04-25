@@ -1,0 +1,49 @@
+{
+  "id": "nzwarm",
+  "slug": "nzwarm",
+  "title": "nZwarm",
+  "year": "2014",
+  "description": "nZwarm is a swarm of luminous “sea creatures” that interact with passers-by. Subtle and hardly visible by day, nZwarm comes alive at night. As daylight fades, the cells of nZwarm illuminate the waters of Wellington’s waterfront lagoon with fluorescent light reminiscent of natural phenomena such as bioluminescent algae or the Aurora Borealis. Visitors will be able to interact with nZwarm through your mobile phone which will cause subtle modulations of its light patterns. nZwarm was exhibited at Lux'14 light festival from 22nd to 31st August, 2014 at Wellington bay, New Zealand.",
+  "project_url": "https://ahlab.org/project/nzwarm/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/nzwarm/nzwarm.jpg",
+  "people": [
+    {
+      "slug": "thomas-schroepfer",
+      "name": "Thomas Schroepfer",
+      "url": "/people/thomas-schroepfer/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "anusha-withana",
+      "name": "Anusha Withana",
+      "url": "/people/anusha-withana/"
+    },
+    {
+      "slug": "juan-pablo-forero-cortes",
+      "name": "Juan Pablo Forero Cortés",
+      "url": "/people/juan-pablo-forero-cortes/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "nZwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Nanayakkara, S.C., Schroepfer, T., Withana, A., Wortmann, T. and Pablo, J., 2014. nZwarm: a swarm of luminous sea creatures that interact with passers-by. Wellington LUX.",
+      "links": [
+        {
+          "label": "lux",
+          "url": "http://lux.org.nz/speakers/nzwarm/"
+        }
+      ],
+      "slug": "nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    }
+  ],
+  "principles": [
+    "sociocultural"
+  ]
+}

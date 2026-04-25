@@ -1,0 +1,32 @@
+{
+  "id": "cotacs",
+  "slug": "cotacs",
+  "title": "CoTacs",
+  "year": "2024",
+  "description": "Designing effective haptic feedback is challenging due to the subjective nature of touch and the fact that multiple people cannot easily share and evaluate touch experiences. In this work, we propose CoTacs, a collaborative haptic toolkit to address the challenges of haptic feedback design by enabling designers to explore haptic experiences together using group collaboration and allowing them to refine ideas quickly through early feedback during the design process.",
+  "project_url": "https://ahlab.org/project/cotacs/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/cotacs/cotacs.jpg",
+  "people": [
+    {
+      "slug": "moritz-messerschmidt",
+      "name": "Moritz Messerschmidt",
+      "url": "/people/moritz-messerschmidt/"
+    },
+    {
+      "slug": "juan-pablo-forero-cortes",
+      "name": "Juan Pablo Forero Cortés",
+      "url": "/people/juan-pablo-forero-cortes/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "perceptual",
+    "sociocultural"
+  ]
+}

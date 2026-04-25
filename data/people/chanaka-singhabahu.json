@@ -1,0 +1,107 @@
+{
+  "id": "chanaka-singhabahu",
+  "slug": "chanaka-singhabahu",
+  "name": "Chanaka Singhabahu",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/chanaka-singhabahu/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/chanaka-singhabahu/chanaka-singhabahu.jpg",
+  "bio": "Chanaka Singhabahu is an engineering undergraduate who is currently pursuing Electronic and Telecommunication Engineering at University of Moratuwa (Sri Lanka) and currently working as a research intern at Augmented Human Lab at SUTD.\n\nHe is mainly interested in the fields of Power Electronics, Embedded Systems, Robotics, Internet of Things, Computer Architecture and ASIC design. He is also interested in firmware development and algorithms.\n\nIn his leisure time, he likes to watch movies and TV shows.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "zsense",
+      "title": "zSense",
+      "url": "/projects/zsense/"
+    },
+    {
+      "slug": "wavesense",
+      "title": "WaveSense",
+      "url": "/projects/wavesense/"
+    },
+    {
+      "slug": "swimsight",
+      "title": "SwimSight",
+      "url": "/projects/swimsight/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "WaveSense: Low Power Voxel-tracking Technique for Resource Limited Devices",
+      "citation": "Withana, A., Kaluarachchi, T., Singhabahu, C., Ransiri, S., Shi, Y. and Nanayakkara, S.C., 2020. waveSense: Low Power Voxel-tracking Technique for Resource Limited Devices. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3384790"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Ug6C2P7oOwuX8aUGQGA_UgnKDhhWpV2p/view?usp=sharing"
+        }
+      ],
+      "slug": "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
+      "url": "/publications/#wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices"
+    },
+    {
+      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
+      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
+      "links": [
+        {
+          "label": "url",
+          "url": "http://dl.acm.org/citation.cfm?id=2985734"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
+        }
+      ],
+      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
+      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
+    },
+    {
+      "title": "SwimSight: Supporting Deaf Users to Participate in Swimming Games",
+      "citation": "Elvitigala, D.S., Wessolek, D., Achenbach, A.V., Singhabahu, C. and Nanayakkara, S.C., 2016, November. SwimSight: Supporting deaf users to participate in swimming games. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 567-570).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3010915.3010969"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/paper1591.pdf"
+        }
+      ],
+      "slug": "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
+      "url": "/publications/#swimsight-supporting-deaf-users-to-participate-in-swimming-games"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "zsense",
+  "google_scholar": ""
+}

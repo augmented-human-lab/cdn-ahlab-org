@@ -1,0 +1,58 @@
+{
+  "id": "doodle-daydream",
+  "slug": "doodle-daydream",
+  "title": "Doodle Daydream",
+  "year": "2017",
+  "description": "Doodle Daydream is an interactive display wall. We designed Doodle Daydream, an LED grid display with a mobile interface, which acts similarly to a shared sketch pad. Users contribute their own custom drawings that immediately playback on the display, fostering moment-to-moment playful interactions. This project builds on related work by designing a collaborative display to support calming yet playful interactions in an office setting. This work was published at the Symposium on Spatial User Interaction (SUI ’18) in October 2018 in Berlin, Germany.",
+  "project_url": "https://ahlab.org/project/doodle-daydream/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/doodle-daydream/doodle-daydream.jpg",
+  "people": [
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "noura-howell",
+      "name": "Noura Howell",
+      "url": "/people/noura-howell/"
+    },
+    {
+      "slug": "samantha-chan",
+      "name": "Samantha Chan",
+      "url": "/people/samantha-chan/"
+    },
+    {
+      "slug": "denys-matthies",
+      "name": "Denys Matthies",
+      "url": "/people/denys-matthies/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers",
+      "citation": "Elvitigala, S., Chan, S. W. T., Howell, N., Matthies, D. J. and Nanayakkara, S. C., 2018, October. Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers. In Proceedings of the Symposium on Spatial User Interaction (pp. 186-186).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3274681"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1f1HKVvNJUjm2ZmrDFBJb09M2RK6g_swO/view?usp=sharing"
+        }
+      ],
+      "slug": "doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers",
+      "url": "/publications/#doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers"
+    }
+  ],
+  "principles": [
+    "sociocultural"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "deepthika-de-silva",
+  "slug": "deepthika-de-silva",
+  "name": "Deepthika De Silva",
+  "role": "Doctor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/deepthika-de-silva/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/deepthika-de-silva/deepthika-de-silva.jpg",
+  "bio": "Head of Healthcare Performance Office at St. Andrew's Community Hospital, Singapore",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "shrug",
+  "google_scholar": ""
+}

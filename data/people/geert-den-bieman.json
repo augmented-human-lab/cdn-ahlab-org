@@ -1,0 +1,42 @@
+{
+  "id": "geert-den-bieman",
+  "slug": "geert-den-bieman",
+  "name": "Geert den Bieman",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/geert-den-bieman/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/geert-den-bieman/geert-den-bieman.jpg",
+  "bio": "Geert den Bieman is a third-year engineering student from the Netherlands. He is studying industrial product design. He joined Augmented Human lab for a short internship and is working on several projects his main project will be the MuSS-Bits project but he will be helping on several projects as well. His primary interest is in the looks of products that are already made and will be made in the future. He has experience in CAD programs, on Adobe programs and as a project leader.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

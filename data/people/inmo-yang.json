@@ -1,0 +1,42 @@
+{
+  "id": "inmo-yang",
+  "slug": "inmo-yang",
+  "name": "Inmo Yang",
+  "role": "Final Year Project Student",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Final Year Project Student",
+      "start": "2021-04",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/inmo-yang/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/inmo-yang/inmo-yang.jpg",
+  "bio": "Inmo is currently in his final year of Bachelors of Engineering degree, specializing in Engineering Science. He is working on his final year honors thesis within the Augmented Human Lab. With an interest in machine learning and neural networks, his project is on question answering within research domains, harnessing the power of state of the art language models.\n\nIn his spare time, Inmo travels near and far from Auckland to find the best surf.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

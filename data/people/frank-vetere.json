@@ -1,0 +1,59 @@
+{
+  "id": "frank-vetere",
+  "slug": "frank-vetere",
+  "name": "Frank Vetere",
+  "role": "Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/frank-vetere/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/frank-vetere/frank-vetere.jpg",
+  "bio": "Frank is the director Microsoft Research Centre for Social Natural User Interfaces and lead the Interaction Design Laboratory, both at the University of Melbourne. His expertise is in Human-Computer Interactions (HCI), with particular interests in Social Computing, Natural User Interfaces, and technologies for ageing well. More about Frank: http://people.eng.unimelb.edu.au/fv/",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "armsleeve",
+      "title": "ArmSleeve",
+      "url": "/projects/armsleeve/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ArmSleeve: A Patient Monitoring System to Support Occupational Therapists in Stroke Rehabilitation",
+      "citation": "Ploderer, B., Fong, J., Withana, A., Klaic, M., Nair, S., Crocher, V., Vetere, F. and Nanayakkara, S.C., 2016, June. ArmSleeve: a patient monitoring system to support occupational therapists in stroke rehabilitation. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (pp. 700-711).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2901790.2901799"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Microsoft-Word-pn149-ploderer.docx-p700-ploderer.pdf"
+        }
+      ],
+      "slug": "armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation",
+      "url": "/publications/#armsleeve-a-patient-monitoring-system-to-support-occupational-therapists-in-stroke-rehabilitation"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "armsleeve",
+  "google_scholar": ""
+}

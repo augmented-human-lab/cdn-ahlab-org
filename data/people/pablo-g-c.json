@@ -1,0 +1,87 @@
+{
+  "id": "pablo-g-c",
+  "slug": "pablo-g-c",
+  "name": "Pablo G.C.",
+  "role": "Master Student",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Master Student",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/pablo-g-c/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/pablo-g-c/pablo-g-c.jpg",
+  "bio": "Pablo started in Barcelona designing social robots, working on the Casper Project: a pet-robot platform used to provide therapy to kids who are born in the Autistic Spectrum. He also joined the Seamless Interaction team by working on Touching Interface: a novel technique to incorporate battery-free RFID touch interfaces to everyday objects. After leaving Barcelona, Pablo joined Suranga's team (AHLab) and started working on Finger Reader: an assistive technology platform that allows users with visual impairment to regain capabilities by describing what they are pointing at. Right now, Pablo moved with Suranga's team to Auckland, New Zealand, where he is studying for his master.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "chewit",
+      "title": "ChewIt",
+      "url": "/projects/chewit/"
+    },
+    {
+      "slug": "thumb-in-motion",
+      "title": "Thumb in Motion",
+      "url": "/projects/thumb-in-motion/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ChewIt. An Intraoral Interface for Discreet Interactions.",
+      "citation": "Cascón, P.C., Matthies, D.J., Muthukumarana, S. and Nanayakkara, S.C, 2019, May. ChewIt. An Intraoral Interface for Discreet Interactions. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/3290605.3300556"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uIUaPa2ktYIwhM9RoYvikVWJmPnS8JwB/view?usp=sharing"
+        }
+      ],
+      "slug": "chewit-an-intraoral-interface-for-discreet-interactions",
+      "url": "/publications/#chewit-an-intraoral-interface-for-discreet-interactions"
+    },
+    {
+      "title": "Thumb-In-Motion: Evaluating Thumb to Ring Microgestures for Athletic Activity",
+      "citation": "Boldu, R., Dancu, A., Matthies, D.J., Cascón, P.G., Ransir, S. and Nanayakkara, S.C., 2018, October. Thumb-In-Motion: Evaluating Thumb-to-Ring Microgestures for Athletic Activity. In Proceedings of the Symposium on Spatial User Interaction (pp. 150-157).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3267796"
+        }
+      ],
+      "slug": "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
+      "url": "/publications/#thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "chewit",
+  "google_scholar": ""
+}

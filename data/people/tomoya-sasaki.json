@@ -1,0 +1,48 @@
+{
+  "id": "tomoya-sasaki",
+  "slug": "tomoya-sasaki",
+  "name": "Tomoya Sasaki",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/tomoya-sasaki/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/tomoya-sasaki/tomoya-sasaki.jpg",
+  "bio": "Tomoya is an intern student at the Augmented Human Lab in SUTD. He completed his Master's Degree in Media Design from Keio University Graduate School of Media Design, Japan. His research interests include Mechanical Engineering, Robotics and Virtual Reality. The focus of his current work is augmentation of human abilities by transforming body image and body schema using additional limbs.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "fingerreader",
+  "google_scholar": ""
+}

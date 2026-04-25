@@ -1,0 +1,25 @@
+{
+  "slug": "chi-2026",
+  "title": "CHI 2026",
+  "subtitle": "ACM Conference on Human Factors in Computing Systems",
+  "kind": "conference",
+  "location": "Barcelona, Spain",
+  "starts": "2026-04-13",
+  "ends": "2026-04-17",
+  "url": "https://chi2026.ahlab.org",
+  "thumbnail": null,
+  "summary": "AHLab presents 5 papers and 2 posters at CHI 2026 in Barcelona.",
+  "publications": [
+    "zenflow-investigating-mr-transitions-for-enhancing-sleep-and-relaxation",
+    "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
+    "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
+    "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
+    "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes"
+  ],
+  "projects": [
+    "aisee",
+    "zenflow",
+    "viscerohaptics"
+  ],
+  "people": []
+}

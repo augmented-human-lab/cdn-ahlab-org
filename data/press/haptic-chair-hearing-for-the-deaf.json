@@ -1,0 +1,19 @@
+{
+  "id": "haptic-chair-hearing-for-the-deaf",
+  "slug": "haptic-chair-hearing-for-the-deaf",
+  "title": "\"Haptic Chair hearing for the deaf\"",
+  "year": "2008",
+  "type": "news",
+  "outlet": "The Island, Sri Lanka",
+  "url": null,
+  "projects": [
+    {
+      "slug": "soundfloor",
+      "title": "SoundFloor"
+    },
+    {
+      "slug": "hapticchair",
+      "title": "HapticChair"
+    }
+  ]
+}

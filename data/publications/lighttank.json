@@ -1,0 +1,15 @@
+{
+  "id": "lighttank",
+  "slug": "lighttank",
+  "title": "LightTank",
+  "year": "2020",
+  "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
+  "award": null,
+  "links": [
+    {
+      "label": "DOI",
+      "url": "https://doi.org/10.1145/3414686.3427113"
+    }
+  ],
+  "venue": "SIGGRAPH"
+}

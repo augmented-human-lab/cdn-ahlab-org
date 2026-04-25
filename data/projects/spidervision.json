@@ -1,0 +1,74 @@
+{
+  "id": "spidervision",
+  "slug": "spidervision",
+  "title": "SpiderVision",
+  "year": "2013",
+  "description": "SpiderVision is a wearable device that extends the human field of view to augment a user’s awareness of things happening behind one’s back. SpiderVision leverages a front and back camera to enable users to focus on the front view while employing intelligent interface techniques to cue the user about activity in the back view. The extended back view is only blended in when the scene captured by the back camera is analyzed to be dynamically changing. In this project, we explore factors that affect the blended extension, such as view abstraction and blending area.\n\nExample setting: a user, wearing SpiderVision, is reading a book. A passerby wants to get his attention, waves and eventually throws a ball at him (see slideshow - second image). SpiderVision then blends the back view in (see slideshow - third image. Here: a full blending, overlaying both front and back view), showing a live feed of the passerby throwing the ball. This is only one of many visualizations we explore within the SpiderVision project.",
+  "project_url": "https://ahlab.org/project/spidervision/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/spidervision/spidervision.jpg",
+  "people": [
+    {
+      "slug": "kevin-fan",
+      "name": "Kevin Fan",
+      "url": "/people/kevin-fan/"
+    },
+    {
+      "slug": "jochen-huber",
+      "name": "Jochen Huber",
+      "url": "/people/jochen-huber/"
+    },
+    {
+      "slug": "masahiko-inami",
+      "name": "Masahiko Inami",
+      "url": "/people/masahiko-inami/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Electrosmog Visualization through Augmented Blurry Vision",
+      "citation": "Fan, K., Seigneur, J.M., Nanayakkara, S.C. and Inami, M., 2016, February. Electrosmog visualization through augmented blurry vision. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/a35-fan.pdf"
+        }
+      ],
+      "slug": "electrosmog-visualization-through-augmented-blurry-vision",
+      "url": "/publications/#electrosmog-visualization-through-augmented-blurry-vision"
+    },
+    {
+      "title": "Augmented Winter Ski with AR HMD",
+      "citation": "Fan, K., Seigneur, J.M., Guislain, J., Nanayakkara, S.C. and Inami, M., 2016, February. Augmented winter ski with ar hmd. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/a34-fan.pdf"
+        }
+      ],
+      "slug": "augmented-winter-ski-with-ar-hmd",
+      "url": "/publications/#augmented-winter-ski-with-ar-hmd"
+    },
+    {
+      "title": "SpiderVision: Extending the Human Field of View for Augmented Awareness",
+      "citation": "Fan, K., Huber, J., Nanayakkara, S.C. and Inami, M., 2014, March. SpiderVision: extending the human field of view for augmented awareness. In Proceedings of the 5th augmented human international conference (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://doi.acm.org/10.1145/2582051.2582100"
+        }
+      ],
+      "slug": "spidervision-extending-the-human-field-of-view-for-augmented-awareness",
+      "url": "/publications/#spidervision-extending-the-human-field-of-view-for-augmented-awareness"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

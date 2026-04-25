@@ -1,0 +1,188 @@
+{
+  "id": "shamane-siriwardhana",
+  "slug": "shamane-siriwardhana",
+  "name": "Shamane Siriwardhana",
+  "role": "PhD Candidate",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "PhD Candidate",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/shamane-siriwardhana/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/shamane-siriwardhana/shamane-siriwardhana.jpg",
+  "bio": "Shamane is a Master’s Student at the University Of Auckland. Prior to this, he completed his bachelor's degree in Electrical and Electronic Engineering from the University Of Peradeniya, Sri Lanka in 2016. His primary interest is towards the application of Deep Learning, Deep Reinforcement Learning and Adversarial Learning Methods in designing more human-like Artificial Intelligent Agents. He has a strong knowledge and two years of work experience in applying state of the art deep learning methods in Computer Vision and Natural Language Processing.\n\nShamane Loves Dogs and Playing The Guitar :)\n\nResearch Interest - Application of Deep Reinforcement Learning and Generative Adversarial Training methods to design Assistive AI Agents / Human-Computer Interaction",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee",
+      "url": "/projects/aisee/"
+    },
+    {
+      "slug": "vrhook",
+      "title": "VRHook",
+      "url": "/projects/vrhook/"
+    },
+    {
+      "slug": "target-driven-navigation",
+      "title": "Target Driven Navigation",
+      "url": "/projects/target-driven-navigation/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering",
+      "citation": "Siriwardhana, S., Weerasekera, R., Wen, E., Kaluarachchi, T., Rana, R. and Nanayakkara, S.C., 2023. Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering. Transactions of the Association for Computational Linguistics.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1162/tacl_a_00530"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1IVuyBxac-XR63kAzyDktpKxzjbIgEbrX/view?usp=sharing"
+        }
+      ],
+      "slug": "improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering",
+      "url": "/publications/#improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering"
+    },
+    {
+      "title": "Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text.",
+      "citation": "Siriwardhana, S*., Gupta, C.*, Kaluarachchi, T., Dissanayake, V., Ellawela, S., & Nanayakkara, S.C. (2023). Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text. International Journal of Human–Computer Interaction, 1–19.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2286090"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1FOiydcfVylDTV_LxLYRazstuyXhrN0hZ/view?usp=drive_link"
+        }
+      ],
+      "slug": "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
+      "url": "/publications/#can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
+    },
+    {
+      "title": "A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications",
+      "citation": "Kaluarachchi, T., Siriwardhana, S., Wen, E., & Nanayakkara, S.C. 2023. A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications. In International Journal of Human–Computer Interaction.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2022.2163240"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1vZKp6UhjZc316fdqoJGxLgfJPCx30u9A/view?usp=sharing"
+        }
+      ],
+      "slug": "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
+      "url": "/publications/#a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications"
+    },
+    {
+      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
+      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3526113.3545656"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
+        }
+      ],
+      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
+    },
+    {
+      "title": "Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion",
+      "citation": "Siriwardhana, S., Kaluarachchi, T., Billinghurst, M. and Nanayakkara, S.C., 2020. Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion. IEEE Access, 8, pp.176274-176285.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ACCESS.2020.3026823"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m5tgMX_9H-BhszgCcuqOznzKfkytoYdT/view?usp=sharing"
+        }
+      ],
+      "slug": "multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion",
+      "url": "/publications/#multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion"
+    },
+    {
+      "title": "Jointly Fine-Tuning \"BERT-like\" Self Supervised Models to Improve Multimodal Speech Emotion Recognition",
+      "citation": "Siriwardhana, S., Reis, A., Weerasekera, R., and Nanayakkara, S.C., 2020 Jointly Fine-Tuning “BERT-Like” Self Supervised Models to Improve Multimodal Speech Emotion Recognition. Proc. Interspeech 2020, 3755-3759",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1212"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1wIWsr_58uAD_D6PCq2pQKOFw7CORBLWE/view?usp=sharing"
+        }
+      ],
+      "slug": "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition",
+      "url": "/publications/#jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition"
+    },
+    {
+      "title": "Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations",
+      "citation": "Siriwardhana, S., Weerasekera, R. and Nanayakkara, S.C, 2018, Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations. Deep RL Workshop NeurIPS 2018.",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://arxiv.org/abs/1811.11312v1"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/1811.11312v1.pdf"
+        }
+      ],
+      "slug": "target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations",
+      "url": "/publications/#target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations"
+    },
+    {
+      "title": "FingerReader2.0: Designing and Evaluating a Wearable Finger-WornCamera to Assist People with Visual Impairments while Shopping,",
+      "citation": "Boldu, R., Dancu, A., Matthies, D. J.C., Buddhika, T., Siriwardhana, S., & Nanayakkara, S.C., 2018. FingerReader2. 0: Designing and Evaluating a Wearable Finger-Worn Camera to Assist People with Visual Impairments while Shopping. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(3), 94. ACM.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3264904"
+        }
+      ],
+      "slug": "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping",
+      "url": "/publications/#fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "aisee",
+  "google_scholar": ""
+}

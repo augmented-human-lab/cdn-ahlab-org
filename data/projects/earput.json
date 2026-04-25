@@ -1,0 +1,44 @@
+{
+  "id": "earput",
+  "slug": "earput",
+  "title": "EarPut",
+  "year": "2014",
+  "description": "In this project, we make a case for leveraging the unique affordances of the human ear for eyes-free, mobile interaction. We present EarPut, a novel interface concept, which instruments the ear as an interactive surface for touch-based interactions and its prototypical hardware implementation. The central idea behind EarPut is to go beyond prior work by unobtrusively augmenting a variety of accessories that are worn behind the ear, such as headsets or glasses. Results from a controlled experiment with 27 participants provide empirical evidence that people are able to target salient regions on their ear effectively and precisely. Moreover, we contribute a first, systematically derived interaction design space for ear-based interaction and a set of exemplary applications.",
+  "project_url": "https://ahlab.org/project/earput/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/earput/earput.jpg",
+  "people": [
+    {
+      "slug": "jochen-huber",
+      "name": "Jochen Huber",
+      "url": "/people/jochen-huber/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "EarPut: Augmenting Ear-worn Devices for Ear-based Interaction",
+      "citation": "Lissermann, R., Huber, J., Hadjakos, A., Nanayakkara, S.C. and Mühlhäuser, M., 2014, December. EarPut: augmenting ear-worn devices for ear-based interaction. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 300-307).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2686612.2686655"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p300-lissermann.pdf"
+        }
+      ],
+      "slug": "earput-augmenting-ear-worn-devices-for-ear-based-interaction",
+      "url": "/publications/#earput-augmenting-ear-worn-devices-for-ear-based-interaction"
+    }
+  ],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "raina-song",
+  "slug": "raina-song",
+  "name": "Raina Song",
+  "role": "Intern",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2024-06",
+      "end": "2025-08"
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/raina-song/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/raina-song/raina-song.jpg",
+  "bio": "Raina graduated from the University of Auckland in early 2024 with undergraduate degrees in Software Engineering and Commerce. She aspires to make positive impacts and is driven by a desire to augment human abilities and improve lives through technological innovation. Raina has a strong passion for the intersection of machine learning, human-computer interaction, cognitive science, and engineering. Her research experience spans diverse fields such as education, mental health, AR/VR, and decentralised technology. Additionally, she has experience in the software industry and is a skilled graphics designer.\n\nOutside of her professional pursuits, Raina is a photographer who loves capturing the beauty of everyday moments in both urban and natural settings. She is also deeply passionate about music, filmmaking, linguistics, volunteering, psychology, and outer space. Raina enjoys exploring fundamental questions and is committed to lifelong learning and personal growth.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

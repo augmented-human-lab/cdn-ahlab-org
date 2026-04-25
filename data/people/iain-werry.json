@@ -1,0 +1,66 @@
+{
+  "id": "iain-werry",
+  "slug": "iain-werry",
+  "name": "Iain Werry",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/iain-werry/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/iain-werry/iain-werry.jpg",
+  "bio": "Iain received his B.Sc. in Cognitive Science from the University of Westminster, London, England. Following this, he moved to the Department of Cybernetics at the University of Reading, England, where he obtained his Ph.D. titled ‘Development and Evaluation of a Mobile Robotic Platform as a Therapy Device for Children with Autism’, supervised by Professor Kerstin Dautenhahn. This project was highly inter-disciplinary, involving developmental psychology and the psychology of interaction dynamics, autism theory and therapy, robot-human interaction theory and evaluation, robot architectures and programming, and other facets of real world robotics interacting with people. This work was featured in New Scientist.\n\nFrom here, he moved into full time academic teaching, and has twelve years of experience in the university sector, including teaching to groups of around 5 students to groups of over 200, and has been involved in teaching at all levels of university study both undergraduate and postgraduate, across campus students, online and through partnered institutions, and has contributed to all aspects of the academic programme, including planning and delivery at both module and programme level, administration and student pastoral care and results confirmation.\n\nIain has now returned to research, and has joined the ASG as a Research Fellow and part of the SUTD-MIT International Design Centre.\n\nA full publication list, as well as more information, can be found on his home page: www.iain.werry.co.uk",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
+      "links": [
+        {
+          "label": "webpage",
+          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
+        }
+      ],
+      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "shrug",
+  "google_scholar": ""
+}

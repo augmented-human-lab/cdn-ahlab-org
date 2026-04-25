@@ -1,0 +1,43 @@
+{
+  "id": "ariel-ong",
+  "slug": "ariel-ong",
+  "name": "Ariel Ong",
+  "email": "ariel@ahlab.org",
+  "role": "Manager",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Manager",
+      "start": "2024-04",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/ariel-ong/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/ariel-ong/ariel-ong.jpg",
+  "bio": "Ariel is presently an Administrator at the Augmented Human Lab/CHILL and Personal Assistant to Associate Prof Suranga Nanayakkara. She holds a Bachelor’s degree in Business Management and Diploma in Hospitality and Tourism Management.\n\nDuring her free time, she enjoys painting, diving and travelling.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

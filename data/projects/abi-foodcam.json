@@ -1,0 +1,31 @@
+{
+  "id": "abi-foodcam",
+  "slug": "abi-foodcam",
+  "title": "ABI FoodCam",
+  "year": "2018",
+  "description": "ABI FoodCam is an attempt to promote impromptu introductions and informal social interactions through food sharing.\n\nIf would like to share some of your cultural food with your colleagues or if you have any food left after events/meetings, leave them on the FoodCam table located at level 1 lunchroom. There is a button on the side wall next to the table to be pressed when food is left. The button causes an email alert with a snapshot picture that will be sent to the ABI FoodCam mailing list. To help protect people’s privacy, the camera is intentionally pointed such a way that only the table top is seen.\n\nThe idea of ABI FoodCam is borrowed from the MIT Media Lab by Trevor Schroeder. Media Lab 'Foodcam' is a webcam mounted in the E15-335 cafe, pointing directly down at the counter where food is traditionally left for community consumption.",
+  "project_url": "https://ahlab.org/project/abi-foodcam/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/abi-foodcam/abi-foodcam.jpg",
+  "people": [
+    {
+      "slug": "vipula-dissanayake",
+      "name": "Vipula Dissanayake",
+      "url": "/people/vipula-dissanayake/"
+    },
+    {
+      "slug": "yvonne-chua",
+      "name": "Yvonne Chua",
+      "url": "/people/yvonne-chua/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "sociocultural"
+  ]
+}

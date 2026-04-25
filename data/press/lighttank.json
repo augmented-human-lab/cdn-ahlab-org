@@ -1,0 +1,15 @@
+{
+  "id": "lighttank",
+  "slug": "lighttank",
+  "title": "LightTank",
+  "year": "2020",
+  "type": "news",
+  "outlet": "SIGGRAPH Asia",
+  "url": "https://sa2020.siggraph.org/en/attend/art-gallery/session_slot/215/2",
+  "projects": [
+    {
+      "slug": "lighttank",
+      "title": "LightTank"
+    }
+  ]
+}

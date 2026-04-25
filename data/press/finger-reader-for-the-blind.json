@@ -1,0 +1,19 @@
+{
+  "id": "finger-reader-for-the-blind",
+  "slug": "finger-reader-for-the-blind",
+  "title": "Finger reader for the blind",
+  "year": "2014",
+  "type": "video",
+  "outlet": "SPH Razor TV",
+  "url": "http://www.razor.tv/video/932701/finger-reader-for-the-blind",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

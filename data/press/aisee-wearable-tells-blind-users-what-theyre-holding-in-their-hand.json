@@ -1,0 +1,15 @@
+{
+  "id": "aisee-wearable-tells-blind-users-what-theyre-holding-in-their-hand",
+  "slug": "aisee-wearable-tells-blind-users-what-theyre-holding-in-their-hand",
+  "title": "AiSee wearable tells blind users what they're holding in their hand",
+  "year": "2024",
+  "type": "news",
+  "outlet": "News Atlas",
+  "url": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition/",
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee"
+    }
+  ]
+}

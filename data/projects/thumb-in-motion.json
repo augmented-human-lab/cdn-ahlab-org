@@ -1,0 +1,60 @@
+{
+  "id": "thumb-in-motion",
+  "slug": "thumb-in-motion",
+  "title": "Thumb in Motion",
+  "year": "2017",
+  "description": "Thumb-In-Motion is a one-handed Thumb-to-ring gesture interface to quickly access information without interfering with physical activity, such as running. The evaluation revealed that among the selected gestures, the tap, swipe-down, and swipe-left were the most ‘easy to use’. Interestingly, motion does not have a significant effect on the ease of use or on the execution time. However, interacting in motion was subjectively rated as more demanding. Finally, the gesture set was evaluated in real-world applications, while the user performed a running exercise and simultaneously controlled a lap timer, a distance counter, and a music player. This work was published at the Symposium on Spatial User Interaction (SUI ’18) in October 2018 in Berlin, Germany.",
+  "project_url": "https://ahlab.org/project/thumb-in-motion/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/thumb-in-motion/thumb-in-motion.jpg",
+  "people": [
+    {
+      "slug": "roger-boldu",
+      "name": "Roger Boldu",
+      "url": "/people/roger-boldu/"
+    },
+    {
+      "slug": "alexandru-dancu",
+      "name": "Alexandru Dancu",
+      "url": "/people/alexandru-dancu/"
+    },
+    {
+      "slug": "denys-matthies",
+      "name": "Denys Matthies",
+      "url": "/people/denys-matthies/"
+    },
+    {
+      "slug": "pablo-g-c",
+      "name": "Pablo G.C.",
+      "url": "/people/pablo-g-c/"
+    },
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Thumb-In-Motion: Evaluating Thumb to Ring Microgestures for Athletic Activity",
+      "citation": "Boldu, R., Dancu, A., Matthies, D.J., Cascón, P.G., Ransir, S. and Nanayakkara, S.C., 2018, October. Thumb-In-Motion: Evaluating Thumb-to-Ring Microgestures for Athletic Activity. In Proceedings of the Symposium on Spatial User Interaction (pp. 150-157).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3267796"
+        }
+      ],
+      "slug": "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
+      "url": "/publications/#thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity"
+    }
+  ],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

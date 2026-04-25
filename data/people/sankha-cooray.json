@@ -1,0 +1,119 @@
+{
+  "id": "sankha-cooray",
+  "slug": "sankha-cooray",
+  "name": "Sankha Cooray",
+  "email": "sankha@ahlab.org",
+  "role": "Research Engineer",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "2020-05",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/sankha-cooray/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/sankha-cooray/sankha-cooray.jpg",
+  "bio": "Sankha completed his bachelor degree in applied sciences from the University of Sri Jayewardenepura in 2015. He is strongly passionate about AR, VR, MR, BCI, and also capable of learning and applying any kind of technology. After graduation, he has worked in a software company for 4 years. In that company, he has initiated an internal R&D unit and carried out several research projects related to augmented reality, mixed reality and BCI. Some of his spontaneous ideas and implementations have finally become mobile apps and new inventions. Also, he is known as a creative game developer who is inventing new methods for playing electronic games. During his free time, he loves practising music, playing keyboard and writing new concepts.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "emodrink",
+      "title": "EmoDrink",
+      "url": "/projects/emodrink/"
+    },
+    {
+      "slug": "stakco",
+      "title": "Stakco",
+      "url": "/projects/stakco/"
+    },
+    {
+      "slug": "kavy",
+      "title": "Kavy",
+      "url": "/projects/kavy/"
+    },
+    {
+      "slug": "itiles",
+      "title": "iTILES",
+      "url": "/projects/itiles/"
+    },
+    {
+      "slug": "hopu",
+      "title": "Hopu",
+      "url": "/projects/hopu/"
+    },
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kavy: Fostering Language Speaking Skills and Self-Confidence Through Conversational AI",
+      "citation": "Cooray, S., Hettiarachchi, C., Nanayakkara, V., Matthies, D., Samaradivakara, Y. and Nanayakkara, S., 2024, April. Kavy: Fostering Language Speaking Skills and Self-Confidence Through Conversational AI. In Proceedings of the Augmented Humans International Conference 2024 (pp. 226-236).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3652920.3652944"
+        }
+      ],
+      "slug": "kavy-fostering-language-speaking-skills-and-self-confidence-through-conversational-ai",
+      "url": "/publications/#kavy-fostering-language-speaking-skills-and-self-confidence-through-conversational-ai"
+    },
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Snatch and hatch: Improving receptivity towards a nature of science with a playful mobile application",
+      "citation": "Qiao, H., Suriyaarachchi, H., Cooray, S. and Nanayakkara, S.C. 2023, June. Snatch and hatch: Improving receptivity towards a nature of science with a playful mobile application. In Proceedings of the 22nd Annual ACM Interaction Design and Children Conference (pp. 278-288).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3585088.3589384"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1xuGj3bQoTBCrW1i7V2UbRLTxacpA1EsL/view?usp=drive_link"
+        }
+      ],
+      "slug": "snatch-and-hatch-improving-receptivity-towards-a-nature-of-science-with-a-playful-mobile-application",
+      "url": "/publications/#snatch-and-hatch-improving-receptivity-towards-a-nature-of-science-with-a-playful-mobile-application"
+    }
+  ],
+  "career": [
+    {
+      "org": "Embla Software Innovation",
+      "role": "Software Engineer",
+      "period": "4"
+    },
+    {
+      "org": "AHL",
+      "role": "Research Engineer",
+      "period": "6",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/sankhacooray",
+  "github": "https://github.com/bsc2fast",
+  "featured_project": "emodrink",
+  "google_scholar": ""
+}

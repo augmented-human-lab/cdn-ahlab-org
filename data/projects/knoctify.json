@@ -1,0 +1,27 @@
+{
+  "id": "knoctify",
+  "slug": "knoctify",
+  "title": "Knoctify",
+  "year": "2016",
+  "description": "A product spinoff from the StickEar project by AHLab, Knoctify helps the Deaf to be aware of various events such visitors at the door, incoming notifications on their smartphone device and others. The Knoctify system consist of a Bluetooth enabled sensor device that recognizes vibration from someone knocking at the door; and a distributed network of wireless LED lighting devices that flashes brightly when the sensor is triggered. In addition, a haptic module can be connected to the light device and place under a pillow/cushion to alert the Deaf when they are sleeping or resting. A smart phone app connects to these devices, allowing the user customize the devices to their preference. Knoctify was presented at the World Federation Of The Deaf Asia Conference 2016 in Singapore. Knoctify has been advertised as the smartest notification device in the market for the Deaf (http://knoctify.com).",
+  "project_url": "https://ahlab.org/project/knoctify/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/knoctify/knoctify.jpg",
+  "people": [
+    {
+      "slug": "yeo-kian-peen",
+      "name": "Yeo Kian Peen",
+      "url": "/people/yeo-kian-peen/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "perceptual",
+    "identity"
+  ]
+}

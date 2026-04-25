@@ -1,0 +1,65 @@
+{
+  "id": "stressfoot",
+  "slug": "stressfoot",
+  "title": "StressFoot",
+  "year": "2020",
+  "description": "Stress is a naturally occurring psychological response and identifiable by several body signs. We propose a novel way to discriminate acute stress and relaxation, using movement and posture characteristics of the foot. Based on data collected from 23 participants performing tasks that induced stress and relaxation, we developed several machine learning models to construct the validity of our method. We tested our models in another study with 11 additional participants. The results demonstrated replicability with an overall accuracy of 87%. To also demonstrate external validity, we conducted a field study with 10 participants, performing their usual everyday office tasks over a working day. The results showed substantial robustness. We describe ten significant features in detail to enable an easy replication of our models.",
+  "project_url": "https://ahlab.org/project/stressfoot/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/stressfoot/stressfoot.jpg",
+  "people": [
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "denys-matthies",
+      "name": "Denys Matthies",
+      "url": "/people/denys-matthies/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces",
+      "citation": "Elvitigala, D.S., Nanayakkara, S.C., and Huber, J., 2021. Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces. In Augmented Humans International Conference 2021 (AHs ’21), February 22–24, 2021, Rovaniemi, Finland.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3458709.3458958"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1KP1pV-9GWdhdWfqGX3RqeiBIyG2M6hBD/view?usp=sharing"
+        }
+      ],
+      "slug": "augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces",
+      "url": "/publications/#augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces"
+    },
+    {
+      "title": "StressFoot: Uncovering the Potential of the Foot for Acute Stress Sensing in Sitting Posture",
+      "citation": "Elvitigala, D.S., Matthies, D.J.C., and Nanayakkara, S.C., 2020. StressFoot: Uncovering the Potential of the Foot for Acute Stress Sensing in Sitting Posture. Sensors, 20(10), p.2882.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.3390/s20102882"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uNy7VxU7r78HUmD-ioSQmAou_vjKV_d2/view?usp=sharing"
+        }
+      ],
+      "slug": "stressfoot-uncovering-the-potential-of-the-foot-for-acute-stress-sensing-in-sitting-posture",
+      "url": "/publications/#stressfoot-uncovering-the-potential-of-the-foot-for-acute-stress-sensing-in-sitting-posture"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive"
+  ]
+}

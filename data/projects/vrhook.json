@@ -1,0 +1,80 @@
+{
+  "id": "vrhook",
+  "slug": "vrhook",
+  "title": "VRHook",
+  "year": "2022",
+  "description": "Despite the increasing popularity of VR games, one factor hindering the industry's rapid growth is motion sickness experienced by the users. Symptoms such as fatigue and nausea severely hamper the user experience. Machine Learning methods could be used to automatically detect motion sickness in VR experiences, but generating the extensive labeled dataset needed is a challenging task. It needs either very time consuming manual labelling by human experts or modification of proprietary VR application source codes for label capturing. To overcome these challenges, we developed a novel data collection tool, VRhook, which can collect data from any VR game without needing access to its source code. This is achieved by dynamic hooking, where we can inject custom code into a game's run-time memory to record each video frame and its associated transformation matrices. Using this, we can automatically extract various useful labels such as rotation, speed, and acceleration. In addition, VRhook can blend a customised screen overlay on top of game contents to collect self-reported comfort scores.\n\nWith VRhook we are making a dataset contribution. The dataset contains the scene data and self-reported comfort scores (see the images below). To request for the dataset, please send an email to info@ahlab.org",
+  "project_url": "https://ahlab.org/project/vrhook/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/vrhook/vrhook.jpg",
+  "people": [
+    {
+      "slug": "elliott-wen",
+      "name": "Elliott Wen",
+      "url": "/people/elliott-wen/"
+    },
+    {
+      "slug": "tharindu-kaluarachchi",
+      "name": "Tharindu Kaluarachchi",
+      "url": "/people/tharindu-kaluarachchi/"
+    },
+    {
+      "slug": "shamane-siriwardhana",
+      "name": "Shamane Siriwardhana",
+      "url": "/people/shamane-siriwardhana/"
+    },
+    {
+      "slug": "vanessa-tang",
+      "name": "Vanessa Tang",
+      "url": "/people/vanessa-tang/"
+    },
+    {
+      "slug": "mark-billinghurst",
+      "name": "Mark Billinghurst",
+      "url": "/people/mark-billinghurst/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
+      "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TVCG.2024.3372044"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1eTlLX4o3eOzI7aPUcRHMiWoCrRe1aDqF/view?usp=drive_link"
+        }
+      ],
+      "slug": "vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research",
+      "url": "/publications/#vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research"
+    },
+    {
+      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
+      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3526113.3545656"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
+        }
+      ],
+      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

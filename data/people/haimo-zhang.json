@@ -1,0 +1,487 @@
+{
+  "id": "haimo-zhang",
+  "slug": "haimo-zhang",
+  "name": "Haimo Zhang",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/haimo-zhang/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/haimo-zhang/haimo-zhang.jpg",
+  "bio": "Haimo obtained his PhD in computer science from the NUS-HCI lab, National University of Singapore. His research interest is in human-computer interactions, and specifically stereoscopic 3D displays, 3D interactions, and haptics. In the past, Haimo has hacked existing technologies to do things they are not designed for, such as creating novel visual experiences on stereoscopic 3D displays, and enabling gestures on an un-instrumented physical keyboard. While this might become a recurring motif in his research adventure, Haimo is focused on bridging the gap between complex technologies and the needs of the users.\n\nHaimo grew up in Nanjing, China. He went to National University of Singapore and obtained a bachelor's degree in computer engineering in 2009. In his spare time, he enjoys ice-skating and occasionally pretends to be a percussionist by making noises with his doumbek.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "ubipen",
+      "title": "UbiPen",
+      "url": "/projects/ubipen/"
+    },
+    {
+      "slug": "affect-in-the-wild",
+      "title": "Affect in the Wild",
+      "url": "/projects/affect-in-the-wild/"
+    },
+    {
+      "slug": "kinvoice",
+      "title": "KinVoice",
+      "url": "/projects/kinvoice/"
+    },
+    {
+      "slug": "anisma",
+      "title": "ANISMA",
+      "url": "/projects/anisma/"
+    },
+    {
+      "slug": "versatouch",
+      "title": "VersaTouch",
+      "url": "/projects/versatouch/"
+    },
+    {
+      "slug": "prompto",
+      "title": "Prompto",
+      "url": "/projects/prompto/"
+    },
+    {
+      "slug": "actualtouch",
+      "title": "ActualTouch",
+      "url": "/projects/actualtouch/"
+    },
+    {
+      "slug": "prospero",
+      "title": "Prospero",
+      "url": "/projects/prospero/"
+    },
+    {
+      "slug": "m-hair",
+      "title": "M-Hair",
+      "url": "/projects/m-hair/"
+    },
+    {
+      "slug": "prospecfit",
+      "title": "ProspecFit",
+      "url": "/projects/prospecfit/"
+    },
+    {
+      "slug": "osense",
+      "title": "oSense",
+      "url": "/projects/osense/"
+    },
+    {
+      "slug": "lighttank",
+      "title": "LightTank",
+      "url": "/projects/lighttank/"
+    },
+    {
+      "slug": "fsense",
+      "title": "fSense",
+      "url": "/projects/fsense/"
+    },
+    {
+      "slug": "evaluating-ivr-in-schools",
+      "title": "Evaluating IVR in schools",
+      "url": "/projects/evaluating-ivr-in-schools/"
+    },
+    {
+      "slug": "comprate",
+      "title": "CompRate",
+      "url": "/projects/comprate/"
+    },
+    {
+      "slug": "kyanite",
+      "title": "Kyanite",
+      "url": "/projects/kyanite/"
+    },
+    {
+      "slug": "insight",
+      "title": "InSight",
+      "url": "/projects/insight/"
+    },
+    {
+      "slug": "gestakey",
+      "title": "GestAKey",
+      "url": "/projects/gestakey/"
+    },
+    {
+      "slug": "gescad",
+      "title": "GesCAD",
+      "url": "/projects/gescad/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys",
+      "citation": "Messerschmidt M.A., Muthukumarana S., Hamdan N.A., Wagner A., Zhang H., Borchers J., and Nanayakkara S.C. 2022. ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 19 (June 2022), 34 pages.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3490497"
+        }
+      ],
+      "slug": "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
+      "url": "/publications/#anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys"
+    },
+    {
+      "title": "OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives",
+      "citation": "Cortés, J.P.F., Suriyaarachchi, H., Nassani, A., Zhang, H. and Nanayakkara, S.C., 2021. OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives. In MobileHCI ’21: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/3447526.3472028"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/16yAh6Mru7uMSg7MCGP5XHNFUKh-Yy9fb/view?usp=sharing"
+        }
+      ],
+      "slug": "om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives",
+      "url": "/publications/#om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives"
+    },
+    {
+      "title": "KinVoices: Using Voices of Friends and Family in Voice Interfaces",
+      "citation": "Chan, S. W. T., Gunasekaran, T., Pai, Y. S., Zhang, H. and Nanayakkara, S.C. 2021. KinVoices: Using Voices of Friends and Family in Voice Interfaces. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 446 (October 2021), 25 pages.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3479590"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1_Bp0ShrTKy81zvguDyOgrgdBunsin8iX/view?usp=sharing"
+        }
+      ],
+      "slug": "kinvoices-using-voices-of-friends-and-family-in-voice-interfaces",
+      "url": "/publications/#kinvoices-using-voices-of-friends-and-family-in-voice-interfaces"
+    },
+    {
+      "title": "VersaTouch: A Versatile Plug-and-Play System that Enables Touch Interactions on Everyday Passive Surfaces.",
+      "citation": "Shi, Y., Zhang, H., Cao, J., and Nanayakkara, S.C., 2020. VersaTouch: A Versatile Plug-and-Play System that Enables Touch Interactions on Everyday Passive Surfaces. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3384778"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1i34JQbLRvwYGth08m3AjH6Avwgia_CxB/view?usp=sharing"
+        }
+      ],
+      "slug": "versatouch-a-versatile-plug-and-play-system-that-enables-touch-interactions-on-everyday-passive-surfaces",
+      "url": "/publications/#versatouch-a-versatile-plug-and-play-system-that-enables-touch-interactions-on-everyday-passive-surfaces"
+    },
+    {
+      "title": "Speech Emotion Recognition ‘in the Wild’ Using an Autoencoder",
+      "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition ‘in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1356"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1zo2rhxXPDy5cEuG8Ckl-RLfb0Wr9RV5_/view?usp=sharing"
+        }
+      ],
+      "slug": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
+      "url": "/publications/#speech-emotion-recognition-in-the-wild-using-an-autoencoder"
+    },
+    {
+      "title": "Ready, Steady, Touch!: Sensing Physical Contact with a Finger-Mounted IMU",
+      "citation": "Shi, Y., Zhang, H., Zhao, K., Cao, J., Sun, M. and Nanayakkara, S.C., 2020. Ready, steady, touch! sensing physical contact with a finger-mounted IMU. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(2), pp.1-25.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3397309"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1gEpRp35i_nJgMMf_RYiQBI7aKKMGmcpQ/view?usp=sharing"
+        }
+      ],
+      "slug": "ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu",
+      "url": "/publications/#ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu"
+    },
+    {
+      "title": "Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent",
+      "citation": "Chan, S. W. T., Sapkota, S., Mathews, R., Zhang, H. and Nanayakkara, S. C., 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-23.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yw-HUkFRsdeuHzvP14rxq5RMq03kENsy/view?usp=sharing"
+        }
+      ],
+      "slug": "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent",
+      "url": "/publications/#prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
+    },
+    {
+      "title": "MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair",
+      "citation": "Boldu, R., Wijewardena, M., Zhang, H. and Nanayakkara, S.C., 2020, October. MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-10).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3379503.3403545"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yzptyr2NabyuRqgJEuxv28mVEzLbqmMN/view?usp=sharing"
+        }
+      ],
+      "slug": "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair",
+      "url": "/publications/#maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair"
+    },
+    {
+      "title": "AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers",
+      "citation": "Boldu, R., Matthies, D.J., Zhang, H. and Nanayakkara, S.C., 2020. AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-25.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432196"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/177bq2QQ2R957Mc_fa77Erk108vbO5x9O/view?usp=sharing"
+        }
+      ],
+      "slug": "aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers",
+      "url": "/publications/#aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers"
+    },
+    {
+      "title": "Prospero: A Personal Wearable Memory Coach",
+      "citation": "Chan, S. W. T., Zhang, H. and Nanayakkara, S. C., 2019, March. Prospero: A Personal Wearable Memory Coach. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311870"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1gzCAH8kVmlWjIDkt-ZBpCOT79vwFsf0Y/view?usp=sharing"
+        }
+      ],
+      "slug": "prospero-a-personal-wearable-memory-coach",
+      "url": "/publications/#prospero-a-personal-wearable-memory-coach"
+    },
+    {
+      "title": "ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults",
+      "citation": "Chan, S. W. T., Buddhika, T., Zhang, H. and Nanayakkara, S. C., 2019. ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(3), pp.1-20.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3351235"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1tpwydWe6sRgWyFJ6K_H5b4hA7vgv25Kq/view?usp=sharing"
+        }
+      ],
+      "slug": "prospecfit-in-situ-evaluation-of-digital-prospective-memory-training-for-older-adults",
+      "url": "/publications/#prospecfit-in-situ-evaluation-of-digital-prospective-memory-training-for-older-adults"
+    },
+    {
+      "title": "oSense: Object-Activity Identification Based on Gasping Posture and Motion",
+      "citation": "Buddhika, T., Zhang, H., Weerasinghe, C., Nanayakkara, S.C. and Zimmermann, R., 2019, March. OSense: Object-activity identification based on gasping posture and motion. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311841"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jYB9EbB5Ew_xlRgF5zZ2smbUTe1lz9ij/view?usp=sharing"
+        }
+      ],
+      "slug": "osense-object-activity-identification-based-on-gasping-posture-and-motion",
+      "url": "/publications/#osense-object-activity-identification-based-on-gasping-posture-and-motion"
+    },
+    {
+      "title": "M-Hair: Extended Reality by Stimulating the Body Hair",
+      "citation": "Boldu, R., Jain, S., Cortes, J.P.F., Zhang, H. and Nanayakkara, S.C., 2019. M-Hair: Extended Reality by Stimulating the Body Hair. In SIGGRAPH Asia 2019 XR (pp. 27-28).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3355355.3361881"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uUG4MHtBsoGzp76JsQTtgxu8l90pXgfC/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-extended-reality-by-stimulating-the-body-hair",
+      "url": "/publications/#m-hair-extended-reality-by-stimulating-the-body-hair"
+    },
+    {
+      "title": "M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field",
+      "citation": "Boldu, R., Jain, S., Forero Cortes, J.P., Zhang, H. and Nanayakkara, S.C., 2019, October. M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 323-328).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3332165.3347955"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1UMlbIudlZv0bViid-U7XafGVuZMWl5Vl/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
+      "url": "/publications/#m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
+    },
+    {
+      "title": "fSense: Unlocking the Dimension of Force for Gestural Interactions using Smartwatch PPG Sensor",
+      "citation": "Buddhika, T., Zhang, H., Chan, S. W. T., Dissanayake, V., Nanayakkara, S.C. and Zimmermann, R., 2019, March. fSense: unlocking the dimension of force for gestural interactions using smartwatch PPG sensor. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311839"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1kRU90YDIfXAg9X-cYnv2kneE25gbTwcH/view?usp=sharing"
+        }
+      ],
+      "slug": "fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor",
+      "url": "/publications/#fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor"
+    },
+    {
+      "title": "Evaluating IVR in Primary School Classrooms",
+      "citation": "Chua, Y., Sridhar, P.K., Zhang, H., Dissanayake, V. and Nanayakkara, S.C., 2019, October. Evaluating IVR in Primary School Classrooms. In 2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 169-174). IEEE.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ISMAR-Adjunct.2019.00-53"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/129Cpb0ZeVpfS2MKo33IkvmF7HKV2z44J/view?usp=sharing"
+        }
+      ],
+      "slug": "evaluating-ivr-in-primary-school-classrooms",
+      "url": "/publications/#evaluating-ivr-in-primary-school-classrooms"
+    },
+    {
+      "title": "CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables",
+      "citation": "Dissanayake, V., Elvitigala, D.S., Zhang, H., Weerasinghe, C. and Nanayakkara, S.C., 2019, November. CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables. In 25th ACM Symposium on Virtual Reality Software and Technology (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3359996.3364239"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1OC0qHFuRFRBxF1gUHwpiOUKGXz3OfP68/view?usp=sharing"
+        }
+      ],
+      "slug": "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
+      "url": "/publications/#comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables"
+    },
+    {
+      "title": "GestAKey: Touch Interaction on Individual Keycaps.",
+      "citation": "Shi, Y., Zhang, H., Rajapakse, H., Perera, N.T., Vega Gálvez, T. and Nanayakkara, S.C., 2018, April. Gestakey: Touch interaction on individual keycaps. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl.acm.org/citation.cfm?id=3174170"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/uc?export=download&id=1sSfqPj_lSe-cPTs-1nJLLJkQVoHZY_WN"
+        }
+      ],
+      "slug": "gestakey-touch-interaction-on-individual-keycaps",
+      "url": "/publications/#gestakey-touch-interaction-on-individual-keycaps"
+    },
+    {
+      "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
+      "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041195"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1VctHLqYA8VrCwAZVTuy_G_e3GaUWx3td/view?usp=sharing"
+        }
+      ],
+      "slug": "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
+      "url": "/publications/#insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
+    },
+    {
+      "title": "GestAKey: Get More Done with Just-a-Key on a Keyboard",
+      "citation": "Shi, Y., Vega Gálvez, T., Zhang, H. and Nanayakkara, S.C., 2017, October. Gestakey: Get more done with just-a-key on a keyboard. In Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology (pp. 73-75).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl.acm.org/citation.cfm?id=3131786"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/uc?export=download&id=1TSiXd5f0Exdo4udT2vb8JW854lDdTro6"
+        }
+      ],
+      "slug": "gestakey-get-more-done-with-just-a-key-on-a-keyboard",
+      "url": "/publications/#gestakey-get-more-done-with-just-a-key-on-a-keyboard"
+    },
+    {
+      "title": "GesCAD: an Intuitive Interface for Conceptual Architectural Design",
+      "citation": "Khan, S., Rajapakse, H., Zhang, H., Nanayakkara, S.C., Tuncer, B. and Blessing, L., 2017, November. GesCAD: an intuitive interface for conceptual architectural design. In Proceedings of the 29th Australian conference on computer-human interaction (pp. 402-406).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl.acm.org/citation.cfm?id=3156145"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3152771.3156145"
+        }
+      ],
+      "slug": "gescad-an-intuitive-interface-for-conceptual-architectural-design",
+      "url": "/publications/#gescad-an-intuitive-interface-for-conceptual-architectural-design"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "ubipen",
+  "google_scholar": ""
+}

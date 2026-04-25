@@ -1,0 +1,67 @@
+{
+  "id": "kyanite",
+  "slug": "kyanite",
+  "title": "Kyanite",
+  "year": "2017",
+  "description": "The increasing complexity of military technology, especially operating multiple robots, is further adding to the cognitive load, thus calling for devices designed for better human performance under critical situations. This project directly aims to help compensate the inherent stress in multiple robot operations by device design, specifically human-robot interface design rather than just training people. The knowledge gap we are trying to fill is the holistic understanding of the combinational possibilities of different modalities afforded by today’s technological advancements by actually designing and systematically refining a prototype system with a series of end-user experiments.",
+  "project_url": "https://ahlab.org/project/kyanite/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/kyanite/kyanite.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "hasitha-rajapakse",
+      "name": "Hasitha Rajapakse",
+      "url": "/people/hasitha-rajapakse/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "yow-wei-quin",
+      "name": "Yow Wei Quin",
+      "url": "/people/yow-wei-quin/"
+    },
+    {
+      "slug": "foong-shaohui",
+      "name": "Foong Shaohui",
+      "url": "/people/foong-shaohui/"
+    },
+    {
+      "slug": "hyowon-lee",
+      "name": "Hyowon Lee",
+      "url": "/people/hyowon-lee/"
+    },
+    {
+      "slug": "roger-boldu",
+      "name": "Roger Boldu",
+      "url": "/people/roger-boldu/"
+    },
+    {
+      "slug": "katja-holtta-otto",
+      "name": "Katja Holtta-Otto",
+      "url": "/people/katja-holtta-otto/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "cognitive",
+    "perceptual"
+  ]
+}

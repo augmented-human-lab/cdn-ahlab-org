@@ -1,0 +1,19 @@
+{
+  "id": "singapore-design-award-2016-for-fingerreader",
+  "slug": "singapore-design-award-2016-for-fingerreader",
+  "title": "Singapore Design Award 2016 for FingerReader",
+  "year": "2016",
+  "type": "award",
+  "outlet": "Design Business Chamber Singapore",
+  "url": "http://www.dbcsingapore.org/sda-winners-2016/",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

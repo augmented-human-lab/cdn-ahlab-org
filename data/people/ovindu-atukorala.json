@@ -1,0 +1,43 @@
+{
+  "id": "ovindu-atukorala",
+  "slug": "ovindu-atukorala",
+  "name": "Ovindu Atukorala",
+  "email": "ovindu@ahlab.org",
+  "role": "Intern",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2025-12",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/ovindu-atukorala/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/ovindu-atukorala/ovindu-atukorala.jpg",
+  "bio": "Ovindu is a 3rd year Undergraduate student in Computer Science and Engineering from the university of Moratuwa. He has experience building end to end web applications and autonomous multi agent systems based on large language models, and has worked on products spanning legal tech, productivity tooling, recommender systems, and tools for analyzing academic documents. He will be working on AISee at the Augmented Human Lab, focusing on visual assistance for people with visual impairments. He is particularly interested in exploring LLMs, agentic systems, and how these technologies can be applied to solve real world problems.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

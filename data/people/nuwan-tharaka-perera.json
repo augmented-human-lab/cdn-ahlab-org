@@ -1,0 +1,70 @@
+{
+  "id": "nuwan-tharaka-perera",
+  "slug": "nuwan-tharaka-perera",
+  "name": "Nuwan Tharaka Perera",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/nuwan-tharaka-perera/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/nuwan-tharaka-perera/nuwan-tharaka-perera.jpg",
+  "bio": "Tharaka is an electronic and telecommunication undergraduate of University of Moratuwa, Sri Lanka. He has developed a passion for electronics during his school age. He is personally greatly interested in robotics, embedded system development, and IoT applications. He enjoys facing challenges like robotics competitions and code challenges.\n\nHe likes to spend his leisure time listening to music and observing the night sky.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "gestakey",
+      "title": "GestAKey",
+      "url": "/projects/gestakey/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "GestAKey: Touch Interaction on Individual Keycaps.",
+      "citation": "Shi, Y., Zhang, H., Rajapakse, H., Perera, N.T., Vega Gálvez, T. and Nanayakkara, S.C., 2018, April. Gestakey: Touch interaction on individual keycaps. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl.acm.org/citation.cfm?id=3174170"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/uc?export=download&id=1sSfqPj_lSe-cPTs-1nJLLJkQVoHZY_WN"
+        }
+      ],
+      "slug": "gestakey-touch-interaction-on-individual-keycaps",
+      "url": "/publications/#gestakey-touch-interaction-on-individual-keycaps"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "gestakey",
+  "google_scholar": ""
+}

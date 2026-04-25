@@ -1,0 +1,53 @@
+{
+  "id": "adrian-robertson",
+  "slug": "adrian-robertson",
+  "name": "Adrian Robertson",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/adrian-robertson/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/adrian-robertson/adrian-robertson.jpg",
+  "bio": "Adrian is working as an intern on the FingerReader Project. He is a second-year undergraduate student at Carleton University, Canada. He graduated in 2014 with an IB Diploma from Overseas Family School, Singapore. Adrian specialize in Computer Science, Physics and Psychology.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "prospecfit",
+      "title": "ProspecFit",
+      "url": "/projects/prospecfit/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "prospecfit",
+  "google_scholar": ""
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ruth-park",
+  "slug": "ruth-park",
+  "name": "Ruth Park",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/ruth-park/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/ruth-park/ruth-park.jpg",
+  "bio": "Ruth Park is an undergraduate at MIT studying Computational Biology. Her interest lies in empowering individuals to engage in and access opportunities and experiences through the help of technology. This means not letting pre-existing constraints like economic background or medical conditions from holding individuals back from their pursuit of happiness - including the ability to dream and pursue that dream.\n\nHer external projects involve building platforms and implementing technology within the educational field.\n\nIn her leisure time, Ruth likes to listen to music, dance, and broaden her horizons - by learning new things, meeting new people, and exposing herself to the wonders of Mother Nature (:",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

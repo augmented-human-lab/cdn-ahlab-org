@@ -1,0 +1,97 @@
+{
+  "id": "rivindu-weerasekera",
+  "slug": "rivindu-weerasekera",
+  "name": "Rivindu Weerasekera",
+  "role": "Researcher",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Researcher",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/rivindu-weerasekera/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/rivindu-weerasekera/rivindu-weerasekera.jpg",
+  "bio": "Rivindu is a Ph.D. candidate at the Department of Electrical and Computer Engineering at the University of Auckland. He holds a first class honors degree in Electrical and Electronics Engineering from the University of Auckland. His research interests focus on Machine Learning, Deep Learning, Reinforcement Learning, and Intelligent Transporation Systems. He has previously sat on the Return on Science Committees (ICT and founding member of the Momentum Investment Committee) and was the former COO of the Velocity Entrepreneurship Programme. He is also one of the co-founders of Hypebeat - a music tech startup. He is passionate about Innovation, Entrepreneurship and Artificial Intelligence.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "target-driven-navigation",
+      "title": "Target Driven Navigation",
+      "url": "/projects/target-driven-navigation/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering",
+      "citation": "Siriwardhana, S., Weerasekera, R., Wen, E., Kaluarachchi, T., Rana, R. and Nanayakkara, S.C., 2023. Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering. Transactions of the Association for Computational Linguistics.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1162/tacl_a_00530"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1IVuyBxac-XR63kAzyDktpKxzjbIgEbrX/view?usp=sharing"
+        }
+      ],
+      "slug": "improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering",
+      "url": "/publications/#improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering"
+    },
+    {
+      "title": "Jointly Fine-Tuning \"BERT-like\" Self Supervised Models to Improve Multimodal Speech Emotion Recognition",
+      "citation": "Siriwardhana, S., Reis, A., Weerasekera, R., and Nanayakkara, S.C., 2020 Jointly Fine-Tuning “BERT-Like” Self Supervised Models to Improve Multimodal Speech Emotion Recognition. Proc. Interspeech 2020, 3755-3759",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1212"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1wIWsr_58uAD_D6PCq2pQKOFw7CORBLWE/view?usp=sharing"
+        }
+      ],
+      "slug": "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition",
+      "url": "/publications/#jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition"
+    },
+    {
+      "title": "Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations",
+      "citation": "Siriwardhana, S., Weerasekera, R. and Nanayakkara, S.C, 2018, Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations. Deep RL Workshop NeurIPS 2018.",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://arxiv.org/abs/1811.11312v1"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/1811.11312v1.pdf"
+        }
+      ],
+      "slug": "target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations",
+      "url": "/publications/#target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "target-driven-navigation",
+  "google_scholar": ""
+}

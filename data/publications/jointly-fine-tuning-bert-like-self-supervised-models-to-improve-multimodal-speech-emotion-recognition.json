@@ -1,0 +1,19 @@
+{
+  "id": "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition",
+  "slug": "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition",
+  "title": "Jointly Fine-Tuning \"BERT-like\" Self Supervised Models to Improve Multimodal Speech Emotion Recognition",
+  "year": "2020",
+  "citation": "Siriwardhana, S., Reis, A., Weerasekera, R., and Nanayakkara, S.C., 2020 Jointly Fine-Tuning \"BERT-Like\" Self Supervised Models to Improve Multimodal Speech Emotion Recognition. Proc. Interspeech 2020, 3755-3759",
+  "award": null,
+  "links": [
+    {
+      "label": "DOI",
+      "url": "http://dx.doi.org/10.21437/Interspeech.2020-1212"
+    },
+    {
+      "label": "PDF",
+      "url": "https://drive.google.com/file/d/1wIWsr_58uAD_D6PCq2pQKOFw7CORBLWE/view?usp=sharing"
+    }
+  ],
+  "venue": "Other"
+}

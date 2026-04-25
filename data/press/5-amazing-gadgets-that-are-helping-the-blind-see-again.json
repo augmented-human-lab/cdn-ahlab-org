@@ -1,0 +1,19 @@
+{
+  "id": "5-amazing-gadgets-that-are-helping-the-blind-see-again",
+  "slug": "5-amazing-gadgets-that-are-helping-the-blind-see-again",
+  "title": "5 amazing gadgets that are helping the blind see again",
+  "year": "2014",
+  "type": "news",
+  "outlet": "Simon Hill, Digital Trends",
+  "url": "http://www.digitaltrends.com/mobile/blind-technologies/",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "augmented-reality-wrapped-around-your-finger",
+  "slug": "augmented-reality-wrapped-around-your-finger",
+  "title": "Augmented Reality, Wrapped Around Your Finger",
+  "year": "2012",
+  "type": "news",
+  "outlet": "Technology Review",
+  "url": "http://www.technologyreview.com/news/428773/augmented-reality-wrapped-around-your-finger/",
+  "projects": [
+    {
+      "slug": "eyering",
+      "title": "EyeRing"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "anuruddha-hettiarachchi",
+  "slug": "anuruddha-hettiarachchi",
+  "name": "Anuruddha Hettiarachchi",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/anuruddha-hettiarachchi/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/anuruddha-hettiarachchi/anuruddha-hettiarachchi.jpg",
+  "bio": "Anuruddha is a research intern at SUTD.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "fingerdraw",
+      "title": "FingerDraw",
+      "url": "/projects/fingerdraw/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "FingerDraw: More than a Digital Paintbrush",
+      "citation": "Hettiarachchi A., Nanayakkara S. C., Yeo K.P., Shilkrot R. and Maes P. ”FingerDraw: More than a Digital Paintbrush”, ACM SIGCHI Augmented Human, March, 2013.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_hettiarachchi_2013.pdf"
+        }
+      ],
+      "slug": "fingerdraw-more-than-a-digital-paintbrush",
+      "url": "/publications/#fingerdraw-more-than-a-digital-paintbrush"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "fingerdraw",
+  "google_scholar": ""
+}

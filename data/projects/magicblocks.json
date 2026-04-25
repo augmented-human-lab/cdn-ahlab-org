@@ -1,0 +1,49 @@
+{
+  "id": "magicblocks",
+  "slug": "magicblocks",
+  "title": "MagicBLOCKS",
+  "year": "2021",
+  "description": "MagicBLOCKS is a tangible interactive tabletop system able to support various interaction modes, such as clicking, pressing, dragging and air gestures. The system includes 12 interactive games with different categories. Daily teaching tools such as coloured balls, building blocks, teaching cards, and other tangible items are used as a system input. The output is a combination of digital animation and sound effects that serve as reinforcements for capturing the user's attention.\n\nThe system occupies an area of 3m 4m and consists of four hardware components: an Airbar sensor for touch sensing, a Logitech webcam for image recognition, a high-definition projector XGIMI H1 for displaying the Unity-3D user interface, and a laptop for system control. Several physical blocks, recognition cards, and tips cards are initially placed on the table edge.",
+  "project_url": "https://ahlab.org/project/magicblocks/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/magicblocks/magicblocks.jpg",
+  "people": [
+    {
+      "slug": "qin-wu",
+      "name": "Qin Wu",
+      "url": "/people/qin-wu/"
+    },
+    {
+      "slug": "danielle-lottridge",
+      "name": "Danielle Lottridge",
+      "url": "/people/danielle-lottridge/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism",
+      "citation": "Wu, Q., Xu, R., Liu, V., Lottridge, Danielle., and Nanayakkara, S.C. 2022. Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism. Proc. ACM Hum.-Comput. Interact. 6, ISS, Article 563 (December 2022), 24 pages. Honorable Mention Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3567716"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1dYyg1of9NPlN7IEyhkHiTpzUtywJYTMP/view?usp=sharing"
+        }
+      ],
+      "slug": "players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism",
+      "url": "/publications/#players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism"
+    }
+  ],
+  "principles": [
+    "cognitive",
+    "physical"
+  ]
+}

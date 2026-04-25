@@ -1,0 +1,61 @@
+{
+  "id": "emodrink",
+  "slug": "emodrink",
+  "title": "EmoDrink",
+  "year": "Current",
+  "description": "Wearable devices increasingly capture physiological signals related to users’ affective and cognitive states, yet these signals are commonly presented through numerical dashboards that are difficult to interpret and act upon in everyday contexts. We introduce EmoDrink, a Mixed Reality (MR) research framework for communicating physiology-informed wellbeing recommendations through embodied representations.\n\nEmoDrink integrates smartwatch-derived signals with brief self-reports and contextual cues to generate a single beverage recommendation, then holds this recommendation constant while varying how it is presented: an abstract visualization, a generic embodied agent, and a personalized “future self” avatar.",
+  "project_url": "https://ahlab.org/project/emodrink/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/emodrink/emodrink.jpg",
+  "people": [
+    {
+      "slug": "soundarya-ramesh",
+      "name": "Soundarya Ramesh",
+      "url": "/people/soundarya-ramesh/"
+    },
+    {
+      "slug": "hyung-woon-lee",
+      "name": "Hyung Woon Lee",
+      "url": "/people/hyung-woon-lee/"
+    },
+    {
+      "slug": "sankha-cooray",
+      "name": "Sankha Cooray",
+      "url": "/people/sankha-cooray/"
+    },
+    {
+      "slug": "prasanth-sasikumar",
+      "name": "Prasanth Sasikumar",
+      "url": "/people/prasanth-sasikumar/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "EmoDrink: Embodied MR for Physiology-Informed Beverage Recommendation",
+      "citation": "Augmented Humans 2026",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2026/03/AH_26_Demo_EmoDrink__Embodied_Mixed_Reality_for_Physiology_Informed_Beverage_Recommendation.pdf"
+        }
+      ],
+      "slug": "emodrink-embodied-mr-for-physiology-informed-beverage-recommendation",
+      "url": "/publications/#emodrink-embodied-mr-for-physiology-informed-beverage-recommendation"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive",
+    "perceptual"
+  ],
+  "sponsors": [
+    {
+      "name": "Asahi"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "connie-liu",
+  "slug": "connie-liu",
+  "name": "Connie Liu",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/connie-liu/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/connie-liu/connie-liu.jpg",
+  "bio": "Connie is a visiting student in the group under the MIT MISTI Program. She is an undergraduate at MIT studying Mechanical Engineering.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0",
+      "url": "/projects/fingerreader-v0/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "FingerReader: A Wearable Device to Support Text-Reading on the Go",
+      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. FingerReader: a wearable device to support text reading on the go. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 2359-2364).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://doi.acm.org/10.1145/2559206.2581220"
+        },
+        {
+          "label": "pdf",
+          "url": "http://fluid.media.mit.edu/sites/default/files/paper317.pdf"
+        }
+      ],
+      "slug": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+      "url": "/publications/#fingerreader-a-wearable-device-to-support-text-reading-on-the-go"
+    },
+    {
+      "title": "A Wearable Text-Reading Device for the Visually-Impaired",
+      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. A wearable text-reading device for the visually-impaired. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 193-194).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://doi.acm.org/10.1145/2559206.2579520"
+        }
+      ],
+      "slug": "a-wearable-text-reading-device-for-the-visually-impaired",
+      "url": "/publications/#a-wearable-text-reading-device-for-the-visually-impaired"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "fingerreader-v0",
+  "google_scholar": ""
+}

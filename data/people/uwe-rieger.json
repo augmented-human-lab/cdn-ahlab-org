@@ -1,0 +1,60 @@
+{
+  "id": "uwe-rieger",
+  "slug": "uwe-rieger",
+  "name": "Uwe Rieger",
+  "role": "Associate Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/uwe-rieger/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/uwe-rieger/uwe-rieger.jpg",
+  "bio": "Uwe Rieger is an associate professor in the faculty of Creative Arts and Industries of the University of Auckland.\n\nMore about Uwe Rieger: http://www.creative.auckland.ac.nz/people/architecture/u-rieger",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "lightsense",
+      "title": "LightSense",
+      "url": "/projects/lightsense/"
+    },
+    {
+      "slug": "lighttank",
+      "title": "LightTank",
+      "url": "/projects/lighttank/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "LightTank",
+      "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3414686.3427113"
+        }
+      ],
+      "slug": "lighttank",
+      "url": "/publications/#lighttank"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "lightsense",
+  "google_scholar": ""
+}

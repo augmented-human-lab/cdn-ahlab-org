@@ -1,0 +1,87 @@
+{
+  "id": "shardul-sapkota",
+  "slug": "shardul-sapkota",
+  "name": "Shardul Sapkota",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/shardul-sapkota/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/shardul-sapkota/shardul-sapkota.jpg",
+  "bio": "Shardul is excited by the social impact possible through technology and hopes to use technology to better facilitate genuine human interactions. He believes that his work at the Augmented Human Lab takes him closer to that direction. He has previously worked as a research assistant at the Fluid Interfaces group at the MIT Media Lab, the Yale-NUS Computational Biology group, and as a software developer intern for the SAP Leonardo Machine Learning Foundation. Shardul was born in Kathmandu, Nepal and is currently pursuing his Bachelor’s degree in Mathematical, Computational, and Statistical Sciences from Yale-NUS College, Singapore.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "eyeknowyou",
+      "title": "EyeKnowYou",
+      "url": "/projects/eyeknowyou/"
+    },
+    {
+      "slug": "prompto",
+      "title": "Prompto",
+      "url": "/projects/prompto/"
+    },
+    {
+      "slug": "prospero",
+      "title": "Prospero",
+      "url": "/projects/prospero/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam",
+      "citation": "Kaluarachchi, T., Sapkota, S., Taradel, J., Thevenon, A., Matthies, D.J.C., and Nanayakkara, S.C., 2021. EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam. In MobileHCI ’21 Extended Abstracts: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fxUMUGfoCUhy4GOb0qLt-o0BbSIzZQRv/view?usp=sharing"
+        }
+      ],
+      "slug": "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam",
+      "url": "/publications/#eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam"
+    },
+    {
+      "title": "Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent",
+      "citation": "Chan, S. W. T., Sapkota, S., Mathews, R., Zhang, H. and Nanayakkara, S. C., 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-23.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yw-HUkFRsdeuHzvP14rxq5RMq03kENsy/view?usp=sharing"
+        }
+      ],
+      "slug": "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent",
+      "url": "/publications/#prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "eyeknowyou",
+  "google_scholar": ""
+}

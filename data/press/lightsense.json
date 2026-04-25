@@ -1,0 +1,15 @@
+{
+  "id": "lightsense",
+  "slug": "lightsense",
+  "title": "LightSense",
+  "year": "2021",
+  "type": "news",
+  "outlet": "Ars Electronica",
+  "url": "https://www.ars.nz/lightsense/",
+  "projects": [
+    {
+      "slug": "lightsense",
+      "title": "LightSense"
+    }
+  ]
+}

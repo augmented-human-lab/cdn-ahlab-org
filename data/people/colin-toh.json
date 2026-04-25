@@ -1,0 +1,42 @@
+{
+  "id": "colin-toh",
+  "slug": "colin-toh",
+  "name": "Colin Toh",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/colin-toh/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/colin-toh/colin-toh.jpg",
+  "bio": "Colin is a final year student at Institute of Technical Education, Singapore, studying Game Arts and Design. During his internship in SUTD, he is a game artist, designing a game for SHRUG Project. He enjoys traveling and exploring places he has never been before. In his free time, he likes to play computer games or listen to music.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

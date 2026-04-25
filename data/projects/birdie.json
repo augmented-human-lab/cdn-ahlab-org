@@ -1,0 +1,50 @@
+{
+  "id": "birdie",
+  "slug": "birdie",
+  "title": "Birdie",
+  "year": "2013",
+  "description": "Birdie is an exploration of a novel sensory experience as a first step towards a true flying experience. With the use of a tele-existence concept an augmented human controls an unmanned aerial vehicle (UAV) remotely. At the same time he or she receives multi sensory feedback like vision and sound from the UAV.",
+  "project_url": "https://ahlab.org/project/birdie/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/birdie/birdie.jpg",
+  "people": [
+    {
+      "slug": "benjamin-petry",
+      "name": "Benjamin Petry",
+      "url": "/people/benjamin-petry/"
+    },
+    {
+      "slug": "santiago-ortega",
+      "name": "Santiago Ortega",
+      "url": "/people/santiago-ortega/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "foong-shaohui",
+      "name": "Foong Shaohui",
+      "url": "/people/foong-shaohui/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Birdie: Towards a true flying experience",
+      "citation": "Petry, B., Ortega-Avila, S., Nanayakkara, S.C., and Foong, S., 2014, Birdie: Towards a true flying experience. In Workshop on Assistive Augmentation, Extended Abstracts of the 32nd Annual SIGCHI Conference on Human Factors in Computing Systems (CHI14). Toronto, Canada.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/Birdie-Towards-a-true-flying-experience.pdf"
+        }
+      ],
+      "slug": "birdie-towards-a-true-flying-experience",
+      "url": "/publications/#birdie-towards-a-true-flying-experience"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

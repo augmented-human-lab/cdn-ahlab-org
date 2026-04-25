@@ -1,0 +1,19 @@
+{
+  "id": "a-device-that-could-help-the-blind-read",
+  "slug": "a-device-that-could-help-the-blind-read",
+  "title": "A device that could help the blind read",
+  "year": "2014",
+  "type": "video",
+  "outlet": "Craig Melvin, MSNBC",
+  "url": "http://www.msnbc.com/craig-melvin/watch/a-device-that-could-help-the-blind-read-314710083732",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    }
+  ]
+}

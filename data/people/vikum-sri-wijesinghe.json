@@ -1,0 +1,59 @@
+{
+  "id": "vikum-sri-wijesinghe",
+  "slug": "vikum-sri-wijesinghe",
+  "name": "Vikum Sri Wijesinghe",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/vikum-sri-wijesinghe/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/vikum-sri-wijesinghe/vikum-sri-wijesinghe.jpg",
+  "bio": "Vikum Wijesinghe is an engineering undergraduate (Electronic and Telecommunications Engineering) at university of Moratuwa (Sri Lanka) and currently working at SUTD as a research intern.\n\nHe is interested in the fields of Gaming and Human Computer Interfaces that helps to improve human abilities, product development, making ideas and making them into realities. He is also interested in Control Systems, Image Processing, Robotics, Machine Vision. Additionally, he is very interested to keep in touch with newest technologies. He always love to take challenges and learn new things.\n\nIn his leisure time, Vikum likes to play Cricket, Badminton, Football, Mix Martial Arts or any adventure sport.",
+  "external_links": [],
+  "projects": [],
+  "publications": [
+    {
+      "title": "SHRUG: stroke haptic rehabilitation using gaming",
+      "citation": "Peiris, R.L., Wijesinghe, V., and Nanayakkara, S.C., 2015, SHRUG: stroke haptic rehabilitation using gaming. In Proceedings of the 6th Augmented Human International Conference (AH '15). ACM, New York, NY, USA, 213-214.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2735711.2735784"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-03_AH-SHRUG_Demo.pdf"
+        }
+      ],
+      "slug": "shrug-stroke-haptic-rehabilitation-using-gaming-2",
+      "url": "/publications/#shrug-stroke-haptic-rehabilitation-using-gaming-2"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

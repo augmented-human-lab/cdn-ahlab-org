@@ -1,0 +1,59 @@
+{
+  "id": "insight",
+  "slug": "insight",
+  "title": "InSight",
+  "year": "2017",
+  "description": "InSight is an intuitive technique to control smart objects with existing input devices in the environment, while simply looking at them. By leveraging the user’s line of sight as a heuristic of gaze and attention, the InSight system directs input focus from input devices to the device that the user is looking at, thus creating an intuitive metaphor: you control the object you are looking at. We contribute with technical details of the hardware and software implementation, and a discussion of single user and multi-user interaction possibilities.",
+  "project_url": "https://ahlab.org/project/insight/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/insight/insight.jpg",
+  "people": [
+    {
+      "slug": "roger-boldu",
+      "name": "Roger Boldu",
+      "url": "/people/roger-boldu/"
+    },
+    {
+      "slug": "juan-pablo-forero-cortes",
+      "name": "Juan Pablo Forero Cortés",
+      "url": "/people/juan-pablo-forero-cortes/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
+      "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041195"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1VctHLqYA8VrCwAZVTuy_G_e3GaUWx3td/view?usp=sharing"
+        }
+      ],
+      "slug": "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
+      "url": "/publications/#insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
+    }
+  ],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

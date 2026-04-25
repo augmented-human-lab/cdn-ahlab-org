@@ -1,0 +1,15 @@
+{
+  "id": "jammify",
+  "slug": "jammify",
+  "title": "Jammify",
+  "year": "2020",
+  "type": "news",
+  "outlet": "ARS Electronica",
+  "url": "https://www.ars.nz/jammify/",
+  "projects": [
+    {
+      "slug": "jammify",
+      "title": "Jammify"
+    }
+  ]
+}

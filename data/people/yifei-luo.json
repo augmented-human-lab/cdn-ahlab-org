@@ -1,0 +1,65 @@
+{
+  "id": "yifei-luo",
+  "slug": "yifei-luo",
+  "name": "Yifei Luo",
+  "role": "Intern",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2025-06",
+      "end": "2026-01"
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/yifei-luo/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/yifei-luo/yifei-luo.jpg",
+  "bio": "Yifei is an intern from China, currently pursuing her Master’s degree at RWTH Aachen University in Germany. At AHL, she primarily works on audio engineering, human-computer interaction (HCI), and drones. Her background and research interests include HCI, acoustics, machine learning (ML), and assistive technology.\n\nBefore joining AHL, Yifei worked as a student research assistant at the Institute of Hearing Technology and Acoustics, as well as the Institute of Man-Machine Interaction at RWTH Aachen University. Prior to her studies at RWTH, she obtained a Bachelor's degree in Automation from Tsinghua University in China, where she also worked as an engineer at the Institute of Human-Computer Interaction (HCI) and Media Integration.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "blind-drone",
+      "title": "Blind Drone",
+      "url": "/projects/blind-drone/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation",
+      "citation": "Dissanayake, D., Mysan, M., Luo, Y., Antoni, T., Cleveland, P., Sasikumar, P., Nanayakkara, S. C., 2026. Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772363.3798497"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1BNkKoR87_0D8bzfsWDP0wxX5draRdKu2/view?usp=sharing"
+        }
+      ],
+      "slug": "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
+      "url": "/publications/#interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "blind-drone",
+  "google_scholar": ""
+}

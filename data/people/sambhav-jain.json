@@ -1,0 +1,81 @@
+{
+  "id": "sambhav-jain",
+  "slug": "sambhav-jain",
+  "name": "Sambhav Jain",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/sambhav-jain/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/sambhav-jain/sambhav-jain.jpg",
+  "bio": "Sambhav is currently pursuing bachelors in electronics and communication engineering. He is currently an intern at Augmented Human Lab, working on finger reader/Ai-see project.\n\nHis primary areas of research interest revolve around Augmentation of Human senses, Wearable Technology and Internet of Things. In past, Sambhav also works on the new interfacing techniques with Human bodies using senses to expand the boundary of our senses to move from perceptive reality to more objective reality. His interest in embedded systems helps in forging new connections between human senses and information.\n\nApart from , Sambhav is an aspiring polymath and read books, travels and treks in his spare time.\n\nPersonal Page: www.sambhavjain12.github.io",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "m-hair",
+      "title": "M-Hair",
+      "url": "/projects/m-hair/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "M-Hair: Extended Reality by Stimulating the Body Hair",
+      "citation": "Boldu, R., Jain, S., Cortes, J.P.F., Zhang, H. and Nanayakkara, S.C., 2019. M-Hair: Extended Reality by Stimulating the Body Hair. In SIGGRAPH Asia 2019 XR (pp. 27-28).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3355355.3361881"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uUG4MHtBsoGzp76JsQTtgxu8l90pXgfC/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-extended-reality-by-stimulating-the-body-hair",
+      "url": "/publications/#m-hair-extended-reality-by-stimulating-the-body-hair"
+    },
+    {
+      "title": "M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field",
+      "citation": "Boldu, R., Jain, S., Forero Cortes, J.P., Zhang, H. and Nanayakkara, S.C., 2019, October. M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 323-328).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3332165.3347955"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1UMlbIudlZv0bViid-U7XafGVuZMWl5Vl/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
+      "url": "/publications/#m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "m-hair",
+  "google_scholar": ""
+}

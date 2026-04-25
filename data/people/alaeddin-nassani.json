@@ -1,0 +1,139 @@
+{
+  "id": "alaeddin-nassani",
+  "slug": "alaeddin-nassani",
+  "name": "Alaeddin Nassani",
+  "role": "Research Fellow",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/alaeddin-nassani/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/alaeddin-nassani/alaeddin-nassani.jpg",
+  "bio": "Alaeddin Nassani joined the Auckland Bioengineering Institute at the University of Auckland as a research fellow working at Augmented Human Lab and the Empathic Computing Lab. He has a background in software development and completed his PhD from the HITLabNZ at the University of Canterbury with a focus on human-computer interaction and augmented reality.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee",
+      "url": "/projects/aisee/"
+    },
+    {
+      "slug": "xrtic",
+      "title": "XRtic",
+      "url": "/projects/xrtic/"
+    },
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups",
+      "citation": "Suriyaarachchi, H., Nassani, A., Denny, P. and Nanayakkara, S.C. 2023. Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups. In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2023). Association for Computing Machinery, New York, NY, USA, 187–193.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3587102.3588854"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Z1oDWS8r8P8ZdoY94MWnmYqAaOxGbE4_/view?usp=sharing"
+        }
+      ],
+      "slug": "using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups",
+      "url": "/publications/#using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups"
+    },
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation",
+      "citation": "Muthukumarana, S., Nassani, A., Park, N., Steimle, J., Billinghurst, B., and Nanayakkara, S.C., XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2022.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ISMAR55827.2022.00071"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1m1irQX5MT0JKANEgfIncgX2kCWCJPDE0/view?usp=sharing"
+        }
+      ],
+      "slug": "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
+      "url": "/publications/#xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation"
+    },
+    {
+      "title": "Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry",
+      "citation": "Cao, J., Chan, S.W.T., Garbett, D.L., Denny, P., Nassani, A., Scholl, P.M. and Nanayakkara, S.C., 2021. Sensor-Based Interactive Worksheets to Support Guided Scientific Inquiry. In Interaction Design and Children (IDC ’21), June 24–30, 2021, Athens, Greece. ACM, New York, NY, USA, 7 pages. Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3459990.3460716"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1PePtQbU4Qquk1UpyIv9DXGpejZnoNlbf/view?usp=sharing"
+        }
+      ],
+      "slug": "sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry",
+      "url": "/publications/#sensor-based-interactive-worksheets-to-support-guided-scientific-inquiry"
+    },
+    {
+      "title": "OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives",
+      "citation": "Cortés, J.P.F., Suriyaarachchi, H., Nassani, A., Zhang, H. and Nanayakkara, S.C., 2021. OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives. In MobileHCI ’21: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/3447526.3472028"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/16yAh6Mru7uMSg7MCGP5XHNFUKh-Yy9fb/view?usp=sharing"
+        }
+      ],
+      "slug": "om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives",
+      "url": "/publications/#om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "aisee",
+  "google_scholar": ""
+}

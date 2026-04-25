@@ -1,0 +1,127 @@
+{
+  "id": "hannah-qiao",
+  "slug": "hannah-qiao",
+  "name": "Hannah Qiao",
+  "role": "Designer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Designer",
+      "start": "2020-12",
+      "end": "2025-06"
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/hannah-qiao/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/hannah-qiao/hannah-qiao.jpg",
+  "bio": "Hannah is a designer with a passion for teaching and learning, especially when it comes to working with children. As an artist and graphic designer, she also enjoys working in visual design and incorporating these skills into her work. In her spare time, she likes to read, bake, take photos, and create art.\n\nHannah has a Master's degree in User Experience Design and a Bachelor's degree in Arts in Education and Psychology.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "zenflow",
+      "title": "Zenflow",
+      "url": "/projects/zenflow/"
+    },
+    {
+      "slug": "xr-floatation-therapy",
+      "title": "XR Floatation Therapy",
+      "url": "/projects/xr-floatation-therapy/"
+    },
+    {
+      "slug": "stakco",
+      "title": "Stakco",
+      "url": "/projects/stakco/"
+    },
+    {
+      "slug": "kavy",
+      "title": "Kavy",
+      "url": "/projects/kavy/"
+    },
+    {
+      "slug": "itiles",
+      "title": "iTILES",
+      "url": "/projects/itiles/"
+    },
+    {
+      "slug": "hopu",
+      "title": "Hopu",
+      "url": "/projects/hopu/"
+    },
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water",
+      "citation": "Montoya, M.F., Qiao, H., Sasikumar, P., Elvitigala, D.S., Pell, S.J., Nanayakkara, S.C, Mueller, F. ‘Floyd’, 2024. Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3613904.3642285"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1kFNShCVypGn7mNFvkka4nwg2KH-qgEDN/view?usp=drive_link"
+        }
+      ],
+      "slug": "exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water",
+      "url": "/publications/#exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water"
+    },
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Snatch and hatch: Improving receptivity towards a nature of science with a playful mobile application",
+      "citation": "Qiao, H., Suriyaarachchi, H., Cooray, S. and Nanayakkara, S.C. 2023, June. Snatch and hatch: Improving receptivity towards a nature of science with a playful mobile application. In Proceedings of the 22nd Annual ACM Interaction Design and Children Conference (pp. 278-288).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3585088.3589384"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1xuGj3bQoTBCrW1i7V2UbRLTxacpA1EsL/view?usp=drive_link"
+        }
+      ],
+      "slug": "snatch-and-hatch-improving-receptivity-towards-a-nature-of-science-with-a-playful-mobile-application",
+      "url": "/publications/#snatch-and-hatch-improving-receptivity-towards-a-nature-of-science-with-a-playful-mobile-application"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "zenflow",
+  "google_scholar": ""
+}

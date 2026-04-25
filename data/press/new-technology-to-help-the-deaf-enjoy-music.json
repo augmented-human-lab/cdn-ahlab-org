@@ -1,0 +1,15 @@
+{
+  "id": "new-technology-to-help-the-deaf-enjoy-music",
+  "slug": "new-technology-to-help-the-deaf-enjoy-music",
+  "title": "\"New technology to help the deaf enjoy music\"",
+  "year": "2009",
+  "type": "news",
+  "outlet": "National University of Singapore Research Gallery",
+  "url": "http://www.eng.nus.edu.sg/ero/news/index.php?id=566",
+  "projects": [
+    {
+      "slug": "hapticchair",
+      "title": "HapticChair"
+    }
+  ]
+}

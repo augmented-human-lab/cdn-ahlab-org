@@ -1,0 +1,265 @@
+{
+  "id": "chamod-weerasinghe",
+  "slug": "chamod-weerasinghe",
+  "name": "Chamod Weerasinghe",
+  "role": "Research Engineer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Engineer",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/chamod-weerasinghe/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/chamod-weerasinghe/chamod-weerasinghe.jpg",
+  "bio": "Chamod grew up in Colombo Sri Lanka. He completed his bachelor's degree in Electronics and Telecommunication Engineering from the University of Moratuwa, Sri Lanka. He joined the Augmented Human Lab at SUTD as a research intern in 2016 and is currently working as a research engineer. In his free time he likes to read or go for long walks.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee",
+      "url": "/projects/aisee/"
+    },
+    {
+      "slug": "kiwrious",
+      "title": "Kiwrious",
+      "url": "/projects/kiwrious/"
+    },
+    {
+      "slug": "gymsoles",
+      "title": "GymSoles",
+      "url": "/projects/gymsoles/"
+    },
+    {
+      "slug": "osense",
+      "title": "oSense",
+      "url": "/projects/osense/"
+    },
+    {
+      "slug": "cricketcoach",
+      "title": "CricketCoach",
+      "url": "/projects/cricketcoach/"
+    },
+    {
+      "slug": "comprate",
+      "title": "CompRate",
+      "url": "/projects/comprate/"
+    },
+    {
+      "slug": "2bit-tactile-hand",
+      "title": "2bit-Tactile Hand",
+      "url": "/projects/2bit-tactile-hand/"
+    },
+    {
+      "slug": "armsleeve",
+      "title": "ArmSleeve",
+      "url": "/projects/armsleeve/"
+    },
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Primary School Students Programming with Real-Time Environmental Sensor Data",
+      "citation": "Suriyaarachchi, H., Denny, P., Cortés, J.P.F., Weerasinghe, C. and Nanayakkara, S.C., 2022. Primary School Students Programming with Real-Time Environmental Sensor Data. In Australasian Computing Education Conference (ACE ’22), February 14–18, 2022, Virtual Event, Australia.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3511861.3511871"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12H6A0apCmvWOAB66L2-fCa3nGPjrT9n8/view?usp=sharing"
+        }
+      ],
+      "slug": "primary-school-students-programming-with-real-time-environmental-sensor-data",
+      "url": "/publications/#primary-school-students-programming-with-real-time-environmental-sensor-data"
+    },
+    {
+      "title": "Design and Evaluation of a Mobile Sensing Platform for Water Conductivity",
+      "citation": "Weerasinghe, C., Padhye, L.P. and Nanayakkara, S.C., 2022, October. Design and Evaluation of a Mobile Sensing Platform for Water Conductivity. In 2022 IEEE Sensors (pp. 1-4). IEEE.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/SENSORS52175.2022.9967052"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1DFSQ28YIKzc-50XFIw-b9eA9IAkg1bUu/view?usp=sharing"
+        }
+      ],
+      "slug": "design-and-evaluation-of-a-mobile-sensing-platform-for-water-conductivity",
+      "url": "/publications/#design-and-evaluation-of-a-mobile-sensing-platform-for-water-conductivity"
+    },
+    {
+      "title": "GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats",
+      "citation": "Elvitigala, D.S., Matthies, D.J.C, Weerasinghe, C. and Nanayakkara, S.C., 2021. GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats. In The 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA 2021), June 29-July 2, 2021, Corfu, Greece. Best Student Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3453892.3453898"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1EPAO5dtUngEmLXIoWB_ydB6bzsfDvIMR/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats",
+      "url": "/publications/#gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats"
+    },
+    {
+      "title": "CapGlasses: Untethered Capacitive Sensing with Smart Glasses",
+      "citation": "Matthies, D.J.C., Weerasinghe, C., Urban, B., and Nanayakkara, S.C., 2021. CapGlasses: Untethered Capacitive Sensing with SmartGlasses. In Augmented Humans International Conference 2021 (AHs ’21), February 22–24, 2021, Rovaniemi, Finland.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3458709.3458945"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1E6hMfadLmb9L06GaV1Xpe_HQbUzIXBin/view?usp=sharing"
+        }
+      ],
+      "slug": "capglasses-untethered-capacitive-sensing-with-smart-glasses",
+      "url": "/publications/#capglasses-untethered-capacitive-sensing-with-smart-glasses"
+    },
+    {
+      "title": "GymSoles++: Using Smart Wearables to Improve Body Posture when Performing Squats and Dead-Lifts.",
+      "citation": "Elvitigala D. S., Matthies D. J. C., Weerasinghe C., Shi Y., and Nanayakkara S.C., 2020. GymSoles++: Using Smart Wearables to Improve Body Posture when Performing Squats and Dead-Lifts. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3385331"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12-8uucgREP_yWssj9ufwEj6o7FshtQ_d/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-using-smart-wearables-to-improve-body-posture-when-performing-squats-and-dead-lifts",
+      "url": "/publications/#gymsoles-using-smart-wearables-to-improve-body-posture-when-performing-squats-and-dead-lifts"
+    },
+    {
+      "title": "oSense: Object-Activity Identification Based on Gasping Posture and Motion",
+      "citation": "Buddhika, T., Zhang, H., Weerasinghe, C., Nanayakkara, S.C. and Zimmermann, R., 2019, March. OSense: Object-activity identification based on gasping posture and motion. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311841"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jYB9EbB5Ew_xlRgF5zZ2smbUTe1lz9ij/view?usp=sharing"
+        }
+      ],
+      "slug": "osense-object-activity-identification-based-on-gasping-posture-and-motion",
+      "url": "/publications/#osense-object-activity-identification-based-on-gasping-posture-and-motion"
+    },
+    {
+      "title": "GymSoles: Improving Squats and Dead-Lifts by Visualizing the User’s Centre of Pressure",
+      "citation": "Elvitigala, D.S., Matthies, D.J., David, L., Weerasinghe, C. and Nanayakkara, S.C., 2019, May. GymSoles: Improving Squats and Dead-Lifts by Visualizing the User's Center of Pressure. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300404"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TxCTJcmr2k7xQLOp69HbGCyi6WaTZoIa/view?usp=sharing"
+        }
+      ],
+      "slug": "gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure",
+      "url": "/publications/#gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure"
+    },
+    {
+      "title": "CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers",
+      "citation": "Muthukumarana, S., Matthies, D.J., Weerasinghe, C., Elvitigala, D.S. and Nanayakkara, S.C., 2019, March. CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311833"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1MizLM_-FhsL3H1D2T07_8nX8L9LGlDqe/view?usp=sharing"
+        }
+      ],
+      "slug": "cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers",
+      "url": "/publications/#cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers"
+    },
+    {
+      "title": "CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables",
+      "citation": "Dissanayake, V., Elvitigala, D.S., Zhang, H., Weerasinghe, C. and Nanayakkara, S.C., 2019, November. CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables. In 25th ACM Symposium on Virtual Reality Software and Technology (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3359996.3364239"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1OC0qHFuRFRBxF1gUHwpiOUKGXz3OfP68/view?usp=sharing"
+        }
+      ],
+      "slug": "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
+      "url": "/publications/#comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables"
+    },
+    {
+      "title": "2bit-TactileHand: Evaluating Tactons for Nobody Vibrotactile Displays on the Hand and Wrist.",
+      "citation": "Elvitigala, D.S., Matthies, D.J., Dissanayaka, V., Weerasinghe, C. and Nanayakkara, S.C., 2019, March. 2bit-TactileHand: Evaluating Tactons for On-Body Vibrotactile Displays on the Hand and Wrist. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311832"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Qvl1pDiOsk53wmYLPkYrtj1pVqgTBLpR/view?usp=sharing"
+        }
+      ],
+      "slug": "2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist",
+      "url": "/publications/#2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "aisee",
+  "google_scholar": ""
+}

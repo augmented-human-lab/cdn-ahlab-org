@@ -1,0 +1,59 @@
+{
+  "id": "wong-meng-ee",
+  "slug": "wong-meng-ee",
+  "name": "Wong Meng Ee",
+  "role": "Associate Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/wong-meng-ee/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/wong-meng-ee/wong-meng-ee.jpg",
+  "bio": "Asst Prof Wong Meng Ee currently teaches courses in special education in the Master of Education programme as well as in the Diploma in Special Education programme. He coordinates the Advance Diploma in Educational Psychology ;Group Endeavors in Service Learning; and co-coordinates the Programme in Teachers trained in Special Needs. Asst Prof Wong's research interests include the transition and post-school outcomes of students with disabilities; teachers and their relationships with families, schools and communities; issues relating to persons with visual impairments and their developments; education of teachers of children with special needs; social policy and disability; assistive technology.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "FingerReader: A Wearable Device to Explore Printed Text on the Go",
+      "citation": "Shilkrot, R., Huber, J., Meng Ee, W., Maes, P. and Nanayakkara, S.C., 2015, April. FingerReader: a wearable device to explore printed text on the go. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 2363-2372).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "http://fluid.media.mit.edu/sites/default/files/FingerReaderCHI15%20Camera%20Ready-fonts%20embedded.pdf"
+        },
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2702123.2702421"
+        }
+      ],
+      "slug": "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
+      "url": "/publications/#fingerreader-a-wearable-device-to-explore-printed-text-on-the-go"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "fingerreader",
+  "google_scholar": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "this-doormat-can-tell-who-you-are-for-multi-factor-authentication",
+  "slug": "this-doormat-can-tell-who-you-are-for-multi-factor-authentication",
+  "title": "This Doormat Can Tell Who You Are for Multi-Factor Authentication",
+  "year": "2019",
+  "type": "news",
+  "outlet": "hackter.io",
+  "url": "https://blog.hackster.io/this-doormat-can-tell-who-you-are-for-multi-factor-authentication-1f01928897a8",
+  "projects": [
+    {
+      "slug": "capmat",
+      "title": "CapMat"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "touch-me-gently-global-grad-show",
+  "slug": "touch-me-gently-global-grad-show",
+  "title": "Touch me Gently | Global Grad Show",
+  "year": "2020",
+  "type": "news",
+  "outlet": null,
+  "url": "https://globalgradshow.com/project/touch-me-gently/",
+  "projects": [
+    {
+      "slug": "phantomtouch",
+      "title": "PhantomTouch"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "anisma",
+  "slug": "anisma",
+  "title": "ANISMA",
+  "year": "2021",
+  "description": "ANISMA is a software and hardware toolkit to prototype on-skin haptic devices that generate skin deformation stimuli like pressure, stretch, and motion using shape-memory alloys (SMAs). The toolkit embeds expert knowledge that makes SMA spring actuators more accessible to human-computer interaction (HCI) researchers. Using the software tool, users can design different actuator layouts, program their spatio-temporal actuation and preview the resulting deformation behaviour to verify a design at an early stage. The toolkit allows exporting the actuator layout and 3D printing it on skin adhesive, which allows pasting the device directly on the skin. To test different actuation sequences on the skin, a user can connect the SMA actuators to the customized driver board and reprogram them using the visual programming interface.\n\nExternal Collaborators: Nur Al-huda Hamdan, Adrian Wagner, Jan Borchers",
+  "project_url": "https://ahlab.org/project/anisma/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/anisma/anisma.jpg",
+  "people": [
+    {
+      "slug": "moritz-messerschmidt",
+      "name": "Moritz Messerschmidt",
+      "url": "/people/moritz-messerschmidt/"
+    },
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys",
+      "citation": "Messerschmidt M.A., Muthukumarana S., Hamdan N.A., Wagner A., Zhang H., Borchers J., and Nanayakkara S.C. 2022. ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 19 (June 2022), 34 pages.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3490497"
+        }
+      ],
+      "slug": "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
+      "url": "/publications/#anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

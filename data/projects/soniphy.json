@@ -1,0 +1,66 @@
+{
+  "id": "soniphy",
+  "slug": "soniphy",
+  "title": "SoniPhy",
+  "year": "2025",
+  "description": "While regulation of cognitive and emotional states is important for the health and wellbeing of students and those in the workplace, tasks in the school and office settings typically demand most of of our attention.\n\nSoni-Phy investigates whether, and how, ambient biofeedback can be used to amplify our perception of internal bodily sensations and provide continuous emotion regulation support in an unobtrusive manner. The project is grounded in research showing that the ability to accurately perceive internal sensations such as \"butterflies in the stomach\" has been linked to better emotion regulation and use of adaptive coping strategies. As an ambient intervention, SoniPhy also places low demands on user attention, allowing them to use it while concurrently working on a primary task.",
+  "project_url": "https://ahlab.org/project/soniphy/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/soniphy/soniphy.jpg",
+  "people": [
+    {
+      "slug": "phoebe-chua",
+      "name": "Phoebe Chua",
+      "url": "/people/phoebe-chua/"
+    },
+    {
+      "slug": "dixon-prem-daniel",
+      "name": "Dixon Prem Daniel",
+      "url": "/people/dixon-prem-daniel/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Know Thyself: Improving Interoceptive Ability Through Ambient Biofeedback in the Workplace",
+      "citation": "Chua, P., Agres, K. and Nanayakkara, S.C., 2023. Know Thyself: Improving Interoceptive Ability Through Ambient Biofeedback in the Workplace.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2023/3/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jCWF9IyLhvTH6NEpPoT8lVZLLgo_4tpg/view?usp=sharing"
+        }
+      ],
+      "slug": "know-thyself-improving-interoceptive-ability-through-ambient-biofeedback-in-the-workplace",
+      "url": "/publications/#know-thyself-improving-interoceptive-ability-through-ambient-biofeedback-in-the-workplace"
+    },
+    {
+      "title": "Computational Music Systems for Emotional Health and Wellbeing: A Review",
+      "citation": "Chua, P., Gupta, C., R Agres, K. and Nanayakkara, S., 2022. Computational Music Systems for Emotional Health and Wellbeing: A Review.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2022/25/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1N1sQDe8-K5xXkshjEOUeZ3YoaCvLyXgp/view?usp=sharing"
+        }
+      ],
+      "slug": "computational-music-systems-for-emotional-health-and-wellbeing-a-review",
+      "url": "/publications/#computational-music-systems-for-emotional-health-and-wellbeing-a-review"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive",
+    "perceptual"
+  ]
+}

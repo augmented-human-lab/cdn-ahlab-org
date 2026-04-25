@@ -1,0 +1,19 @@
+{
+  "id": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+  "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+  "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
+  "year": "2022",
+  "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22), October 29-November 2, 2022, Bend, OR, USA.",
+  "award": null,
+  "links": [
+    {
+      "label": "DOI",
+      "url": "https://doi.org/10.1145/3526113.3545656"
+    },
+    {
+      "label": "PDF",
+      "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
+    }
+  ],
+  "venue": "UIST"
+}

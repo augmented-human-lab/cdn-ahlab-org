@@ -1,0 +1,58 @@
+{
+  "id": "stickamps",
+  "slug": "stickamps",
+  "title": "StickAmps",
+  "year": "2016",
+  "description": "StickAmps is an intuitive interface that provides feedback on the AC (Alternating Current) current flow through a bundled-cable. Single phase and three phase AC was estimated with a regression model developed using principles of applied electromagnetism. This regression model is embedded into three standalone compact Stick-Amps prototypes. We discuss three variations of StickAmp form factors (self-contained wireless current sensing device; a glove that senses current when grabbing onto a cable and; and a clip-on sensor for an oscilloscope application on a smartphone) and some of their potential applications.",
+  "project_url": "https://ahlab.org/project/stickamps/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/stickamps/stickamps.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "roshan-peiris",
+      "name": "Roshan Peiris",
+      "url": "/people/roshan-peiris/"
+    },
+    {
+      "slug": "erik-wilhelm",
+      "name": "Erik Wilhelm",
+      "url": "/people/erik-wilhelm/"
+    },
+    {
+      "slug": "foong-shaohui",
+      "name": "Foong Shaohui",
+      "url": "/people/foong-shaohui/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "GrabAmps: Grab a Wire to Sense the Current Flow",
+      "citation": "Elvitigala, D.S., Peiris, R., Wilhelm, E., Foong, S. and Nanayakkara, S.C., 2017, March. GrabAmps: grab a wire to sense the current flow. In Proceedings of the 8th Augmented Human International Conference (pp. 1-4).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041199"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/GrabAmps-AH2017CameraCopy-version2.pdf"
+        }
+      ],
+      "slug": "grabamps-grab-a-wire-to-sense-the-current-flow",
+      "url": "/publications/#grabamps-grab-a-wire-to-sense-the-current-flow"
+    }
+  ],
+  "principles": [
+    "physical"
+  ]
+}

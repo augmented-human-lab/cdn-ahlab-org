@@ -1,0 +1,312 @@
+{
+  "id": "chitralekha-gupta",
+  "slug": "chitralekha-gupta",
+  "name": "Chitralekha Gupta",
+  "email": "chitralekha@ahlab.org",
+  "role": "Senior Research Fellow",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Senior Research Fellow",
+      "start": "2022-08",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/chitralekha-gupta/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/chitralekha-gupta/chitralekha-gupta.jpg",
+  "bio": "Chitralekha joined the Augmented Human Lab in the the National University of Singapore (NUS) as a Research Fellow. Her interests include Neural Audio Synthesis, and Music Information Retrieval, specifically singing voice analysis and evaluation, and applications of speech recognition techniques in music such as lyrics alignment and transcription. Chitralekha obtained her PhD degree from NUS.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "factually",
+      "title": "Factually",
+      "url": "/projects/factually/"
+    },
+    {
+      "slug": "blind-drone",
+      "title": "Blind Drone",
+      "url": "/projects/blind-drone/"
+    },
+    {
+      "slug": "sonicvista",
+      "title": "SonicVista",
+      "url": "/projects/sonicvista/"
+    },
+    {
+      "slug": "dysalytics",
+      "title": "Dysalytics",
+      "url": "/projects/dysalytics/"
+    },
+    {
+      "slug": "emo-know",
+      "title": "EMO-KNOW",
+      "url": "/projects/emo-know/"
+    },
+    {
+      "slug": "crowd-eval-audio",
+      "title": "Crowd-Eval-Audio",
+      "url": "/projects/crowd-eval-audio/"
+    },
+    {
+      "slug": "audio-morph-gan",
+      "title": "Audio-Morph GAN",
+      "url": "/projects/audio-morph-gan/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information",
+      "citation": "Gupta, C.*, Aritonang, N.*, Rajendran D., Danry, V., Maes, P., and Nanayakkara, S. C., 2026. Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772318.3791679"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1xVjShf-s0pN6DzpPrydxkbI2SQLsDk_J/view?usp=sharing"
+        }
+      ],
+      "slug": "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
+      "url": "/publications/#feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
+    },
+    {
+      "title": "Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes",
+      "citation": "Gupta, C., Peng, J., Ram, A., Sridhar, S., Jouffrais, C., Nanayakkara, S.C., 2026. Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772318.3791655"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1vTkl0YF-Komg84lNa2_18UB_5fK25vIM/view?usp=sharing"
+        }
+      ],
+      "slug": "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes",
+      "url": "/publications/#beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes"
+    },
+    {
+      "title": "VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games",
+      "citation": "Dissanayake, D., Gupta, C., Sasikumar, P. and Nanayakkara, S.C., 2025, April. VRSense: An Explainable System to Help Mitigate Cybersickness in VR Games. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3706599.3719891"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1LZDUh0bsjSQCEu32ka_tnmEJczgguyEW/view?usp=sharing"
+        }
+      ],
+      "slug": "vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games",
+      "url": "/publications/#vrsense-an-explainable-system-to-help-mitigate-cybersickness-in-vr-games"
+    },
+    {
+      "title": "Towards Temporally Explainable Dysarthric Speech Clarity Assessment",
+      "citation": "Park, S., Gupta, C., Kwan, M.K.Y., Fung, X., Yip, A.W. and Nanayakkara, S. C., 2025. Towards Temporally Explainable Dysarthric Speech Clarity Assessment. Interspeech 2025.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://www.isca-archive.org/interspeech_2025/park25c_interspeech.pdf"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jFfcKCPupMHrfWGz_Sb4Em7O-5bSbjvt/view?usp=drive_link"
+        }
+      ],
+      "slug": "towards-temporally-explainable-dysarthric-speech-clarity-assessment",
+      "url": "/publications/#towards-temporally-explainable-dysarthric-speech-clarity-assessment"
+    },
+    {
+      "title": "Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People",
+      "citation": "Gupta, C., Ram, A., Sridhar, S., Jouffrais, C. and Nanayakkara, S. C., 2025, April. Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-9).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3706599.3719849"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1P9tDkBXMwmtesGTh-TWgldmcurpBMh7z/view?usp=drive_link"
+        }
+      ],
+      "slug": "scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people",
+      "url": "/publications/#scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people"
+    },
+    {
+      "title": "Human Robot Interaction for People with Visual Impairments: A Systematic Literature Review",
+      "citation": "Wei, Y., Rocher, N., Gupta, C., Nguyen, M.H., Zimmermann, R., Ooi, W.T., Jouffrais, C. and Nanayakkara, S.C., 2025. Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review. In: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). New York, NY, USA: Association for Computing Machinery, Article 276, pp.1–19.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3706598.3713438"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1be_Pyy85obvKW8OLJm4hdXpSwjOCD_Re/view?usp=sharing"
+        }
+      ],
+      "slug": "human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review",
+      "url": "/publications/#human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review"
+    },
+    {
+      "title": "GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds",
+      "citation": "Nguyen, M.H., Messerschmidt, M.A, Gupta, C. and Nanayakkara, S.C., 2025. GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. CHI EA '25",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3706599.3719826"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1tIM7Ud1GHLhg0O2Fbdcfy9wtjoSltru9/view?usp=sharing"
+        }
+      ],
+      "slug": "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
+      "url": "/publications/#gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds"
+    },
+    {
+      "title": "DroneAudioset: An Audio Dataset for Drone-based Search and Rescue",
+      "citation": "Gupta, C.*, Ramesh, S.*, Sasikumar, P., Yeo, K. P., & Nanayakkara, S. C., \"DroneAudioset: An Audio Dataset for Drone-based Search and Rescue,\" NeurIPS 2025.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1x4HXEwWi_6E0Gsgy3if_DDc23ilCI4ji/view?usp=sharing"
+        }
+      ],
+      "slug": "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue",
+      "url": "/publications/#droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
+    },
+    {
+      "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
+      "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TVCG.2024.3372044"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1eTlLX4o3eOzI7aPUcRHMiWoCrRe1aDqF/view?usp=drive_link"
+        }
+      ],
+      "slug": "vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research",
+      "url": "/publications/#vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research"
+    },
+    {
+      "title": "SonicVista: Towards Creating Awareness of Distant Scenes through Sonification",
+      "citation": "Gupta, C., Sridhar, S., Matthies, D.J., Jouffrais, C. and Nanayakkara, S.C., 2024. SonicVista: Towards Creating Awareness of Distant Scenes through Sonification. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), pp.1-32.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3659609"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1VgtLBPs03dJodsN6_7-yPfqLuceCGBSj/view?usp=sharing"
+        }
+      ],
+      "slug": "sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification",
+      "url": "/publications/#sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification"
+    },
+    {
+      "title": "Towards Controllable Audio Texture Morphing",
+      "citation": "Gupta C*., Kamath P*., Wei. Y., Li, Z., Nanayakkara S.C., Wyse L. 2023. Towards Controllable Audio Texture Morphing. In 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '23), 4-10 June, 2023, Rhodes Island, Greece.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Od3J7IHFhiZ0fUatCoNCzD7Fp0AFBfg1/view?usp=sharing"
+        }
+      ],
+      "slug": "towards-controllable-audio-texture-morphing",
+      "url": "/publications/#towards-controllable-audio-texture-morphing"
+    },
+    {
+      "title": "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas",
+      "citation": "Kamath, P., Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S.C. and Wyse, L. 2023. Evaluating Descriptive Quality of AI Generated Audio Using Image-Schemas. In 28th International Conference on Intelligent User Interfaces (IUI ’23), March 27–31, 2023, Sydney, NSW, Australia.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3581641.3584083"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/12oQ4uEVB4J1wura4sL9fYQEb8hnTkFtM/view?usp=sharing"
+        }
+      ],
+      "slug": "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas",
+      "url": "/publications/#evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas"
+    },
+    {
+      "title": "EMO-KNOW: A Large Scale Dataset on Emotion-Cause",
+      "citation": "Nguyen, M., Samaradivakara, Y., Sasikumar, P., Gupta, C. and Nanayakkara, S.C., 2023, December. EMO-KNOW: A Large Scale Dataset on Emotion-Cause. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 11043-11051).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.737"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1NsFaWPwX-DO21d_BEpvfUs5Ri8BMoOjb/view?usp=drive_link"
+        }
+      ],
+      "slug": "emo-know-a-large-scale-dataset-on-emotion-cause",
+      "url": "/publications/#emo-know-a-large-scale-dataset-on-emotion-cause"
+    },
+    {
+      "title": "Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text.",
+      "citation": "Siriwardhana, S*., Gupta, C.*, Kaluarachchi, T., Dissanayake, V., Ellawela, S., & Nanayakkara, S.C. (2023). Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text. International Journal of Human–Computer Interaction, 1–19.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2286090"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1FOiydcfVylDTV_LxLYRazstuyXhrN0hZ/view?usp=drive_link"
+        }
+      ],
+      "slug": "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
+      "url": "/publications/#can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
+    },
+    {
+      "title": "Computational Music Systems for Emotional Health and Wellbeing: A Review",
+      "citation": "Chua, P., Gupta, C., R Agres, K. and Nanayakkara, S., 2022. Computational Music Systems for Emotional Health and Wellbeing: A Review.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2022/25/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1N1sQDe8-K5xXkshjEOUeZ3YoaCvLyXgp/view?usp=sharing"
+        }
+      ],
+      "slug": "computational-music-systems-for-emotional-health-and-wellbeing-a-review",
+      "url": "/publications/#computational-music-systems-for-emotional-health-and-wellbeing-a-review"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "factually",
+  "google_scholar": ""
+}

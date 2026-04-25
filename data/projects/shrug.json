@@ -1,0 +1,105 @@
+{
+  "id": "shrug",
+  "slug": "shrug",
+  "title": "SHRUG",
+  "year": "2015",
+  "description": "SHRUG, is an interactive shoulder rehabilitation exerciser. With this work system, we intend to (1) explore the effectiveness of providing interactive and just-in-time feedback to the patients and therapists; (2) explore the effect of adding a gaming element on the motivation of the patients. The SHRUG prototype was developed in collaboration with the St. Andrew's Community Hospital, Singapore. The approach of SHRUG is two pronged. Firstly, enhance the effectiveness of rehabilitation process for the therapists by converting the existing shoulder rehabilitation exercise platform into an interactive object that monitor, record and provide timely alerts. Secondly, enhance the experience of the rehabilitation process for the patients by providing immediate feedback of their actions and introducing motivational ‘gamified’ shoulder rehabilitation exercises.",
+  "project_url": "https://ahlab.org/project/shrug/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/shrug/shrug.jpg",
+  "people": [
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "chamod-weerasinghe",
+      "name": "Chamod Weerasinghe",
+      "url": "/people/chamod-weerasinghe/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "attila-victor-achenbach",
+      "name": "Attila Victor Achenbach",
+      "url": "/people/attila-victor-achenbach/"
+    },
+    {
+      "slug": "shanaka-ransiri",
+      "name": "Shanaka Ransiri",
+      "url": "/people/shanaka-ransiri/"
+    },
+    {
+      "slug": "tharindu-kaluarachchi",
+      "name": "Tharindu Kaluarachchi",
+      "url": "/people/tharindu-kaluarachchi/"
+    },
+    {
+      "slug": "alexandru-dancu",
+      "name": "Alexandru Dancu",
+      "url": "/people/alexandru-dancu/"
+    },
+    {
+      "slug": "roshan-peiris",
+      "name": "Roshan Peiris",
+      "url": "/people/roshan-peiris/"
+    },
+    {
+      "slug": "iain-werry",
+      "name": "Iain Werry",
+      "url": "/people/iain-werry/"
+    },
+    {
+      "slug": "priyashri-sridhar",
+      "name": "Priyashri Sridhar",
+      "url": "/people/priyashri-sridhar/"
+    },
+    {
+      "slug": "deepthika-de-silva",
+      "name": "Deepthika De Silva",
+      "url": "/people/deepthika-de-silva/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SHRUG: stroke haptic rehabilitation using gaming",
+      "citation": "Peiris, R.L., Wijesinghe, V., and Nanayakkara, S.C., 2015, SHRUG: stroke haptic rehabilitation using gaming. In Proceedings of the 6th Augmented Human International Conference (AH '15). ACM, New York, NY, USA, 213-214.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2735711.2735784"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-03_AH-SHRUG_Demo.pdf"
+        }
+      ],
+      "slug": "shrug-stroke-haptic-rehabilitation-using-gaming-2",
+      "url": "/publications/#shrug-stroke-haptic-rehabilitation-using-gaming-2"
+    },
+    {
+      "title": "SHRUG: stroke haptic rehabilitation using gaming",
+      "citation": "Peiris, R.L., Janaka, N., De Silva, D. and Nanayakkara, S.C, 2014, December. SHRUG: stroke haptic rehabilitation using gaming. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 380-383).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2686612.2686669"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_OzCHI-SHRUG_Short.pdf"
+        }
+      ],
+      "slug": "shrug-stroke-haptic-rehabilitation-using-gaming",
+      "url": "/publications/#shrug-stroke-haptic-rehabilitation-using-gaming"
+    }
+  ],
+  "principles": [
+    "body",
+    "identity"
+  ]
+}

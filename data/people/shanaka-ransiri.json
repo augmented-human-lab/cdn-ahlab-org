@@ -1,0 +1,199 @@
+{
+  "id": "shanaka-ransiri",
+  "slug": "shanaka-ransiri",
+  "name": "Shanaka Ransiri",
+  "role": "Software Development Lead",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Software Development Lead",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/shanaka-ransiri/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/shanaka-ransiri/shanaka-ransiri.jpg",
+  "bio": "Shanaka graduated from the Department of Computer Science and Engineering, University of Moratuwa. His research interests are in the field of Computer Vision, Robotics and Machine Learning. During the final year of his first-degree, him with another three colleagues researched and developed an automated vehicle undercarriage inspection system. In his M.Sc research, he researched and analysed the benefits and pitfalls of different biometric technologies and proposed a multi-biometric system using face and ear. Along with that, he was researching to design a prototype system to validate the compliantness of facial observation to ICAO standard before the image is captured.\n\nPreviously, he has worked as a lecturer in the Department of Computer Science and Engineering, University of Moratuwa. He likes to involve in projects which has a straight significance for the society and a tangible product. Shanaka’s objective is to make his competencies useful for the society by contributing to SUTD while widening his knowledge and research interests unboundedly.\n\nMeanwhile, Shanaka likes to spend his free time with the family, watch movies, listen to music, play rugby, travel to new places and share thoughts with others.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "thumb-in-motion",
+      "title": "Thumb in Motion",
+      "url": "/projects/thumb-in-motion/"
+    },
+    {
+      "slug": "kyanite",
+      "title": "Kyanite",
+      "url": "/projects/kyanite/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    },
+    {
+      "slug": "zsense",
+      "title": "zSense",
+      "url": "/projects/zsense/"
+    },
+    {
+      "slug": "wavesense",
+      "title": "WaveSense",
+      "url": "/projects/wavesense/"
+    },
+    {
+      "slug": "shrug",
+      "title": "SHRUG",
+      "url": "/projects/shrug/"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0",
+      "url": "/projects/fingerreader-v0/"
+    },
+    {
+      "slug": "stickear",
+      "title": "StickEar",
+      "url": "/projects/stickear/"
+    },
+    {
+      "slug": "smartfinger",
+      "title": "SmartFinger",
+      "url": "/projects/smartfinger/"
+    },
+    {
+      "slug": "watchme",
+      "title": "WatchMe",
+      "url": "/projects/watchme/"
+    },
+    {
+      "slug": "sutdfoodcam",
+      "title": "SUTDFoodCam",
+      "url": "/projects/sutdfoodcam/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "WaveSense: Low Power Voxel-tracking Technique for Resource Limited Devices",
+      "citation": "Withana, A., Kaluarachchi, T., Singhabahu, C., Ransiri, S., Shi, Y. and Nanayakkara, S.C., 2020. waveSense: Low Power Voxel-tracking Technique for Resource Limited Devices. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3384657.3384790"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Ug6C2P7oOwuX8aUGQGA_UgnKDhhWpV2p/view?usp=sharing"
+        }
+      ],
+      "slug": "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
+      "url": "/publications/#wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices"
+    },
+    {
+      "title": "Thumb-In-Motion: Evaluating Thumb to Ring Microgestures for Athletic Activity",
+      "citation": "Boldu, R., Dancu, A., Matthies, D.J., Cascón, P.G., Ransir, S. and Nanayakkara, S.C., 2018, October. Thumb-In-Motion: Evaluating Thumb-to-Ring Microgestures for Athletic Activity. In Proceedings of the Symposium on Spatial User Interaction (pp. 150-157).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3267796"
+        }
+      ],
+      "slug": "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
+      "url": "/publications/#thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity"
+    },
+    {
+      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
+      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
+      "links": [
+        {
+          "label": "url",
+          "url": "http://dl.acm.org/citation.cfm?id=2985734"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
+        }
+      ],
+      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
+      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
+    },
+    {
+      "title": "StickEar: Making Everyday Objects Respond to Sound",
+      "citation": "Yeo, K.P., Nanayakkara, S.C. and Ransiri, S., 2013, October. StickEar: making everyday objects respond to sound. In Proceedings of the 26th annual ACM symposium on User interface software and technology (pp. 221-226).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://dl.acm.org/doi/10.1145/2501988.2502019"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/StickEar_UIST2013.pdf"
+        }
+      ],
+      "slug": "stickear-making-everyday-objects-respond-to-sound",
+      "url": "/publications/#stickear-making-everyday-objects-respond-to-sound"
+    },
+    {
+      "title": "SmartFinger: Connecting Devices, Objects and People seamlessly",
+      "citation": "Ransiri, S., Peiris, R.L., Yeo, K.P. and Nanayakkara, S.C., 2013, November. SmartFinger: connecting devices, objects and people seamlessly. In Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration (pp. 359-362).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/2541016.2541064"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/ozchi13_SmartFinger_ShortPaper.pdf"
+        }
+      ],
+      "slug": "smartfinger-connecting-devices-objects-and-people-seamlessly",
+      "url": "/publications/#smartfinger-connecting-devices-objects-and-people-seamlessly"
+    },
+    {
+      "title": "SmartFinger: An Augmented Finger as a Seamless ‘Channel’ between Digital and Physical Objects",
+      "citation": "Ransiri, S. and Nanayakkara, S.C., 2013, March. SmartFinger: an augmented finger as a seamless 'channel' between digital and physical objects. In Proceedings of the 4th Augmented Human International Conference (pp. 5-8).",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_ransiri_2013.pdf"
+        }
+      ],
+      "slug": "smartfinger-an-augmented-finger-as-a-seamless-channel-between-digital-and-physical-objects",
+      "url": "/publications/#smartfinger-an-augmented-finger-as-a-seamless-channel-between-digital-and-physical-objects"
+    },
+    {
+      "title": "WatchMe: Wrist-worn interface that makes remote monitoring seamless",
+      "citation": "Ransiri S. and Nanayakkara S. C. “WatchMe: Wrist-worn interface that makes remote monitoring seamless”, ASSETS, 2012.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_ransiri_2012.pdf"
+        }
+      ],
+      "slug": "watchme-wrist-worn-interface-that-makes-remote-monitoring-seamless",
+      "url": "/publications/#watchme-wrist-worn-interface-that-makes-remote-monitoring-seamless"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "thumb-in-motion",
+  "google_scholar": ""
+}

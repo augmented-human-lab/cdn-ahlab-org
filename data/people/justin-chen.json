@@ -1,0 +1,42 @@
+{
+  "id": "justin-chen",
+  "slug": "justin-chen",
+  "name": "Justin Chen",
+  "role": "Final Year Project Student",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Final Year Project Student",
+      "start": "2021-05",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/justin-chen/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/justin-chen/justin-chen.jpg",
+  "bio": "Justin is an undergraduate student at the University of Auckland studying an Engineering and Arts conjoint, specializing in Engineering Science and majoring in Economics.\n\nWith an interest in machine learning, Justin is undertaking his part IV project in computer vision, applying the latest deep learning techniques in a semi-supervised setting. In particular, his project looks at processing corneal surface reflections, building models that fit within the social and physical constraints of wearable devices. Through his project, Justin is keen to explore how to harness cutting edge ML algorithms within real-world contexts, making an ethical and positive impact.\n\nOutside of his studies, Justin volunteers at several university clubs, such as Velocity and UN Youth. To unwind, Justin enjoys trying out (and failing at) exotic recipes, exploring Auckland’s café scene, and abstract painting.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

@@ -1,0 +1,82 @@
+{
+  "id": "phoebe-chua",
+  "slug": "phoebe-chua",
+  "name": "Phoebe Chua",
+  "email": "phoebe@ahlab.org",
+  "role": "PhD Candidate",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "PhD Candidate",
+      "start": "2022-06",
+      "end": null
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/phoebe-chua/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/phoebe-chua/phoebe-chua.jpg",
+  "bio": "Phoebe Chua received her M.Sc. in Information Systems and Analytics at the National University of Singapore (NUS) in 2021, and is currently pursuing a PhD in Information Systems and Analytics with a focus on affective computing at NUS. Her research interests include understanding how emotions can be evoked by media, and conversely how people perceive emotions in media. From an applied perspective, she hopes that her work can contribute to applications that help to enhance health and wellbeing.\n\nOutside of the lab, she is a big sci-fi fan and loves cooking for friends. She enjoys music in all its forms — as a listener, pianist and social dancer.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "soniphy",
+      "title": "SoniPhy",
+      "url": "/projects/soniphy/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Know Thyself: Improving Interoceptive Ability Through Ambient Biofeedback in the Workplace",
+      "citation": "Chua, P., Agres, K. and Nanayakkara, S.C., 2023. Know Thyself: Improving Interoceptive Ability Through Ambient Biofeedback in the Workplace.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2023/3/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jCWF9IyLhvTH6NEpPoT8lVZLLgo_4tpg/view?usp=sharing"
+        }
+      ],
+      "slug": "know-thyself-improving-interoceptive-ability-through-ambient-biofeedback-in-the-workplace",
+      "url": "/publications/#know-thyself-improving-interoceptive-ability-through-ambient-biofeedback-in-the-workplace"
+    },
+    {
+      "title": "Computational Music Systems for Emotional Health and Wellbeing: A Review",
+      "citation": "Chua, P., Gupta, C., R Agres, K. and Nanayakkara, S., 2022. Computational Music Systems for Emotional Health and Wellbeing: A Review.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2022/25/"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1N1sQDe8-K5xXkshjEOUeZ3YoaCvLyXgp/view?usp=sharing"
+        }
+      ],
+      "slug": "computational-music-systems-for-emotional-health-and-wellbeing-a-review",
+      "url": "/publications/#computational-music-systems-for-emotional-health-and-wellbeing-a-review"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "soniphy",
+  "google_scholar": ""
+}

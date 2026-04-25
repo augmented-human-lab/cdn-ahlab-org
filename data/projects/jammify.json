@@ -1,0 +1,54 @@
+{
+  "id": "jammify",
+  "slug": "jammify",
+  "title": "Jammify",
+  "year": "2020",
+  "description": "Jammify is motivated by providing a playful jamming exposure to busy, hard-working scholars at our institute. Jammify invites users to ‘play’ and engage in relaxed interactions, allowing them to take a ‘break’ from mentally demanding regular work. Also, we wanted to provide users with new technology-enabled experience to ‘fascinate’ their natural tech-inquiry. The current implementation of Jammify has a two-sided large-scale LED display and wearable forearm augmentation. Two individuals could draw on each side of the LED display as well as share emotive touch via a wearable forearm augmentation that enables the recreation of subtle touch sensations on each other's hands, creating a collective playful interaction.",
+  "project_url": "https://ahlab.org/project/jammify/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/jammify/jammify.jpg",
+  "people": [
+    {
+      "slug": "sachith-muthukumarana",
+      "name": "Sachith Muthukumarana",
+      "url": "/people/sachith-muthukumarana/"
+    },
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "qin-wu",
+      "name": "Qin Wu",
+      "url": "/people/qin-wu/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Jammify: Interactive Multi-Sensory System for Digital Art Jamming",
+      "citation": "Muthukumarana S., Elvitigala D.S., Wu Q., Pai Y.S., Nanayakkara S.C. 2021. Jammify: Interactive Multi-sensory System for Digital Art Jamming. In Human-Computer-Interaction – INTERACT 2021, Springer International Publishing, Cham, 23–41",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1007/978-3-030-85607-6_2"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1IYyGOWazrK5HxzO-s2Bx687PW2n6E-JH/view?usp=sharing"
+        }
+      ],
+      "slug": "jammify-interactive-multi-sensory-system-for-digital-art-jamming",
+      "url": "/publications/#jammify-interactive-multi-sensory-system-for-digital-art-jamming"
+    }
+  ],
+  "principles": [
+    "body",
+    "sociocultural"
+  ]
+}

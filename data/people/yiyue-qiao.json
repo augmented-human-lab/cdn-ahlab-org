@@ -1,0 +1,42 @@
+{
+  "id": "yiyue-qiao",
+  "slug": "yiyue-qiao",
+  "name": "YiYue Qiao",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/yiyue-qiao/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/yiyue-qiao/yiyue-qiao.jpg",
+  "bio": "Yi Yue is a second-year undergraduate student from the faculty of science, University of Auckland. She is studying computer science and statistics. She currently works in the data science club, and she is also the science mentor for the first-year students. She is passionate about AI, UI and HCI, and she would like to explore new areas. Meanwhile, she is keen on volunteering.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

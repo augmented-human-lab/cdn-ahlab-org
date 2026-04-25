@@ -1,0 +1,71 @@
+{
+  "id": "gutio",
+  "slug": "gutio",
+  "title": "GutIO",
+  "year": "Current",
+  "description": "In this project, we explore the potential of abdominal sounds for sensing emotions and inducing gut feelings. In the first study, we induced emotions and gut feelings in users and trained a machine learning model to see if they can pick up the changes created by emotions in abdominal sounds. In the second study, we used abdominal sounds found in clusters in study 1 and created haptic patterns to influence people’s gastric interoception. We found that abdominal sound is a potential new modality for both sensing emotions and influencing gastric interoception. We also showed that gut-based audio-haptic feedback can influence gastric interoceptive behaviors, showing the first evidence that noninvasively influence gastric interoceptive behaviors is possible. This work set the groundwork for future work to further explore gut-based interaction.",
+  "project_url": "https://ahlab.org/project/gutio/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/gutio/gutio.jpg",
+  "people": [
+    {
+      "slug": "mia-huong-nguyen",
+      "name": "Mia Huong Nguyen",
+      "url": "/people/mia-huong-nguyen/"
+    },
+    {
+      "slug": "moritz-messerschmidt",
+      "name": "Moritz Messerschmidt",
+      "url": "/people/moritz-messerschmidt/"
+    },
+    {
+      "slug": "jochen-huber",
+      "name": "Jochen Huber",
+      "url": "/people/jochen-huber/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors",
+      "citation": "Nguyen, M.H., Messerschmidt, M.A., Huber, J. and Nanayakkara, S. C., 2026. VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026). Honorable Mention Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3772318.3790268"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1OOsKm4M93YY_RcSgehTZLIb6kYRX4Gr8/view?usp=sharing"
+        }
+      ],
+      "slug": "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
+      "url": "/publications/#viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors"
+    },
+    {
+      "title": "GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds",
+      "citation": "Nguyen, M.H., Messerschmidt, M.A, Gupta, C. and Nanayakkara, S.C., 2025. GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. CHI EA '25",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3706599.3719826"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1tIM7Ud1GHLhg0O2Fbdcfy9wtjoSltru9/view?usp=sharing"
+        }
+      ],
+      "slug": "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
+      "url": "/publications/#gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive",
+    "perceptual"
+  ]
+}

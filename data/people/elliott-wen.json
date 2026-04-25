@@ -1,0 +1,235 @@
+{
+  "id": "elliott-wen",
+  "slug": "elliott-wen",
+  "name": "Elliott Wen",
+  "role": "Lecturer",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Lecturer",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/elliott-wen/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/elliott-wen/elliott-wen.jpg",
+  "bio": "Elliott Wen is a Lecturer (Assistant Professor equivalent) at School of Computer Science, University of Auckland. Also, he is the deputy head of the Augmented Human Lab at Auckland Bioengineering Institute at the University of Auckland. His research interests include Software Engineering, Pervasive Computing, and Mobile Sensing. Elliott obtained his PhD degree from the University of Auckland.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "toro",
+      "title": "Toro",
+      "url": "/projects/toro/"
+    },
+    {
+      "slug": "vrhook",
+      "title": "VRHook",
+      "url": "/projects/vrhook/"
+    },
+    {
+      "slug": "affect-in-the-wild",
+      "title": "Affect in the Wild",
+      "url": "/projects/affect-in-the-wild/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
+      "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/TVCG.2024.3372044"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1eTlLX4o3eOzI7aPUcRHMiWoCrRe1aDqF/view?usp=drive_link"
+        }
+      ],
+      "slug": "vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research",
+      "url": "/publications/#vr-net-a-real-world-dataset-for-virtual-reality-motion-sickness-research"
+    },
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    },
+    {
+      "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering",
+      "citation": "Siriwardhana, S., Weerasekera, R., Wen, E., Kaluarachchi, T., Rana, R. and Nanayakkara, S.C., 2023. Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering. Transactions of the Association for Computational Linguistics.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1162/tacl_a_00530"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1IVuyBxac-XR63kAzyDktpKxzjbIgEbrX/view?usp=sharing"
+        }
+      ],
+      "slug": "improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering",
+      "url": "/publications/#improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering"
+    },
+    {
+      "title": "A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications",
+      "citation": "Kaluarachchi, T., Siriwardhana, S., Wen, E., & Nanayakkara, S.C. 2023. A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications. In International Journal of Human–Computer Interaction.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2022.2163240"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1vZKp6UhjZc316fdqoJGxLgfJPCx30u9A/view?usp=sharing"
+        }
+      ],
+      "slug": "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
+      "url": "/publications/#a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications"
+    },
+    {
+      "title": "WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android",
+      "citation": "Wen, E., Weber, G. and Nanayakkara, S.C., 2022. WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android. ACM Transactions on Embedded Computing Systems (TECS).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3530286"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1TfJSwM0rH5dx0_sUN1IOt-poo8otb4Gl/view?usp=sharing"
+        }
+      ],
+      "slug": "wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android-2",
+      "url": "/publications/#wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android-2"
+    },
+    {
+      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
+      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3526113.3545656"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
+        }
+      ],
+      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
+    },
+    {
+      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
+      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
+      "links": [
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3546738"
+        }
+      ],
+      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
+      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
+    },
+    {
+      "title": "Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature",
+      "citation": "Messerschmidt, M., Chan, S., Wen, E. and Nanayakkara, S.C., 2022. Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://aisel.aisnet.org/sighci2022/13"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1iVWCo4Jh_fFHOr6wy8NUh_V55HOA7GLi/view?usp=sharing"
+        }
+      ],
+      "slug": "toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature",
+      "url": "/publications/#toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature"
+    },
+    {
+      "title": "SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning.",
+      "citation": "Dissanayake, V., Seneviratne, S., Rana, R., Wen, E., Kaluarachchi, T., Nanayakkara, S.C., (2022). SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning. IEEE Access",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1109/ACCESS.2022.3149509"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1xbZw21O1GVtRDXDroGVNkpxOPK9firwv/view?usp=sharing"
+        }
+      ],
+      "slug": "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
+      "url": "/publications/#sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning"
+    },
+    {
+      "title": "Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition",
+      "citation": "Dissanayake V., Seneviratne S., Suriyaarachchi H., Wen E., Nanayakkara S.C. 2022. Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition. In Proceedings of Interspeech 2022",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.21437/Interspeech.2022-11258"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/10fhlbEhCmtt2AyR0XNNQk2lRO3PTuY-I/view?usp=share_link"
+        }
+      ],
+      "slug": "self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition",
+      "url": "/publications/#self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition"
+    },
+    {
+      "title": "WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android",
+      "citation": "Wen, E., Weber, G. and Nanayakkara, S.C., 2021. WasmAndroid: A Cross-Platform Runtime for Native Programming Languages on Android (WIP Paper). In Proceedings of the 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES ’21)",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3461648.3463849"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1XN5feC-vtZ3O7gdKS6PdXtjVwnXPLKvV/view?usp=sharing"
+        }
+      ],
+      "slug": "wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android",
+      "url": "/publications/#wasmandroid-a-cross-platform-runtime-for-native-programming-languages-on-android"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "toro",
+  "google_scholar": ""
+}

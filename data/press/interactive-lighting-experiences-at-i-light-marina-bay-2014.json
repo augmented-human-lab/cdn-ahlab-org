@@ -1,0 +1,15 @@
+{
+  "id": "interactive-lighting-experiences-at-i-light-marina-bay-2014",
+  "slug": "interactive-lighting-experiences-at-i-light-marina-bay-2014",
+  "title": "Interactive lighting experiences at 'i Light Marina Bay 2014'",
+  "year": "2014",
+  "type": "news",
+  "outlet": "The Singapore Engineer Magazine",
+  "url": null,
+  "projects": [
+    {
+      "slug": "iswarm",
+      "title": "iSwarm"
+    }
+  ]
+}

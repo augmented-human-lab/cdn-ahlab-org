@@ -1,0 +1,23 @@
+{
+  "id": "sharper-senses-devices-mimicking-our-natural-senses",
+  "slug": "sharper-senses-devices-mimicking-our-natural-senses",
+  "title": "Sharper Senses - Devices mimicking our natural senses",
+  "year": "2016",
+  "type": "video",
+  "outlet": "BBC",
+  "url": "http://www.bbc.com/specialfeatures/horizonsbusiness/seriessix/sharper-senses/?vid=p03xpgvm",
+  "projects": [
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0"
+    },
+    {
+      "slug": "stickear",
+      "title": "StickEar"
+    }
+  ]
+}

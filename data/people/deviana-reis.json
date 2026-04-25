@@ -1,0 +1,59 @@
+{
+  "id": "deviana-reis",
+  "slug": "deviana-reis",
+  "name": "Deviana Reis",
+  "role": "Research Assistant",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Assistant",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/deviana-reis/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/deviana-reis/deviana-reis.jpg",
+  "bio": "Deviana is an educator who specializes in primary education and curriculum development. Her credentials include an MA in Curriculum and Teaching from Teachers College, Columbia University as well as a BA in (Developmental) Psychology and Criminology from the University of Melbourne. She is passionate about inclusive education and adopts a culturally responsive stance that reflects well within her work. Prior to joining the Augmented Human Lab (AHLab) of Auckland University's Bioengineering Institute, she taught in public schools across New York City. She currently assists the department through her involvement in Project Kiwrious, where she develops STEM-focused curriculum along with other student-teacher engagements. During her time off, Deviana enjoys hosting gatherings, travelling, Brazilian Jiujitsu and Dota2.",
+  "external_links": [],
+  "projects": [],
+  "publications": [
+    {
+      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
+      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1080/10447318.2023.2229485"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
+        }
+      ],
+      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

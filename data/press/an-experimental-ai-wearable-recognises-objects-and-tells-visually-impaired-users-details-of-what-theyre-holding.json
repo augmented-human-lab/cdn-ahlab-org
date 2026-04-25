@@ -1,0 +1,15 @@
+{
+  "id": "an-experimental-ai-wearable-recognises-objects-and-tells-visually-impaired-users-details-of-what-theyre-holding",
+  "slug": "an-experimental-ai-wearable-recognises-objects-and-tells-visually-impaired-users-details-of-what-theyre-holding",
+  "title": "An experimental AI wearable recognises objects and tells visually-impaired users details of what they're holding",
+  "year": "2024",
+  "type": "news",
+  "outlet": "Yahoo News",
+  "url": "https://uk.news.yahoo.com/experimental-ai-wearable-recognises-objects-173329887.html",
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee"
+    }
+  ]
+}

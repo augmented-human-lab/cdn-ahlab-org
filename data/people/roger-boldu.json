@@ -1,0 +1,238 @@
+{
+  "id": "roger-boldu",
+  "slug": "roger-boldu",
+  "name": "Roger Boldu",
+  "role": "PhD Candidate",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "PhD Candidate",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/roger-boldu/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/roger-boldu/roger-boldu.jpg",
+  "bio": "I am a Ph.D. student at the Augmented Human Lab (AHLAB). My research focuses on designing novel input-output wearable devices that enable users to interact with the environment naturally. I like to bring my research beyond the laboratory environment and positively impact people’s lives by combining my skills in HCI, Robotics, Machine Learning, and Electronics.\n\nI graduated with a B.Sc.(Honours) in Electronics and Telecommunications from Ramon University - La Salle Bonanova, Barcelona, Spain in 2015, and I have conducted HCI research at Auckland Bioengineering Institute (ABI), Massachusetts Institute of Technology MIT Media Lab, and Singapore University of Technology and Design (SUTD).\n\nI am now looking for full-time positions to start from May 2021. For more details, visit my personal website: www.rboldu.com",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "aisee",
+      "title": "AiSee",
+      "url": "/projects/aisee/"
+    },
+    {
+      "slug": "ticklefoot",
+      "title": "TickleFoot",
+      "url": "/projects/ticklefoot/"
+    },
+    {
+      "slug": "m-hair",
+      "title": "M-Hair",
+      "url": "/projects/m-hair/"
+    },
+    {
+      "slug": "lighttank",
+      "title": "LightTank",
+      "url": "/projects/lighttank/"
+    },
+    {
+      "slug": "thumb-in-motion",
+      "title": "Thumb in Motion",
+      "url": "/projects/thumb-in-motion/"
+    },
+    {
+      "slug": "kyanite",
+      "title": "Kyanite",
+      "url": "/projects/kyanite/"
+    },
+    {
+      "slug": "insight",
+      "title": "InSight",
+      "url": "/projects/insight/"
+    },
+    {
+      "slug": "fingerreader",
+      "title": "FingerReader",
+      "url": "/projects/fingerreader/"
+    },
+    {
+      "slug": "the-ribbon",
+      "title": "The RIBbon",
+      "url": "/projects/the-ribbon/"
+    },
+    {
+      "slug": "fingerreader-v0",
+      "title": "FingerReader-v0",
+      "url": "/projects/fingerreader-v0/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "TickleFoot: Design, Development and Evaluation of a Novel Foot-tickling Mechanism that Can Evoke Laughter",
+      "citation": "Elvitigala D.S., Boldu R., Nanayakkara S.C., and Matthies D.J.C. 2022. TickleFoot: Design, Development and Evaluation of a Novel Foot-Tickling Mechanism That Can Evoke Laughter. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 20 (June 2022), 23 pages.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3490496"
+        }
+      ],
+      "slug": "ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter",
+      "url": "/publications/#ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter"
+    },
+    {
+      "title": "MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair",
+      "citation": "Boldu, R., Wijewardena, M., Zhang, H. and Nanayakkara, S.C., 2020, October. MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-10).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3379503.3403545"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Yzptyr2NabyuRqgJEuxv28mVEzLbqmMN/view?usp=sharing"
+        }
+      ],
+      "slug": "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair",
+      "url": "/publications/#maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair"
+    },
+    {
+      "title": "LightTank",
+      "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3414686.3427113"
+        }
+      ],
+      "slug": "lighttank",
+      "url": "/publications/#lighttank"
+    },
+    {
+      "title": "AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers",
+      "citation": "Boldu, R., Matthies, D.J., Zhang, H. and Nanayakkara, S.C., 2020. AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-25.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3432196"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/177bq2QQ2R957Mc_fa77Erk108vbO5x9O/view?usp=sharing"
+        }
+      ],
+      "slug": "aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers",
+      "url": "/publications/#aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers"
+    },
+    {
+      "title": "M-Hair: Extended Reality by Stimulating the Body Hair",
+      "citation": "Boldu, R., Jain, S., Cortes, J.P.F., Zhang, H. and Nanayakkara, S.C., 2019. M-Hair: Extended Reality by Stimulating the Body Hair. In SIGGRAPH Asia 2019 XR (pp. 27-28).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3355355.3361881"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1uUG4MHtBsoGzp76JsQTtgxu8l90pXgfC/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-extended-reality-by-stimulating-the-body-hair",
+      "url": "/publications/#m-hair-extended-reality-by-stimulating-the-body-hair"
+    },
+    {
+      "title": "M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field",
+      "citation": "Boldu, R., Jain, S., Forero Cortes, J.P., Zhang, H. and Nanayakkara, S.C., 2019, October. M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 323-328).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3332165.3347955"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1UMlbIudlZv0bViid-U7XafGVuZMWl5Vl/view?usp=sharing"
+        }
+      ],
+      "slug": "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
+      "url": "/publications/#m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
+    },
+    {
+      "title": "Thumb-In-Motion: Evaluating Thumb to Ring Microgestures for Athletic Activity",
+      "citation": "Boldu, R., Dancu, A., Matthies, D.J., Cascón, P.G., Ransir, S. and Nanayakkara, S.C., 2018, October. Thumb-In-Motion: Evaluating Thumb-to-Ring Microgestures for Athletic Activity. In Proceedings of the Symposium on Spatial User Interaction (pp. 150-157).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3267782.3267796"
+        }
+      ],
+      "slug": "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
+      "url": "/publications/#thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity"
+    },
+    {
+      "title": "Revealing Inaccessible Information on-the-go, by Augmenting Humans",
+      "citation": "Busquets, R.B., 2018, October. Revealing Inaccessible Information on-the-go, by Augmenting Humans. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (pp. 1802-1804).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl-acm-org.ezproxy.auckland.ac.nz/citation.cfm?doid=3267305.3277823"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1jDRyCVMLqjw4zzLdnmmEjs2b22doG8aW/view?usp=sharing"
+        }
+      ],
+      "slug": "revealing-inaccessible-information-on-the-go-by-augmenting-humans",
+      "url": "/publications/#revealing-inaccessible-information-on-the-go-by-augmenting-humans"
+    },
+    {
+      "title": "FingerReader2.0: Designing and Evaluating a Wearable Finger-WornCamera to Assist People with Visual Impairments while Shopping,",
+      "citation": "Boldu, R., Dancu, A., Matthies, D. J.C., Buddhika, T., Siriwardhana, S., & Nanayakkara, S.C., 2018. FingerReader2. 0: Designing and Evaluating a Wearable Finger-Worn Camera to Assist People with Visual Impairments while Shopping. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(3), 94. ACM.",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3264904"
+        }
+      ],
+      "slug": "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping",
+      "url": "/publications/#fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping"
+    },
+    {
+      "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
+      "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041195"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1VctHLqYA8VrCwAZVTuy_G_e3GaUWx3td/view?usp=sharing"
+        }
+      ],
+      "slug": "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
+      "url": "/publications/#insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "aisee",
+  "google_scholar": ""
+}

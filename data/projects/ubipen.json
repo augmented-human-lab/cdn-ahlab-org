@@ -1,0 +1,32 @@
+{
+  "id": "ubipen",
+  "slug": "ubipen",
+  "title": "UbiPen",
+  "year": "2024",
+  "description": "UbiPen uses a single finger-nail mounted inertial measurement unit (IMU) to transform ordinary pens into digital input devices. We demonstrate how our technique enables the detection of pen-to-surface touch events, allows tracing 2D pen-tip movements and supports discriminating between different input surface and pen types. We showcase several applications that blend analogue and digital functionalities while preserving the traditional pen writing experience that most digital stylus devices struggle to replicate.",
+  "project_url": "https://ahlab.org/project/ubipen/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/ubipen/ubipen.jpg",
+  "people": [
+    {
+      "slug": "shi-yilei",
+      "name": "Shi Yilei",
+      "url": "/people/shi-yilei/"
+    },
+    {
+      "slug": "moritz-messerschmidt",
+      "name": "Moritz Messerschmidt",
+      "url": "/people/moritz-messerschmidt/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    }
+  ],
+  "publications": [],
+  "principles": [
+    "body",
+    "physical"
+  ]
+}

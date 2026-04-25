@@ -1,0 +1,42 @@
+{
+  "id": "christoffer-matsson",
+  "slug": "christoffer-matsson",
+  "name": "Christoffer Matsson",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/christoffer-matsson/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/christoffer-matsson/christoffer-matsson.jpg",
+  "bio": "Above all, Christoffer values simplicity and excellence. Whether it is in electronics, programming or design, Christoffer has a clear vision of the products he wants to bring into this world – products that have a distinct purpose, are easy to use and performs flawlessly.\n\nChristoffer is a software engineering student from Sweden and is currently pursuing a master’s degree in interaction design. During his internship at SUTD, he is developing new ways of using inductive charging and wireless power.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

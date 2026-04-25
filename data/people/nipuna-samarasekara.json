@@ -1,0 +1,82 @@
+{
+  "id": "nipuna-samarasekara",
+  "slug": "nipuna-samarasekara",
+  "name": "Nipuna Samarasekara",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/nipuna-samarasekara/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/nipuna-samarasekara/nipuna-samarasekara.jpg",
+  "bio": "I’m currently pursuing an Electronic Engineering degree at University of Moratuwa. In addition to that I’m a math enthusiast who enjoys solving math problems. I’m also passionate about programming, athletics and many other things.",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "zsense",
+      "title": "zSense",
+      "url": "/projects/zsense/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "zSense: Enabling Shallow Depth Gesture Recognition for Greater Input Expressivity on Smart Wearables",
+      "citation": "Withana, A., Peiris, R., Samarasekara, N. and Nanayakkara, S.C., 2015, April. zsense: Enabling shallow depth gesture recognition for greater input expressivity on smart wearables. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3661-3670).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "http://dx.doi.org/10.1145/2702123.2702371"
+        },
+        {
+          "label": "pdf",
+          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-04_CHI-zSense_Full.pdf"
+        }
+      ],
+      "slug": "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables",
+      "url": "/publications/#zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables"
+    },
+    {
+      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
+      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
+      "links": [
+        {
+          "label": "webpage",
+          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
+        }
+      ],
+      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "zsense",
+  "google_scholar": ""
+}

@@ -1,0 +1,59 @@
+{
+  "id": "gescad",
+  "slug": "gescad",
+  "title": "GesCAD",
+  "year": "2017",
+  "description": "Gesture-and speech-based 3D modeling offers designers a powerful and intuitive way to create 3D Computer Aided Design (CAD) models. Instead of arbitrary gestures and speech commands defined by researchers, which may not be intuitive for users, such a natural user interface should be based on gesture and command set elicited from the users. We describe our ongoing research on a speech-and-gesture-based CAD modeling interface, GesCAD, implemented by combining Microsoft Kinect and Rhino, a leading CAD software. GesCAD is based on gestures and speech commands elicited from a specially designed user experiment. We conducted a preliminary user study with 6 participants to evaluate the user experience of our prototype, such as ease of use, physical comfort and satisfaction with the models created. Results show that participants found the overall experience of using GesCAD fun and the speech and gesture commands easy to remember.",
+  "project_url": "https://ahlab.org/project/gescad/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/gescad/gescad.jpg",
+  "people": [
+    {
+      "slug": "sumbul-khan",
+      "name": "Sumbul Khan",
+      "url": "/people/sumbul-khan/"
+    },
+    {
+      "slug": "hasitha-rajapakse",
+      "name": "Hasitha Rajapakse",
+      "url": "/people/hasitha-rajapakse/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    },
+    {
+      "slug": "bige-tuncer",
+      "name": "Bige Tuncer",
+      "url": "/people/bige-tuncer/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "GesCAD: an Intuitive Interface for Conceptual Architectural Design",
+      "citation": "Khan, S., Rajapakse, H., Zhang, H., Nanayakkara, S.C., Tuncer, B. and Blessing, L., 2017, November. GesCAD: an intuitive interface for conceptual architectural design. In Proceedings of the 29th Australian conference on computer-human interaction (pp. 402-406).",
+      "links": [
+        {
+          "label": "url",
+          "url": "https://dl.acm.org/citation.cfm?id=3156145"
+        },
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3152771.3156145"
+        }
+      ],
+      "slug": "gescad-an-intuitive-interface-for-conceptual-architectural-design",
+      "url": "/publications/#gescad-an-intuitive-interface-for-conceptual-architectural-design"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive"
+  ]
+}

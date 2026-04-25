@@ -1,0 +1,42 @@
+{
+  "id": "guo-yuanjing",
+  "slug": "guo-yuanjing",
+  "name": "Guo Yuanjing",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/guo-yuanjing/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/guo-yuanjing/guo-yuanjing.jpg",
+  "bio": "Yuanjing is a third year student in Singapore University of Technology and Design (SUTD). He majors in machine learning and has lots of experience with programming. He enjoys data processing and analysis as well. His research interests include data classification and building models.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

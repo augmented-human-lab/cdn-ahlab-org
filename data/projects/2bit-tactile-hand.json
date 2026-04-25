@@ -1,0 +1,59 @@
+{
+  "id": "2bit-tactile-hand",
+  "slug": "2bit-tactile-hand",
+  "title": "2bit-Tactile Hand",
+  "year": "2018",
+  "description": "2bitTactileHand investigated the perceptual abilities of 2bit tactons on the wrist and the hand as a type of complementary feedback. Based on our evaluation, 2bit tactons are reasonably high perceivable (≈ 92%) at the hand distributed among several fingers. Additionally, the data concluded that vibrotactile feedback on hand is significantly more accurate than the wrist, which coincides with the subjects’ preference. TactileHand’s feasibility was demonstrated in three pilot studies, encoding ambient, explicit and implicit information into 2bit tactons in different scenarios. This work has been presented at the Augmented Human International Conference 2019 (AH2019) in Reims, France.",
+  "project_url": "https://ahlab.org/project/2bit-tactile-hand/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/2bit-tactile-hand/2bit-tactile-hand.jpg",
+  "people": [
+    {
+      "slug": "samitha-elvitigala",
+      "name": "Samitha Elvitigala",
+      "url": "/people/samitha-elvitigala/"
+    },
+    {
+      "slug": "denys-matthies",
+      "name": "Denys Matthies",
+      "url": "/people/denys-matthies/"
+    },
+    {
+      "slug": "vipula-dissanayake",
+      "name": "Vipula Dissanayake",
+      "url": "/people/vipula-dissanayake/"
+    },
+    {
+      "slug": "chamod-weerasinghe",
+      "name": "Chamod Weerasinghe",
+      "url": "/people/chamod-weerasinghe/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "2bit-TactileHand: Evaluating Tactons for Nobody Vibrotactile Displays on the Hand and Wrist.",
+      "citation": "Elvitigala, D.S., Matthies, D.J., Dissanayaka, V., Weerasinghe, C. and Nanayakkara, S.C., 2019, March. 2bit-TactileHand: Evaluating Tactons for On-Body Vibrotactile Displays on the Hand and Wrist. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3311823.3311832"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1Qvl1pDiOsk53wmYLPkYrtj1pVqgTBLpR/view?usp=sharing"
+        }
+      ],
+      "slug": "2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist",
+      "url": "/publications/#2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist"
+    }
+  ],
+  "principles": [
+    "body",
+    "perceptual"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "thomas-schroepfer",
+  "slug": "thomas-schroepfer",
+  "name": "Thomas Schroepfer",
+  "role": "Professor",
+  "section": "Collaborators",
+  "ahlab_stints": [],
+  "profile_url": "https://ahlab.org/people/thomas-schroepfer/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/thomas-schroepfer/thomas-schroepfer.jpg",
+  "bio": "Thomas Schroepfer is a Professor and Associate Head of Pillar at SUTD.\n\nMore about Thomas Schroepfer: http://asd.sutd.edu.sg/faculty/thomas-schroepfer",
+  "external_links": [],
+  "projects": [
+    {
+      "slug": "the-ribbon",
+      "title": "The RIBbon",
+      "url": "/projects/the-ribbon/"
+    },
+    {
+      "slug": "sonicsg",
+      "title": "SonicSG",
+      "url": "/projects/sonicsg/"
+    },
+    {
+      "slug": "nzwarm",
+      "title": "nZwarm",
+      "url": "/projects/nzwarm/"
+    },
+    {
+      "slug": "keepers-bees",
+      "title": "Keepers & Bees",
+      "url": "/projects/keepers-bees/"
+    },
+    {
+      "slug": "iswarm",
+      "title": "iSwarm",
+      "url": "/projects/iswarm/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SonicSG: From Floating to Sounding Pixels",
+      "citation": "Nanayakkara, S.C., Schroepfer, T., Wyse, L., Lian, A. and Withana, A., 2017, March. SonicSG: from floating to sounding pixels. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3041164.3041190"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1wKFn3i8CcrO-L8pi0-3Kqa74dqC3dUMJ/view?usp=sharing"
+        }
+      ],
+      "slug": "sonicsg-from-floating-to-sounding-pixels",
+      "url": "/publications/#sonicsg-from-floating-to-sounding-pixels"
+    }
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "the-ribbon",
+  "google_scholar": ""
+}

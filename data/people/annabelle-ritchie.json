@@ -1,0 +1,42 @@
+{
+  "id": "annabelle-ritchie",
+  "slug": "annabelle-ritchie",
+  "name": "Annabelle Ritchie",
+  "role": "Research Attachment",
+  "section": "Alumni",
+  "ahlab_stints": [
+    {
+      "role": "Research Attachment",
+      "start": "",
+      "end": ""
+    }
+  ],
+  "profile_url": "https://ahlab.org/people/annabelle-ritchie/",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/annabelle-ritchie/annabelle-ritchie.jpg",
+  "bio": "Annabelle is currently pursuing a bachelor of engineering in computer engineering, which she will finish in 2020. She is working on a summer research project with the aim to create vibrotactile illusions for surfaces. This interests her as an innovative way for humans to interact with computers.\n\nIn her free time, Annabelle enjoys playing piano and guitar, reading, and gaming.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

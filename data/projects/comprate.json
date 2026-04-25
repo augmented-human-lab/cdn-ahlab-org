@@ -1,0 +1,53 @@
+{
+  "id": "comprate",
+  "slug": "comprate",
+  "title": "CompRate",
+  "year": "2018",
+  "description": "CompRate is a computation framework that uses ordinary motion sensors available in common smartwatches and activity trackers to infer heart rate of the wearer. Its main objective is to allow the tracking of heart rate without the need of special-purpose and energy-consuming photoplethysmograph (PPG) sensors. Several applications are created to demonstrate the potential of this technology, including sensing cognitive status while driving, sensing engagement while learning, and broadcasting vital signs in a disaster situation. This project is part of a master thesis.",
+  "project_url": "https://ahlab.org/project/comprate/",
+  "external_links": [],
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/comprate/comprate.jpg",
+  "people": [
+    {
+      "slug": "vipula-dissanayake",
+      "name": "Vipula Dissanayake",
+      "url": "/people/vipula-dissanayake/"
+    },
+    {
+      "slug": "chamod-weerasinghe",
+      "name": "Chamod Weerasinghe",
+      "url": "/people/chamod-weerasinghe/"
+    },
+    {
+      "slug": "haimo-zhang",
+      "name": "Haimo Zhang",
+      "url": "/people/haimo-zhang/"
+    },
+    {
+      "slug": "suranga-nanayakkara",
+      "name": "Suranga Nanayakkara",
+      "url": "/people/suranga-nanayakkara/"
+    }
+  ],
+  "publications": [
+    {
+      "title": "CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables",
+      "citation": "Dissanayake, V., Elvitigala, D.S., Zhang, H., Weerasinghe, C. and Nanayakkara, S.C., 2019, November. CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables. In 25th ACM Symposium on Virtual Reality Software and Technology (pp. 1-8).",
+      "links": [
+        {
+          "label": "doi",
+          "url": "https://doi.org/10.1145/3359996.3364239"
+        },
+        {
+          "label": "pdf",
+          "url": "https://drive.google.com/file/d/1OC0qHFuRFRBxF1gUHwpiOUKGXz3OfP68/view?usp=sharing"
+        }
+      ],
+      "slug": "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
+      "url": "/publications/#comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables"
+    }
+  ],
+  "principles": [
+    "body"
+  ]
+}

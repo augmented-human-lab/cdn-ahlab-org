@@ -1,5 +1,4 @@
 {
-  "id": "jessica-fang",
   "slug": "jessica-fang",
   "name": "Jessica Fang",
   "role": "Research Attachment",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/jessica-fang/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/jessica-fang/jessica-fang.jpg",
   "bio": "Jessica is an undergraduate student at Massachusetts Institute of Technology where she is currently pursuing a degree in electrical engineering and computer science. Her research interests include AI and UI.\n\nShe is a fond lover of fairy tales and blueberries. In her free time, she enjoys being active (hiking, rope courses, swimming). Her ultimate goal is to overcome her fear of heights by going skydiving.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "sonicsg",
-      "title": "SonicSG",
-      "url": "/projects/sonicsg/"
-    }
+    "sonicsg"
   ],
   "publications": [],
   "career": [

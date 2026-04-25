@@ -1,38 +1,17 @@
 {
-  "id": "chionh-chang-yin",
   "slug": "chionh-chang-yin",
   "name": "Chionh Chang Yin",
   "role": "Doctor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/chionh-chang-yin/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/chionh-chang-yin/chionh-chang-yin.jpg",
   "bio": "Head & Consultant of Renal Medicine at Changi General Hospital.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "bward",
-      "title": "BWard",
-      "url": "/projects/bward/"
-    }
+    "bward"
   ],
   "publications": [
-    {
-      "title": "BWard: An Optical Approach for Reliable in-situ Early Blood Leakage Detection at Catheter Extraction Points",
-      "citation": "Cortés, J.P., Ching, T.H., Wu, C., Chionh, C.Y., Nanayakkara, S.C. and Foong, S., 2015, July. Bward: An optical approach for reliable in-situ early blood leakage detection at catheter extraction points. In 2015 IEEE 7th International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM) (pp. 232-237). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ICCIS.2015.7274626"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/BWARD.pdf"
-        }
-      ],
-      "slug": "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
-      "url": "/publications/#bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
-    }
+    "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
   ],
   "career": [
     {

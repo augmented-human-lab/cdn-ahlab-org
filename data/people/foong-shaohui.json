@@ -1,93 +1,23 @@
 {
-  "id": "foong-shaohui",
   "slug": "foong-shaohui",
   "name": "Foong Shaohui",
   "role": "Associate Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/foong-shaohui/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/foong-shaohui/foong-shaohui.jpg",
   "bio": "Foong Shaohui is Assistant Professor at SUTD.\n\nMore about Foong Shaohui: http://epd.sutd.edu.sg/faculty/foong-shaohui/",
   "external_links": [],
   "projects": [
-    {
-      "slug": "kyanite",
-      "title": "Kyanite",
-      "url": "/projects/kyanite/"
-    },
-    {
-      "slug": "stickamps",
-      "title": "StickAmps",
-      "url": "/projects/stickamps/"
-    },
-    {
-      "slug": "bward",
-      "title": "BWard",
-      "url": "/projects/bward/"
-    },
-    {
-      "slug": "birdie",
-      "title": "Birdie",
-      "url": "/projects/birdie/"
-    }
+    "kyanite",
+    "stickamps",
+    "bward",
+    "birdie"
   ],
   "publications": [
-    {
-      "title": "GrabAmps: Grab a Wire to Sense the Current Flow",
-      "citation": "Elvitigala, D.S., Peiris, R., Wilhelm, E., Foong, S. and Nanayakkara, S.C., 2017, March. GrabAmps: grab a wire to sense the current flow. In Proceedings of the 8th Augmented Human International Conference (pp. 1-4).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041199"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/GrabAmps-AH2017CameraCopy-version2.pdf"
-        }
-      ],
-      "slug": "grabamps-grab-a-wire-to-sense-the-current-flow",
-      "url": "/publications/#grabamps-grab-a-wire-to-sense-the-current-flow"
-    },
-    {
-      "title": "FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention",
-      "citation": "Yong, K.F., Forero, J.P., Foong, S. and Nanayakkara, S.C., 2015, March. FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention. In Proceedings of the 6th Augmented Human International Conference (pp. 167-168).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p167-yong.pdf"
-        }
-      ],
-      "slug": "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
-      "url": "/publications/#footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
-    },
-    {
-      "title": "BWard: An Optical Approach for Reliable in-situ Early Blood Leakage Detection at Catheter Extraction Points",
-      "citation": "Cortés, J.P., Ching, T.H., Wu, C., Chionh, C.Y., Nanayakkara, S.C. and Foong, S., 2015, July. Bward: An optical approach for reliable in-situ early blood leakage detection at catheter extraction points. In 2015 IEEE 7th International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM) (pp. 232-237). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ICCIS.2015.7274626"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/BWARD.pdf"
-        }
-      ],
-      "slug": "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
-      "url": "/publications/#bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
-    },
-    {
-      "title": "Birdie: Towards a true flying experience",
-      "citation": "Petry, B., Ortega-Avila, S., Nanayakkara, S.C., and Foong, S., 2014, Birdie: Towards a true flying experience. In Workshop on Assistive Augmentation, Extended Abstracts of the 32nd Annual SIGCHI Conference on Human Factors in Computing Systems (CHI14). Toronto, Canada.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/Birdie-Towards-a-true-flying-experience.pdf"
-        }
-      ],
-      "slug": "birdie-towards-a-true-flying-experience",
-      "url": "/publications/#birdie-towards-a-true-flying-experience"
-    }
+    "grabamps-grab-a-wire-to-sense-the-current-flow",
+    "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
+    "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
+    "birdie-towards-a-true-flying-experience"
   ],
   "career": [
     {

@@ -1,5 +1,4 @@
 {
-  "id": "touch-me-gently-recreates-natural-touch-sensation-using-shape-memory-alloy-matrix",
   "slug": "touch-me-gently-recreates-natural-touch-sensation-using-shape-memory-alloy-matrix",
   "title": "Touch me Gently Recreates Natural Touch Sensation Using Shape-Memory Alloy Matrix",
   "year": "2020",
@@ -7,9 +6,6 @@
   "outlet": "hackster.io",
   "url": "https://www.hackster.io/news/touch-me-gently-recreates-natural-touch-sensation-using-shape-memory-alloy-matrix-ca9b1eee4c36",
   "projects": [
-    {
-      "slug": "phantomtouch",
-      "title": "PhantomTouch"
-    }
+    "phantomtouch"
   ]
 }

@@ -1,88 +1,21 @@
 {
-  "id": "gymsoles",
   "slug": "gymsoles",
   "title": "GymSoles",
   "year": "2019",
   "description": "GymSoles enables a correct execution of exercises, such as squats and dead-lifts by solely providing feedback on the Centre of Pressure (CoP). We developed a prototype consisting of a pressure sensitive insole used to calculate the CoP and attached vibration motors to the shoe that visualize the CoP in a haptic way. GymSoles was evaluated with 13 users in a gym. The results show a significantly improved body posture for both exercises, as the effect was clearer for beginners. GymSoles was submitted and accepted at the CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) and will be presented in this year in May in Scotland. CHI is a premium venue for late-breaking research on Human-Computer Interaction.",
-  "project_url": "https://ahlab.org/project/gymsoles/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/gymsoles/gymsoles.jpg",
   "people": [
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "loic-david",
-      "name": "Loïc David",
-      "url": "/people/loic-david/"
-    },
-    {
-      "slug": "chamod-weerasinghe",
-      "name": "Chamod Weerasinghe",
-      "url": "/people/chamod-weerasinghe/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "samitha-elvitigala",
+    "denys-matthies",
+    "loic-david",
+    "chamod-weerasinghe",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats",
-      "citation": "Elvitigala, D.S., Matthies, D.J.C, Weerasinghe, C. and Nanayakkara, S.C., 2021. GymSoles++: Combining Google Glass with Smart Insoles to Improve Body Posture when Performing Squats. In The 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA 2021), June 29-July 2, 2021, Corfu, Greece. Best Student Paper Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3453892.3453898"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1EPAO5dtUngEmLXIoWB_ydB6bzsfDvIMR/view?usp=sharing"
-        }
-      ],
-      "slug": "gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats",
-      "url": "/publications/#gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats"
-    },
-    {
-      "title": "Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces",
-      "citation": "Elvitigala, D.S., Nanayakkara, S.C., and Huber, J., 2021. Augmented Foot: A Comprehensive Survey of Augmented Foot Interfaces. In Augmented Humans International Conference 2021 (AHs ’21), February 22–24, 2021, Rovaniemi, Finland.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3458709.3458958"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1KP1pV-9GWdhdWfqGX3RqeiBIyG2M6hBD/view?usp=sharing"
-        }
-      ],
-      "slug": "augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces",
-      "url": "/publications/#augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces"
-    },
-    {
-      "title": "GymSoles: Improving Squats and Dead-Lifts by Visualizing the User’s Centre of Pressure",
-      "citation": "Elvitigala, D.S., Matthies, D.J., David, L., Weerasinghe, C. and Nanayakkara, S.C., 2019, May. GymSoles: Improving Squats and Dead-Lifts by Visualizing the User's Center of Pressure. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300404"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1TxCTJcmr2k7xQLOp69HbGCyi6WaTZoIa/view?usp=sharing"
-        }
-      ],
-      "slug": "gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure",
-      "url": "/publications/#gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure"
-    }
+    "gymsoles-combining-google-glass-with-smart-insoles-to-improve-body-posture-when-performing-squats",
+    "augmented-foot-a-comprehensive-survey-of-augmented-foot-interfaces",
+    "gymsoles-improving-squats-and-dead-lifts-by-visualizing-the-users-centre-of-pressure"
   ],
   "principles": [
     "body",

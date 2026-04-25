@@ -1,5 +1,4 @@
 {
-  "id": "phantomtouch-global-grad-show",
   "slug": "phantomtouch-global-grad-show",
   "title": "PhantomTouch | Global Grad Show",
   "year": "2020",
@@ -7,9 +6,6 @@
   "outlet": "MediaGrab",
   "url": "https://mediagrab.press/view/package/316",
   "projects": [
-    {
-      "slug": "phantomtouch",
-      "title": "PhantomTouch"
-    }
+    "phantomtouch"
   ]
 }

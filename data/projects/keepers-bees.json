@@ -1,42 +1,17 @@
 {
-  "id": "keepers-bees",
   "slug": "keepers-bees",
   "title": "Keepers & Bees",
   "year": "2014",
   "description": "Keepers and bees is a digital swarm of interactive critters that visitors can interact with in real time via their smartphones. Visitors are invited to openly engage with the collaborative artwork by adding either \"keepers\" or \"bees\" to the artwork. Watch as the \"keepers\" chase the \"bees\" around the shop. But watch out, don't get stung! keepers and bees comes out of a joint research project conducted at Singapore University of Technology and Design by the Advanced Architecture Laboratory and Augmented Human Lab, hosted by KEEPERS .",
-  "project_url": "https://ahlab.org/project/keepers-bees/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/keepers-bees/keepers-bees.jpg",
   "people": [
-    {
-      "slug": "thomas-schroepfer",
-      "name": "Thomas Schroepfer",
-      "url": "/people/thomas-schroepfer/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    }
+    "thomas-schroepfer",
+    "suranga-nanayakkara",
+    "anusha-withana"
   ],
   "publications": [
-    {
-      "title": "Keepers &#038; Bees: an interactive light-art installation of interactive critters that visitors can interact with in real time via their smartphones",
-      "citation": "Schroepfer, T., Nanayakkara, S. C., Withana, A., Wortmann, T. , Cornelius, A., Khew, Y.N., Lian, A. 2014. Keepers & Bees: an interactive light-art installation of interactive critters that visitors can interact with in real time via their smartphones. In Singapore, Archifest 2014 (Keepers: Singapore Designer Collaborative, Orchard Green,Singapore, 26 Sep - 11 October, 2014).",
-      "links": [
-        {
-          "label": "archifest14",
-          "url": "http://archifest.sg/2014/"
-        }
-      ],
-      "slug": "keepers-bees-an-interactive-light-art-installation-of-interactive-critters-that-visitors-can-interact-with-in-real-time-via-their-smartphones",
-      "url": "/publications/#keepers-bees-an-interactive-light-art-installation-of-interactive-critters-that-visitors-can-interact-with-in-real-time-via-their-smartphones"
-    }
+    "keepers-bees-an-interactive-light-art-installation-of-interactive-critters-that-visitors-can-interact-with-in-real-time-via-their-smartphones"
   ],
   "principles": [
     "sociocultural"

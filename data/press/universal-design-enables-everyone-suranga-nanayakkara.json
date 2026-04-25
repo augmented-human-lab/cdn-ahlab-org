@@ -1,5 +1,4 @@
 {
-  "id": "universal-design-enables-everyone-suranga-nanayakkara",
   "slug": "universal-design-enables-everyone-suranga-nanayakkara",
   "title": "Universal Design Enables Everyone | Suranga Nanayakkara",
   "year": "2016",
@@ -7,25 +6,10 @@
   "outlet": "TEDxYouth@Palmerston",
   "url": "http://tedxtalks.ted.com/video/Universal-Design-Enables-Everyo",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    },
-    {
-      "slug": "fingerdraw",
-      "title": "FingerDraw"
-    },
-    {
-      "slug": "sparsh",
-      "title": "Sparsh"
-    },
-    {
-      "slug": "eyering",
-      "title": "EyeRing"
-    }
+    "fingerreader",
+    "fingerreader-v0",
+    "fingerdraw",
+    "sparsh",
+    "eyering"
   ]
 }

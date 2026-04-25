@@ -1,78 +1,22 @@
 {
-  "id": "sparkubes",
   "slug": "sparkubes",
   "title": "SparKubes",
   "year": "2014",
   "description": "SparKubes are a set of stand-alone tangible objects that are corded with simple behaviors and do not require additional instrumentation or setup. This overcomes a variety of issues such as setting up network connection and instrumentation of the environment as long as a SparKube sees another, it “works”. SparKubes can be used to create a variety of low resolution tangible widgets that can control different appliances, e.g. an application on a nearby computer, wall-sized display or mobile device. The nature of the hardware implementation of SparKubes enables a set of seamless interactions between both computational devices and cubes.",
-  "project_url": "https://ahlab.org/project/sparkubes/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/sparkubes/sparkubes.jpg",
   "people": [
-    {
-      "slug": "santiago-ortega",
-      "name": "Santiago Ortega",
-      "url": "/people/santiago-ortega/"
-    },
-    {
-      "slug": "nuwan-janaka",
-      "name": "Nuwan Janaka",
-      "url": "/people/nuwan-janaka/"
-    },
-    {
-      "slug": "priyashri-sridhar",
-      "name": "Priyashri Sridhar",
-      "url": "/people/priyashri-sridhar/"
-    },
-    {
-      "slug": "jochen-huber",
-      "name": "Jochen Huber",
-      "url": "/people/jochen-huber/"
-    },
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "piyum-fernando",
-      "name": "Piyum Fernando",
-      "url": "/people/piyum-fernando/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "santiago-ortega",
+    "nuwan-janaka",
+    "priyashri-sridhar",
+    "jochen-huber",
+    "anusha-withana",
+    "piyum-fernando",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Towards Understanding of Play with Augmented Toys",
-      "citation": "Sridhar, P.K., Nanayakkara, S.C. and Huber, J., 2017, March. Towards understanding of play with augmented toys. In Proceedings of the 8th Augmented Human International Conference (pp. 1-4).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041191"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1lT6tByaqoIPscG6ylBk68xMSvMdwrQEU/view?usp=sharing"
-        }
-      ],
-      "slug": "towards-understanding-of-play-with-augmented-toys",
-      "url": "/publications/#towards-understanding-of-play-with-augmented-toys"
-    },
-    {
-      "title": "SparKubes: Exploring the Interplay between Digital and Physical Spaces with Minimalistic Interfaces",
-      "citation": "Ortega-Avila, S., Huber, J., Janaka, N., Withana, A., Fernando, P. and Nanayakkara, S.C., 2014, December. SparKubes: exploring the interplay between digital and physical spaces with minimalistic interfaces. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 204-207).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p204-ortega-avila.pdf"
-        }
-      ],
-      "slug": "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces",
-      "url": "/publications/#sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces"
-    }
+    "towards-understanding-of-play-with-augmented-toys",
+    "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces"
   ],
   "principles": [
     "physical"

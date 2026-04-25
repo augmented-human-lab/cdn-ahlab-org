@@ -1,5 +1,4 @@
 {
-  "id": "world-changing-ideas-awards-2021-education-finalist-kiwrious",
   "slug": "world-changing-ideas-awards-2021-education-finalist-kiwrious",
   "title": "World Changing Ideas Awards 2021: Education | Finalist | Kiwrious",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "Fast Company",
   "url": "https://www.fastcompany.com/90623632/world-changing-ideas-awards-2021-education-finalists-and-honorable-mentions",
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious"
-    }
+    "kiwrious"
   ]
 }

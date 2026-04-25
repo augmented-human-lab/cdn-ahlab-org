@@ -1,62 +1,21 @@
 {
-  "id": "postbits",
   "slug": "postbits",
   "title": "PostBits",
   "year": "2016",
   "description": "Placing information at specific locations in the home provides rich and intuitive ways for people to cope with information, as they leverage semantics of the locations within the home. However, there is no deeper investigation yet on how users would embed digital cloud-based information into various locations in their homes, partly because previous systems were not robust enough to be deployed in real settings for an ex- tended period of time. To this end, we have developed PostBits, a system of display blocks that integrate cloud information with contextually rich physical space. PostBits was designed for long battery life, robust communication and simple interactions, to enable a field deployment.",
-  "project_url": "https://ahlab.org/project/postbits/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/postbits/postbits.jpg",
   "people": [
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    },
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "priyashri-sridhar",
-      "name": "Priyashri Sridhar",
-      "url": "/people/priyashri-sridhar/"
-    },
-    {
-      "slug": "piyum-fernando",
-      "name": "Piyum Fernando",
-      "url": "/people/piyum-fernando/"
-    },
-    {
-      "slug": "jurgen-steimle",
-      "name": "Jürgen Steimle",
-      "url": "/people/jurgen-steimle/"
-    }
+    "suranga-nanayakkara",
+    "pattie-maes",
+    "anusha-withana",
+    "juan-pablo-forero-cortes",
+    "priyashri-sridhar",
+    "piyum-fernando",
+    "jurgen-steimle"
   ],
   "publications": [
-    {
-      "title": "PostBits: using contextual locations for embedding cloud information in the home",
-      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
-        }
-      ],
-      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
-      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
-    }
+    "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
   ],
   "principles": [
     "cognitive",

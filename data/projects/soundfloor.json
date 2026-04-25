@@ -1,28 +1,14 @@
 {
-  "id": "soundfloor",
   "slug": "soundfloor",
   "title": "SoundFloor",
   "year": "2011",
   "description": "We designed a vibrating wooden platform – a ‘Sound Floor’ – so that hearing-impaired children gained a better sense of the music being played and enabled them to synchronize their dance with the beat of the music. Sitting or lying on the floor and feel a more complex range of musical vibrations before they start to dance, helped them form a more detailed understanding of the music. In concept, this system is similar to the portable music floor developed by Palmer but we proposed significant refinements based on new technology (direct contact speakers instead of standard ‘sound speakers/loudspeakers’), an approach that was much more effective because it turns the entire floor surface into a sound speaker. There are more than 80 students in the Dr. Reijntje’s School for the Deaf who benefitted from this project. The Sound Floor was donated by Dr. Elizabeth Taylor .",
-  "project_url": "https://ahlab.org/project/soundfloor/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/soundfloor/soundfloor.jpg",
   "people": [
-    {
-      "slug": "elizabeth-taylor",
-      "name": "Elizabeth Taylor",
-      "url": "/people/elizabeth-taylor/"
-    },
-    {
-      "slug": "lonce-wyse",
-      "name": "Lonce Wyse",
-      "url": "/people/lonce-wyse/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "elizabeth-taylor",
+    "lonce-wyse",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

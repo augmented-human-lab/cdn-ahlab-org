@@ -1,5 +1,4 @@
 {
-  "id": "akshika-wijesundara",
   "slug": "akshika-wijesundara",
   "name": "Akshika Wijesundara",
   "role": "Research Attachment",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/akshika-wijesundara/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/akshika-wijesundara/akshika-wijesundara.jpg",
   "bio": "Akshika Wijesundara is a third year undergraduate of the Department of Computer Science and Engineering, University of Moratuwa. His interest fields are mobile app development, machine learning, artificial intelligence, image processing and embedded systems. Apart from his academics, he is a Google Student Ambassador for South East Asia where he acts as the liaison for Google and he is a contributor to OpenMRS Open Source Project.\n\nHe is passionate about public speaking.\n\nAbove all, he is a fun person to be with ;)",
   "external_links": [],
   "projects": [
-    {
-      "slug": "zsense",
-      "title": "zSense",
-      "url": "/projects/zsense/"
-    }
+    "zsense"
   ],
   "publications": [],
   "career": [

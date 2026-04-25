@@ -1,5 +1,4 @@
 {
-  "id": "kin-fuai-yong",
   "slug": "kin-fuai-yong",
   "name": "Kin Fuai Yong",
   "role": "Master Student",
@@ -11,30 +10,14 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/kin-fuai-yong/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/kin-fuai-yong/kin-fuai-yong.jpg",
   "bio": "Kin Fuai Yong is a MIT-SUTD Dual Masters student currently attached to Augmented Sense Group after completing his Master in MIT's SDM ( System Design and Management ) program. Prior to the Master program he was working as Senior Firmware Engineer for Advanced Micro Devices and primarily responsible for development of BIOS ( Basic Input/Output System ) for system level microprocessor testing platforms. He has an Electrical Engineering background with B. Eng. from NUS ( National University of Singapore ).\n\nHis research interest lies with the upcoming Human-Computer Interaction interfaces and how they could help to improve human productivity and quality of life in general. His current research in SUTD involves creating wearable technology for Diabetic patients to prevent foot complication by augmenting their sensory feedback.\n\nIn leisure time, he enjoys a range of activities including movies, photography, board games, hiking, swimming, SCUBA diving, basket ball and badminton.\n\nemail: kinfuai_yong@mymail.sutd.edu.sg location: Podium A, Level 3",
   "external_links": [],
   "projects": [
-    {
-      "slug": "foot-note",
-      "title": "Foot.Note",
-      "url": "/projects/foot-note/"
-    }
+    "foot-note"
   ],
   "publications": [
-    {
-      "title": "FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention",
-      "citation": "Yong, K.F., Forero, J.P., Foong, S. and Nanayakkara, S.C., 2015, March. FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention. In Proceedings of the 6th Augmented Human International Conference (pp. 167-168).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p167-yong.pdf"
-        }
-      ],
-      "slug": "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
-      "url": "/publications/#footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
-    }
+    "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
   ],
   "career": [
     {

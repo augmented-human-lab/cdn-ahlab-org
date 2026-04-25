@@ -1,5 +1,4 @@
 {
-  "id": "der-ring-der-lesen-kann-the-ring-that-can-read",
   "slug": "der-ring-der-lesen-kann-the-ring-that-can-read",
   "title": "Der Ring, der lesen kann [The ring that can read]",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Christina Endruschat, RTL",
   "url": "http://www.rtl.de/video/index/showvid/id/335757",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

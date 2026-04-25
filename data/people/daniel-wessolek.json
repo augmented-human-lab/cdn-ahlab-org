@@ -1,5 +1,4 @@
 {
-  "id": "daniel-wessolek",
   "slug": "daniel-wessolek",
   "name": "Daniel Wessolek",
   "role": "Research Fellow",
@@ -11,46 +10,15 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/daniel-wessolek/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/daniel-wessolek/daniel-wessolek.jpg",
   "bio": "Daniel is an artist, designer and researcher. His interests are in Tangible Interaction Design, Light Animation, DIY/Collaborative Technologies, Open-Source Hardware & Software, Sustainability Strategies and in Design Research.\n\nDaniel grew up in the black forest in the tri-border area of Germany, France, and Switzerland. Currently he is a PhD candidate in Art & Design at Bauhaus University Weimar. Daniel holds an MFA in Media Art & Design from Bauhaus University Weimar, an MA (Master of Literature) in Art Theory from Tongji University, Shanghai, and a BA in Digital Media from the University of the Arts in Bremen.\n\nPrior to going back to school, Daniel was teaching Interaction Design to Product Design Students at Bauhaus University Weimar. His courses focused on enabling awareness for technology and its underlaying principles, making use of Open-Source Design, Hardware Hacking and DIY approaches, and incorporating repair and re-use strategies in order to foster critical and self-reﬂective thinking.\n\nDaniel is excited about simple displays and the potential of light intensity changes over time.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "swimsight",
-      "title": "SwimSight",
-      "url": "/projects/swimsight/"
-    }
+    "swimsight"
   ],
   "publications": [
-    {
-      "title": "SwimSight: Supporting Deaf Users to Participate in Swimming Games",
-      "citation": "Elvitigala, D.S., Wessolek, D., Achenbach, A.V., Singhabahu, C. and Nanayakkara, S.C., 2016, November. SwimSight: Supporting deaf users to participate in swimming games. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 567-570).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3010915.3010969"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/paper1591.pdf"
-        }
-      ],
-      "slug": "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
-      "url": "/publications/#swimsight-supporting-deaf-users-to-participate-in-swimming-games"
-    },
-    {
-      "title": "Body as Display: Augmenting the Face through Transillumination",
-      "citation": "Wessolek, D., Huber, J. and Maes, P., 2015, March. Body as display: augmenting the face through transillumination. In Proceedings of the 6th Augmented Human International Conference (pp. 193-194).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p193-wessolek.pdf"
-        }
-      ],
-      "slug": "body-as-display-augmenting-the-face-through-transillumination",
-      "url": "/publications/#body-as-display-augmenting-the-face-through-transillumination"
-    }
+    "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
+    "body-as-display-augmenting-the-face-through-transillumination"
   ],
   "career": [
     {

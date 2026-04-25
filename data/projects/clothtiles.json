@@ -1,61 +1,20 @@
 {
-  "id": "clothtiles",
   "slug": "clothtiles",
   "title": "ClothTiles",
   "year": "2021",
   "description": "In the project ClothTiles, we present a prototyping platform to fabricate actuators of clothing. ClothTiles leverage flexible 3D-printing and Shape-Memory Alloys (SMAs) alongside new parametric actuation designs. We explore the concept of fabric actuation using a base element and then systematically explore methods of aggregating, scaling, and orienting prospects for extended actuation in clothing.",
-  "project_url": "https://ahlab.org/project/clothtiles/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/clothtiles/clothtiles.jpg",
   "people": [
-    {
-      "slug": "sachith-muthukumarana",
-      "name": "Sachith Muthukumarana",
-      "url": "/people/sachith-muthukumarana/"
-    },
-    {
-      "slug": "moritz-messerschmidt",
-      "name": "Moritz Messerschmidt",
-      "url": "/people/moritz-messerschmidt/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "jurgen-steimle",
-      "name": "Jürgen Steimle",
-      "url": "/people/jurgen-steimle/"
-    },
-    {
-      "slug": "philip-m-scholl",
-      "name": "Philip M. Scholl",
-      "url": "/people/philip-m-scholl/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "sachith-muthukumarana",
+    "moritz-messerschmidt",
+    "denys-matthies",
+    "jurgen-steimle",
+    "philip-m-scholl",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys",
-      "citation": "Muthukumarana, S., Messerschmidt, M.A., Matthies, D.J.C., Steimle, J., Scholl, P.M., and Nanayakkara, S.C., 2021. ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3411764.3445613"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1UX7Q9UYPImpNHmt_FnGlT8p34sMy2UC0/view?usp=sharing"
-        }
-      ],
-      "slug": "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
-      "url": "/publications/#clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
-    }
+    "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
   ],
   "principles": [
     "body",

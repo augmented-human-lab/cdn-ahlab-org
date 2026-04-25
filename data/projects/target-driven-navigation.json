@@ -1,51 +1,18 @@
 {
-  "id": "target-driven-navigation",
   "slug": "target-driven-navigation",
   "title": "Target Driven Navigation",
   "year": "2018",
   "description": "Visual navigation is a core problem in robotics and machine vision. Previous research used map-based, map-building or map-less navigation strategies. The first two approaches were favored in the past, however, they essentially depend on the accurate mapping of the environment and a careful human-guided training phase, which overall limits generalizability. With recent developments in Deep Reinforcement Learning (DRL), map-less navigation experienced major advancements. A current challenge for DRL algorithms is learning new tasks or goals. This ability is called transfer learning. To cope with the challenges in transfer learning and performance, we present a novel approach, using Universal Successor Features (USF). We propose several models that we applied for the task of target driven visual navigation in a complex photo-realistic environment using a simulator named as AI2THOR. With the evaluation of our proposed models in AI2THOR, we demonstrate that an agent is able to improve the Transfer Reinforcement Learning ability.",
-  "project_url": "https://ahlab.org/project/target-driven-navigation/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/target-driven-navigation/target-driven-navigation.jpg",
   "people": [
-    {
-      "slug": "shamane-siriwardhana",
-      "name": "Shamane Siriwardhana",
-      "url": "/people/shamane-siriwardhana/"
-    },
-    {
-      "slug": "rivindu-weerasekera",
-      "name": "Rivindu Weerasekera",
-      "url": "/people/rivindu-weerasekera/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "shamane-siriwardhana",
+    "rivindu-weerasekera",
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations",
-      "citation": "Siriwardhana, S., Weerasekera, R. and Nanayakkara, S.C, 2018, Target Driven Visual Navigation with Hybrid Asynchronous Universal Successor Representations. Deep RL Workshop NeurIPS 2018.",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://arxiv.org/abs/1811.11312v1"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/1811.11312v1.pdf"
-        }
-      ],
-      "slug": "target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations",
-      "url": "/publications/#target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations"
-    }
+    "target-driven-visual-navigation-with-hybrid-asynchronous-universal-successor-representations"
   ],
   "principles": [
     "physical"

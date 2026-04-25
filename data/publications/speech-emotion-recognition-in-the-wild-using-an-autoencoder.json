@@ -1,9 +1,8 @@
 {
-  "id": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
   "slug": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
-  "title": "Speech Emotion Recognition 'in the Wild' Using an Autoencoder",
+  "title": "Speech Emotion Recognition ‘in the Wild’ Using an Autoencoder",
   "year": "2020",
-  "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition 'in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
+  "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition ‘in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
   "award": null,
   "links": [
     {

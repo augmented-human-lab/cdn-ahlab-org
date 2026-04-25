@@ -1,5 +1,4 @@
 {
-  "id": "i-was-blind-but-now-aisee",
   "slug": "i-was-blind-but-now-aisee",
   "title": "I Was Blind, But Now AiSee",
   "year": "2024",
@@ -7,9 +6,6 @@
   "outlet": "hackster.io",
   "url": "https://www.hackster.io/news/i-was-blind-but-now-aisee-997ed7e95610",
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee"
-    }
+    "aisee"
   ]
 }

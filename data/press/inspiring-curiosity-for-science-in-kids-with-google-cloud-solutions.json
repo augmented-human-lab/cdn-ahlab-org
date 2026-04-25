@@ -1,5 +1,4 @@
 {
-  "id": "inspiring-curiosity-for-science-in-kids-with-google-cloud-solutions",
   "slug": "inspiring-curiosity-for-science-in-kids-with-google-cloud-solutions",
   "title": "Inspiring curiosity for science in kids with Google Cloud solutions",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "Google Cloud",
   "url": "https://cloud.google.com/customers/augmented-human-lab",
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious"
-    }
+    "kiwrious"
   ]
 }

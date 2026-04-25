@@ -1,5 +1,4 @@
 {
-  "id": "rebecca-mathews",
   "slug": "rebecca-mathews",
   "name": "Rebecca Mathews",
   "role": "Research Attachment",
@@ -11,39 +10,15 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/rebecca-mathews/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/rebecca-mathews/rebecca-mathews.jpg",
   "bio": "Rebecca is currently pursuing her bachelor's degree in Biomedical Engineering at Manipal Institute of Technology in Manipal, India. She is currently an intern at Augmented Human Lab, working on Prospero which is a personal wearable memory coach. She loves to travel, see new places, have different types of food and take photos. Watching movies, reading novels and binge-watching TV series are a few of her favourite past times.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "prompto",
-      "title": "Prompto",
-      "url": "/projects/prompto/"
-    },
-    {
-      "slug": "prospero",
-      "title": "Prospero",
-      "url": "/projects/prospero/"
-    }
+    "prompto",
+    "prospero"
   ],
   "publications": [
-    {
-      "title": "Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent",
-      "citation": "Chan, S. W. T., Sapkota, S., Mathews, R., Zhang, H. and Nanayakkara, S. C., 2020. Prompto: Investigating Receptivity to Prompts Based on Cognitive Load from Memory Training Conversational Agent. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-23.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3432190"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Yw-HUkFRsdeuHzvP14rxq5RMq03kENsy/view?usp=sharing"
-        }
-      ],
-      "slug": "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent",
-      "url": "/publications/#prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
-    }
+    "prompto-investigating-receptivity-to-prompts-based-on-cognitive-load-from-memory-training-conversational-agent"
   ],
   "career": [
     {

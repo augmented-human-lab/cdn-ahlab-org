@@ -1,5 +1,4 @@
 {
-  "id": "zsense-first-place-in-singapore-mit-alliance-for-research-and-technology-smart-bootcamp-pitch-competition",
   "slug": "zsense-first-place-in-singapore-mit-alliance-for-research-and-technology-smart-bootcamp-pitch-competition",
   "title": "zSense: First place in Singapore-MIT Alliance for Research and Technology (SMART) Bootcamp pitch competition",
   "year": "2016",
@@ -7,9 +6,6 @@
   "outlet": null,
   "url": "http://epd.sutd.edu.sg/news-events/event/news/1st-prize-smart-bootcamp-2015/",
   "projects": [
-    {
-      "slug": "zsense",
-      "title": "zSense"
-    }
+    "zsense"
   ]
 }

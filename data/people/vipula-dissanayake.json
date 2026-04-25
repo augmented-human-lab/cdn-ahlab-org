@@ -1,5 +1,4 @@
 {
-  "id": "vipula-dissanayake",
   "slug": "vipula-dissanayake",
   "name": "Vipula Dissanayake",
   "role": "PhD Candidate",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/vipula-dissanayake/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/vipula-dissanayake/vipula-dissanayake.jpg",
   "bio": "Vipula is a PhD candidate at the Augmented Human Lab, University of Auckland. He has completed his masters of engineering degree in bioengineering from the University of Auckland in 2019 and his bachelor’s degree in computer science and engineering from the University of Moratuwa in 2016. After graduation, he has worked in a software company for one year of design and implementing intelligent software solutions for a travel domain. With an interest in exploring technologies, he had decided to join the Augmented Human Lab.\n\nApart from his interest in technology, he enjoys traveling and photography, and badminton.",
   "external_links": [
@@ -21,223 +19,29 @@
     }
   ],
   "projects": [
-    {
-      "slug": "affect-in-the-wild",
-      "title": "Affect in the Wild",
-      "url": "/projects/affect-in-the-wild/"
-    },
-    {
-      "slug": "stressshoe",
-      "title": "StressShoe",
-      "url": "/projects/stressshoe/"
-    },
-    {
-      "slug": "rainbowhub",
-      "title": "RainbowHub",
-      "url": "/projects/rainbowhub/"
-    },
-    {
-      "slug": "prospero",
-      "title": "Prospero",
-      "url": "/projects/prospero/"
-    },
-    {
-      "slug": "prospecfit",
-      "title": "ProspecFit",
-      "url": "/projects/prospecfit/"
-    },
-    {
-      "slug": "fsense",
-      "title": "fSense",
-      "url": "/projects/fsense/"
-    },
-    {
-      "slug": "evaluating-ivr-in-schools",
-      "title": "Evaluating IVR in schools",
-      "url": "/projects/evaluating-ivr-in-schools/"
-    },
-    {
-      "slug": "comprate",
-      "title": "CompRate",
-      "url": "/projects/comprate/"
-    },
-    {
-      "slug": "abi-foodcam",
-      "title": "ABI FoodCam",
-      "url": "/projects/abi-foodcam/"
-    },
-    {
-      "slug": "2bit-tactile-hand",
-      "title": "2bit-Tactile Hand",
-      "url": "/projects/2bit-tactile-hand/"
-    },
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader",
-      "url": "/projects/fingerreader/"
-    }
+    "affect-in-the-wild",
+    "stressshoe",
+    "rainbowhub",
+    "prospero",
+    "prospecfit",
+    "fsense",
+    "evaluating-ivr-in-schools",
+    "comprate",
+    "abi-foodcam",
+    "2bit-tactile-hand",
+    "fingerreader"
   ],
   "publications": [
-    {
-      "title": "Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text.",
-      "citation": "Siriwardhana, S*., Gupta, C.*, Kaluarachchi, T., Dissanayake, V., Ellawela, S., & Nanayakkara, S.C. (2023). Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text. International Journal of Human–Computer Interaction, 1–19.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2286090"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1FOiydcfVylDTV_LxLYRazstuyXhrN0hZ/view?usp=drive_link"
-        }
-      ],
-      "slug": "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
-      "url": "/publications/#can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
-    },
-    {
-      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
-      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
-        },
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3546738"
-        }
-      ],
-      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
-      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
-    },
-    {
-      "title": "SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning.",
-      "citation": "Dissanayake, V., Seneviratne, S., Rana, R., Wen, E., Kaluarachchi, T., Nanayakkara, S.C., (2022). SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning. IEEE Access",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ACCESS.2022.3149509"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xbZw21O1GVtRDXDroGVNkpxOPK9firwv/view?usp=sharing"
-        }
-      ],
-      "slug": "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
-      "url": "/publications/#sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning"
-    },
-    {
-      "title": "Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition",
-      "citation": "Dissanayake V., Seneviratne S., Suriyaarachchi H., Wen E., Nanayakkara S.C. 2022. Self-supervised Representation Fusion for Speech and Wearable Based Emotion Recognition. In Proceedings of Interspeech 2022",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.21437/Interspeech.2022-11258"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/10fhlbEhCmtt2AyR0XNNQk2lRO3PTuY-I/view?usp=share_link"
-        }
-      ],
-      "slug": "self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition",
-      "url": "/publications/#self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition"
-    },
-    {
-      "title": "StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks",
-      "citation": "Elvitigala, D.S., Scholl, P.M., Suriyaarachchi, H., Dissanayake, V. and Nanayakkara, S.C., 2021. StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks. In MobileHCI ’21: The ACM International Conference on Mobile Human-Computer Interaction, September 27–30, 2021, Touluse, France. Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1122445.1122456"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/10PlvD_vcwx00qjnCFUK3trsWURCCkBqb/view?usp=sharing"
-        }
-      ],
-      "slug": "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks",
-      "url": "/publications/#stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks"
-    },
-    {
-      "title": "Speech Emotion Recognition ‘in the Wild’ Using an Autoencoder",
-      "citation": "Dissanayake, V., Zhang, H., Billinghurst, M. and Nanayakkara, S.C., 2020. Speech Emotion Recognition ‘in the wild' using an Autoencoder. Proc. Interspeech 2020, pp.526-530.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1356"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1zo2rhxXPDy5cEuG8Ckl-RLfb0Wr9RV5_/view?usp=sharing"
-        }
-      ],
-      "slug": "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
-      "url": "/publications/#speech-emotion-recognition-in-the-wild-using-an-autoencoder"
-    },
-    {
-      "title": "fSense: Unlocking the Dimension of Force for Gestural Interactions using Smartwatch PPG Sensor",
-      "citation": "Buddhika, T., Zhang, H., Chan, S. W. T., Dissanayake, V., Nanayakkara, S.C. and Zimmermann, R., 2019, March. fSense: unlocking the dimension of force for gestural interactions using smartwatch PPG sensor. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311839"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1kRU90YDIfXAg9X-cYnv2kneE25gbTwcH/view?usp=sharing"
-        }
-      ],
-      "slug": "fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor",
-      "url": "/publications/#fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor"
-    },
-    {
-      "title": "Evaluating IVR in Primary School Classrooms",
-      "citation": "Chua, Y., Sridhar, P.K., Zhang, H., Dissanayake, V. and Nanayakkara, S.C., 2019, October. Evaluating IVR in Primary School Classrooms. In 2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 169-174). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ISMAR-Adjunct.2019.00-53"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/129Cpb0ZeVpfS2MKo33IkvmF7HKV2z44J/view?usp=sharing"
-        }
-      ],
-      "slug": "evaluating-ivr-in-primary-school-classrooms",
-      "url": "/publications/#evaluating-ivr-in-primary-school-classrooms"
-    },
-    {
-      "title": "CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables",
-      "citation": "Dissanayake, V., Elvitigala, D.S., Zhang, H., Weerasinghe, C. and Nanayakkara, S.C., 2019, November. CompRate: Power Efficient Heart Rate and Heart Rate Variability Monitoring on Smart Wearables. In 25th ACM Symposium on Virtual Reality Software and Technology (pp. 1-8).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3359996.3364239"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1OC0qHFuRFRBxF1gUHwpiOUKGXz3OfP68/view?usp=sharing"
-        }
-      ],
-      "slug": "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
-      "url": "/publications/#comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables"
-    },
-    {
-      "title": "2bit-TactileHand: Evaluating Tactons for Nobody Vibrotactile Displays on the Hand and Wrist.",
-      "citation": "Elvitigala, D.S., Matthies, D.J., Dissanayaka, V., Weerasinghe, C. and Nanayakkara, S.C., 2019, March. 2bit-TactileHand: Evaluating Tactons for On-Body Vibrotactile Displays on the Hand and Wrist. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-8).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311832"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Qvl1pDiOsk53wmYLPkYrtj1pVqgTBLpR/view?usp=sharing"
-        }
-      ],
-      "slug": "2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist",
-      "url": "/publications/#2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist"
-    }
+    "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
+    "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
+    "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
+    "self-supervised-representation-fusion-for-speech-and-wearable-based-emotion-recognition",
+    "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks",
+    "speech-emotion-recognition-in-the-wild-using-an-autoencoder",
+    "fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor",
+    "evaluating-ivr-in-primary-school-classrooms",
+    "comprate-power-efficient-heart-rate-and-heart-rate-variability-monitoring-on-smart-wearables",
+    "2bit-tactilehand-evaluating-tactons-for-nobody-vibrotactile-displays-on-the-hand-and-wrist"
   ],
   "career": [
     {

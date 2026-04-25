@@ -1,51 +1,18 @@
 {
-  "id": "toro",
   "slug": "toro",
   "title": "Toro",
   "year": "2024",
   "description": "In this project we aim to develop a tool for the research community that simplifies the time-consuming literature research process by providing an interactive way of systematically exploring, analyzing, and reviewing literature. Our Interactive Literature Exploration tool, Toro, takes advantage of visualizing the relation between papers in a two-dimensional graph. Users can easily manipulate the graph, filter out undesired papers, or expand on related ones to explore relevant and interesting streams of literature.\n\nTry out Toro at toro.ac.nz",
-  "project_url": "https://ahlab.org/project/toro/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/toro/toro.jpg",
   "people": [
-    {
-      "slug": "moritz-messerschmidt",
-      "name": "Moritz Messerschmidt",
-      "url": "/people/moritz-messerschmidt/"
-    },
-    {
-      "slug": "elliott-wen",
-      "name": "Elliott Wen",
-      "url": "/people/elliott-wen/"
-    },
-    {
-      "slug": "samantha-chan",
-      "name": "Samantha Chan",
-      "url": "/people/samantha-chan/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "moritz-messerschmidt",
+    "elliott-wen",
+    "samantha-chan",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature",
-      "citation": "Messerschmidt, M., Chan, S., Wen, E. and Nanayakkara, S.C., 2022. Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://aisel.aisnet.org/sighci2022/13"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1iVWCo4Jh_fFHOr6wy8NUh_V55HOA7GLi/view?usp=sharing"
-        }
-      ],
-      "slug": "toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature",
-      "url": "/publications/#toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature"
-    }
+    "toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature"
   ],
   "principles": [
     "cognitive"

@@ -1,5 +1,4 @@
 {
-  "id": "sanjay-pushparajan",
   "slug": "sanjay-pushparajan",
   "name": "Sanjay Pushparajan",
   "role": "Research Attachment",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/sanjay-pushparajan/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/sanjay-pushparajan/sanjay-pushparajan.jpg",
   "bio": "Sanjay is an undergraduate student at the Singapore University of Technology and Design (SUTD). He is an aspiring industrial and interaction designer, who enjoys crafting physical and digital experiences. His research interests include data-driven design, digital fabrication and anticipatory user interfaces.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader",
-      "url": "/projects/fingerreader/"
-    }
+    "fingerreader"
   ],
   "publications": [],
   "career": [

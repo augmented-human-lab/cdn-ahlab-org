@@ -1,56 +1,19 @@
 {
-  "id": "sonicsg",
   "slug": "sonicsg",
   "title": "SonicSG",
   "year": "2015",
   "description": "SonicSG celebrated Singapore’s 50th Anniversary by fostering a holistic understanding of the ways in which technology is changing our thinking about design in high-density contexts such as Singapore and how its creative use can reflect a sense of place. The project consisted of a large-scale interactive light installation that consisted of 1,800 floating LED light in the Singapore River in the shape of the island nation. These lights were individually addressable through the network and used to generate light and sound effects. The field of light was extended with “sonified personal pixels” that were created by the audience through personal mobile devices. These personal pixels generated a light and sound “texture” that connected visitors to the light field in the river and to each other.\n\nThe project was a 3-way collaboration among Advanced Architecture Laboratory, Augmented Human Laboratory of the Singapore University of Technology and Design (SUTD) and Arts & Creativity Laboratory of the National University of Singapore (NUS) head by Professor Thomas Schroepfer, Assistant Professor Suranga Nanayakkara and Associate Professor Lonce Wyse respectively.",
-  "project_url": "https://ahlab.org/project/sonicsg/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/sonicsg/sonicsg.jpg",
   "people": [
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "jessica-fang",
-      "name": "Jessica Fang",
-      "url": "/people/jessica-fang/"
-    },
-    {
-      "slug": "thomas-schroepfer",
-      "name": "Thomas Schroepfer",
-      "url": "/people/thomas-schroepfer/"
-    },
-    {
-      "slug": "lonce-wyse",
-      "name": "Lonce Wyse",
-      "url": "/people/lonce-wyse/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "anusha-withana",
+    "jessica-fang",
+    "thomas-schroepfer",
+    "lonce-wyse",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "SonicSG: From Floating to Sounding Pixels",
-      "citation": "Nanayakkara, S.C., Schroepfer, T., Wyse, L., Lian, A. and Withana, A., 2017, March. SonicSG: from floating to sounding pixels. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041190"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1wKFn3i8CcrO-L8pi0-3Kqa74dqC3dUMJ/view?usp=sharing"
-        }
-      ],
-      "slug": "sonicsg-from-floating-to-sounding-pixels",
-      "url": "/publications/#sonicsg-from-floating-to-sounding-pixels"
-    }
+    "sonicsg-from-floating-to-sounding-pixels"
   ],
   "principles": [
     "sociocultural"

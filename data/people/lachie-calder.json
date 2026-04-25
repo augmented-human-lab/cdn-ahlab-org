@@ -1,5 +1,4 @@
 {
-  "id": "lachie-calder",
   "slug": "lachie-calder",
   "name": "Lachie Calder",
   "role": "Final Year Project Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/lachie-calder/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/lachie-calder/lachie-calder.jpg",
   "bio": "Lachie is studying his Bachelors of Engineering degree specialising in Engineering Science and is currently undertaking his final year honours thesis within the Augmented Human Lab. He has an interest in the cutting edge of machine learning, and aligning with this his project is on Event Summarization using Multimodal Deep Learning. Elsewhere in the University, Lachie is involved in leadership positions in several organisations with a focus on helping mentor and train students across faculties. Outside of his studies, Lachie has a passion for baking bread and for spending exorbitant amounts of money on expensive coffee.",
   "external_links": [],

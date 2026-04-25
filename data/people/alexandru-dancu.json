@@ -1,5 +1,4 @@
 {
-  "id": "alexandru-dancu",
   "slug": "alexandru-dancu",
   "name": "Alexandru Dancu",
   "role": "Research Fellow",
@@ -11,73 +10,19 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/alexandru-dancu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/alexandru-dancu/alexandru-dancu.jpg",
   "bio": "Alexandru Dancu is interested in new ways of using digital information and augmenting human capabilities.He is driven by the excitement of discovery and creating new user interfaces and technologies.\n\nCurrently he is a postdoc at the Augmented Human Lab, SUTD and obtained his PhD from Chalmers University of Technology, Sweden, working on body-centric interfaces. He gained his MSc. in Embedded Computing System with the thesis project at University of Southampton, UK. His BSc. degree was in Computer-Science with the thesis project at School of Computing, National University of Singapore.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "thumb-in-motion",
-      "title": "Thumb in Motion",
-      "url": "/projects/thumb-in-motion/"
-    },
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader",
-      "url": "/projects/fingerreader/"
-    },
-    {
-      "slug": "armsleeve",
-      "title": "ArmSleeve",
-      "url": "/projects/armsleeve/"
-    },
-    {
-      "slug": "shrug",
-      "title": "SHRUG",
-      "url": "/projects/shrug/"
-    }
+    "thumb-in-motion",
+    "fingerreader",
+    "armsleeve",
+    "shrug"
   ],
   "publications": [
-    {
-      "title": "Thumb-In-Motion: Evaluating Thumb to Ring Microgestures for Athletic Activity",
-      "citation": "Boldu, R., Dancu, A., Matthies, D.J., Cascón, P.G., Ransir, S. and Nanayakkara, S.C., 2018, October. Thumb-In-Motion: Evaluating Thumb-to-Ring Microgestures for Athletic Activity. In Proceedings of the Symposium on Spatial User Interaction (pp. 150-157).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3267782.3267796"
-        }
-      ],
-      "slug": "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
-      "url": "/publications/#thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity"
-    },
-    {
-      "title": "Hand Range Interface: Information Always at Hand with a Body-Centric Mid-Air Input Surface",
-      "citation": "Xu, X., Dancu, A., Maes, P. and Nanayakkara, S.C., 2018, September. Hand range interface: Information always at hand with a body-centric mid-air input surface. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-12).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3229434.3229449"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fRbfKfpHzqerACFYYGNIGoyQneZ6SsHh/view?usp=sharing"
-        }
-      ],
-      "slug": "hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface",
-      "url": "/publications/#hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface"
-    },
-    {
-      "title": "FingerReader2.0: Designing and Evaluating a Wearable Finger-WornCamera to Assist People with Visual Impairments while Shopping,",
-      "citation": "Boldu, R., Dancu, A., Matthies, D. J.C., Buddhika, T., Siriwardhana, S., & Nanayakkara, S.C., 2018. FingerReader2. 0: Designing and Evaluating a Wearable Finger-Worn Camera to Assist People with Visual Impairments while Shopping. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(3), 94. ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3264904"
-        }
-      ],
-      "slug": "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping",
-      "url": "/publications/#fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping"
-    }
+    "thumb-in-motion-evaluating-thumb-to-ring-microgestures-for-athletic-activity",
+    "hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface",
+    "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping"
   ],
   "career": [
     {

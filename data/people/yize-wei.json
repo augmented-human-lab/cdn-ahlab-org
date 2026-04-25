@@ -1,5 +1,4 @@
 {
-  "id": "yize-wei",
   "slug": "yize-wei",
   "name": "Yize Wei",
   "email": "yize@ahlab.org",
@@ -12,7 +11,6 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/yize-wei/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/yize-wei/yize-wei.jpg",
   "bio": "Yize is a 3rd-year PhD Candidate in the Computer Science department at National University of Singapore (NUS), advised by Suranga Nanayakkara and Roger Zimmermann . She also works closely with Christophe Jouffrais and Wei Tsang Ooi . Previously, she received a B.Eng. in Industrial Engineering Management (with a minor in French Language Studies) from NUS in 2022. She has also worked as a software engineer intern at Autodesk and a student research assistant in the broader field of AI/ML. Her research interest is situated in the intersection of Accessibility, Human-Robot Interaction, and Human-AI Interaction. To know more about her, please visit her website.",
   "external_links": [
@@ -22,67 +20,14 @@
     }
   ],
   "projects": [
-    {
-      "slug": "dronebuddy",
-      "title": "DroneBuddy",
-      "url": "/projects/dronebuddy/"
-    },
-    {
-      "slug": "sound-designer-generative-ai-interactions",
-      "title": "Sound Designer-Generative AI Interactions",
-      "url": "/projects/sound-designer-generative-ai-interactions/"
-    },
-    {
-      "slug": "audio-morph-gan",
-      "title": "Audio-Morph GAN",
-      "url": "/projects/audio-morph-gan/"
-    }
+    "dronebuddy",
+    "sound-designer-generative-ai-interactions",
+    "audio-morph-gan"
   ],
   "publications": [
-    {
-      "title": "Human Robot Interaction for People with Visual Impairments: A Systematic Literature Review",
-      "citation": "Wei, Y., Rocher, N., Gupta, C., Nguyen, M.H., Zimmermann, R., Ooi, W.T., Jouffrais, C. and Nanayakkara, S.C., 2025. Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review. In: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). New York, NY, USA: Association for Computing Machinery, Article 276, pp.1–19.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706598.3713438"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1be_Pyy85obvKW8OLJm4hdXpSwjOCD_Re/view?usp=sharing"
-        }
-      ],
-      "slug": "human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review",
-      "url": "/publications/#human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review"
-    },
-    {
-      "title": "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers",
-      "citation": "Kamath, P., Morreale, F., Bagaskara, P.L., Wei, Y., and Nanayakkara, S.C. 2024. Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613904.3642040"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1nSdZe0irBvTQlWiNCC0oC6V15PiZOsEV/view?usp=sharing"
-        }
-      ],
-      "slug": "sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers",
-      "url": "/publications/#sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers"
-    },
-    {
-      "title": "Towards Controllable Audio Texture Morphing",
-      "citation": "Gupta C*., Kamath P*., Wei. Y., Li, Z., Nanayakkara S.C., Wyse L. 2023. Towards Controllable Audio Texture Morphing. In 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '23), 4-10 June, 2023, Rhodes Island, Greece.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Od3J7IHFhiZ0fUatCoNCzD7Fp0AFBfg1/view?usp=sharing"
-        }
-      ],
-      "slug": "towards-controllable-audio-texture-morphing",
-      "url": "/publications/#towards-controllable-audio-texture-morphing"
-    }
+    "human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review",
+    "sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers",
+    "towards-controllable-audio-texture-morphing"
   ],
   "career": [
     {

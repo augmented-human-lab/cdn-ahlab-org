@@ -1,56 +1,19 @@
 {
-  "id": "evaluating-ivr-in-schools",
   "slug": "evaluating-ivr-in-schools",
   "title": "Evaluating IVR in schools",
   "year": "2018",
   "description": "In recent years, the availability of affordable mobile Virtual Reality (VR) viewers has resulted in strong interests to incorporate Immersive Virtual Reality (IVR) within classrooms. However, studies on the effect of IVR on primary schoolers’ learning are few, and they have often used equipment and settings far removed from everyday classroom instruction. We explored the role of interactivity and immersion in learning in a primary school classroom with 36 children aged 11~13 years, using commercially available immersive virtual reality devices that are ready-to-scale. We co-created content with different levels of immersion and interactivity together with teachers and investigated student engagement and learning using performance, physiological responses, observations and self-report measures.",
-  "project_url": "https://ahlab.org/project/evaluating-ivr-in-schools/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/evaluating-ivr-in-schools/evaluating-ivr-in-schools.jpg",
   "people": [
-    {
-      "slug": "yvonne-chua",
-      "name": "Yvonne Chua",
-      "url": "/people/yvonne-chua/"
-    },
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    },
-    {
-      "slug": "priyashri-sridhar",
-      "name": "Priyashri Sridhar",
-      "url": "/people/priyashri-sridhar/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "yvonne-chua",
+    "vipula-dissanayake",
+    "priyashri-sridhar",
+    "haimo-zhang",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Evaluating IVR in Primary School Classrooms",
-      "citation": "Chua, Y., Sridhar, P.K., Zhang, H., Dissanayake, V. and Nanayakkara, S.C., 2019, October. Evaluating IVR in Primary School Classrooms. In 2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 169-174). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ISMAR-Adjunct.2019.00-53"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/129Cpb0ZeVpfS2MKo33IkvmF7HKV2z44J/view?usp=sharing"
-        }
-      ],
-      "slug": "evaluating-ivr-in-primary-school-classrooms",
-      "url": "/publications/#evaluating-ivr-in-primary-school-classrooms"
-    }
+    "evaluating-ivr-in-primary-school-classrooms"
   ],
   "principles": [
     "cognitive",

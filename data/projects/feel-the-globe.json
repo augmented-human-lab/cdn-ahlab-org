@@ -1,47 +1,18 @@
 {
-  "id": "feel-the-globe",
   "slug": "feel-the-globe",
   "title": "Feel the Globe",
   "year": "2015",
   "description": "\"Feel & See the Globe\" is a thermal, interactive installation. The central idea is to map temperature information in regions around the world from prehistoric, modern to futuristic times onto a low fidelity display. The display visually communicates global temperature rates and lets visitors experience the temperature physically through a tangible, thermal artefact. A pertinent educational aim is to inform and teach about global warming.",
-  "project_url": "https://ahlab.org/project/feel-the-globe/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/feel-the-globe/feel-the-globe.jpg",
   "people": [
-    {
-      "slug": "jochen-huber",
-      "name": "Jochen Huber",
-      "url": "/people/jochen-huber/"
-    },
-    {
-      "slug": "hasantha-malavipathirana",
-      "name": "Hasantha Malavipathirana",
-      "url": "/people/hasantha-malavipathirana/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    }
+    "jochen-huber",
+    "hasantha-malavipathirana",
+    "suranga-nanayakkara",
+    "pattie-maes"
   ],
   "publications": [
-    {
-      "title": "Feel &#038; See the Globe: A Thermal, Interactive Installation",
-      "citation": "Huber, J., Malavipathirana, H., Wang, Y., Li, X., Fu, J.C., Maes, P. and Nanayakkara, S.C., 2015, March. Feel & see the globe: a thermal, interactive installation. In Proceedings of the 6th Augmented Human International Conference (pp. 215-216).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p215-huber.pdf"
-        }
-      ],
-      "slug": "feel-see-the-globe-a-thermal-interactive-installation",
-      "url": "/publications/#feel-see-the-globe-a-thermal-interactive-installation"
-    }
+    "feel-see-the-globe-a-thermal-interactive-installation"
   ],
   "principles": [
     "perceptual",

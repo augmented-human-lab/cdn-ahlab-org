@@ -1,58 +1,20 @@
 {
-  "id": "itiles",
   "slug": "itiles",
   "title": "iTILES",
   "year": "2024",
   "description": "iTILES is an assistive playware device designed to maintain and improve the functional and cognitive abilities of its users through game-based learning. It comprises a set of 16 physical tiles (8 floor tiles and 8 wall tiles), a tablet application, and a web-based analytics platform.\n\nUsers can interact with each tile by shaking or touching/stepping on it. Corresponding tiles respond to users by lighting up, vibrating, and/or producing sounds based on the customized game settings. Currently, there are three games, and any combination of floor and wall tiles can be used, offering various play possibilities.\n\nTo use iTILES, a game supervisor (e.g., therapist) can set up and customize games through a tablet device. Users, such as children with autism, participate by interacting with the tiles. After game sessions, the game supervisor can access analytics through an online dashboard.\n\niTiles is a project funded by the Tote Board-Enabling Lives Initiative (TB-ELI) Grant and in collaboration with Digital Dream and Embodied Sensing Pte. Ltd.",
-  "project_url": "https://ahlab.org/project/itiles/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/itiles/itiles.jpg",
   "people": [
-    {
-      "slug": "hannah-qiao",
-      "name": "Hannah Qiao",
-      "url": "/people/hannah-qiao/"
-    },
-    {
-      "slug": "malsha-de-zoysa",
-      "name": "Malsha de Zoysa",
-      "url": "/people/malsha-de-zoysa/"
-    },
-    {
-      "slug": "shreyas-sridhar",
-      "name": "Shreyas Sridhar",
-      "url": "/people/shreyas-sridhar/"
-    },
-    {
-      "slug": "sankha-cooray",
-      "name": "Sankha Cooray",
-      "url": "/people/sankha-cooray/"
-    },
-    {
-      "slug": "anubhaw-xess",
-      "name": "Anubhaw Xess",
-      "url": "/people/anubhaw-xess/"
-    },
-    {
-      "slug": "priambudi-lintang-bagaskara",
-      "name": "Priambudi Lintang Bagaskara",
-      "url": "/people/priambudi-lintang-bagaskara/"
-    },
-    {
-      "slug": "dixon-prem-daniel",
-      "name": "Dixon Prem Daniel",
-      "url": "/people/dixon-prem-daniel/"
-    },
-    {
-      "slug": "hasini-amanda",
-      "name": "Hasini Amanda",
-      "url": "/people/hasini-amanda/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "hannah-qiao",
+    "malsha-de-zoysa",
+    "shreyas-sridhar",
+    "sankha-cooray",
+    "anubhaw-xess",
+    "priambudi-lintang-bagaskara",
+    "dixon-prem-daniel",
+    "hasini-amanda",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

@@ -1,37 +1,16 @@
 {
-  "id": "speechplay",
   "slug": "speechplay",
   "title": "SpeechPlay",
   "year": "2012",
   "description": "SpeechPlay is an intuitive system for creating expressive synthetic voices in a fun and interactive manner. Control of prosody information in synthesized speech output is based on the visual appearance of the text, which can be manipulated with touch gestures. Users could create/modify contents using their mobile phone (SpeechPlay Mobile Application) and publish/share their work on a large screen (SpeechPlay Surface).",
-  "project_url": "https://ahlab.org/project/speechplay/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/speechplay/speechplay.jpg",
   "people": [
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    }
+    "suranga-nanayakkara",
+    "yeo-kian-peen"
   ],
   "publications": [
-    {
-      "title": "SpeechPlay: Composing and Sharing Expressive Speech Through Visually Augmented Text.",
-      "citation": "Yeo, K.P. and Nanayakkara, S.C., 2013, November. SpeechPlay: composing and sharing expressive speech through visually augmented text. In Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration (pp. 565-568).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/SpeechPlay_OZCHI13_CameraReady.pdf"
-        }
-      ],
-      "slug": "speechplay-composing-and-sharing-expressive-speech-through-visually-augmented-text",
-      "url": "/publications/#speechplay-composing-and-sharing-expressive-speech-through-visually-augmented-text"
-    }
+    "speechplay-composing-and-sharing-expressive-speech-through-visually-augmented-text"
   ],
   "principles": [
     "cognitive",

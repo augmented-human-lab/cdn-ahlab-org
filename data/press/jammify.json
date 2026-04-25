@@ -1,5 +1,4 @@
 {
-  "id": "jammify",
   "slug": "jammify",
   "title": "Jammify",
   "year": "2020",
@@ -7,9 +6,6 @@
   "outlet": "ARS Electronica",
   "url": "https://www.ars.nz/jammify/",
   "projects": [
-    {
-      "slug": "jammify",
-      "title": "Jammify"
-    }
+    "jammify"
   ]
 }

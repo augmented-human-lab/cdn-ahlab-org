@@ -1,5 +1,4 @@
 {
-  "id": "fingerreader-winner-of-accelerator-program",
   "slug": "fingerreader-winner-of-accelerator-program",
   "title": "FingerReader: Winner of Accelerator Program",
   "year": "2017",
@@ -7,9 +6,6 @@
   "outlet": "Modern Aging Singapore",
   "url": null,
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    }
+    "fingerreader"
   ]
 }

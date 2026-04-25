@@ -1,10 +1,8 @@
 {
-  "id": "scratch-and-sense",
   "slug": "scratch-and-sense",
   "title": "Scratch and Sense",
   "year": "2022",
   "description": "Block-based programming environments are a popular way to introduce programming as they provide helpful visual cues and remove the complexities of syntax, allowing learners to focus on being creative. However, input to programs in block-based environments is often limited to the keyboard and mouse, meaning programs respond only to the direct actions of the user. Allowing programs to respond to changes in the physical environment may influence the types of programs students create and their motivation and interest towards learning programming. We explore this idea by integrating real-time sensor data into Scratch. With our platform, students simply connect a sensor to their computer via USB and use custom blocks, alongside conventional Scratch code, to read and react to the sensor data in real-time.",
-  "project_url": "https://ahlab.org/project/scratch-and-sense/",
   "external_links": [
     {
       "kind": "demo",
@@ -19,71 +17,14 @@
   ],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/scratch-and-sense/scratch-and-sense.jpg",
   "people": [
-    {
-      "slug": "hussel-suriyaarachchi",
-      "name": "Hussel Suriyaarachchi",
-      "url": "/people/hussel-suriyaarachchi/"
-    },
-    {
-      "slug": "paul-denny",
-      "name": "Paul Denny",
-      "url": "/people/paul-denny/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "hussel-suriyaarachchi",
+    "paul-denny",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups",
-      "citation": "Suriyaarachchi, H., Nassani, A., Denny, P. and Nanayakkara, S.C. 2023. Using Sensor-Based Programming to Improve Self-Efficacy and Outcome Expectancy for Students from Underrepresented Groups. In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2023). Association for Computing Machinery, New York, NY, USA, 187–193.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3587102.3588854"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Z1oDWS8r8P8ZdoY94MWnmYqAaOxGbE4_/view?usp=sharing"
-        }
-      ],
-      "slug": "using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups",
-      "url": "/publications/#using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups"
-    },
-    {
-      "title": "Scratch and Sense: Using Real-Time Sensor Data to Motivate Students Learning Scratch",
-      "citation": "Suriyaarachchi, H., Denny, P. and Nanayakkara, S.C., 2022. Scratch and Sense: Using Real-Time Sensor Data to Motivate Students Learning Scratch. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2022), March 3–5, 2022, Providence, RI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3478431.3499316"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/190zsSnnTMiqlosHbzEDOWRCSzWuT2_kM/view?usp=sharing"
-        }
-      ],
-      "slug": "scratch-and-sense-using-real-time-sensor-data-to-motivate-students-learning-scratch",
-      "url": "/publications/#scratch-and-sense-using-real-time-sensor-data-to-motivate-students-learning-scratch"
-    },
-    {
-      "title": "Primary School Students Programming with Real-Time Environmental Sensor Data",
-      "citation": "Suriyaarachchi, H., Denny, P., Cortés, J.P.F., Weerasinghe, C. and Nanayakkara, S.C., 2022. Primary School Students Programming with Real-Time Environmental Sensor Data. In Australasian Computing Education Conference (ACE ’22), February 14–18, 2022, Virtual Event, Australia.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3511861.3511871"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/12H6A0apCmvWOAB66L2-fCa3nGPjrT9n8/view?usp=sharing"
-        }
-      ],
-      "slug": "primary-school-students-programming-with-real-time-environmental-sensor-data",
-      "url": "/publications/#primary-school-students-programming-with-real-time-environmental-sensor-data"
-    }
+    "using-sensor-based-programming-to-improve-self-efficacy-and-outcome-expectancy-for-students-from-underrepresented-groups",
+    "scratch-and-sense-using-real-time-sensor-data-to-motivate-students-learning-scratch",
+    "primary-school-students-programming-with-real-time-environmental-sensor-data"
   ],
   "principles": [
     "cognitive",

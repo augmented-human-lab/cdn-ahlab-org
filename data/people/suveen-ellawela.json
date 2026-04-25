@@ -1,5 +1,4 @@
 {
-  "id": "suveen-ellawela",
   "slug": "suveen-ellawela",
   "name": "Suveen Ellawela",
   "role": "Undergraduate Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/suveen-ellawela/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/suveen-ellawela/suveen-ellawela.jpg",
   "bio": "Suveen is a Computer Engineering Undergraduate at the National University of Singapore. He has worked in development and product teams across various startups, including telemedicine, sales tech, proptech, and wearable tech. Suveen has made several products himself, the highlight being an AI powered interviewer platform, FoloUp (www.folo-up.co). Moreover, he is extremely passionate about applications of LLMs and AI Agents to improve everyday life.\n\nIn his free time, Suveen loves to play sports and board games. He is also a movie buff and an infrequent non-fiction reader.",
   "external_links": [
@@ -21,29 +19,10 @@
     }
   ],
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    }
+    "aisee"
   ],
   "publications": [
-    {
-      "title": "Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text.",
-      "citation": "Siriwardhana, S*., Gupta, C.*, Kaluarachchi, T., Dissanayake, V., Ellawela, S., & Nanayakkara, S.C. (2023). Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text. International Journal of Human–Computer Interaction, 1–19.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2286090"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1FOiydcfVylDTV_LxLYRazstuyXhrN0hZ/view?usp=drive_link"
-        }
-      ],
-      "slug": "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
-      "url": "/publications/#can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
-    }
+    "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
   ],
   "career": [
     {

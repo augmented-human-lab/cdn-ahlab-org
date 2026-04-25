@@ -1,5 +1,4 @@
 {
-  "id": "nus-team-develops-affordable-headset-to-help-visually-impaired-see",
   "slug": "nus-team-develops-affordable-headset-to-help-visually-impaired-see",
   "title": "NUS team develops affordable headset to help visually impaired 'see'",
   "year": "2024",
@@ -7,9 +6,6 @@
   "outlet": "The Straits Times",
   "url": "https://www.straitstimes.com/singapore/nus-team-develops-affordable-headset-to-help-visually-impaired-see",
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee"
-    }
+    "aisee"
   ]
 }

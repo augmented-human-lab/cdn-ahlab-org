@@ -1,5 +1,4 @@
 {
-  "id": "sight-based-starting-system-a-green-signal-for-deaf-swimmers",
   "slug": "sight-based-starting-system-a-green-signal-for-deaf-swimmers",
   "title": "Sight-based starting system a green signal for deaf swimmers",
   "year": "2017",
@@ -7,9 +6,6 @@
   "outlet": "Sunday Times",
   "url": "#",
   "projects": [
-    {
-      "slug": "swimsight",
-      "title": "SwimSight"
-    }
+    "swimsight"
   ]
 }

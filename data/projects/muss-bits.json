@@ -1,111 +1,23 @@
 {
-  "id": "muss-bits",
   "slug": "muss-bits",
   "title": "MuSS-Bits",
   "year": "2017",
   "description": "Making music requires a closed feedback loop to evaluate the created with the intended sound. This becomes a challenging task for those with hearing disabilities who are nevertheless interested in learning to play an instrument. Due to limited access to the auditory channel, deaf people have less information to evaluate their performance. The result is a feedback loop-gap.\n\nWe developed Music Sensory Substitution (MuSS) Bits, small wearable plug-and-play sensor-display pairs that communicate wirelessly peer-to-peer. The Sensory-Bit captures real-world sounds from various audio sources, extracts rhythm information and sends it to the Display-Bit which provides a visual and vibrotactile representation of the rhythm. The vibrotactile intensity and visual brightness can be adjusted to the user’s need. The decoupling of the display from the sensor part of the sensory-substitution system allows the performer to spatially deploy the Display-Bit, for example on his or her body, provides free limb movement and permits a simple way of selecting the desired audio source. Real-time feedback has been established through onboard processing, nRF communication, and responsive vibration motors.\n\nWe believe that MuSS-Bits are a first step towards customizable exploratory music-sensory-substitution systems for deaf people.",
-  "project_url": "https://ahlab.org/project/muss-bits/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/muss-bits/muss-bits.jpg",
   "people": [
-    {
-      "slug": "benjamin-petry",
-      "name": "Benjamin Petry",
-      "url": "/people/benjamin-petry/"
-    },
-    {
-      "slug": "thavishi-illandara",
-      "name": "Thavishi Illandara",
-      "url": "/people/thavishi-illandara/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "attila-victor-achenbach",
-      "name": "Attila Victor Achenbach",
-      "url": "/people/attila-victor-achenbach/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "benjamin-petry",
+    "thavishi-illandara",
+    "juan-pablo-forero-cortes",
+    "attila-victor-achenbach",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Supporting Rhythm Activities of Deaf Children using Music-Sensory-Substitution Systems.",
-      "citation": "Petry, B., Illandara, T., Elvitigala, D.S. and Nanayakkara, S.C., 2018, April. Supporting rhythm activities of deaf children using music-sensory-substitution systems. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-10).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3173574.3174060"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/114srp0L-VRv_cMyNHAm6rVli-x-Z3FS2/view?usp=sharing"
-        }
-      ],
-      "slug": "supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems",
-      "url": "/publications/#supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems"
-    },
-    {
-      "title": "Scaffolding the Music Listening and Music Making Experience for the Deaf",
-      "citation": "Petry, B., Huber, J. and Nanayakkara, S.C., 2018. Scaffolding the Music Listening and Music Making Experience for the Deaf. In Assistive Augmentation (pp. 23-48). Springer, Singapore.",
-      "links": [
-        {
-          "label": "link",
-          "url": "https://link.springer.com/chapter/10.1007/978-981-10-6404-3_3"
-        }
-      ],
-      "slug": "scaffolding-the-music-listening-and-music-making-experience-for-the-deaf",
-      "url": "/publications/#scaffolding-the-music-listening-and-music-making-experience-for-the-deaf"
-    },
-    {
-      "title": "MuSS-Bits: Sensor-Display Blocks for Deaf People to Explore Musical Sounds",
-      "citation": "Petry, B., Illandara, T. and Nanayakkara, S.C., 2016, November. MuSS-bits: sensor-display blocks for deaf people to explore musical sounds. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 72-80).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3010915.3010939"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/OzCHI-MuSS-Bits.pdf"
-        }
-      ],
-      "slug": "muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds",
-      "url": "/publications/#muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds"
-    },
-    {
-      "title": "MuSS-Bits Provisional Patent",
-      "citation": "Petry, B., Forero, J.P., Nanayakkara, S.C., 2016, Muss-bits – music-sensory-substitution bits. Singapore Provisional Patent Application: 10201610020P. Filing Date: 29 November 2016.",
-      "links": [],
-      "slug": "muss-bits-provisional-patent",
-      "url": "/publications/#muss-bits-provisional-patent"
-    },
-    {
-      "title": "Ad-Hoc Access to Musical Sound for Deaf Individuals",
-      "citation": "Petry, B., Illandara, T., Forero, J.P. and Nanayakkara, S.C., 2016, October. Ad-Hoc Access to Musical Sound for Deaf Individuals. In Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 285-286).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2982142.2982213"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/pd072-petryA.pdf"
-        },
-        {
-          "label": "poster",
-          "url": "http://bpetry.de/sites/default/files/ASSETS2016_MuSS-Bits_Poster.pdf"
-        }
-      ],
-      "slug": "ad-hoc-access-to-musical-sound-for-deaf-individuals",
-      "url": "/publications/#ad-hoc-access-to-musical-sound-for-deaf-individuals"
-    }
+    "supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems",
+    "scaffolding-the-music-listening-and-music-making-experience-for-the-deaf",
+    "muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds",
+    "muss-bits-provisional-patent",
+    "ad-hoc-access-to-musical-sound-for-deaf-individuals"
   ],
   "principles": [
     "body",

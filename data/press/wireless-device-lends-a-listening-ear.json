@@ -1,5 +1,4 @@
 {
-  "id": "wireless-device-lends-a-listening-ear",
   "slug": "wireless-device-lends-a-listening-ear",
   "title": "\"Wireless device lends a listening ear\"",
   "year": "2013",
@@ -7,9 +6,6 @@
   "outlet": "Straits Times, Singapore",
   "url": null,
   "projects": [
-    {
-      "slug": "stickear",
-      "title": "StickEar"
-    }
+    "stickear"
   ]
 }

@@ -1,77 +1,21 @@
 {
-  "id": "prospecfit",
   "slug": "prospecfit",
   "title": "ProspecFit",
   "year": "2018",
   "description": "ProspecFit digitises the implementation intentions method, an effective lab-based memory technique, to make it available on smartphones through iterative design. The project draws insights from a focus group and preliminary studies. ProspecFit has been evaluated with 10 adults (61 to 80 years old) through 12-day in situ testing as well as pre- and post-testing.\n\nParticipants in the digital prospective memory training group were more prompt in performing the in situ prospective memory tasks, compared to the control group without digital training, and reported improvement in their prospective memory compared to before the training.\n\nThis work was published in Proceedings of ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) in September 2019 and presented in Ubicomp 2019.",
-  "project_url": "https://ahlab.org/project/prospecfit/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/prospecfit/prospecfit.jpg",
   "people": [
-    {
-      "slug": "samantha-chan",
-      "name": "Samantha Chan",
-      "url": "/people/samantha-chan/"
-    },
-    {
-      "slug": "thisum-buddhika",
-      "name": "Thisum Buddhika",
-      "url": "/people/thisum-buddhika/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "adrian-robertson",
-      "name": "Adrian Robertson",
-      "url": "/people/adrian-robertson/"
-    },
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    }
+    "samantha-chan",
+    "thisum-buddhika",
+    "haimo-zhang",
+    "suranga-nanayakkara",
+    "adrian-robertson",
+    "vipula-dissanayake"
   ],
   "publications": [
-    {
-      "title": "Biosignal-Sensitive Memory Improvement and Support Systems",
-      "citation": "Chan, S. W. T. 2020. Biosignal-Sensitive Memory Improvement and Support Systems. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI ’20). Association for Computing Machinery, New York, NY, USA, 1–7.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi-org.ezproxy.auckland.ac.nz/10.1145/3334480.3375031"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1TGUGp3DP9wQEccPRk8bo-OHiqdWnUkwd/view?usp=sharing"
-        }
-      ],
-      "slug": "biosignal-sensitive-memory-improvement-and-support-systems",
-      "url": "/publications/#biosignal-sensitive-memory-improvement-and-support-systems"
-    },
-    {
-      "title": "ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults",
-      "citation": "Chan, S. W. T., Buddhika, T., Zhang, H. and Nanayakkara, S. C., 2019. ProspecFit: In Situ Evaluation of Digital Prospective Memory Training for Older Adults. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(3), pp.1-20.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3351235"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1tpwydWe6sRgWyFJ6K_H5b4hA7vgv25Kq/view?usp=sharing"
-        }
-      ],
-      "slug": "prospecfit-in-situ-evaluation-of-digital-prospective-memory-training-for-older-adults",
-      "url": "/publications/#prospecfit-in-situ-evaluation-of-digital-prospective-memory-training-for-older-adults"
-    }
+    "biosignal-sensitive-memory-improvement-and-support-systems",
+    "prospecfit-in-situ-evaluation-of-digital-prospective-memory-training-for-older-adults"
   ],
   "principles": [
     "cognitive"

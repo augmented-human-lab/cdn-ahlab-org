@@ -1,5 +1,4 @@
 {
-  "id": "praveen-sasikumar",
   "slug": "praveen-sasikumar",
   "name": "Praveen Sasikumar",
   "email": "praveen@ahlab.org",
@@ -12,7 +11,6 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/praveen-sasikumar/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/praveen-sasikumar/praveen-sasikumar.jpg",
   "bio": "Praveen is a PhD student at the National University of Singapore, School of Computing, working at the intersection of computer science and psychology. He holds a Master’s in Forensic Psychology from the National Forensic Sciences University, India, and a Bachelor’s in Psychology and HCI from Christ University. His research focuses on Human-Computer Interaction, immersive technologies (VR/AR/MR), and wearables, with an emphasis on user-centered design to better understand and enhance human experiences.",
   "external_links": [
@@ -22,35 +20,12 @@
     }
   ],
   "projects": [
-    {
-      "slug": "zenflow",
-      "title": "Zenflow",
-      "url": "/projects/zenflow/"
-    },
-    {
-      "slug": "blind-drone",
-      "title": "Blind Drone",
-      "url": "/projects/blind-drone/"
-    },
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    }
+    "zenflow",
+    "blind-drone",
+    "aisee"
   ],
   "publications": [
-    {
-      "title": "DroneAudioset: An Audio Dataset for Drone-based Search and Rescue",
-      "citation": "Gupta, C.*, Ramesh, S.*, Sasikumar, P., Yeo, K. P., & Nanayakkara, S. C., \"DroneAudioset: An Audio Dataset for Drone-based Search and Rescue,\" NeurIPS 2025.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1x4HXEwWi_6E0Gsgy3if_DDc23ilCI4ji/view?usp=sharing"
-        }
-      ],
-      "slug": "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue",
-      "url": "/publications/#droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
-    }
+    "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
   ],
   "career": [
     {

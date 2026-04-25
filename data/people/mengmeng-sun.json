@@ -1,5 +1,4 @@
 {
-  "id": "mengmeng-sun",
   "slug": "mengmeng-sun",
   "name": "Mengmeng Sun",
   "role": "Research Attachment",
@@ -11,34 +10,14 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/mengmeng-sun/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/mengmeng-sun/mengmeng-sun.jpg",
   "bio": "Mengmeng is a third-year master student from China. She is studying at the Cyber-Physical Interaction Lab, Northwestern Polytechnical University. She comes to the University of Auckland as a visiting research student and will stay in Augmented Human Lab for the next 3 months. Her research interest is about haptic interaction in Augmented Reality. Her master thesis is about the research on the manipulation technology based on augmented haptic in the virtual-physical assembly environment.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "actualtouch",
-      "title": "ActualTouch",
-      "url": "/projects/actualtouch/"
-    }
+    "actualtouch"
   ],
   "publications": [
-    {
-      "title": "Ready, Steady, Touch!: Sensing Physical Contact with a Finger-Mounted IMU",
-      "citation": "Shi, Y., Zhang, H., Zhao, K., Cao, J., Sun, M. and Nanayakkara, S.C., 2020. Ready, steady, touch! sensing physical contact with a finger-mounted IMU. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(2), pp.1-25.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3397309"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1gEpRp35i_nJgMMf_RYiQBI7aKKMGmcpQ/view?usp=sharing"
-        }
-      ],
-      "slug": "ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu",
-      "url": "/publications/#ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu"
-    }
+    "ready-steady-touch-sensing-physical-contact-with-a-finger-mounted-imu"
   ],
   "career": [
     {

@@ -1,38 +1,17 @@
 {
-  "id": "bige-tuncer",
   "slug": "bige-tuncer",
   "name": "Bige Tuncer",
   "role": "Associate Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/bige-tuncer/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/bige-tuncer/bige-tuncer.jpg",
   "bio": "Bige Tuncer is an associate professor of design computation and the associate head of pillar at the Architecture and Sustainable Design Pillar of Singapore University of Technology and Design. She received her PhD from Delft University of Technology, her MSc from Carnegie Mellon University, and her BArch from Middle East Technical University. She was an assistant professor at TU Delft, a visiting professor at the Chair of Information Architecture at ETH Zurich, and a visiting scholar at MIT. Her main research interest is evidence informed design processes.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "gescad",
-      "title": "GesCAD",
-      "url": "/projects/gescad/"
-    }
+    "gescad"
   ],
   "publications": [
-    {
-      "title": "GesCAD: an Intuitive Interface for Conceptual Architectural Design",
-      "citation": "Khan, S., Rajapakse, H., Zhang, H., Nanayakkara, S.C., Tuncer, B. and Blessing, L., 2017, November. GesCAD: an intuitive interface for conceptual architectural design. In Proceedings of the 29th Australian conference on computer-human interaction (pp. 402-406).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3156145"
-        },
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3152771.3156145"
-        }
-      ],
-      "slug": "gescad-an-intuitive-interface-for-conceptual-architectural-design",
-      "url": "/publications/#gescad-an-intuitive-interface-for-conceptual-architectural-design"
-    }
+    "gescad-an-intuitive-interface-for-conceptual-architectural-design"
   ],
   "career": [
     {

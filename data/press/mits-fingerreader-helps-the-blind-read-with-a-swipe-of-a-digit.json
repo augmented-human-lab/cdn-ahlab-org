@@ -1,5 +1,4 @@
 {
-  "id": "mits-fingerreader-helps-the-blind-read-with-a-swipe-of-a-digit",
   "slug": "mits-fingerreader-helps-the-blind-read-with-a-swipe-of-a-digit",
   "title": "MIT's FingerReader Helps The Blind Read With A Swipe Of A Digit",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Evan Fleischer, TechCrunch",
   "url": "http://techcrunch.com/2014/04/17/mits-fingerreader-helps-the-blind-read-with-a-swipe-of-a-digit/",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

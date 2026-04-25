@@ -1,51 +1,18 @@
 {
-  "id": "chewit",
   "slug": "chewit",
   "title": "ChewIt",
   "year": "2019",
   "description": "ChewIt is a novel intraoral input interface that provides an effective solution for hands-free interaction scenarios. ChewIt resembles an edible object that allows users to perform various hands-free input operations, both simply and discreetly. Our design is informed by a series of studies investigating the implications of shape, size, locations for comfort, discreetness, maneuverability, and obstructiveness. Additionally, we evaluated potential gestures that users could utilize to interact with such an intraoral interface. ChewIt was submitted and accepted at the CHI Conference on Human Factors in Computing Systems Proceedings (CHI 2019) and will be presented in this year in May in Scotland. CHI is a premium venue for late-breaking research on Human-Computer Interaction.",
-  "project_url": "https://ahlab.org/project/chewit/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/chewit/chewit.jpg",
   "people": [
-    {
-      "slug": "pablo-g-c",
-      "name": "Pablo G.C.",
-      "url": "/people/pablo-g-c/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "sachith-muthukumarana",
-      "name": "Sachith Muthukumarana",
-      "url": "/people/sachith-muthukumarana/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "pablo-g-c",
+    "denys-matthies",
+    "sachith-muthukumarana",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "ChewIt. An Intraoral Interface for Discreet Interactions.",
-      "citation": "Cascón, P.C., Matthies, D.J., Muthukumarana, S. and Nanayakkara, S.C, 2019, May. ChewIt. An Intraoral Interface for Discreet Interactions. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/3290605.3300556"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1uIUaPa2ktYIwhM9RoYvikVWJmPnS8JwB/view?usp=sharing"
-        }
-      ],
-      "slug": "chewit-an-intraoral-interface-for-discreet-interactions",
-      "url": "/publications/#chewit-an-intraoral-interface-for-discreet-interactions"
-    }
+    "chewit-an-intraoral-interface-for-discreet-interactions"
   ],
   "principles": [
     "body",

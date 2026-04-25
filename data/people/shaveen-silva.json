@@ -1,5 +1,4 @@
 {
-  "id": "shaveen-silva",
   "slug": "shaveen-silva",
   "name": "Shaveen Silva",
   "email": "shaveen@ahlab.org",
@@ -12,7 +11,6 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/shaveen-silva/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/shaveen-silva/shaveen-silva.jpg",
   "bio": "Shaveen Silva is an undergraduate in Computer Science and Engineering at the University of Moratuwa. He is currently interning at the Augmented Human Lab, where he works on AiSee, a smart headset that uses AI to help blind and low-vision people better perceive their surroundings. His interests span Agentic AI and intelligent systems, and he loves diving into deep tech and understanding how things work at a fundamental level. When he is not thinking about AI and interfaces, Shaveen is usually buried in a book, watching movies, catching the latest Formula 1 race or hunting for good sci fi. He also loves to travel, go hiking and generally collect new hobbies faster than he can list them.",
   "external_links": [

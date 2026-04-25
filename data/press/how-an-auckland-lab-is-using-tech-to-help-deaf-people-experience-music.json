@@ -1,5 +1,4 @@
 {
-  "id": "how-an-auckland-lab-is-using-tech-to-help-deaf-people-experience-music",
   "slug": "how-an-auckland-lab-is-using-tech-to-help-deaf-people-experience-music",
   "title": "How an Auckland lab is using tech to help deaf people experience music",
   "year": "2019",
@@ -7,9 +6,6 @@
   "outlet": "Noted",
   "url": "https://www.noted.co.nz/health/health-health/deaf-people-experience-music-auckland-lab-technology",
   "projects": [
-    {
-      "slug": "muss-bits",
-      "title": "MuSS-Bits"
-    }
+    "muss-bits"
   ]
 }

@@ -1,51 +1,18 @@
 {
-  "id": "kinvoice",
   "slug": "kinvoice",
   "title": "KinVoice",
   "year": "2021",
   "description": "KinVoice explores using voices of friends and family (we will refer as ‘kin’) in voice interfaces. We investigate how the familiarity of kin voices affect user perceptions and discuss design guidelines for integrating familiar kin voices into voice user interfaces (VUIs). As an example use case, our prototype uses AI-generated cloned voices of friends and family members to provide voice reminders.\n\nOur surveys and interviews with 25 users revealed that VUIs using kin voices were perceived as more engaging, persuasive and safer yet eerier than VUIs using common virtual assistant voices. We then developed a technology probe, KinVoice, an Alexa-based VUI that was deployed in three households over two weeks. Users set reminders using KinVoice, which in turn, gave the reminders in synthesised kin voices. This was to explore users’ needs, uncover challenges involved and inspire new applications. We discuss design guidelines for integrating familiar kin voices into VUIs, applications that benefit from its usage, and implications for balancing voice realism and usability with security and diversification.\n\nThis work was published in the Proceedings of the ACM on Human-Computer Interaction 2021 and presented at ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2021).",
-  "project_url": "https://ahlab.org/project/kinvoice/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/kinvoice/kinvoice.jpg",
   "people": [
-    {
-      "slug": "samantha-chan",
-      "name": "Samantha Chan",
-      "url": "/people/samantha-chan/"
-    },
-    {
-      "slug": "tamil-selvan",
-      "name": "Tamil Selvan",
-      "url": "/people/tamil-selvan/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "samantha-chan",
+    "tamil-selvan",
+    "haimo-zhang",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "KinVoices: Using Voices of Friends and Family in Voice Interfaces",
-      "citation": "Chan, S. W. T., Gunasekaran, T., Pai, Y. S., Zhang, H. and Nanayakkara, S.C. 2021. KinVoices: Using Voices of Friends and Family in Voice Interfaces. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 446 (October 2021), 25 pages.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3479590"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1_Bp0ShrTKy81zvguDyOgrgdBunsin8iX/view?usp=sharing"
-        }
-      ],
-      "slug": "kinvoices-using-voices-of-friends-and-family-in-voice-interfaces",
-      "url": "/publications/#kinvoices-using-voices-of-friends-and-family-in-voice-interfaces"
-    }
+    "kinvoices-using-voices-of-friends-and-family-in-voice-interfaces"
   ],
   "principles": [
     "cognitive",

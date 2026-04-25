@@ -1,56 +1,19 @@
 {
-  "id": "factually",
   "slug": "factually",
   "title": "Factually",
   "year": "Current",
   "description": "Misinformation can spread rapidly in everyday conversation, where pausing to verify is not always possible. We envision a wearable system that bridges the timing gap between hearing a claim and forming a judgment. It uses ambient listening to detect verifiable claims, performs rapid web verification, and provides a subtle haptic nudge with a glanceable overview. A controlled study (N=34) simulated this approach and tested against a no-support baseline. Results show that instant, body-integrated feedback significantly improved real-time truth discernment and increased verification activity compared to unsupported fact-checking. However, it also introduced over-reliance when the system made errors, i.e. failed to flag false claims or flagged true claims as false. We contribute empirical evidence of improved discernment alongside insights into trust, effort, and user–system tensions in verification wearables.",
-  "project_url": "https://ahlab.org/project/factually/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/factually/factually.jpg",
   "people": [
-    {
-      "slug": "chitralekha-gupta",
-      "name": "Chitralekha Gupta",
-      "url": "/people/chitralekha-gupta/"
-    },
-    {
-      "slug": "nadia-aritonang",
-      "name": "Nadia Aritonang",
-      "url": "/people/nadia-aritonang/"
-    },
-    {
-      "slug": "dixon-prem-daniel",
-      "name": "Dixon Prem Daniel",
-      "url": "/people/dixon-prem-daniel/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "chitralekha-gupta",
+    "nadia-aritonang",
+    "dixon-prem-daniel",
+    "pattie-maes",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information",
-      "citation": "Gupta, C.*, Aritonang, N.*, Rajendran D., Danry, V., Maes, P., and Nanayakkara, S. C., 2026. Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791679"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xVjShf-s0pN6DzpPrydxkbI2SQLsDk_J/view?usp=sharing"
-        }
-      ],
-      "slug": "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
-      "url": "/publications/#feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
-    }
+    "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
   ],
   "principles": [
     "body",

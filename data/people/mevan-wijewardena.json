@@ -1,5 +1,4 @@
 {
-  "id": "mevan-wijewardena",
   "slug": "mevan-wijewardena",
   "name": "Mevan Wijewardena",
   "role": "Research Attachment",
@@ -11,28 +10,12 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/mevan-wijewardena/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/mevan-wijewardena/mevan-wijewardena.jpg",
   "bio": "Mevan is a student from University of Moratuwa in Sri Lanka. Currently he is reading for the bachelor of engineering in electronic and telecommunications degree. He is here in AHLab for a six month internship. Mevan is interested in areas such as machine learning, image processing, data structures and algorithms.",
   "external_links": [],
   "projects": [],
   "publications": [
-    {
-      "title": "MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair",
-      "citation": "Boldu, R., Wijewardena, M., Zhang, H. and Nanayakkara, S.C., 2020, October. MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-10).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3379503.3403545"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Yzptyr2NabyuRqgJEuxv28mVEzLbqmMN/view?usp=sharing"
-        }
-      ],
-      "slug": "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair",
-      "url": "/publications/#maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair"
-    }
+    "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair"
   ],
   "career": [
     {

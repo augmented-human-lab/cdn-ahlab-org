@@ -1,87 +1,26 @@
 {
-  "id": "iswarm",
   "slug": "iswarm",
   "title": "iSwarm",
   "year": "2014",
   "description": "iSwarm, the Singapore University of Technology and Design Advanced Architecture Laboratory and Augmented Human Lab's contribution to iLight Marina Bay Singapore 2014, depicts luminous sea creatures that interact with the visitors of the event. The swarm is lifeless and hardly visible by day but becomes active at night. At dusk, iSwarm starts to illuminate the waters of Marina Bay with light reminiscent of natural phenomena such as bioluminescent algae or deep-sea fish. iSwarm reacts to the presence of visitors with a modulation of its pattern and color. In this way, there is a constant interaction between the installation and its visitors. iSwarm engages the visitors by creating a poetic, spirited experience that feels natural, yet is deeply rooted in cutting-edge technology.",
-  "project_url": "https://ahlab.org/project/iswarm/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/iswarm/iswarm.jpg",
   "people": [
-    {
-      "slug": "thomas-schroepfer",
-      "name": "Thomas Schroepfer",
-      "url": "/people/thomas-schroepfer/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "roshan-peiris",
-      "name": "Roshan Peiris",
-      "url": "/people/roshan-peiris/"
-    },
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "benjamin-petry",
-      "name": "Benjamin Petry",
-      "url": "/people/benjamin-petry/"
-    },
-    {
-      "slug": "santiago-ortega",
-      "name": "Santiago Ortega",
-      "url": "/people/santiago-ortega/"
-    },
-    {
-      "slug": "piyum-fernando",
-      "name": "Piyum Fernando",
-      "url": "/people/piyum-fernando/"
-    },
-    {
-      "slug": "nuwan-janaka",
-      "name": "Nuwan Janaka",
-      "url": "/people/nuwan-janaka/"
-    },
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "nipuna-samarasekara",
-      "name": "Nipuna Samarasekara",
-      "url": "/people/nipuna-samarasekara/"
-    },
-    {
-      "slug": "iain-werry",
-      "name": "Iain Werry",
-      "url": "/people/iain-werry/"
-    }
+    "thomas-schroepfer",
+    "suranga-nanayakkara",
+    "yeo-kian-peen",
+    "roshan-peiris",
+    "anusha-withana",
+    "benjamin-petry",
+    "santiago-ortega",
+    "piyum-fernando",
+    "nuwan-janaka",
+    "samitha-elvitigala",
+    "nipuna-samarasekara",
+    "iain-werry"
   ],
   "publications": [
-    {
-      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
-      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
-      "links": [
-        {
-          "label": "webpage",
-          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
-        }
-      ],
-      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
-      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
-    }
+    "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
   ],
   "principles": [
     "sociocultural"

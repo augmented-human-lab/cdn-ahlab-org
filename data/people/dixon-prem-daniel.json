@@ -1,5 +1,4 @@
 {
-  "id": "dixon-prem-daniel",
   "slug": "dixon-prem-daniel",
   "name": "Dixon Prem Daniel",
   "email": "dixon@ahlab.org",
@@ -12,44 +11,16 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/dixon-prem-daniel/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/dixon-prem-daniel/dixon-prem-daniel.jpg",
   "bio": "Dixon joined the Augmented Human Lab in the the National University of Singapore (NUS) as a Research Fellow. His research pursuit broadly encompass areas such as Information Systems and Human-computer Interaction, with specific interests in Game-based Learning, Gamification, Design Science and Recommender Systems. Dixon obtained his doctoral from Indian Institute of Technology - Madras (IIT - M).",
   "external_links": [],
   "projects": [
-    {
-      "slug": "factually",
-      "title": "Factually",
-      "url": "/projects/factually/"
-    },
-    {
-      "slug": "soniphy",
-      "title": "SoniPhy",
-      "url": "/projects/soniphy/"
-    },
-    {
-      "slug": "itiles",
-      "title": "iTILES",
-      "url": "/projects/itiles/"
-    }
+    "factually",
+    "soniphy",
+    "itiles"
   ],
   "publications": [
-    {
-      "title": "Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information",
-      "citation": "Gupta, C.*, Aritonang, N.*, Rajendran D., Danry, V., Maes, P., and Nanayakkara, S. C., 2026. Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791679"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xVjShf-s0pN6DzpPrydxkbI2SQLsDk_J/view?usp=sharing"
-        }
-      ],
-      "slug": "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
-      "url": "/publications/#feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
-    }
+    "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
   ],
   "career": [
     {

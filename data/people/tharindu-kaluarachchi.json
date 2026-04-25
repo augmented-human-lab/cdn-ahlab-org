@@ -1,5 +1,4 @@
 {
-  "id": "tharindu-kaluarachchi",
   "slug": "tharindu-kaluarachchi",
   "name": "Tharindu Kaluarachchi",
   "role": "PhD Candidate",
@@ -11,204 +10,29 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/tharindu-kaluarachchi/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/tharindu-kaluarachchi/tharindu-kaluarachchi.jpg",
   "bio": "Tharindu Kaluarachchi joined the Augmented Human Lab in October 2015 as an intern. In 2017 he received his B.Sc. honours degree in Electronic and Telecommunication Engineering from University of Moratuwa Sri Lanka. After that, he worked for two years as a research and development engineer at Cyrup (Pvt). Ltd. which is a start-up in Sri Lanka. There he has worked on developing solutions for local and international businesses using portable electronics, image processing, and machine learning.\n\nNow he is conducting research as a Ph.D. student in the area of Human-Centered Machine Learning. He is interested in unsupervised learning, human-computer interaction, Artificial Intelligence in general and its real-world applications. He is hoping to use AI to help people learn things efficiently.\n\nHe likes to play badminton, TT, any card game, any board game, any role-playing game and he enjoys travelling, hiking, swimming, walking, singing, dancing, playing guitar and cajong",
   "external_links": [],
   "projects": [
-    {
-      "slug": "xrtic",
-      "title": "XRtic",
-      "url": "/projects/xrtic/"
-    },
-    {
-      "slug": "vrhook",
-      "title": "VRHook",
-      "url": "/projects/vrhook/"
-    },
-    {
-      "slug": "affect-in-the-wild",
-      "title": "Affect in the Wild",
-      "url": "/projects/affect-in-the-wild/"
-    },
-    {
-      "slug": "lightsense",
-      "title": "LightSense",
-      "url": "/projects/lightsense/"
-    },
-    {
-      "slug": "eyeknowyou",
-      "title": "EyeKnowYou",
-      "url": "/projects/eyeknowyou/"
-    },
-    {
-      "slug": "wavesense",
-      "title": "WaveSense",
-      "url": "/projects/wavesense/"
-    },
-    {
-      "slug": "shrug",
-      "title": "SHRUG",
-      "url": "/projects/shrug/"
-    }
+    "xrtic",
+    "vrhook",
+    "affect-in-the-wild",
+    "lightsense",
+    "eyeknowyou",
+    "wavesense",
+    "shrug"
   ],
   "publications": [
-    {
-      "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering",
-      "citation": "Siriwardhana, S., Weerasekera, R., Wen, E., Kaluarachchi, T., Rana, R. and Nanayakkara, S.C., 2023. Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering. Transactions of the Association for Computational Linguistics.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1162/tacl_a_00530"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1IVuyBxac-XR63kAzyDktpKxzjbIgEbrX/view?usp=sharing"
-        }
-      ],
-      "slug": "improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering",
-      "url": "/publications/#improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering"
-    },
-    {
-      "title": "Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text.",
-      "citation": "Siriwardhana, S*., Gupta, C.*, Kaluarachchi, T., Dissanayake, V., Ellawela, S., & Nanayakkara, S.C. (2023). Can AI Models Summarize Your Diary Entries? Investigating Utility of Abstractive Summarization for Autobiographical Text. International Journal of Human–Computer Interaction, 1–19.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2286090"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1FOiydcfVylDTV_LxLYRazstuyXhrN0hZ/view?usp=drive_link"
-        }
-      ],
-      "slug": "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
-      "url": "/publications/#can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text"
-    },
-    {
-      "title": "A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications",
-      "citation": "Kaluarachchi, T., Siriwardhana, S., Wen, E., & Nanayakkara, S.C. 2023. A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications. In International Journal of Human–Computer Interaction.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2022.2163240"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1vZKp6UhjZc316fdqoJGxLgfJPCx30u9A/view?usp=sharing"
-        }
-      ],
-      "slug": "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
-      "url": "/publications/#a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications"
-    },
-    {
-      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
-      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3526113.3545656"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
-        }
-      ],
-      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
-      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
-    },
-    {
-      "title": "SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning.",
-      "citation": "Dissanayake, V., Seneviratne, S., Rana, R., Wen, E., Kaluarachchi, T., Nanayakkara, S.C., (2022). SigRep: Towards Robust Wearable Emotion Recognition with Contrastive Representation Learning. IEEE Access",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ACCESS.2022.3149509"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xbZw21O1GVtRDXDroGVNkpxOPK9firwv/view?usp=sharing"
-        }
-      ],
-      "slug": "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
-      "url": "/publications/#sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning"
-    },
-    {
-      "title": "EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam",
-      "citation": "Kaluarachchi, T., Sapkota, S., Taradel, J., Thevenon, A., Matthies, D.J.C., and Nanayakkara, S.C., 2021. EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam. In MobileHCI ’21 Extended Abstracts: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fxUMUGfoCUhy4GOb0qLt-o0BbSIzZQRv/view?usp=sharing"
-        }
-      ],
-      "slug": "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam",
-      "url": "/publications/#eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam"
-    },
-    {
-      "title": "A Review of Recent Deep Learning Approaches in Human-Centered Machine Learning",
-      "citation": "Kaluarachchi, T., Reis, A., and Nanayakkara, S.C., 2021. A Review of Recent Deep Learning Approaches in Human-Centered Machine Learning. Sensors. 21(7):2514.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.3390/s21072514"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1nYpzCuuCe7nth0Q6C-ebAg9WHGpOsQKK/view?usp=sharing"
-        }
-      ],
-      "slug": "a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning",
-      "url": "/publications/#a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning"
-    },
-    {
-      "title": "WaveSense: Low Power Voxel-tracking Technique for Resource Limited Devices",
-      "citation": "Withana, A., Kaluarachchi, T., Singhabahu, C., Ransiri, S., Shi, Y. and Nanayakkara, S.C., 2020. waveSense: Low Power Voxel-tracking Technique for Resource Limited Devices. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3384657.3384790"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Ug6C2P7oOwuX8aUGQGA_UgnKDhhWpV2p/view?usp=sharing"
-        }
-      ],
-      "slug": "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
-      "url": "/publications/#wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices"
-    },
-    {
-      "title": "Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion",
-      "citation": "Siriwardhana, S., Kaluarachchi, T., Billinghurst, M. and Nanayakkara, S.C., 2020. Multimodal Emotion Recognition With Transformer-Based Self Supervised Feature Fusion. IEEE Access, 8, pp.176274-176285.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ACCESS.2020.3026823"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1m5tgMX_9H-BhszgCcuqOznzKfkytoYdT/view?usp=sharing"
-        }
-      ],
-      "slug": "multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion",
-      "url": "/publications/#multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion"
-    },
-    {
-      "title": "waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination",
-      "citation": "Withana, A., Ransiri, S., Kaluarachchi, T., Singhabahu, C., Shi, Y., Elvitigala, S., Nanayakkara, S.C., 2016. waveSense: Ultra Low Power Gesture Sensing Based on Selective Volumetric Illumination, In proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST '16)",
-      "links": [
-        {
-          "label": "url",
-          "url": "http://dl.acm.org/citation.cfm?id=2985734"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/p139-withana_0.pdf"
-        }
-      ],
-      "slug": "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination",
-      "url": "/publications/#wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
-    }
+    "improving-the-domain-adaptation-of-retrieval-augmented-generation-rag-models-for-open-domain-question-answering",
+    "can-ai-models-summarize-your-diary-entries-investigating-utility-of-abstractive-summarization-for-autobiographical-text",
+    "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
+    "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+    "sigrep-towards-robust-wearable-emotion-recognition-with-contrastive-representation-learning",
+    "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam",
+    "a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning",
+    "wavesense-low-power-voxel-tracking-technique-for-resource-limited-devices",
+    "multimodal-emotion-recognition-with-transformer-based-self-supervised-feature-fusion",
+    "wavesense-ultra-low-power-gesture-sensing-based-on-selective-volumetric-illumination"
   ],
   "career": [
     {

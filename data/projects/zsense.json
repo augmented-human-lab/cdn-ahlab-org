@@ -1,71 +1,22 @@
 {
-  "id": "zsense",
   "slug": "zsense",
   "title": "zSense",
   "year": "2016",
   "description": "zSense provides greater input expressivity for smart wearables through a shallow depth gesture recognition system using non-focused infrared sensors. To achieve this, we introduce a novel Non-linear Spatial Sampling (NSS) technique that significantly cuts down the number of required infrared sensors and emitters. These can be arranged in many different configurations; for example, number of sensor emitter units can be as minimal as one sensor and two emitters. We implemented different configurations of zSense on smart wearables such as smartwatches, smart-glasses and smart rings. These configurations naturally fit into the flat or curved surfaces of such devices, providing a wide scope of zSense enabled application scenarios. Our evaluations reported over 94.8% gesture recognition accuracy across all configurations.",
-  "project_url": "https://ahlab.org/project/zsense/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/zsense/zsense.jpg",
   "people": [
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "shanaka-ransiri",
-      "name": "Shanaka Ransiri",
-      "url": "/people/shanaka-ransiri/"
-    },
-    {
-      "slug": "roshan-peiris",
-      "name": "Roshan Peiris",
-      "url": "/people/roshan-peiris/"
-    },
-    {
-      "slug": "nipuna-samarasekara",
-      "name": "Nipuna Samarasekara",
-      "url": "/people/nipuna-samarasekara/"
-    },
-    {
-      "slug": "chanaka-singhabahu",
-      "name": "Chanaka Singhabahu",
-      "url": "/people/chanaka-singhabahu/"
-    },
-    {
-      "slug": "akshika-wijesundara",
-      "name": "Akshika Wijesundara",
-      "url": "/people/akshika-wijesundara/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    }
+    "anusha-withana",
+    "shanaka-ransiri",
+    "roshan-peiris",
+    "nipuna-samarasekara",
+    "chanaka-singhabahu",
+    "akshika-wijesundara",
+    "suranga-nanayakkara",
+    "juan-pablo-forero-cortes"
   ],
   "publications": [
-    {
-      "title": "zSense: Enabling Shallow Depth Gesture Recognition for Greater Input Expressivity on Smart Wearables",
-      "citation": "Withana, A., Peiris, R., Samarasekara, N. and Nanayakkara, S.C., 2015, April. zsense: Enabling shallow depth gesture recognition for greater input expressivity on smart wearables. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3661-3670).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2702123.2702371"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-04_CHI-zSense_Full.pdf"
-        }
-      ],
-      "slug": "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables",
-      "url": "/publications/#zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables"
-    }
+    "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables"
   ],
   "principles": [
     "body",

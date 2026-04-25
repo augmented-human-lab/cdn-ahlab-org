@@ -1,68 +1,20 @@
 {
-  "id": "eyeknowyou",
   "slug": "eyeknowyou",
   "title": "EyeKnowYou",
   "year": "2021",
   "description": "EyeKnowYou is a DIY toolkit to estimate cognitive load and actual screen time using a head-mounted webcam. The do-it-yourself guide makes the set-up of the hardware and software easy. It uses videos of the eye to analyze corneal surface reflections to recognize screen usage and eye movements to determine cognitive load. We collected data from 17 participants to train a neural network to predict screen usage and cognitive load simultaneously. Our initial model, which is a 3D Convolutional Neural Network, achieves up to 70% overall accuracy for both tasks. The accuracy can go up to 90% when a personalized calibration is carried out. We encapsulated the model into a software toolkit that can be used by non-AI-experts. Both the software toolkit and our model are open-sourced for the community to further develop and build upon. Our aim is to collect more data over time, using this software toolkit, to improve model performance.",
-  "project_url": "https://ahlab.org/project/eyeknowyou/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/eyeknowyou/eyeknowyou.jpg",
   "people": [
-    {
-      "slug": "tharindu-kaluarachchi",
-      "name": "Tharindu Kaluarachchi",
-      "url": "/people/tharindu-kaluarachchi/"
-    },
-    {
-      "slug": "shardul-sapkota",
-      "name": "Shardul Sapkota",
-      "url": "/people/shardul-sapkota/"
-    },
-    {
-      "slug": "aristee-thevenon",
-      "name": "Aristée Thevenon",
-      "url": "/people/aristee-thevenon/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "tharindu-kaluarachchi",
+    "shardul-sapkota",
+    "aristee-thevenon",
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications",
-      "citation": "Kaluarachchi, T., Siriwardhana, S., Wen, E., & Nanayakkara, S.C. 2023. A Corneal Surface Reflections-Based Intelligent System for Lifelogging Applications. In International Journal of Human–Computer Interaction.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2022.2163240"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1vZKp6UhjZc316fdqoJGxLgfJPCx30u9A/view?usp=sharing"
-        }
-      ],
-      "slug": "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
-      "url": "/publications/#a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications"
-    },
-    {
-      "title": "EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam",
-      "citation": "Kaluarachchi, T., Sapkota, S., Taradel, J., Thevenon, A., Matthies, D.J.C., and Nanayakkara, S.C., 2021. EyeKnowYou: A DIY Toolkit to Support Monitoring Cognitive Load and Actual Screen Time using a Head-Mounted Webcam. In MobileHCI ’21 Extended Abstracts: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fxUMUGfoCUhy4GOb0qLt-o0BbSIzZQRv/view?usp=sharing"
-        }
-      ],
-      "slug": "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam",
-      "url": "/publications/#eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam"
-    }
+    "a-corneal-surface-reflections-based-intelligent-system-for-lifelogging-applications",
+    "eyeknowyou-a-diy-toolkit-to-support-monitoring-cognitive-load-and-actual-screen-time-using-a-head-mounted-webcam"
   ],
   "principles": [
     "body",

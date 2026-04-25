@@ -1,5 +1,4 @@
 {
-  "id": "juan-pablo-forero-cortes",
   "slug": "juan-pablo-forero-cortes",
   "name": "Juan Pablo Forero Cortés",
   "role": "Research Engineer",
@@ -11,301 +10,40 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/juan-pablo-forero-cortes/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/juan-pablo-forero-cortes/juan-pablo-forero-cortes.jpg",
   "bio": "He is a Telecommunication Systems Engineer. His areas of expertise range from the Physical layer e.g. electronics design, PCB layout, embedded systems architectures and Firmware development; to the Application layer e.g. Implementing high-level control algorithms, signal processing, sensor fusion and mobile app development. His desire to explore new possibilities and to bring ideas to reality has set the course of his professional career, hence he has always focused on Research and Development.\n\nHe obtained his first job at the Electronics and Robotics department of La Salle University in Barcelona while he was still a student, this opportunity introduced him to robotics, artificial intelligence and assistive technologies. After receiving hia diploma, He joined Almende, Organizing Networks in Rotterdam, in order to delve deeper into artificial intelligence and machine learning. In this company, He took his first steps in Android development, signal processing, computer vision and control theories. After this valuable experience, he decided to focus his career in biomedical applications, assistive technologies and consumer electronics. Subsequently, he became a Firmaware and Electronics Research Engineer in the Augmented Human Lab at SUTD University in Singapore. After three years, he joined the Think Tank Team in Samsung Research America, where he was exposed to cutting-edge technologies, perspectives and ideas that expanded all his boundaries and refined his competences and technical skills. Finally, following jos desire to challenge his perspectives once again and wanting to deepen in the understanding of the capabilities of the human potential,he joined the augmented human Lab in the Bioengineering Institute of the University of Auckland in New Zealand. Where he is currently working as a Research Engineer and pursuing his Master's Degree.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "cotacs",
-      "title": "CoTacs",
-      "url": "/projects/cotacs/"
-    },
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious",
-      "url": "/projects/kiwrious/"
-    },
-    {
-      "slug": "om",
-      "title": "OM",
-      "url": "/projects/om/"
-    },
-    {
-      "slug": "phantomtouch",
-      "title": "PhantomTouch",
-      "url": "/projects/phantomtouch/"
-    },
-    {
-      "slug": "m-hair",
-      "title": "M-Hair",
-      "url": "/projects/m-hair/"
-    },
-    {
-      "slug": "muss-bits",
-      "title": "MuSS-Bits",
-      "url": "/projects/muss-bits/"
-    },
-    {
-      "slug": "insight",
-      "title": "InSight",
-      "url": "/projects/insight/"
-    },
-    {
-      "slug": "zsense",
-      "title": "zSense",
-      "url": "/projects/zsense/"
-    },
-    {
-      "slug": "wavesense",
-      "title": "WaveSense",
-      "url": "/projects/wavesense/"
-    },
-    {
-      "slug": "postbits",
-      "title": "PostBits",
-      "url": "/projects/postbits/"
-    },
-    {
-      "slug": "bward",
-      "title": "BWard",
-      "url": "/projects/bward/"
-    },
-    {
-      "slug": "nzwarm",
-      "title": "nZwarm",
-      "url": "/projects/nzwarm/"
-    },
-    {
-      "slug": "foot-note",
-      "title": "Foot.Note",
-      "url": "/projects/foot-note/"
-    }
+    "cotacs",
+    "kiwrious",
+    "om",
+    "phantomtouch",
+    "m-hair",
+    "muss-bits",
+    "insight",
+    "zsense",
+    "wavesense",
+    "postbits",
+    "bward",
+    "nzwarm",
+    "foot-note"
   ],
   "publications": [
-    {
-      "title": "CoTacs: A Haptic Toolkit to Explore Effective On-Body Haptic Feedback by Ideating, Designing, Evaluating and Refining Haptic Designs Using Group Collaboration",
-      "citation": "Messerschmidt, M. A., Cortes, J. P. F., & Nanayakkara, S.C. (2024). CoTacs: A Haptic Toolkit to Explore Effective On-Body Haptic Feedback by Ideating, Designing, Evaluating and Refining Haptic Designs Using Group Collaboration. International Journal of Human–Computer Interaction, 1–21.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2024.2358460"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/17Pw7AAbddfu-ocFQmeIMn_Tg9511YCyw/view?usp=sharing"
-        }
-      ],
-      "slug": "cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration",
-      "url": "/publications/#cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration"
-    },
-    {
-      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
-      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2229485"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
-        }
-      ],
-      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
-      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
-    },
-    {
-      "title": "Primary School Students Programming with Real-Time Environmental Sensor Data",
-      "citation": "Suriyaarachchi, H., Denny, P., Cortés, J.P.F., Weerasinghe, C. and Nanayakkara, S.C., 2022. Primary School Students Programming with Real-Time Environmental Sensor Data. In Australasian Computing Education Conference (ACE ’22), February 14–18, 2022, Virtual Event, Australia.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3511861.3511871"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/12H6A0apCmvWOAB66L2-fCa3nGPjrT9n8/view?usp=sharing"
-        }
-      ],
-      "slug": "primary-school-students-programming-with-real-time-environmental-sensor-data",
-      "url": "/publications/#primary-school-students-programming-with-real-time-environmental-sensor-data"
-    },
-    {
-      "title": "OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives",
-      "citation": "Cortés, J.P.F., Suriyaarachchi, H., Nassani, A., Zhang, H. and Nanayakkara, S.C., 2021. OM: A Comprehensive Tool to Elicit Subjective Vibrotactile Expressions Associated with Contextualised Meaning in Our Everyday Lives. In MobileHCI ’21: The ACM International Conference on Mobile Human Computer Interaction, Sept. 27- Oct. 1, 2021, Touluse, France.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/3447526.3472028"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/16yAh6Mru7uMSg7MCGP5XHNFUKh-Yy9fb/view?usp=sharing"
-        }
-      ],
-      "slug": "om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives",
-      "url": "/publications/#om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives"
-    },
-    {
-      "title": "Touch me Gently: Recreating the Perception of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2020, April. Touch me gently: recreating the perception of touch using a shape-memory alloy matrix. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/3313831.3376491"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1QUbXiFQhbaoTaWZdWwOF_P1BAeVCbpJs/view?usp=sharing"
-        }
-      ],
-      "slug": "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix"
-    },
-    {
-      "title": "PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2019, November. PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix. In SIGGRAPH Asia 2019 XR (pp. 29-30). ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3355355.3361877"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/16BtIPNFhPXG83RBdOGvcfTQoRYnFG-7R/view?usp=sharing"
-        }
-      ],
-      "slug": "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix"
-    },
-    {
-      "title": "M-Hair: Extended Reality by Stimulating the Body Hair",
-      "citation": "Boldu, R., Jain, S., Cortes, J.P.F., Zhang, H. and Nanayakkara, S.C., 2019. M-Hair: Extended Reality by Stimulating the Body Hair. In SIGGRAPH Asia 2019 XR (pp. 27-28).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3355355.3361881"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1uUG4MHtBsoGzp76JsQTtgxu8l90pXgfC/view?usp=sharing"
-        }
-      ],
-      "slug": "m-hair-extended-reality-by-stimulating-the-body-hair",
-      "url": "/publications/#m-hair-extended-reality-by-stimulating-the-body-hair"
-    },
-    {
-      "title": "M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field",
-      "citation": "Boldu, R., Jain, S., Forero Cortes, J.P., Zhang, H. and Nanayakkara, S.C., 2019, October. M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 323-328).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3332165.3347955"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1UMlbIudlZv0bViid-U7XafGVuZMWl5Vl/view?usp=sharing"
-        }
-      ],
-      "slug": "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
-      "url": "/publications/#m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
-    },
-    {
-      "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
-      "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041195"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1VctHLqYA8VrCwAZVTuy_G_e3GaUWx3td/view?usp=sharing"
-        }
-      ],
-      "slug": "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
-      "url": "/publications/#insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
-    },
-    {
-      "title": "PostBits: using contextual locations for embedding cloud information in the home",
-      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
-        }
-      ],
-      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
-      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
-    },
-    {
-      "title": "MuSS-Bits Provisional Patent",
-      "citation": "Petry, B., Forero, J.P., Nanayakkara, S.C., 2016, Muss-bits – music-sensory-substitution bits. Singapore Provisional Patent Application: 10201610020P. Filing Date: 29 November 2016.",
-      "links": [],
-      "slug": "muss-bits-provisional-patent",
-      "url": "/publications/#muss-bits-provisional-patent"
-    },
-    {
-      "title": "Ad-Hoc Access to Musical Sound for Deaf Individuals",
-      "citation": "Petry, B., Illandara, T., Forero, J.P. and Nanayakkara, S.C., 2016, October. Ad-Hoc Access to Musical Sound for Deaf Individuals. In Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 285-286).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2982142.2982213"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/pd072-petryA.pdf"
-        },
-        {
-          "label": "poster",
-          "url": "http://bpetry.de/sites/default/files/ASSETS2016_MuSS-Bits_Poster.pdf"
-        }
-      ],
-      "slug": "ad-hoc-access-to-musical-sound-for-deaf-individuals",
-      "url": "/publications/#ad-hoc-access-to-musical-sound-for-deaf-individuals"
-    },
-    {
-      "title": "FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention",
-      "citation": "Yong, K.F., Forero, J.P., Foong, S. and Nanayakkara, S.C., 2015, March. FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention. In Proceedings of the 6th Augmented Human International Conference (pp. 167-168).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p167-yong.pdf"
-        }
-      ],
-      "slug": "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
-      "url": "/publications/#footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
-    },
-    {
-      "title": "BWard: An Optical Approach for Reliable in-situ Early Blood Leakage Detection at Catheter Extraction Points",
-      "citation": "Cortés, J.P., Ching, T.H., Wu, C., Chionh, C.Y., Nanayakkara, S.C. and Foong, S., 2015, July. Bward: An optical approach for reliable in-situ early blood leakage detection at catheter extraction points. In 2015 IEEE 7th International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM) (pp. 232-237). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ICCIS.2015.7274626"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/BWARD.pdf"
-        }
-      ],
-      "slug": "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
-      "url": "/publications/#bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
-    },
-    {
-      "title": "nZwarm: a swarm of luminous sea creatures that interact with passers-by",
-      "citation": "Nanayakkara, S.C., Schroepfer, T., Withana, A., Wortmann, T. and Pablo, J., 2014. nZwarm: a swarm of luminous sea creatures that interact with passers-by. Wellington LUX.",
-      "links": [
-        {
-          "label": "lux",
-          "url": "http://lux.org.nz/speakers/nzwarm/"
-        }
-      ],
-      "slug": "nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
-      "url": "/publications/#nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
-    }
+    "cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration",
+    "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+    "primary-school-students-programming-with-real-time-environmental-sensor-data",
+    "om-a-comprehensive-tool-to-elicit-subjective-vibrotactile-expressions-associated-with-contextualised-meaning-in-our-everyday-lives",
+    "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
+    "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
+    "m-hair-extended-reality-by-stimulating-the-body-hair",
+    "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
+    "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
+    "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
+    "muss-bits-provisional-patent",
+    "ad-hoc-access-to-musical-sound-for-deaf-individuals",
+    "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
+    "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
+    "nzwarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
   ],
   "career": [
     {

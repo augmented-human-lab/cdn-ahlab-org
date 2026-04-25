@@ -1,5 +1,4 @@
 {
-  "id": "sachith-muthukumarana",
   "slug": "sachith-muthukumarana",
   "name": "Sachith Muthukumarana",
   "role": "PhD Candidate",
@@ -11,224 +10,33 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/sachith-muthukumarana/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/sachith-muthukumarana/sachith-muthukumarana.jpg",
   "bio": "Sachith is a PhD candidate at the Augmented Human Lab of Auckland Bioengineering Institute in the University of Auckland, New Zealand. He first joined the Augmented Human Lab as a student intern while completing his undergraduate degree. Once he completed his honours degree in Electronics and Telecommunication Engineering, he enrolled at the UoA to pursue his PhD in Human-Computer Interaction. Sachith is passionate about HCI, Assistive Augmentation and Haptic Interfaces. Apart from academic interests, he likes sports, food, and travelling.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "xrtic",
-      "title": "XRtic",
-      "url": "/projects/xrtic/"
-    },
-    {
-      "slug": "clothtiles",
-      "title": "ClothTiles",
-      "url": "/projects/clothtiles/"
-    },
-    {
-      "slug": "anisma",
-      "title": "ANISMA",
-      "url": "/projects/anisma/"
-    },
-    {
-      "slug": "rainbowhub",
-      "title": "RainbowHub",
-      "url": "/projects/rainbowhub/"
-    },
-    {
-      "slug": "phantomtouch",
-      "title": "PhantomTouch",
-      "url": "/projects/phantomtouch/"
-    },
-    {
-      "slug": "jammify",
-      "title": "Jammify",
-      "url": "/projects/jammify/"
-    },
-    {
-      "slug": "chewit",
-      "title": "ChewIt",
-      "url": "/projects/chewit/"
-    },
-    {
-      "slug": "cricketcoach",
-      "title": "CricketCoach",
-      "url": "/projects/cricketcoach/"
-    },
-    {
-      "slug": "capmat",
-      "title": "CapMat",
-      "url": "/projects/capmat/"
-    },
-    {
-      "slug": "insight",
-      "title": "InSight",
-      "url": "/projects/insight/"
-    },
-    {
-      "slug": "the-ribbon",
-      "title": "The RIBbon",
-      "url": "/projects/the-ribbon/"
-    }
+    "xrtic",
+    "clothtiles",
+    "anisma",
+    "rainbowhub",
+    "phantomtouch",
+    "jammify",
+    "chewit",
+    "cricketcoach",
+    "capmat",
+    "insight",
+    "the-ribbon"
   ],
   "publications": [
-    {
-      "title": "XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation",
-      "citation": "Muthukumarana, S., Nassani, A., Park, N., Steimle, J., Billinghurst, B., and Nanayakkara, S.C., XRtic: A Prototyping Toolkit for XR Applications using Cloth Deformation. In 2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE, 2022.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ISMAR55827.2022.00071"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1m1irQX5MT0JKANEgfIncgX2kCWCJPDE0/view?usp=sharing"
-        }
-      ],
-      "slug": "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
-      "url": "/publications/#xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation"
-    },
-    {
-      "title": "ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys",
-      "citation": "Messerschmidt M.A., Muthukumarana S., Hamdan N.A., Wagner A., Zhang H., Borchers J., and Nanayakkara S.C. 2022. ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 19 (June 2022), 34 pages.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3490497"
-        }
-      ],
-      "slug": "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
-      "url": "/publications/#anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys"
-    },
-    {
-      "title": "Jammify: Interactive Multi-Sensory System for Digital Art Jamming",
-      "citation": "Muthukumarana S., Elvitigala D.S., Wu Q., Pai Y.S., Nanayakkara S.C. 2021. Jammify: Interactive Multi-sensory System for Digital Art Jamming. In Human-Computer-Interaction – INTERACT 2021, Springer International Publishing, Cham, 23–41",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1007/978-3-030-85607-6_2"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1IYyGOWazrK5HxzO-s2Bx687PW2n6E-JH/view?usp=sharing"
-        }
-      ],
-      "slug": "jammify-interactive-multi-sensory-system-for-digital-art-jamming",
-      "url": "/publications/#jammify-interactive-multi-sensory-system-for-digital-art-jamming"
-    },
-    {
-      "title": "ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys",
-      "citation": "Muthukumarana, S., Messerschmidt, M.A., Matthies, D.J.C., Steimle, J., Scholl, P.M., and Nanayakkara, S.C., 2021. ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3411764.3445613"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1UX7Q9UYPImpNHmt_FnGlT8p34sMy2UC0/view?usp=sharing"
-        }
-      ],
-      "slug": "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
-      "url": "/publications/#clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
-    },
-    {
-      "title": "Touch me Gently: Recreating the Perception of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2020, April. Touch me gently: recreating the perception of touch using a shape-memory alloy matrix. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/3313831.3376491"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1QUbXiFQhbaoTaWZdWwOF_P1BAeVCbpJs/view?usp=sharing"
-        }
-      ],
-      "slug": "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix"
-    },
-    {
-      "title": "PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2019, November. PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix. In SIGGRAPH Asia 2019 XR (pp. 29-30). ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3355355.3361877"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/16BtIPNFhPXG83RBdOGvcfTQoRYnFG-7R/view?usp=sharing"
-        }
-      ],
-      "slug": "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix"
-    },
-    {
-      "title": "CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers",
-      "citation": "Muthukumarana, S., Matthies, D.J., Weerasinghe, C., Elvitigala, D.S. and Nanayakkara, S.C., 2019, March. CricketCoach: Towards Creating a Better Awareness of Gripping Forces for Cricketers. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311833"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1MizLM_-FhsL3H1D2T07_8nX8L9LGlDqe/view?usp=sharing"
-        }
-      ],
-      "slug": "cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers",
-      "url": "/publications/#cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers"
-    },
-    {
-      "title": "ChewIt. An Intraoral Interface for Discreet Interactions.",
-      "citation": "Cascón, P.C., Matthies, D.J., Muthukumarana, S. and Nanayakkara, S.C, 2019, May. ChewIt. An Intraoral Interface for Discreet Interactions. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-13).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/3290605.3300556"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1uIUaPa2ktYIwhM9RoYvikVWJmPnS8JwB/view?usp=sharing"
-        }
-      ],
-      "slug": "chewit-an-intraoral-interface-for-discreet-interactions",
-      "url": "/publications/#chewit-an-intraoral-interface-for-discreet-interactions"
-    },
-    {
-      "title": "CapMat: A Smart Foot Mat for User Authentication",
-      "citation": "Matthies, D.J., Elvitigala, D.S., Muthukumarana, S., Huber, J. and Nanayakkara, S.C., 2019, March. CapMat: a smart foot mat for user authentication. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311874"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1mHYxzlv5xAb_RaQvLQrWkwnJt0_yUctz/view?usp=sharing"
-        }
-      ],
-      "slug": "capmat-a-smart-foot-mat-for-user-authentication",
-      "url": "/publications/#capmat-a-smart-foot-mat-for-user-authentication"
-    },
-    {
-      "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
-      "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041195"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1VctHLqYA8VrCwAZVTuy_G_e3GaUWx3td/view?usp=sharing"
-        }
-      ],
-      "slug": "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions",
-      "url": "/publications/#insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
-    }
+    "xrtic-a-prototyping-toolkit-for-xr-applications-using-cloth-deformation",
+    "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
+    "jammify-interactive-multi-sensory-system-for-digital-art-jamming",
+    "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
+    "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
+    "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
+    "cricketcoach-towards-creating-a-better-awareness-of-gripping-forces-for-cricketers",
+    "chewit-an-intraoral-interface-for-discreet-interactions",
+    "capmat-a-smart-foot-mat-for-user-authentication",
+    "insight-a-systematic-approach-to-create-dynamic-human-controller-interactions"
   ],
   "career": [
     {

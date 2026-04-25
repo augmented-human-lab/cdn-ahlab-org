@@ -1,5 +1,4 @@
 {
-  "id": "kinvoice-prototypes-for-humanity",
   "slug": "kinvoice-prototypes-for-humanity",
   "title": "KinVoice | Prototypes for Humanity",
   "year": "2022",
@@ -7,9 +6,6 @@
   "outlet": null,
   "url": "https://www.prototypesforhumanity.com/project/kinvoice/",
   "projects": [
-    {
-      "slug": "kinvoice",
-      "title": "KinVoice"
-    }
+    "kinvoice"
   ]
 }

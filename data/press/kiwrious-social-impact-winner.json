@@ -1,5 +1,4 @@
 {
-  "id": "kiwrious-social-impact-winner",
   "slug": "kiwrious-social-impact-winner",
   "title": "Kiwrious | Social Impact Winner",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "Good Design Australia",
   "url": "https://good-design.org/projects/kiwrious/",
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious"
-    }
+    "kiwrious"
   ]
 }

@@ -1,66 +1,21 @@
 {
-  "id": "autopilot",
   "slug": "autopilot",
   "title": "Autopilot",
   "year": "Current",
   "description": "This project explores a different way of supporting behavior change. Many people want to reduce habits or temptations that pull them away from the version of themselves they hope to become, yet most current interventions depend heavily on conscious self-control. They assume that, in the moment, a person will notice a prompt, interpret its meaning, and deliberately resist an impulse. In reality, many habitual behaviors happen on autopilot, making these approaches easy to miss and hard to act on. We investigate sensory interruptions as an alternative pathway for behavior change. Rather than relying only on reflective decision-making, we ask whether brief physical or sensory cues can gently interrupt automatic behavior at the right moment, creating a small window for awareness and choice. The goal is to help them momentarily step out of autopilot and reconnect with their intentions. Taken together, this project points toward a broader vision for behavior-change technologies: systems that do not rely solely on conscious self-regulation, but instead work through the body and senses to support reflection in the moment. By bridging perception, cognition, and action, sensory interruptions offer a promising complementary approach for helping people regain control over deeply habitual behaviors. This work opens up new opportunities for designing interactive systems that are more immediate, embodied, and responsive to the realities of everyday self-control.",
-  "project_url": "https://ahlab.org/project/autopilot/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/autopilot/autopilot.jpg",
   "people": [
-    {
-      "slug": "dinithi-dissanayake",
-      "name": "Dinithi Dissanayake",
-      "url": "/people/dinithi-dissanayake/"
-    },
-    {
-      "slug": "mohamed-muftee",
-      "name": "Mohamed Muftee",
-      "url": "/people/mohamed-muftee/"
-    },
-    {
-      "slug": "yifei-luo",
-      "name": "Yifei Luo",
-      "url": "/people/yifei-luo/"
-    },
-    {
-      "slug": "prasanth-sasikumar",
-      "name": "Prasanth Sasikumar",
-      "url": "/people/prasanth-sasikumar/"
-    },
-    {
-      "slug": "peter-cleveland",
-      "name": "Peter Cleveland",
-      "url": "/people/peter-cleveland/"
-    },
-    {
-      "slug": "timothy-antoni",
-      "name": "Timothy Antoni",
-      "url": "/people/timothy-antoni/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "dinithi-dissanayake",
+    "mohamed-muftee",
+    "yifei-luo",
+    "prasanth-sasikumar",
+    "peter-cleveland",
+    "timothy-antoni",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation",
-      "citation": "Dissanayake, D., Mysan, M., Luo, Y., Antoni, T., Cleveland, P., Sasikumar, P., Nanayakkara, S. C., 2026. Interrupting Autopilot: Evaluating Sensory Interventions for Momentary Self-Regulation. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772363.3798497"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1BNkKoR87_0D8bzfsWDP0wxX5draRdKu2/view?usp=sharing"
-        }
-      ],
-      "slug": "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation",
-      "url": "/publications/#interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
-    }
+    "interrupting-autopilot-evaluating-sensory-interventions-for-momentary-self-regulation"
   ],
   "principles": [
     "cognitive",

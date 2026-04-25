@@ -1,5 +1,4 @@
 {
-  "id": "a-watch-like-device-that-helps-people-feel-the-music",
   "slug": "a-watch-like-device-that-helps-people-feel-the-music",
   "title": "A watch-like device that helps people feel the music",
   "year": "2019",
@@ -7,9 +6,6 @@
   "outlet": "The University of Auckland",
   "url": "https://www.auckland.ac.nz/en/news/2019/08/28/a-watch-like-device-that-helps-people-feel-the-music.html",
   "projects": [
-    {
-      "slug": "muss-bits",
-      "title": "MuSS-Bits"
-    }
+    "muss-bits"
   ]
 }

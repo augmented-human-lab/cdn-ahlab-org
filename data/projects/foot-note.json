@@ -1,42 +1,17 @@
 {
-  "id": "foot-note",
   "slug": "foot-note",
   "title": "Foot.Note",
   "year": "2014",
   "description": "Diabetic Food Ulcer (DFU) is one of the dangerous complications of Diabetes Mellitus that is notoriously progressive and high in recurrence. Peripheral neuropathy, or damage to nerves in the foot, is the culprit that leads to DFU. Wearable artificial sensors can rudimentarily replace the lost neuro-feedback loop of patients to intervene DFU by alerting wearer once the pressure threshold is exceeded. We approached these problems by designing a prototype with fabric digital sensors that showed promising potential for assertion frequency tracking and user activity recognition.",
-  "project_url": "https://ahlab.org/project/foot-note/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/foot-note/foot-note.jpg",
   "people": [
-    {
-      "slug": "kin-fuai-yong",
-      "name": "Kin Fuai Yong",
-      "url": "/people/kin-fuai-yong/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "kin-fuai-yong",
+    "juan-pablo-forero-cortes",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention",
-      "citation": "Yong, K.F., Forero, J.P., Foong, S. and Nanayakkara, S.C., 2015, March. FootNote: designing a cost effective plantar pressure monitoring system for diabetic foot ulcer prevention. In Proceedings of the 6th Augmented Human International Conference (pp. 167-168).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p167-yong.pdf"
-        }
-      ],
-      "slug": "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention",
-      "url": "/publications/#footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
-    }
+    "footnote-designing-a-cost-effective-plantar-pressure-monitoring-system-for-diabetic-foot-ulcer-prevention"
   ],
   "principles": [
     "body",

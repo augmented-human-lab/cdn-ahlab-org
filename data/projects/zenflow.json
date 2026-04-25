@@ -1,56 +1,19 @@
 {
-  "id": "zenflow",
   "slug": "zenflow",
   "title": "Zenflow",
   "year": "Current",
   "description": "Zenflow is a mixed reality relaxation system designed to reduce stress and improve sleep through guided breathing and gradual environmental transitions. Co-designed with mental health professionals, the system transforms the user’s physical space into a calming virtual environment.",
-  "project_url": "https://ahlab.org/project/zenflow/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/zenflow/zenflow.jpg",
   "people": [
-    {
-      "slug": "praveen-sasikumar",
-      "name": "Praveen Sasikumar",
-      "url": "/people/praveen-sasikumar/"
-    },
-    {
-      "slug": "prasanth-sasikumar",
-      "name": "Prasanth Sasikumar",
-      "url": "/people/prasanth-sasikumar/"
-    },
-    {
-      "slug": "soundarya-ramesh",
-      "name": "Soundarya Ramesh",
-      "url": "/people/soundarya-ramesh/"
-    },
-    {
-      "slug": "hannah-qiao",
-      "name": "Hannah Qiao",
-      "url": "/people/hannah-qiao/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "praveen-sasikumar",
+    "prasanth-sasikumar",
+    "soundarya-ramesh",
+    "hannah-qiao",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Zenflow: Investigating MR Transitions for Enhancing Sleep and Relaxation",
-      "citation": "Sasikumar, P., Sasikumar, P., Ramesh, S., Masuda, T., Qiao, H., and Nanayakkara, S. C., 2026. Zenflow: Investigating MR Transitions for Enhancing Sleep and Relaxation. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026). Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791875"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1tsj2UB9yNC06Rit9um4BGDV8guGoGrPa/view?usp=sharing"
-        }
-      ],
-      "slug": "zenflow-investigating-mr-transitions-for-enhancing-sleep-and-relaxation",
-      "url": "/publications/#zenflow-investigating-mr-transitions-for-enhancing-sleep-and-relaxation"
-    }
+    "zenflow-investigating-mr-transitions-for-enhancing-sleep-and-relaxation"
   ],
   "principles": [
     "body",

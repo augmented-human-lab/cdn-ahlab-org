@@ -1,5 +1,4 @@
 {
-  "id": "jammify-best-design-awards-student-spatial-bronze",
   "slug": "jammify-best-design-awards-student-spatial-bronze",
   "title": "Jammify | Best Design Awards | Student Spatial: Bronze",
   "year": "2020",
@@ -7,9 +6,6 @@
   "outlet": "Designers Institute of New Zealand",
   "url": "https://bestawards.co.nz/spatial/student-spatial/sachith-3/jammify-1/",
   "projects": [
-    {
-      "slug": "jammify",
-      "title": "Jammify"
-    }
+    "jammify"
   ]
 }

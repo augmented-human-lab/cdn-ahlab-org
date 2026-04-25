@@ -1,5 +1,4 @@
 {
-  "id": "3d-printed-ring-reads-out-text-in-real-time-for-the-blind",
   "slug": "3d-printed-ring-reads-out-text-in-real-time-for-the-blind",
   "title": "3D-printed ring reads out text in real-time for the blind",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Liat Clark, Wired (UK)",
   "url": "http://www.wired.co.uk/news/archive/2014-07/08/fingerreader",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "id": "this-ring-scans-text-and-reads-it-aloud-for-visually-impaired-people",
   "slug": "this-ring-scans-text-and-reads-it-aloud-for-visually-impaired-people",
   "title": "This Ring Scans Text And Reads It Aloud For Visually Impaired People",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Jordan Kushins, Gizmodo",
   "url": "http://gizmodo.com/this-ring-scans-text-and-reads-it-aloud-for-visually-im-1525373479",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

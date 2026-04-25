@@ -1,5 +1,4 @@
 {
-  "id": "jaime-wu",
   "slug": "jaime-wu",
   "name": "Jaime Wu",
   "role": "Final Year Project Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/jaime-wu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/jaime-wu/jaime-wu.jpg",
   "bio": "Jaime is a Undergraduate Student at the University Of Auckland studying a conjoint degree in Engineering Science, Finance, and Economics. With a keen interest in learning and exploring the likes of data science and machine learning, Jaime's Part IV Engineering project involved the improvement of unsupervised question-answer using state of the art BERT-like language models and synthetic data.\n\nAside from his technical interests, Jaime also enjoys power-lifting and investing.",
   "external_links": [],

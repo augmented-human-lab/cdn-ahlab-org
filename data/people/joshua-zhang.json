@@ -1,5 +1,4 @@
 {
-  "id": "joshua-zhang",
   "slug": "joshua-zhang",
   "name": "Joshua Zhang",
   "role": "Final Year Project Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/joshua-zhang/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/joshua-zhang/joshua-zhang.jpg",
   "bio": "Joshua is an undergraduate student at the University of Auckland studying a conjoint degree in Engineering Science, Finance and Business Analytics. With a strong interest in data analytics, Joshua is currently working with the Augmented Human Lab on a project to develop image recognition in corneal surface reflections using self-supervised learning.",
   "external_links": [],

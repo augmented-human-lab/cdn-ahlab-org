@@ -1,277 +1,39 @@
 {
-  "id": "pattie-maes",
   "slug": "pattie-maes",
   "name": "Pattie Maes",
   "role": "Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/pattie-maes/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/pattie-maes/pattie-maes.jpg",
   "bio": "Pattie Maes has been with the MIT media lab more than twenty years and has done some pioneering work in the fields of human-computer interaction, intelligent interfaces and ubiquitous computing.\n\nMore about Pattie: http://fluid.media.mit.edu/people/pattie-maes",
   "external_links": [],
   "projects": [
-    {
-      "slug": "factually",
-      "title": "Factually",
-      "url": "/projects/factually/"
-    },
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader",
-      "url": "/projects/fingerreader/"
-    },
-    {
-      "slug": "postbits",
-      "title": "PostBits",
-      "url": "/projects/postbits/"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0",
-      "url": "/projects/fingerreader-v0/"
-    },
-    {
-      "slug": "feel-the-globe",
-      "title": "Feel the Globe",
-      "url": "/projects/feel-the-globe/"
-    },
-    {
-      "slug": "fingerdraw",
-      "title": "FingerDraw",
-      "url": "/projects/fingerdraw/"
-    },
-    {
-      "slug": "eyering",
-      "title": "EyeRing",
-      "url": "/projects/eyering/"
-    },
-    {
-      "slug": "sensei",
-      "title": "Sensei",
-      "url": "/projects/sensei/"
-    }
+    "factually",
+    "fingerreader",
+    "postbits",
+    "fingerreader-v0",
+    "feel-the-globe",
+    "fingerdraw",
+    "eyering",
+    "sensei"
   ],
   "publications": [
-    {
-      "title": "Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information",
-      "citation": "Gupta, C.*, Aritonang, N.*, Rajendran D., Danry, V., Maes, P., and Nanayakkara, S. C., 2026. Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791679"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xVjShf-s0pN6DzpPrydxkbI2SQLsDk_J/view?usp=sharing"
-        }
-      ],
-      "slug": "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
-      "url": "/publications/#feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
-    },
-    {
-      "title": "Hand Range Interface: Information Always at Hand with a Body-Centric Mid-Air Input Surface",
-      "citation": "Xu, X., Dancu, A., Maes, P. and Nanayakkara, S.C., 2018, September. Hand range interface: Information always at hand with a body-centric mid-air input surface. In Proceedings of the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-12).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3229434.3229449"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fRbfKfpHzqerACFYYGNIGoyQneZ6SsHh/view?usp=sharing"
-        }
-      ],
-      "slug": "hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface",
-      "url": "/publications/#hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface"
-    },
-    {
-      "title": "Assistive Augmentation",
-      "citation": "Huber, J., Shilkrot, R., Maes, P. and Nanayakkara, S.C. eds., 2018. Assistive augmentation. Springer.",
-      "links": [
-        {
-          "label": "url",
-          "url": "http://www.springer.com/gp/book/9789811064029"
-        }
-      ],
-      "slug": "assistive-augmentation",
-      "url": "/publications/#assistive-augmentation"
-    },
-    {
-      "title": "PostBits: using contextual locations for embedding cloud information in the home",
-      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
-        }
-      ],
-      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
-      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
-    },
-    {
-      "title": "FingerReader: A Wearable Device to Explore Printed Text on the Go",
-      "citation": "Shilkrot, R., Huber, J., Meng Ee, W., Maes, P. and Nanayakkara, S.C., 2015, April. FingerReader: a wearable device to explore printed text on the go. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 2363-2372).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/FingerReaderCHI15%20Camera%20Ready-fonts%20embedded.pdf"
-        },
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/2702123.2702421"
-        }
-      ],
-      "slug": "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
-      "url": "/publications/#fingerreader-a-wearable-device-to-explore-printed-text-on-the-go"
-    },
-    {
-      "title": "Feel & See the Globe: A Thermal, Interactive Installation",
-      "citation": "Huber, J., Malavipathirana, H., Wang, Y., Li, X., Fu, J.C., Maes, P. and Nanayakkara, S.C., 2015, March. Feel & see the globe: a thermal, interactive installation. In Proceedings of the 6th Augmented Human International Conference (pp. 215-216).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p215-huber.pdf"
-        }
-      ],
-      "slug": "feel-see-the-globe-a-thermal-interactive-installation",
-      "url": "/publications/#feel-see-the-globe-a-thermal-interactive-installation"
-    },
-    {
-      "title": "Body as Display: Augmenting the Face through Transillumination",
-      "citation": "Wessolek, D., Huber, J. and Maes, P., 2015, March. Body as display: augmenting the face through transillumination. In Proceedings of the 6th Augmented Human International Conference (pp. 193-194).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p193-wessolek.pdf"
-        }
-      ],
-      "slug": "body-as-display-augmenting-the-face-through-transillumination",
-      "url": "/publications/#body-as-display-augmenting-the-face-through-transillumination"
-    },
-    {
-      "title": "Workshop on Assistive Augmentation",
-      "citation": "Huber, J., Rekimoto, J., Inami, M., Shilkrot, R., Maes, P., Meng Ee, W., Pullin, G. and Nanayakkara, S.C., 2014. Workshop on assistive augmentation. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 103-106).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/abstract.pdf"
-        },
-        {
-          "label": "url",
-          "url": "http://assistaugment.xvm.mit.edu/"
-        }
-      ],
-      "slug": "workshop-on-assistive-augmentation",
-      "url": "/publications/#workshop-on-assistive-augmentation"
-    },
-    {
-      "title": "FingerReader: A Wearable Device to Support Text-Reading on the Go",
-      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. FingerReader: a wearable device to support text reading on the go. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 2359-2364).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2559206.2581220"
-        },
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/paper317.pdf"
-        }
-      ],
-      "slug": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
-      "url": "/publications/#fingerreader-a-wearable-device-to-support-text-reading-on-the-go"
-    },
-    {
-      "title": "A Wearable Text-Reading Device for the Visually-Impaired",
-      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. A wearable text-reading device for the visually-impaired. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 193-194).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2559206.2579520"
-        }
-      ],
-      "slug": "a-wearable-text-reading-device-for-the-visually-impaired",
-      "url": "/publications/#a-wearable-text-reading-device-for-the-visually-impaired"
-    },
-    {
-      "title": "FingerDraw: More than a Digital Paintbrush",
-      "citation": "Hettiarachchi A., Nanayakkara S. C., Yeo K.P., Shilkrot R. and Maes P. ”FingerDraw: More than a Digital Paintbrush”, ACM SIGCHI Augmented Human, March, 2013.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_hettiarachchi_2013.pdf"
-        }
-      ],
-      "slug": "fingerdraw-more-than-a-digital-paintbrush",
-      "url": "/publications/#fingerdraw-more-than-a-digital-paintbrush"
-    },
-    {
-      "title": "EyeRing: A Finger Worn Input Device for Seamless Interactions with our Surroundings",
-      "citation": "Nanayakkara S. C., Shilkrot R. Yeo K.P. and Maes P.”EyeRing: A Finger Worn Input Device for Seamless Interactions with our Surroundings”, ACM SIGCHI Augmented Human, March, 2013.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2013.pdf"
-        }
-      ],
-      "slug": "eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings",
-      "url": "/publications/#eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings"
-    },
-    {
-      "title": "EyeRing: An Eye on a Finger",
-      "citation": "Nanayakkara S. C., Shilkrot R. and Maes P., 2012, EyeRing: An Eye on a Finger, CHI Interactivity (Research), May. 2012.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_3.pdf"
-        }
-      ],
-      "slug": "eyering-an-eye-on-a-finger",
-      "url": "/publications/#eyering-an-eye-on-a-finger"
-    },
-    {
-      "title": "EyeRing: A Finger-worn Assistant",
-      "citation": "Nanayakkara, S.C., Shilkrot, R. and Maes, P., 2012. EyeRing: a finger-worn assistant. In CHI'12 extended abstracts on human factors in computing systems (pp. 1961-1966).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_4.pdf"
-        }
-      ],
-      "slug": "eyering-a-finger-worn-assistant",
-      "url": "/publications/#eyering-a-finger-worn-assistant"
-    },
-    {
-      "title": "Touch and Copy, Touch and Paste",
-      "citation": "Mistry, P., Nanayakkara, S.C., and Maes, P., 2011. Touch and copy, touch and paste. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1095-1098).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1979742.1979714"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_mistry_2011_2.pdf"
-        }
-      ],
-      "slug": "touch-and-copy-touch-and-paste",
-      "url": "/publications/#touch-and-copy-touch-and-paste"
-    },
-    {
-      "title": "SPARSH: Passing Data using the Body as a Medium",
-      "citation": "Mistry, P., Nanayakkara, S.C. and Maes, P., 2011, March. Sparsh: Passing data using the body as a medium. In Proceedings of the ACM 2011 conference on Computer supported cooperative work (pp. 689-692).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1958824.1958946"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/P_mistry_2011.pdf"
-        }
-      ],
-      "slug": "sparsh-passing-data-using-the-body-as-a-medium",
-      "url": "/publications/#sparsh-passing-data-using-the-body-as-a-medium"
-    }
+    "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
+    "hand-range-interface-information-always-at-hand-with-a-body-centric-mid-air-input-surface",
+    "assistive-augmentation",
+    "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
+    "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
+    "feel-see-the-globe-a-thermal-interactive-installation",
+    "body-as-display-augmenting-the-face-through-transillumination",
+    "workshop-on-assistive-augmentation",
+    "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+    "a-wearable-text-reading-device-for-the-visually-impaired",
+    "fingerdraw-more-than-a-digital-paintbrush",
+    "eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings",
+    "eyering-an-eye-on-a-finger",
+    "eyering-a-finger-worn-assistant",
+    "touch-and-copy-touch-and-paste",
+    "sparsh-passing-data-using-the-body-as-a-medium"
   ],
   "career": [
     {

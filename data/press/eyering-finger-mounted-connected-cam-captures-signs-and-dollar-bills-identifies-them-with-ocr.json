@@ -1,5 +1,4 @@
 {
-  "id": "eyering-finger-mounted-connected-cam-captures-signs-and-dollar-bills-identifies-them-with-ocr",
   "slug": "eyering-finger-mounted-connected-cam-captures-signs-and-dollar-bills-identifies-them-with-ocr",
   "title": "EyeRing finger-mounted connected cam captures signs and dollar bills, identifies them with OCR",
   "year": "2012",
@@ -7,9 +6,6 @@
   "outlet": "Engadget",
   "url": "http://www.engadget.com/2012/04/25/mit-media-lab-eyering-camera-hands-on/",
   "projects": [
-    {
-      "slug": "eyering",
-      "title": "EyeRing"
-    }
+    "eyering"
   ]
 }

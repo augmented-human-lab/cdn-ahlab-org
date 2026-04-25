@@ -1,5 +1,4 @@
 {
-  "id": "architects-and-bioengineers-create-shape-shifting-structure-that-talks-in-poetry",
   "slug": "architects-and-bioengineers-create-shape-shifting-structure-that-talks-in-poetry",
   "title": "Architects and bioengineers create shape-shifting structure that talks in poetry",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "The University of Auckland",
   "url": "https://www.auckland.ac.nz/en/news/2021/09/01/shape-shifting-structure-that-talks-in-poetry.html",
   "projects": [
-    {
-      "slug": "lightsense",
-      "title": "LightSense"
-    }
+    "lightsense"
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "id": "andrew-wang",
   "slug": "andrew-wang",
   "name": "Andrew Wang",
   "role": "Final Year Project Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/andrew-wang/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/andrew-wang/andrew-wang.jpg",
   "bio": "Andrew is an undergraduate student at the University Of Auckland studying a degree in Engineering Science. He has interests in areas of data science, data analytics and machine learning. Andrew's Part IV engineering project involves the improvement of unsupervised question-answer using state of the art BERT-like language models and synthetic data.\n\nAside from his technical interests, Andrew enjoys the sport of Boxing, and Basketball.",
   "external_links": [],

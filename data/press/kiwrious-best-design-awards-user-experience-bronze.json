@@ -1,5 +1,4 @@
 {
-  "id": "kiwrious-best-design-awards-user-experience-bronze",
   "slug": "kiwrious-best-design-awards-user-experience-bronze",
   "title": "Kiwrious | Best Design Awards | User Experience: Bronze",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "Designers Institute of New Zealand",
   "url": "https://bestawards.co.nz/digital/user-experience/augmented-human-lab/kiwrious-1/",
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious"
-    }
+    "kiwrious"
   ]
 }

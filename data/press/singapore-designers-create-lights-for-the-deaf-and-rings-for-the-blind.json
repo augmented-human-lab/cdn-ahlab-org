@@ -1,5 +1,4 @@
 {
-  "id": "singapore-designers-create-lights-for-the-deaf-and-rings-for-the-blind",
   "slug": "singapore-designers-create-lights-for-the-deaf-and-rings-for-the-blind",
   "title": "Singapore designers create lights for the deaf and rings for the blind",
   "year": "2015",
@@ -7,21 +6,9 @@
   "outlet": "Hilary Whiteman, CNN",
   "url": "http://edition.cnn.com/2015/11/16/asia/singapore-stickear-technology/index.html",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "zsense",
-      "title": "zSense"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    },
-    {
-      "slug": "stickear",
-      "title": "StickEar"
-    }
+    "fingerreader",
+    "zsense",
+    "fingerreader-v0",
+    "stickear"
   ]
 }

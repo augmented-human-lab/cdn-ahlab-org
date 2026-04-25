@@ -1,5 +1,4 @@
 {
-  "id": "fingerreader-is-a-3d-printed-device-that-reads-text-aloud-to-the-blind",
   "slug": "fingerreader-is-a-3d-printed-device-that-reads-text-aloud-to-the-blind",
   "title": "FingerReader Is a 3D-Printed Device That Reads Text Aloud to the Blind",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Kari Paul, Mashable",
   "url": "http://mashable.com/2014/07/13/blind-fingerreader/",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

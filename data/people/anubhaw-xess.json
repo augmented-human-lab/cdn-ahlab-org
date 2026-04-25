@@ -1,5 +1,4 @@
 {
-  "id": "anubhaw-xess",
   "slug": "anubhaw-xess",
   "name": "Anubhaw Xess",
   "role": "Master Student",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/anubhaw-xess/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/anubhaw-xess/anubhaw-xess.jpg",
   "bio": "Anubhaw is a Master's Student (Information Systems) at NUS. He has previously worked as a Software Engineer at an IT company. Anubhaw is always on the lookout for exciting and challenging projects to work on in order to expand his skill set and find novel ways to solve problems through technology. His free time is spent playing video games and listening to music.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "itiles",
-      "title": "iTILES",
-      "url": "/projects/itiles/"
-    }
+    "itiles"
   ],
   "publications": [],
   "career": [

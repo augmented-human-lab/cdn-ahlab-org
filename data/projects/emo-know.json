@@ -1,56 +1,19 @@
 {
-  "id": "emo-know",
   "slug": "emo-know",
   "title": "EMO-KNOW",
   "year": "2024",
   "description": "Emotion-Cause analysis has attracted the attention of researchers in recent years. However, most existing datasets are limited in size and number of emotion categories. They often focus on extracting parts of the document that contain the emotion cause and fail to provide more abstractive, generalizable root cause. To bridge this gap, we introduce EMO-KNOW: a large-scale dataset of emotion causes, derived from 9.8 million cleaned tweets over 15 years. We extract emotion labels and provide abstractive summarization of the events causing emotions. EMO-KNOW comprises over 700,000 tweets with corresponding emotion-cause pairs spanning broad spectrum of 48 emotion classes, validated by human evaluators. EMO-KNOW will enable the design of emotion-aware systems that account for the diverse emotional responses of different people for the same event.",
-  "project_url": "https://ahlab.org/project/emo-know/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/emo-know/emo-know.jpg",
   "people": [
-    {
-      "slug": "mia-huong-nguyen",
-      "name": "Mia Huong Nguyen",
-      "url": "/people/mia-huong-nguyen/"
-    },
-    {
-      "slug": "yasith-samaradivakara",
-      "name": "Yasith Samaradivakara",
-      "url": "/people/yasith-samaradivakara/"
-    },
-    {
-      "slug": "prasanth-sasikumar",
-      "name": "Prasanth Sasikumar",
-      "url": "/people/prasanth-sasikumar/"
-    },
-    {
-      "slug": "chitralekha-gupta",
-      "name": "Chitralekha Gupta",
-      "url": "/people/chitralekha-gupta/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "mia-huong-nguyen",
+    "yasith-samaradivakara",
+    "prasanth-sasikumar",
+    "chitralekha-gupta",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "EMO-KNOW: A Large Scale Dataset on Emotion-Cause",
-      "citation": "Nguyen, M., Samaradivakara, Y., Sasikumar, P., Gupta, C. and Nanayakkara, S.C., 2023, December. EMO-KNOW: A Large Scale Dataset on Emotion-Cause. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 11043-11051).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.737"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1NsFaWPwX-DO21d_BEpvfUs5Ri8BMoOjb/view?usp=drive_link"
-        }
-      ],
-      "slug": "emo-know-a-large-scale-dataset-on-emotion-cause",
-      "url": "/publications/#emo-know-a-large-scale-dataset-on-emotion-cause"
-    }
+    "emo-know-a-large-scale-dataset-on-emotion-cause"
   ],
   "principles": [
     "cognitive"

@@ -1,47 +1,18 @@
 {
-  "id": "ticklefoot",
   "slug": "ticklefoot",
   "title": "TickleFoot",
   "year": "2021",
   "description": "Tickling is a type of sensation that is associated with laughter, smiling, or other similar reactions. Psychology research has shown that tickling and laughter can significantly relieve stress. Although several tickling artifacts have been suggested in prior work, limited knowledge is available if those artifacts could evoke laughter. In this project, we aim to fill this gap by designing and developing a novel foot-tickling mechanism that can evoke laughter. We first developed an actuator that can create tickling sensations along the sole of the foot utilising magnet-driven brushes. Then we conducted two studies to identify the most ticklish locations of the foot’s sole and stimulation patterns that can evoke laughter. In a follow-up study with a new set of participants, we confirmed that the identified stimuli could evoke laughter. From the participants’ feedback, we derived several applications that such a simulation could be useful. Finally, we embedded our actuators into a flexible insole, demonstrating the potential of a wearable tickling insole.",
-  "project_url": "https://ahlab.org/project/ticklefoot/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/ticklefoot/ticklefoot.jpg",
   "people": [
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "roger-boldu",
-      "name": "Roger Boldu",
-      "url": "/people/roger-boldu/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "samitha-elvitigala",
+    "roger-boldu",
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "TickleFoot: Design, Development and Evaluation of a Novel Foot-tickling Mechanism that Can Evoke Laughter",
-      "citation": "Elvitigala D.S., Boldu R., Nanayakkara S.C., and Matthies D.J.C. 2022. TickleFoot: Design, Development and Evaluation of a Novel Foot-Tickling Mechanism That Can Evoke Laughter. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 20 (June 2022), 23 pages.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3490496"
-        }
-      ],
-      "slug": "ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter",
-      "url": "/publications/#ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter"
-    }
+    "ticklefoot-design-development-and-evaluation-of-a-novel-foot-tickling-mechanism-that-can-evoke-laughter"
   ],
   "principles": [
     "body",

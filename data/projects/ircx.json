@@ -1,23 +1,13 @@
 {
-  "id": "ircx",
   "slug": "ircx",
   "title": "ircX",
   "year": "2014",
   "description": "This project was done as an industrial project in collaboration with SingTel. It explored the potential of two scenarios in a shared virtual space: (1) remote ideation and (2) shared experiences in distance relationships.",
-  "project_url": "https://ahlab.org/project/ircx/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/ircx/ircx.jpg",
   "people": [
-    {
-      "slug": "benjamin-petry",
-      "name": "Benjamin Petry",
-      "url": "/people/benjamin-petry/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "benjamin-petry",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

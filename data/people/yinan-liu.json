@@ -1,39 +1,18 @@
 {
-  "id": "yinan-liu",
   "slug": "yinan-liu",
   "name": "Yinan Liu",
   "role": "Researcher",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/yinan-liu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/yinan-liu/yinan-liu.jpg",
   "bio": "Yinan is a researcher at ARC/SEC lab at the University of Auckland",
   "external_links": [],
   "projects": [
-    {
-      "slug": "lightsense",
-      "title": "LightSense",
-      "url": "/projects/lightsense/"
-    },
-    {
-      "slug": "lighttank",
-      "title": "LightTank",
-      "url": "/projects/lighttank/"
-    }
+    "lightsense",
+    "lighttank"
   ],
   "publications": [
-    {
-      "title": "LightTank",
-      "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3414686.3427113"
-        }
-      ],
-      "slug": "lighttank",
-      "url": "/publications/#lighttank"
-    }
+    "lighttank"
   ],
   "career": [
     {

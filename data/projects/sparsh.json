@@ -1,57 +1,17 @@
 {
-  "id": "sparsh",
   "slug": "sparsh",
   "title": "Sparsh",
   "year": "2012",
   "description": "Our digital world – laptop, TV, smart phone, e-book reader and all are now relying upon the cloud, the cloud of information. SPARSH explores a novel interaction method to seamlessly transfer something between these devices in a real fun way using the underlying cloud. Here it goes. Touch whatever you want to copy. Now it is saved conceptually in you. Next, touch the device you want to paste/pass the saved content. So, what can you do with SPARSH? Imagine you received a text message from a friend with his address. You touch the message and it is conceptually get copied in you – your body. Now you pass that address to the search bar of the Google map in the web browser of your laptop by simply touching it. Want to see some pictures from your digital camera on your tablet computer? Select the pictures you want to copy by touching them on camera display screen and now pass it to your tablet by touching the screen of the tablet. Or you can watch a video from your Facebook wall by copying it from your phone to TV. SPARSH uses touch based interactions as just indication for what to copy, from where and where to pass it. Technically, the actual magic(transfer of media) happens on the cloud.",
-  "project_url": "https://ahlab.org/project/sparsh/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/sparsh/sparsh.jpg",
   "people": [
-    {
-      "slug": "pranav-mistry",
-      "name": "Pranav Mistry",
-      "url": "/people/pranav-mistry/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "pranav-mistry",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Touch and Copy, Touch and Paste",
-      "citation": "Mistry, P., Nanayakkara, S.C., and Maes, P., 2011. Touch and copy, touch and paste. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 1095-1098).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1979742.1979714"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_mistry_2011_2.pdf"
-        }
-      ],
-      "slug": "touch-and-copy-touch-and-paste",
-      "url": "/publications/#touch-and-copy-touch-and-paste"
-    },
-    {
-      "title": "SPARSH: Passing Data using the Body as a Medium",
-      "citation": "Mistry, P., Nanayakkara, S.C. and Maes, P., 2011, March. Sparsh: Passing data using the body as a medium. In Proceedings of the ACM 2011 conference on Computer supported cooperative work (pp. 689-692).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1958824.1958946"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/P_mistry_2011.pdf"
-        }
-      ],
-      "slug": "sparsh-passing-data-using-the-body-as-a-medium",
-      "url": "/publications/#sparsh-passing-data-using-the-body-as-a-medium"
-    }
+    "touch-and-copy-touch-and-paste",
+    "sparsh-passing-data-using-the-body-as-a-medium"
   ],
   "principles": [
     "body"

@@ -1,5 +1,4 @@
 {
-  "id": "technology-enables-people-with-disabilities",
   "slug": "technology-enables-people-with-disabilities",
   "title": "Technology enables people with disabilities",
   "year": "2016",
@@ -7,13 +6,7 @@
   "outlet": "CCTV.com",
   "url": "http://english.cntv.cn/2016/02/23/VIDEADIxyUqgEQ0Ya9RRn9Pj160223.shtml",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

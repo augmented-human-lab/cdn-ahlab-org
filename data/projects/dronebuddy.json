@@ -1,28 +1,14 @@
 {
-  "id": "dronebuddy",
   "slug": "dronebuddy",
   "title": "DroneBuddy",
   "year": "2025",
   "description": "Dronebuddy is a project that aims to build drone-based assistive devices for People with Impairments (PVI). We envision a lightweight, personal drone, equipped with state-of-the-art computer vision algorithms, that serves as a highly-customizable assistive device for a PVI.\n\nIn this project, we have the following research questions: 1. If an intelligent drone is made available as an assistive device, how would a PVI use such a drone? 2. What basic APIs, common to the use cases above, should be provided by the drone, for composition to achieve the desirable assistive functionalities? 3. Are existing accessible programming UI suitable for programming such an assistive drone, and if not, what type of assistive programming UI is suitable? 4. What modality (and how) should the drone use to provide feedback to PVI users to communicate the result of the customization attempt and the output of the assistive tasks?",
-  "project_url": "https://ahlab.org/project/dronebuddy/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/dronebuddy/dronebuddy.jpg",
   "people": [
-    {
-      "slug": "yize-wei",
-      "name": "Yize Wei",
-      "url": "/people/yize-wei/"
-    },
-    {
-      "slug": "malsha-de-zoysa",
-      "name": "Malsha de Zoysa",
-      "url": "/people/malsha-de-zoysa/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "yize-wei",
+    "malsha-de-zoysa",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

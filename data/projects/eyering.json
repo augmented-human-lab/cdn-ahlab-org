@@ -1,76 +1,21 @@
 {
-  "id": "eyering",
   "slug": "eyering",
   "title": "EyeRing",
   "year": "2012",
   "description": "EyeRing is a wearable intuitive interface that allows a person to point at an object to see or hear more information about it. We came up with the idea of a micro camera worn as a ring on the index finger with a button on the side, which can be pushed with the thumb to take a picture or a video that is then sent wirelessly to a mobile phone to be analyzed. The user receives information about the object in either auditory or visual form. Future versions of our proposed system may include more sensors to allow non-visual data capture and analysis. This finger-worn configuration of sensors opens up a myriad of possible applications for the visually impaired as well as the sighted. The project has been transformed into FingerReader .",
-  "project_url": "https://ahlab.org/project/eyering/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/eyering/eyering.jpg",
   "people": [
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "roy-shilkrot",
-      "name": "Roy Shilkrot",
-      "url": "/people/roy-shilkrot/"
-    },
-    {
-      "slug": "savithru-jayasinghe",
-      "name": "Savithru Jayasinghe",
-      "url": "/people/savithru-jayasinghe/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    }
+    "suranga-nanayakkara",
+    "yeo-kian-peen",
+    "roy-shilkrot",
+    "savithru-jayasinghe",
+    "pattie-maes"
   ],
   "publications": [
-    {
-      "title": "EyeRing: A Finger Worn Input Device for Seamless Interactions with our Surroundings",
-      "citation": "Nanayakkara S. C., Shilkrot R. Yeo K.P. and Maes P.”EyeRing: A Finger Worn Input Device for Seamless Interactions with our Surroundings”, ACM SIGCHI Augmented Human, March, 2013.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2013.pdf"
-        }
-      ],
-      "slug": "eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings",
-      "url": "/publications/#eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings"
-    },
-    {
-      "title": "EyeRing: An Eye on a Finger",
-      "citation": "Nanayakkara S. C., Shilkrot R. and Maes P., 2012, EyeRing: An Eye on a Finger, CHI Interactivity (Research), May. 2012.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_3.pdf"
-        }
-      ],
-      "slug": "eyering-an-eye-on-a-finger",
-      "url": "/publications/#eyering-an-eye-on-a-finger"
-    },
-    {
-      "title": "EyeRing: A Finger-worn Assistant",
-      "citation": "Nanayakkara, S.C., Shilkrot, R. and Maes, P., 2012. EyeRing: a finger-worn assistant. In CHI'12 extended abstracts on human factors in computing systems (pp. 1961-1966).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_4.pdf"
-        }
-      ],
-      "slug": "eyering-a-finger-worn-assistant",
-      "url": "/publications/#eyering-a-finger-worn-assistant"
-    }
+    "eyering-a-finger-worn-input-device-for-seamless-interactions-with-our-surroundings",
+    "eyering-an-eye-on-a-finger",
+    "eyering-a-finger-worn-assistant"
   ],
   "principles": [
     "body",

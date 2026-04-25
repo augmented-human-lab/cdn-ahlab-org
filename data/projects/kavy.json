@@ -1,47 +1,18 @@
 {
-  "id": "kavy",
   "slug": "kavy",
   "title": "Kavy",
   "year": "2024",
   "description": "Kavy is a poetic voice companion crafted to enrich the language-learning journey. Unlike traditional voice assistants, Kavy engages users in poetic and human-like conversations, providing a unique approach to language acquisition. With adaptability at its core, Kavy caters to learners of all levels, fostering sustained dialogues and boosting confidence in verbal expression. Accessible through a user-friendly mobile app on various platforms, Kavy offers a practical and enjoyable way to enhance your language skills. Explore a personalized language experience with Kavy and improve linguistic proficiency.",
-  "project_url": "https://ahlab.org/project/kavy/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/kavy/kavy.jpg",
   "people": [
-    {
-      "slug": "sankha-cooray",
-      "name": "Sankha Cooray",
-      "url": "/people/sankha-cooray/"
-    },
-    {
-      "slug": "yasith-samaradivakara",
-      "name": "Yasith Samaradivakara",
-      "url": "/people/yasith-samaradivakara/"
-    },
-    {
-      "slug": "hannah-qiao",
-      "name": "Hannah Qiao",
-      "url": "/people/hannah-qiao/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "sankha-cooray",
+    "yasith-samaradivakara",
+    "hannah-qiao",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Kavy: Fostering Language Speaking Skills and Self-Confidence Through Conversational AI",
-      "citation": "Cooray, S., Hettiarachchi, C., Nanayakkara, V., Matthies, D., Samaradivakara, Y. and Nanayakkara, S., 2024, April. Kavy: Fostering Language Speaking Skills and Self-Confidence Through Conversational AI. In Proceedings of the Augmented Humans International Conference 2024 (pp. 226-236).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3652920.3652944"
-        }
-      ],
-      "slug": "kavy-fostering-language-speaking-skills-and-self-confidence-through-conversational-ai",
-      "url": "/publications/#kavy-fostering-language-speaking-skills-and-self-confidence-through-conversational-ai"
-    }
+    "kavy-fostering-language-speaking-skills-and-self-confidence-through-conversational-ai"
   ],
   "principles": [
     "cognitive",

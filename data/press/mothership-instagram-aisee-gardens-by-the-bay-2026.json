@@ -1,5 +1,4 @@
 {
-  "id": "mothership-instagram-aisee-gardens-by-the-bay-2026",
   "slug": "mothership-instagram-aisee-gardens-by-the-bay-2026",
   "title": "Robot guide dog and AiSee at Gardens by the Bay (Mothership)",
   "year": "2026",
@@ -7,9 +6,6 @@
   "outlet": "Mothership (Instagram)",
   "url": "https://www.instagram.com/reel/DWMSdFFCm1a/",
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee"
-    }
+    "aisee"
   ]
 }

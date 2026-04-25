@@ -1,5 +1,4 @@
 {
-  "id": "wear-to-read-it",
   "slug": "wear-to-read-it",
   "title": "Wear to Read it",
   "year": "2015",
@@ -7,13 +6,7 @@
   "outlet": null,
   "url": null,
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

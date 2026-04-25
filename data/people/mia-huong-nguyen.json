@@ -1,5 +1,4 @@
 {
-  "id": "mia-huong-nguyen",
   "slug": "mia-huong-nguyen",
   "name": "Mia Huong Nguyen",
   "email": "mia@ahlab.org",
@@ -12,87 +11,18 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/mia-huong-nguyen/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/mia-huong-nguyen/mia-huong-nguyen.jpg",
   "bio": "Mia is a PhD student at the NUS School of Computing. Originally from Vietnam, she went to the Ulsan National Institute of Science and Technology, South Korea to get her bachelor's degree in Computer Science and Math. After spending 4 years on a remote mountain in a remote village of a not-so-remote city in Korea (and eating a lot of Korean BBQ chicken), she went back to Vietnam and worked as a research engineer for Trusting Social. Spending 18 months working, she realized that she missed her academic life working on geeky things.\n\nNow, she's returned to the academic world. She's broadly interested in the human mind, emotions and AI. She wants to build technologies that bring people happiness and enhance their well-being. In her dreams, she sees herself creating Baymax.\n\nIn her free time, she likes to meditate, read books, and play board games. She’s an on-off runner and an infrequent hiker.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "gutio",
-      "title": "GutIO",
-      "url": "/projects/gutio/"
-    },
-    {
-      "slug": "emo-know",
-      "title": "EMO-KNOW",
-      "url": "/projects/emo-know/"
-    }
+    "gutio",
+    "emo-know"
   ],
   "publications": [
-    {
-      "title": "VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors",
-      "citation": "Nguyen, M.H., Messerschmidt, M.A., Huber, J. and Nanayakkara, S. C., 2026. VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026). Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3790268"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1OOsKm4M93YY_RcSgehTZLIb6kYRX4Gr8/view?usp=sharing"
-        }
-      ],
-      "slug": "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
-      "url": "/publications/#viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors"
-    },
-    {
-      "title": "Human Robot Interaction for People with Visual Impairments: A Systematic Literature Review",
-      "citation": "Wei, Y., Rocher, N., Gupta, C., Nguyen, M.H., Zimmermann, R., Ooi, W.T., Jouffrais, C. and Nanayakkara, S.C., 2025. Human Robot Interaction for Blind and Low Vision People: A Systematic Literature Review. In: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). New York, NY, USA: Association for Computing Machinery, Article 276, pp.1–19.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706598.3713438"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1be_Pyy85obvKW8OLJm4hdXpSwjOCD_Re/view?usp=sharing"
-        }
-      ],
-      "slug": "human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review",
-      "url": "/publications/#human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review"
-    },
-    {
-      "title": "GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds",
-      "citation": "Nguyen, M.H., Messerschmidt, M.A, Gupta, C. and Nanayakkara, S.C., 2025. GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. CHI EA '25",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706599.3719826"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1tIM7Ud1GHLhg0O2Fbdcfy9wtjoSltru9/view?usp=sharing"
-        }
-      ],
-      "slug": "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
-      "url": "/publications/#gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds"
-    },
-    {
-      "title": "EMO-KNOW: A Large Scale Dataset on Emotion-Cause",
-      "citation": "Nguyen, M., Samaradivakara, Y., Sasikumar, P., Gupta, C. and Nanayakkara, S.C., 2023, December. EMO-KNOW: A Large Scale Dataset on Emotion-Cause. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 11043-11051).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.737"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1NsFaWPwX-DO21d_BEpvfUs5Ri8BMoOjb/view?usp=drive_link"
-        }
-      ],
-      "slug": "emo-know-a-large-scale-dataset-on-emotion-cause",
-      "url": "/publications/#emo-know-a-large-scale-dataset-on-emotion-cause"
-    }
+    "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
+    "human-robot-interaction-for-people-with-visual-impairments-a-systematic-literature-review",
+    "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
+    "emo-know-a-large-scale-dataset-on-emotion-cause"
   ],
   "career": [
     {

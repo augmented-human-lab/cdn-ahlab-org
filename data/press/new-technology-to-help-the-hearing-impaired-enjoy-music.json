@@ -1,5 +1,4 @@
 {
-  "id": "new-technology-to-help-the-hearing-impaired-enjoy-music",
   "slug": "new-technology-to-help-the-hearing-impaired-enjoy-music",
   "title": "\"New Technology to Help the Hearing Impaired Enjoy Music\"",
   "year": "2010",
@@ -7,9 +6,6 @@
   "outlet": "Innovation: The magazine of Research & Technology",
   "url": null,
   "projects": [
-    {
-      "slug": "hapticchair",
-      "title": "HapticChair"
-    }
+    "hapticchair"
   ]
 }

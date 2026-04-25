@@ -1,5 +1,4 @@
 {
-  "id": "felicia-tan",
   "slug": "felicia-tan",
   "name": "Felicia Tan",
   "role": "Research Assistant",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/felicia-tan/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/felicia-tan/felicia-tan.jpg",
   "bio": "Felicia brings four years of tech industry experience following her undergraduate studies at Yale-NUS College. Passionate about the HCI and behavioral science intersection, she is committed to studying and designing human-centered interactions, particularly in the realm of lifelong learning and everyday health/wellbeing applications. Much of her past research has revolved around wearable AR.\n\nOff the clock, she’s on an endless walk, producing/ listening to music or reading something Jungian.",
   "external_links": [
@@ -21,20 +19,10 @@
     }
   ],
   "projects": [
-    {
-      "slug": "curious-shorts",
-      "title": "Curious Shorts",
-      "url": "/projects/curious-shorts/"
-    }
+    "curious-shorts"
   ],
   "publications": [
-    {
-      "title": "Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms",
-      "citation": "Tan, F.F., Ram, A., Messerschmidt, A.M., Dissanayake, H.A., and Nanayakkara, S.C. 2025. Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms. Accepted to the Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25).",
-      "links": [],
-      "slug": "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms",
-      "url": "/publications/#curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
-    }
+    "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
   ],
   "career": [
     {

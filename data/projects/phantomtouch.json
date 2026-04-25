@@ -1,72 +1,20 @@
 {
-  "id": "phantomtouch",
   "slug": "phantomtouch",
   "title": "PhantomTouch",
   "year": "2020",
   "description": "In the project PhantomTouch, we aim to recreate natural touch sensations on human skin. Fundamentally, PhantomTouch is a prototype based on lightweight and stretchable plaster matrix of Shape-Memory-Alloys (SMA). The current prototype is attached to the forearm and recreates touch illusions by deploying subtle shear forces on the skin.",
-  "project_url": "https://ahlab.org/project/phantomtouch/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/phantomtouch/phantomtouch.jpg",
   "people": [
-    {
-      "slug": "sachith-muthukumarana",
-      "name": "Sachith Muthukumarana",
-      "url": "/people/sachith-muthukumarana/"
-    },
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "sachith-muthukumarana",
+    "samitha-elvitigala",
+    "juan-pablo-forero-cortes",
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Touch me Gently: Recreating the Perception of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2020, April. Touch me gently: recreating the perception of touch using a shape-memory alloy matrix. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20), April 25–30, 2020, Honolulu, Hawai'i, USA. ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/3313831.3376491"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1QUbXiFQhbaoTaWZdWwOF_P1BAeVCbpJs/view?usp=sharing"
-        }
-      ],
-      "slug": "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix"
-    },
-    {
-      "title": "PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix",
-      "citation": "Muthukumarana, S., Elvitigala, D.S., Cortes, J.P.F., Matthies, D.J. and Nanayakkara, S.C., 2019, November. PhantomTouch: Creating an Extended Reality by the Illusion of Touch using a Shape-Memory Alloy Matrix. In SIGGRAPH Asia 2019 XR (pp. 29-30). ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3355355.3361877"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/16BtIPNFhPXG83RBdOGvcfTQoRYnFG-7R/view?usp=sharing"
-        }
-      ],
-      "slug": "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix",
-      "url": "/publications/#phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix"
-    }
+    "touch-me-gently-recreating-the-perception-of-touch-using-a-shape-memory-alloy-matrix",
+    "phantomtouch-creating-an-extended-reality-by-the-illusion-of-touch-using-a-shape-memory-alloy-matrix"
   ],
   "principles": [
     "body",

@@ -1,5 +1,4 @@
 {
-  "id": "moritz-messerschmidt",
   "slug": "moritz-messerschmidt",
   "name": "Moritz Messerschmidt",
   "email": "moritz@ahlab.org",
@@ -12,7 +11,6 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/moritz-messerschmidt/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/moritz-messerschmidt/moritz-messerschmidt.jpg",
   "bio": "Moritz is a research fellow at the Augmented Human Lab (AHLab) at the National University of Singapore. He defended his PhD at the University of Auckland (UoA) in 2024 and is among the few recipients of the Distinguished Graduate Award. Previously, he completed his Master's and Bachelor's Degrees in computer science at the RWTH Aachen University in Germany.\n\nHis research interests revolve around the intersection between haptics, extended reality (XR) and artificial intelligence (AI). He is passionate about working towards the next generation of intelligent human-computer interfaces that integrate with our different senses in a more seamless and natural way.\n\nIn his spare time, Moritz enjoys climbing, composing music and learning new skills to broaden his creative skill set.",
   "external_links": [
@@ -22,142 +20,22 @@
     }
   ],
   "projects": [
-    {
-      "slug": "gutio",
-      "title": "GutIO",
-      "url": "/projects/gutio/"
-    },
-    {
-      "slug": "curious-shorts",
-      "title": "Curious Shorts",
-      "url": "/projects/curious-shorts/"
-    },
-    {
-      "slug": "ubipen",
-      "title": "UbiPen",
-      "url": "/projects/ubipen/"
-    },
-    {
-      "slug": "toro",
-      "title": "Toro",
-      "url": "/projects/toro/"
-    },
-    {
-      "slug": "cotacs",
-      "title": "CoTacs",
-      "url": "/projects/cotacs/"
-    },
-    {
-      "slug": "clothtiles",
-      "title": "ClothTiles",
-      "url": "/projects/clothtiles/"
-    },
-    {
-      "slug": "anisma",
-      "title": "ANISMA",
-      "url": "/projects/anisma/"
-    }
+    "gutio",
+    "curious-shorts",
+    "ubipen",
+    "toro",
+    "cotacs",
+    "clothtiles",
+    "anisma"
   ],
   "publications": [
-    {
-      "title": "VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors",
-      "citation": "Nguyen, M.H., Messerschmidt, M.A., Huber, J. and Nanayakkara, S. C., 2026. VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026). Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3790268"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1OOsKm4M93YY_RcSgehTZLIb6kYRX4Gr8/view?usp=sharing"
-        }
-      ],
-      "slug": "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
-      "url": "/publications/#viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors"
-    },
-    {
-      "title": "GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds",
-      "citation": "Nguyen, M.H., Messerschmidt, M.A, Gupta, C. and Nanayakkara, S.C., 2025. GutIO: Toward Sensing and Inducing Gut Feelings with Abdominal Sounds. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. CHI EA '25",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706599.3719826"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1tIM7Ud1GHLhg0O2Fbdcfy9wtjoSltru9/view?usp=sharing"
-        }
-      ],
-      "slug": "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
-      "url": "/publications/#gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds"
-    },
-    {
-      "title": "Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms",
-      "citation": "Tan, F.F., Ram, A., Messerschmidt, A.M., Dissanayake, H.A., and Nanayakkara, S.C. 2025. Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms. Accepted to the Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25).",
-      "links": [],
-      "slug": "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms",
-      "url": "/publications/#curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
-    },
-    {
-      "title": "CoTacs: A Haptic Toolkit to Explore Effective On-Body Haptic Feedback by Ideating, Designing, Evaluating and Refining Haptic Designs Using Group Collaboration",
-      "citation": "Messerschmidt, M. A., Cortes, J. P. F., & Nanayakkara, S.C. (2024). CoTacs: A Haptic Toolkit to Explore Effective On-Body Haptic Feedback by Ideating, Designing, Evaluating and Refining Haptic Designs Using Group Collaboration. International Journal of Human–Computer Interaction, 1–21.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2024.2358460"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/17Pw7AAbddfu-ocFQmeIMn_Tg9511YCyw/view?usp=sharing"
-        }
-      ],
-      "slug": "cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration",
-      "url": "/publications/#cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration"
-    },
-    {
-      "title": "Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature",
-      "citation": "Messerschmidt, M., Chan, S., Wen, E. and Nanayakkara, S.C., 2022. Toro: A Web-based Tool to Search, Explore, Screen, Compare and Visualize Literature.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://aisel.aisnet.org/sighci2022/13"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1iVWCo4Jh_fFHOr6wy8NUh_V55HOA7GLi/view?usp=sharing"
-        }
-      ],
-      "slug": "toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature",
-      "url": "/publications/#toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature"
-    },
-    {
-      "title": "ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys",
-      "citation": "Messerschmidt M.A., Muthukumarana S., Hamdan N.A., Wagner A., Zhang H., Borchers J., and Nanayakkara S.C. 2022. ANISMA: A Prototyping Toolkit to Explore Haptic Skin Deformation Applications Using Shape-Memory Alloys. ACM Trans. Comput.-Hum. Interact. 29, 3, Article 19 (June 2022), 34 pages.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3490497"
-        }
-      ],
-      "slug": "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
-      "url": "/publications/#anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys"
-    },
-    {
-      "title": "ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys",
-      "citation": "Muthukumarana, S., Messerschmidt, M.A., Matthies, D.J.C., Steimle, J., Scholl, P.M., and Nanayakkara, S.C., 2021. ClothTiles: A Prototyping Platform to Fabricate Customized Actuators on Clothing using 3D Printing and Shape-Memory Alloys. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3411764.3445613"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1UX7Q9UYPImpNHmt_FnGlT8p34sMy2UC0/view?usp=sharing"
-        }
-      ],
-      "slug": "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys",
-      "url": "/publications/#clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
-    }
+    "viscerohaptics-investigating-the-effects-of-gut-based-audio-haptic-feedback-on-gastric-feelings-and-gastric-interoceptive-behaviors",
+    "gutio-toward-sensing-and-inducing-gut-feelings-with-abdominal-sounds",
+    "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms",
+    "cotacs-a-haptic-toolkit-to-explore-effective-on-body-haptic-feedback-by-ideating-designing-evaluating-and-refining-haptic-designs-using-group-collaboration",
+    "toro-a-web-based-tool-to-search-explore-screen-compare-and-visualize-literature",
+    "anisma-a-prototyping-toolkit-to-explore-haptic-skin-deformation-applications-using-shape-memory-alloys",
+    "clothtiles-a-prototyping-platform-to-fabricate-customized-actuators-on-clothing-using-3d-printing-and-shape-memory-alloys"
   ],
   "career": [
     {

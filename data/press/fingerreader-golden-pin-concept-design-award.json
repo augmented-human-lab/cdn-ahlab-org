@@ -1,5 +1,4 @@
 {
-  "id": "fingerreader-golden-pin-concept-design-award",
   "slug": "fingerreader-golden-pin-concept-design-award",
   "title": "FingerReader: Golden Pin Concept Design Award",
   "year": "2017",
@@ -7,9 +6,6 @@
   "outlet": "Design Center Taiwan",
   "url": null,
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    }
+    "fingerreader"
   ]
 }

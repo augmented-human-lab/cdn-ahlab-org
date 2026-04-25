@@ -1,5 +1,4 @@
 {
-  "id": "vr-net-best-paper-award",
   "slug": "vr-net-best-paper-award",
   "title": "VR.net | Best Paper Award",
   "year": "2024",
@@ -7,9 +6,6 @@
   "outlet": "IEEE VR",
   "url": "https://ieeevr.org/2024/awards/conference-awards/#paper-best",
   "projects": [
-    {
-      "slug": "vrhook",
-      "title": "VRHook"
-    }
+    "vrhook"
   ]
 }

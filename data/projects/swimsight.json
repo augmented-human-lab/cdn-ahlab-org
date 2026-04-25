@@ -1,56 +1,19 @@
 {
-  "id": "swimsight",
   "slug": "swimsight",
   "title": "SwimSight",
   "year": "2016",
   "description": "In competitions ‘On your mark’, ‘set’ and ‘Go’ represents different stages of mental and physical preparedness of getting into being alert and ready. Current professional timing systems for swimming and for track and field, are primarily designed to provide auditory signals to athletes, sometimes with added visual components. However, not every athlete is hearing. For athletes with hearing impairments, additional visual indicators are needed to provide complete mental and physical preparedness given by On your mark, set and Go. We developed SwimSight a competition starting indication system for deaf swimmers. SwimSight is compatible with professional timing devices, accurate, provides appropriate feedback, rugged and cost efficient.",
-  "project_url": "https://ahlab.org/project/swimsight/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/swimsight/swimsight.jpg",
   "people": [
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "chanaka-singhabahu",
-      "name": "Chanaka Singhabahu",
-      "url": "/people/chanaka-singhabahu/"
-    },
-    {
-      "slug": "attila-victor-achenbach",
-      "name": "Attila Victor Achenbach",
-      "url": "/people/attila-victor-achenbach/"
-    },
-    {
-      "slug": "daniel-wessolek",
-      "name": "Daniel Wessolek",
-      "url": "/people/daniel-wessolek/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "samitha-elvitigala",
+    "chanaka-singhabahu",
+    "attila-victor-achenbach",
+    "daniel-wessolek",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "SwimSight: Supporting Deaf Users to Participate in Swimming Games",
-      "citation": "Elvitigala, D.S., Wessolek, D., Achenbach, A.V., Singhabahu, C. and Nanayakkara, S.C., 2016, November. SwimSight: Supporting deaf users to participate in swimming games. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 567-570).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3010915.3010969"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/paper1591.pdf"
-        }
-      ],
-      "slug": "swimsight-supporting-deaf-users-to-participate-in-swimming-games",
-      "url": "/publications/#swimsight-supporting-deaf-users-to-participate-in-swimming-games"
-    }
+    "swimsight-supporting-deaf-users-to-participate-in-swimming-games"
   ],
   "principles": [
     "perceptual",

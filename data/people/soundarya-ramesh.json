@@ -1,5 +1,4 @@
 {
-  "id": "soundarya-ramesh",
   "slug": "soundarya-ramesh",
   "name": "Soundarya Ramesh",
   "email": "soundarya@ahlab.org",
@@ -12,7 +11,6 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/soundarya-ramesh/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/soundarya-ramesh/soundarya-ramesh.jpg",
   "bio": "Soundarya is a research fellow at the Augmented Human Lab. She completed her PhD in Computer Science from the National University of Singapore in January 2025, and was a recipient of the Google PhD Fellowship. Previously, she completed her Bachelors in Information Technology from the National Institute of Technology Karnataka in India.\n\nHer research interests are in leveraging sensing technologies for enhancing user privacy and well-being. In her PhD, she proposed solutions for enabling audio privacy by designing microphone status detection as well as microphone deterrence solutions. Currently, she is working on utilising audio as well as physiological signals to enhance human well-being.\n\nDuring her free time, Soundarya enjoys playing racket sports, especially badminton, as well as crocheting.",
   "external_links": [
@@ -22,35 +20,12 @@
     }
   ],
   "projects": [
-    {
-      "slug": "zenflow",
-      "title": "Zenflow",
-      "url": "/projects/zenflow/"
-    },
-    {
-      "slug": "emodrink",
-      "title": "EmoDrink",
-      "url": "/projects/emodrink/"
-    },
-    {
-      "slug": "blind-drone",
-      "title": "Blind Drone",
-      "url": "/projects/blind-drone/"
-    }
+    "zenflow",
+    "emodrink",
+    "blind-drone"
   ],
   "publications": [
-    {
-      "title": "DroneAudioset: An Audio Dataset for Drone-based Search and Rescue",
-      "citation": "Gupta, C.*, Ramesh, S.*, Sasikumar, P., Yeo, K. P., & Nanayakkara, S. C., \"DroneAudioset: An Audio Dataset for Drone-based Search and Rescue,\" NeurIPS 2025.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1x4HXEwWi_6E0Gsgy3if_DDc23ilCI4ji/view?usp=sharing"
-        }
-      ],
-      "slug": "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue",
-      "url": "/publications/#droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
-    }
+    "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
   ],
   "career": [
     {

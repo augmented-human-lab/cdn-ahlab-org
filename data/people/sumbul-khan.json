@@ -1,5 +1,4 @@
 {
-  "id": "sumbul-khan",
   "slug": "sumbul-khan",
   "name": "Sumbul Khan",
   "role": "Research Scientist",
@@ -11,34 +10,14 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/sumbul-khan/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/sumbul-khan/sumbul-khan.jpg",
   "bio": "Sumbul Khan (née Ahmad) is a Research Scientist at the SUTD-MIT International Design Centre (IDC) at the Singapore University of Technology and Design (SUTD). Sumbul holds a Ph.D. in Architecture from the University of Strathclyde, United Kingdom, specializing in design computation. Her credentials include a professional B.Arch. degree from the GGS Indraprastha University, New Delhi, India, and an MSc in Architectural Computing Studies from the University of Strathclyde, United Kingdom. Her research interests include generative design systems, design cognition and human computer interaction.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "gescad",
-      "title": "GesCAD",
-      "url": "/projects/gescad/"
-    }
+    "gescad"
   ],
   "publications": [
-    {
-      "title": "GesCAD: an Intuitive Interface for Conceptual Architectural Design",
-      "citation": "Khan, S., Rajapakse, H., Zhang, H., Nanayakkara, S.C., Tuncer, B. and Blessing, L., 2017, November. GesCAD: an intuitive interface for conceptual architectural design. In Proceedings of the 29th Australian conference on computer-human interaction (pp. 402-406).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3156145"
-        },
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3152771.3156145"
-        }
-      ],
-      "slug": "gescad-an-intuitive-interface-for-conceptual-architectural-design",
-      "url": "/publications/#gescad-an-intuitive-interface-for-conceptual-architectural-design"
-    }
+    "gescad-an-intuitive-interface-for-conceptual-architectural-design"
   ],
   "career": [
     {

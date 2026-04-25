@@ -1,56 +1,19 @@
 {
-  "id": "fsense",
   "slug": "fsense",
   "title": "fSense",
   "year": "2018",
   "description": "fSense uses photoplethysmograph (PPG) sensors in commercially available smartwatches to sense the force of performing hand gestures and gripping objects. It is used as an additional channel of input on top of existing gestural interactions. Its application scenarios include interacting with a smartwatch without using the touch screen, which could be blocked by the touching finger; interacting with smartphones/smartwatches when the hand is busy holding on to other objects; and force-controlled stroke styles when painting with a digital stylus. This work has been presented at the Augmented Human International Conference 2019 (AH2019) in Reims, France.",
-  "project_url": "https://ahlab.org/project/fsense/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/fsense/fsense.jpg",
   "people": [
-    {
-      "slug": "thisum-buddhika",
-      "name": "Thisum Buddhika",
-      "url": "/people/thisum-buddhika/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "samantha-chan",
-      "name": "Samantha Chan",
-      "url": "/people/samantha-chan/"
-    },
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "thisum-buddhika",
+    "haimo-zhang",
+    "samantha-chan",
+    "vipula-dissanayake",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "fSense: Unlocking the Dimension of Force for Gestural Interactions using Smartwatch PPG Sensor",
-      "citation": "Buddhika, T., Zhang, H., Chan, S. W. T., Dissanayake, V., Nanayakkara, S.C. and Zimmermann, R., 2019, March. fSense: unlocking the dimension of force for gestural interactions using smartwatch PPG sensor. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311839"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1kRU90YDIfXAg9X-cYnv2kneE25gbTwcH/view?usp=sharing"
-        }
-      ],
-      "slug": "fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor",
-      "url": "/publications/#fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor"
-    }
+    "fsense-unlocking-the-dimension-of-force-for-gestural-interactions-using-smartwatch-ppg-sensor"
   ],
   "principles": [
     "body"

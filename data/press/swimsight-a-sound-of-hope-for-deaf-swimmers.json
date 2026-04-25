@@ -1,5 +1,4 @@
 {
-  "id": "swimsight-a-sound-of-hope-for-deaf-swimmers",
   "slug": "swimsight-a-sound-of-hope-for-deaf-swimmers",
   "title": "SwimSight: a Sound of Hope for Deaf Swimmers",
   "year": "2018",
@@ -7,9 +6,6 @@
   "outlet": "The Sunday Times",
   "url": "http://www.sundaytimes.lk/180422/mediscene/swimsight-a-sound-of-hope-for-deaf-swimmers-290191.html",
   "projects": [
-    {
-      "slug": "swimsight",
-      "title": "SwimSight"
-    }
+    "swimsight"
   ]
 }

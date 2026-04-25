@@ -1,5 +1,4 @@
 {
-  "id": "jaliya-kodithuwakku",
   "slug": "jaliya-kodithuwakku",
   "name": "Jaliya Kodithuwakku",
   "role": "Research Engineer Intern",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/jaliya-kodithuwakku/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/jaliya-kodithuwakku/jaliya-kodithuwakku.jpg",
   "bio": "A third-year undergraduate at the University of Moratuwa, Sri Lanka. specializing in Electronic and Telecommunication Engineering, passionate about deep learning, computer vision, artificial intelligence, and research. Academic interests include signal processing, machine learning, computer vision, embedded systems, and circuit designing. Projects span areas such as facial expression recognition, health monitoring, natural language processing, and multimodal AI systems, demonstrating a commitment to advancing technology and solving practical challenges.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    }
+    "aisee"
   ],
   "publications": [],
   "career": [

@@ -1,5 +1,4 @@
 {
-  "id": "a-ring-that-reads-text-for-the-blind",
   "slug": "a-ring-that-reads-text-for-the-blind",
   "title": "A ring that reads text for the blind",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Reuters Videos",
   "url": "https://sg.news.yahoo.com/video/ring-reads-text-blind-154953381.html",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "id": "tomorrow-daily-reading-with-your-finger",
   "slug": "tomorrow-daily-reading-with-your-finger",
   "title": "Tomorrow Daily: Reading with Your Finger",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "c|net",
   "url": "http://www.cnet.com/videos/tomorrow-daily-016-rolling-up-your-tv-reading-with-your-finger-haptic-shirts-tom-merritt/",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

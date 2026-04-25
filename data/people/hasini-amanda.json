@@ -1,5 +1,4 @@
 {
-  "id": "hasini-amanda",
   "slug": "hasini-amanda",
   "name": "Hasini Amanda",
   "role": "Intern",
@@ -11,30 +10,15 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/hasini-amanda/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/hasini-amanda/hasini-amanda.jpg",
   "bio": "Hasini is presently an intern at the Augmented Human Lab. She is a high school graduate who will begin her undergraduate studies in the field of engineering this year. She is interested in research work and learning about how new technologies can be used to support under-represented demographics. She has also completed a work experience program conducted by CodeGen International in Sri Lanka and participated in Australian Business Week Enterprise Education School Program 2020. She enjoys playing sports, listening to music, playing the piano, drawing and watching old movies to relax.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "curious-shorts",
-      "title": "Curious Shorts",
-      "url": "/projects/curious-shorts/"
-    },
-    {
-      "slug": "itiles",
-      "title": "iTILES",
-      "url": "/projects/itiles/"
-    }
+    "curious-shorts",
+    "itiles"
   ],
   "publications": [
-    {
-      "title": "Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms",
-      "citation": "Tan, F.F., Ram, A., Messerschmidt, A.M., Dissanayake, H.A., and Nanayakkara, S.C. 2025. Curious Shorts: Curiosity-Driven Exploration and Learning on Short-Form Video Platforms. Accepted to the Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’25).",
-      "links": [],
-      "slug": "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms",
-      "url": "/publications/#curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
-    }
+    "curious-shorts-curiosity-driven-exploration-and-learning-on-short-form-video-platforms"
   ],
   "career": [
     {

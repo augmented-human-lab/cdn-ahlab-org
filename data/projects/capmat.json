@@ -1,56 +1,19 @@
 {
-  "id": "capmat",
   "slug": "capmat",
   "title": "CapMat",
   "year": "2018",
   "description": "CapMat is a smart foot mat that enables user identification, supporting applications such as multi-layer authentication. CapMat leverages a large form factor capacitive sensor to capture shoe sole images. These images vary based on shoe form factors, the individual wear, and the user’s weight. In a preliminary evaluation, we were able to distinguished 15 users with an accuracy of up to 100%. This work has been submitted and accepted at the Augmented Human International Conference 2019 (AH2019) and will be presented in March this year in Reims, France.",
-  "project_url": "https://ahlab.org/project/capmat/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/capmat/capmat.jpg",
   "people": [
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "sachith-muthukumarana",
-      "name": "Sachith Muthukumarana",
-      "url": "/people/sachith-muthukumarana/"
-    },
-    {
-      "slug": "jochen-huber",
-      "name": "Jochen Huber",
-      "url": "/people/jochen-huber/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "denys-matthies",
+    "samitha-elvitigala",
+    "sachith-muthukumarana",
+    "jochen-huber",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "CapMat: A Smart Foot Mat for User Authentication",
-      "citation": "Matthies, D.J., Elvitigala, D.S., Muthukumarana, S., Huber, J. and Nanayakkara, S.C., 2019, March. CapMat: a smart foot mat for user authentication. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-2).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311874"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1mHYxzlv5xAb_RaQvLQrWkwnJt0_yUctz/view?usp=sharing"
-        }
-      ],
-      "slug": "capmat-a-smart-foot-mat-for-user-authentication",
-      "url": "/publications/#capmat-a-smart-foot-mat-for-user-authentication"
-    }
+    "capmat-a-smart-foot-mat-for-user-authentication"
   ],
   "principles": [
     "body",

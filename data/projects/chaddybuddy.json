@@ -1,96 +1,21 @@
 {
-  "id": "chaddybuddy",
   "slug": "chaddybuddy",
   "title": "ChaddyBuddy",
   "year": "2017",
   "description": "Cognitive-affective states during learning or interactions with technologies is dependent on the mental effort of the learner and/or the cognitive load imposed by the system. Despite the growing research on the importance of understanding cognitive-affective state and their relationship to learning, measurement of such states during the learning process in young children is still unclear. While most assessments of learning and usability evaluations with children focus on performance, self-reports and inferring from observable behaviours, they provide limited insights into the cognitive load and emotional state during the learning or interaction that are essential for a holistic picture of learning. We explore the feasibility of understanding cognitive-affective states associated with a mental effort by triangulating the data obtained from observations, physiological markers, self-reports and performance as they performed tasks of varying mental effort. Results reveal that such a triangulation offers deeper insights into the cognitive-affective state of the learner. We believe this work would be a step towards better understanding of the learning process thereby facilitating instruction that is more aligned with the learner’s cognitive-affective architecture, designing systems for learning as well as establishing guidelines for comprehensive usability/evaluation processes based on well-defined associations between child behaviour and child action.",
-  "project_url": "https://ahlab.org/project/chaddybuddy/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/chaddybuddy/chaddybuddy.jpg",
   "people": [
-    {
-      "slug": "priyashri-sridhar",
-      "name": "Priyashri Sridhar",
-      "url": "/people/priyashri-sridhar/"
-    },
-    {
-      "slug": "samantha-chan",
-      "name": "Samantha Chan",
-      "url": "/people/samantha-chan/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "priyashri-sridhar",
+    "samantha-chan",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Progression of Cognitive-Affective States During Learning in Kindergarteners: Bringing Together Physiological, Observational and Performance Data",
-      "citation": "Sridhar, P.K. and Nanayakkara, S.C., 2020. Progression of Cognitive-Affective States During Learning in Kindergarteners: Bringing Together Physiological, Observational and Performance Data. Education Sciences, 10(7), p.177.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.3390/educsci10070177"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1q8FJqFhE4j5UDbQivqHO3KePXEwlMb6L/view?usp=sharing"
-        }
-      ],
-      "slug": "progression-of-cognitive-affective-states-during-learning-in-kindergarteners-bringing-together-physiological-observational-and-performance-data",
-      "url": "/publications/#progression-of-cognitive-affective-states-during-learning-in-kindergarteners-bringing-together-physiological-observational-and-performance-data"
-    },
-    {
-      "title": "Going beyond performance scores: Understanding cognitive-affective states in Kindergarteners and application of framework in classrooms",
-      "citation": "Sridhar, P. K., Chan, S. W. T., Chua, Y., Quin, Y. W. and Nanayakkara, S. C., 2019. Going beyond performance scores: Understanding cognitive-affective states in Kindergarteners and application of framework in classrooms. International Journal of Child-Computer Interaction, 21, pp.37-53.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1016/j.ijcci.2019.04.002"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1aYqvW4oLe6eqmZiCOaRpLs9clSm56OSb/view?usp=sharing"
-        }
-      ],
-      "slug": "going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners-and-application-of-framework-in-classrooms",
-      "url": "/publications/#going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners-and-application-of-framework-in-classrooms"
-    },
-    {
-      "title": "Triangulation of Physiological, Behavioural and Observational Data offers better insights into cognitive-emotional states in learning",
-      "citation": "Sridhar, P.K., Quin, Y.W., and Nanayakkara, S.C., 2018. Triangulation of Physiological, Behavioural and Observational Data offers better insights into cognitive-emotional states in learning. Presented in the Annual Convention of Association for Psychological Science. San Francisco.",
-      "links": [],
-      "slug": "triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning",
-      "url": "/publications/#triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning"
-    },
-    {
-      "title": "Going beyond performance scores: understanding cognitive-affective states in kindergarteners",
-      "citation": "Sridhar, P. K., Chan, S. W. T. and Nanayakkara, S.C., 2018. Going beyond performance scores: understanding cognitive-affective states in kindergarteners. In Proceedings of the 17th ACM Conference on Interaction Design and Children (pp. 253-265). ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3202185.3202739"
-        },
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3202739"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1-h8ju4A8yx_7zxEfnlQWi1vC99gVB8Mj/view?usp=sharing"
-        }
-      ],
-      "slug": "going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners",
-      "url": "/publications/#going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners"
-    },
-    {
-      "title": "Development of a Triangulated Framework Understand Cognitive-Emotional States during Learning in Children",
-      "citation": "Sridhar, P.K., Nanayakkara S.C., 2018. Development of a Triangulated Framework Understand Cognitive-Emotional States during Learning in Children. In Proceedings of International Conference of Learning Sciences and Early Childhood Education.",
-      "links": [],
-      "slug": "development-of-a-triangulated-framework-understand-cognitive-emotional-states-during-learning-in-children",
-      "url": "/publications/#development-of-a-triangulated-framework-understand-cognitive-emotional-states-during-learning-in-children"
-    }
+    "progression-of-cognitive-affective-states-during-learning-in-kindergarteners-bringing-together-physiological-observational-and-performance-data",
+    "going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners-and-application-of-framework-in-classrooms",
+    "triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning",
+    "going-beyond-performance-scores-understanding-cognitive-affective-states-in-kindergarteners",
+    "development-of-a-triangulated-framework-understand-cognitive-emotional-states-during-learning-in-children"
   ],
   "principles": [
     "cognitive"

@@ -1,57 +1,20 @@
 {
-  "id": "blind-drone",
   "slug": "blind-drone",
   "title": "Blind Drone",
   "year": "Current",
   "description": "Unmanned Aerial Vehicles (UAVs) or drones are increasingly used in search and rescue missions to detect human presence. Existing systems primarily leverage vision-based methods, which are prone to fail under low-visibility or occlusion. Drone-based audio perception offers promise but suffers from extreme ego-noise that masks sounds indicating human presence.\n\nIn this project, we develop DroneAudioset (The dataset is publicly available at https://huggingface.co/datasets/ahlab-drone-project/DroneAudioSet/ under the MIT license), a comprehensive and largest drone audition dataset featuring 23.5 hours of annotated recordings, covering a wide range of signal-to-noise ratios (SNRs) from -60 dB to 0 dB, across various drone types, throttles, microphone configurations, as well as environments. The dataset enables development and systematic evaluation of noise suppression and classification methods for human-presence detection under challenging conditions, while also informing practical design considerations for drone audition systems, such as microphone placement trade-offs, and development of drone noise-aware audio processing. This project aims towards enabling the design and deployment of drone-audition systems, and studying human operator and drone collaboration through audio modality for a swarm of drones.",
-  "project_url": "https://ahlab.org/project/blind-drone/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/blind-drone/blind-drone.jpg",
   "people": [
-    {
-      "slug": "chitralekha-gupta",
-      "name": "Chitralekha Gupta",
-      "url": "/people/chitralekha-gupta/"
-    },
-    {
-      "slug": "soundarya-ramesh",
-      "name": "Soundarya Ramesh",
-      "url": "/people/soundarya-ramesh/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "praveen-sasikumar",
-      "name": "Praveen Sasikumar",
-      "url": "/people/praveen-sasikumar/"
-    },
-    {
-      "slug": "yifei-luo",
-      "name": "Yifei Luo",
-      "url": "/people/yifei-luo/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "chitralekha-gupta",
+    "soundarya-ramesh",
+    "yeo-kian-peen",
+    "praveen-sasikumar",
+    "yifei-luo",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "DroneAudioset: An Audio Dataset for Drone-based Search and Rescue",
-      "citation": "Gupta, C.*, Ramesh, S.*, Sasikumar, P., Yeo, K. P., & Nanayakkara, S. C., \"DroneAudioset: An Audio Dataset for Drone-based Search and Rescue,\" NeurIPS 2025.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1x4HXEwWi_6E0Gsgy3if_DDc23ilCI4ji/view?usp=sharing"
-        }
-      ],
-      "slug": "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue",
-      "url": "/publications/#droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
-    }
+    "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"
   ],
   "principles": [
     "perceptual",

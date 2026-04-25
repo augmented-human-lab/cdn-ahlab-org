@@ -1,5 +1,4 @@
 {
-  "id": "buddhishan-manamperi",
   "slug": "buddhishan-manamperi",
   "name": "Buddhishan Manamperi",
   "role": "Research Attachment",
@@ -11,21 +10,12 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/buddhishan-manamperi/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/buddhishan-manamperi/buddhishan-manamperi.jpg",
   "bio": "Buddhishan is an undergraduate at University of Moratuwa - Sri Lanka studying Electronics and Telecommunication Engineering and is currently working at the Augmented Human Lab as a research intern.\n\nHe always tries to involve in innovative and self-learning projects related to IoT & Wearable devices and to enhance experience & knowledge while actively contributing through his engineering skills and creativity to be a responsible team player.\n\nHe loves a simple lifestyle.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader",
-      "url": "/projects/fingerreader/"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0",
-      "url": "/projects/fingerreader-v0/"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ],
   "publications": [],
   "career": [

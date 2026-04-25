@@ -1,5 +1,4 @@
 {
-  "id": "annis-fu",
   "slug": "annis-fu",
   "name": "Annis Fu",
   "role": "Final Year Project Student",
@@ -11,28 +10,12 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/annis-fu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/annis-fu/annis-fu.jpg",
   "bio": "Annis is an undergraduate student of the faculty of engineering at the University of Auckland.",
   "external_links": [],
   "projects": [],
   "publications": [
-    {
-      "title": "mobiLLD: Exploring the Detection of Leg Length Discrepancy and Altering Gait with Mobile Smart Insoles",
-      "citation": "Matthies, D.J.C., Elvitigala, D.S., Fu, A., Yin, D. and Nanayakkara, S.C., 2021. mobiLLD: Exploring the Detection of Leg Length Discrepancy and Altering Gait with Mobile Smart Insoles. In The 14th PErvasive Technologies Related to Assistive Environments Conference (PETRA 2021), June 29-July 2, 2021, Corfu, Greece.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3453892.3453896"
-        },
-        {
-          "label": "pdf",
-          "url": "http://www.denysmatthies.com/downloads/Matthies_mobiLLD_PETRA2021.pdf"
-        }
-      ],
-      "slug": "mobilld-exploring-the-detection-of-leg-length-discrepancy-and-altering-gait-with-mobile-smart-insoles",
-      "url": "/publications/#mobilld-exploring-the-detection-of-leg-length-discrepancy-and-altering-gait-with-mobile-smart-insoles"
-    }
+    "mobilld-exploring-the-detection-of-leg-length-discrepancy-and-altering-gait-with-mobile-smart-insoles"
   ],
   "career": [
     {

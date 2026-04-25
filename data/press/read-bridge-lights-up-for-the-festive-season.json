@@ -1,5 +1,4 @@
 {
-  "id": "read-bridge-lights-up-for-the-festive-season",
   "slug": "read-bridge-lights-up-for-the-festive-season",
   "title": "Read Bridge lights up for the festive season",
   "year": "2015",
@@ -7,9 +6,6 @@
   "outlet": "Shivaanan Selvasevaran, Channel NewsAsia",
   "url": "http://www.channelnewsasia.com/news/singapore/read-bridge-lights-up-for/2320110.html",
   "projects": [
-    {
-      "slug": "the-ribbon",
-      "title": "The RIBbon"
-    }
+    "the-ribbon"
   ]
 }

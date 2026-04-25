@@ -1,5 +1,4 @@
 {
-  "id": "hasitha-rajapakse",
   "slug": "hasitha-rajapakse",
   "name": "Hasitha Rajapakse",
   "role": "Research Engineer",
@@ -11,60 +10,17 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/hasitha-rajapakse/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/hasitha-rajapakse/hasitha-rajapakse.jpg",
   "bio": "Hasitha joined the Augmented Human Lab as a Research Assistant in 2016. She graduated as a bachelor of Information Technology from the University of Moratuwa in 2015. While she was studying she started her IT career in Software Engineering and worked as a software engineer for two years. Her passion for learning and exploring new things lured her to join Augmented Human Lab.\n\nApart from working with computers and having fun with new technology everyday Hasitha enjoys dancing, listening to music and helping others.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "kyanite",
-      "title": "Kyanite",
-      "url": "/projects/kyanite/"
-    },
-    {
-      "slug": "gestakey",
-      "title": "GestAKey",
-      "url": "/projects/gestakey/"
-    },
-    {
-      "slug": "gescad",
-      "title": "GesCAD",
-      "url": "/projects/gescad/"
-    }
+    "kyanite",
+    "gestakey",
+    "gescad"
   ],
   "publications": [
-    {
-      "title": "GestAKey: Touch Interaction on Individual Keycaps.",
-      "citation": "Shi, Y., Zhang, H., Rajapakse, H., Perera, N.T., Vega Gálvez, T. and Nanayakkara, S.C., 2018, April. Gestakey: Touch interaction on individual keycaps. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3174170"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/uc?export=download&id=1sSfqPj_lSe-cPTs-1nJLLJkQVoHZY_WN"
-        }
-      ],
-      "slug": "gestakey-touch-interaction-on-individual-keycaps",
-      "url": "/publications/#gestakey-touch-interaction-on-individual-keycaps"
-    },
-    {
-      "title": "GesCAD: an Intuitive Interface for Conceptual Architectural Design",
-      "citation": "Khan, S., Rajapakse, H., Zhang, H., Nanayakkara, S.C., Tuncer, B. and Blessing, L., 2017, November. GesCAD: an intuitive interface for conceptual architectural design. In Proceedings of the 29th Australian conference on computer-human interaction (pp. 402-406).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3156145"
-        },
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3152771.3156145"
-        }
-      ],
-      "slug": "gescad-an-intuitive-interface-for-conceptual-architectural-design",
-      "url": "/publications/#gescad-an-intuitive-interface-for-conceptual-architectural-design"
-    }
+    "gestakey-touch-interaction-on-individual-keycaps",
+    "gescad-an-intuitive-interface-for-conceptual-architectural-design"
   ],
   "career": [
     {

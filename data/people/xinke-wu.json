@@ -1,5 +1,4 @@
 {
-  "id": "xinke-wu",
   "slug": "xinke-wu",
   "name": "Xinke Wu",
   "role": "Visiting Student",
@@ -11,16 +10,11 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/xinke-wu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/xinke-wu/xinke-wu.jpg",
   "bio": "Xinke is always looking to flex her empathy muscles into understanding people, and she is enthusiastic about crafting beautiful experiences with technology. She is currrently an undergraduate student majoring in Industrial Design at zhejiang University in China. She has previously worked at NUS HCI Lab in the National University of Singapore as a research intern. And she also worked as a research intern at the data visualization group, State Key Lab of CAD&CG in China. She hopes her work at the Augmented Human Lab can help enable and empower the users in a natural way.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "om",
-      "title": "OM",
-      "url": "/projects/om/"
-    }
+    "om"
   ],
   "publications": [],
   "career": [

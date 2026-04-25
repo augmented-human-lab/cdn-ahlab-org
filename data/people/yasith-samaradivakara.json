@@ -1,5 +1,4 @@
 {
-  "id": "yasith-samaradivakara",
   "slug": "yasith-samaradivakara",
   "name": "Yasith Samaradivakara",
   "role": "Research Engineer",
@@ -11,7 +10,6 @@
       "end": "2025-06"
     }
   ],
-  "profile_url": "https://ahlab.org/people/yasith-samaradivakara/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/yasith-samaradivakara/yasith-samaradivakara.jpg",
   "bio": "Yasith is extremely passionate about building intelligent assistive wearables and digital interfaces that unlock and augment human capabilities. He is interested in solving questions at the intersection of Assistive Interfaces, Human-Computer Interaction, and Artificial Intelligence. Apart from computers, Yasith loves playing cricket.",
   "external_links": [
@@ -21,60 +19,14 @@
     }
   ],
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    },
-    {
-      "slug": "seear",
-      "title": "SeEar",
-      "url": "/projects/seear/"
-    },
-    {
-      "slug": "kavy",
-      "title": "Kavy",
-      "url": "/projects/kavy/"
-    },
-    {
-      "slug": "emo-know",
-      "title": "EMO-KNOW",
-      "url": "/projects/emo-know/"
-    }
+    "aisee",
+    "seear",
+    "kavy",
+    "emo-know"
   ],
   "publications": [
-    {
-      "title": "SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings",
-      "citation": "Samaradivakara, Y., Ushan, T., Pathirage, A., Sasikumar, P., Karunanayaka, K., Keppitiyagama, C., Nanayakkara, S.C, 2024. SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613905.3650974"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Lea70xKlKilhKwF3W31LFrolj7sBZ5ri/view?usp=sharing"
-        }
-      ],
-      "slug": "seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings",
-      "url": "/publications/#seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings"
-    },
-    {
-      "title": "EMO-KNOW: A Large Scale Dataset on Emotion-Cause",
-      "citation": "Nguyen, M., Samaradivakara, Y., Sasikumar, P., Gupta, C. and Nanayakkara, S.C., 2023, December. EMO-KNOW: A Large Scale Dataset on Emotion-Cause. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 11043-11051).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.737"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1NsFaWPwX-DO21d_BEpvfUs5Ri8BMoOjb/view?usp=drive_link"
-        }
-      ],
-      "slug": "emo-know-a-large-scale-dataset-on-emotion-cause",
-      "url": "/publications/#emo-know-a-large-scale-dataset-on-emotion-cause"
-    }
+    "seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings",
+    "emo-know-a-large-scale-dataset-on-emotion-cause"
   ],
   "career": [
     {

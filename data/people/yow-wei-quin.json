@@ -1,29 +1,17 @@
 {
-  "id": "yow-wei-quin",
   "slug": "yow-wei-quin",
   "name": "Yow Wei Quin",
   "role": "Associate Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/yow-wei-quin/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/yow-wei-quin/yow-wei-quin.jpg",
   "bio": "Yow Wei Quin is Assistant Professor at SUTD.\n\nMore about Yow Wei Quin: http://academics.sutd.edu.sg/faculty/yow-wei-quin/",
   "external_links": [],
   "projects": [
-    {
-      "slug": "kyanite",
-      "title": "Kyanite",
-      "url": "/projects/kyanite/"
-    }
+    "kyanite"
   ],
   "publications": [
-    {
-      "title": "Triangulation of Physiological, Behavioural and Observational Data offers better insights into cognitive-emotional states in learning",
-      "citation": "Sridhar, P.K., Quin, Y.W., and Nanayakkara, S.C., 2018. Triangulation of Physiological, Behavioural and Observational Data offers better insights into cognitive-emotional states in learning. Presented in the Annual Convention of Association for Psychological Science. San Francisco.",
-      "links": [],
-      "slug": "triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning",
-      "url": "/publications/#triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning"
-    }
+    "triangulation-of-physiological-behavioural-and-observational-data-offers-better-insights-into-cognitive-emotional-states-in-learning"
   ],
   "career": [
     {

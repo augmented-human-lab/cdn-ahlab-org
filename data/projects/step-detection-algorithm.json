@@ -1,23 +1,13 @@
 {
-  "id": "step-detection-algorithm",
   "slug": "step-detection-algorithm",
   "title": "Step Detection Algorithm",
   "year": "2018",
   "description": "Step Detection for Rollator Users has until now been a problem for Smartwatches. Current algorithms work insufficiently for calculating steps when using a rollator, which is a common walking aid for elderly people (overall recognition of ~10% of all steps). This is because characteristic motions utilized by step counting algorithms are poorly reflected at the user’s wrist when pushing a rollator. This issue is also present among other spatial activities such as pushing a pram, a bike, and a shopping cart. We introduce an improved step counting algorithm for wrist-worn accelerometers, which achieves recognition rates of ~85% in the lab and similar detection rates of ~83% in the field with elderly people. This research was published at the Symposium on Spatial User Interaction (SUI ’18) and at the International Workshop on Sensor-based Activity Recognition and Interaction (iWOAR '18). This research was awarded the Best Short Paper at the SUI '18 in Berlin, Germany.",
-  "project_url": "https://ahlab.org/project/step-detection-algorithm/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/step-detection-algorithm/step-detection-algorithm.jpg",
   "people": [
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

@@ -1,47 +1,18 @@
 {
-  "id": "fingerdraw",
   "slug": "fingerdraw",
   "title": "FingerDraw",
   "year": "2013",
   "description": "FingerDraw is a novel drawing interface that aims to keep children connected to the physical environment by letting them use their surroundings as templates and color palette. The FingerDraw system consists of (1) EyeRing as a finger-worn input device which allows children to upload visual contents such as shapes, colors and textures that exist in the real world; (2) a tablet with a touch interface that serves as a digital canvas for drawing. In addition to real-time drawing activities, children can also collect a palette of colors and textures inside the input device and later feed them into the drawing interface. Initial reactions from a case study indicated that the system could keep a child engaged with their surroundings for hours to draw using the wide range of shapes, colors and patterns found in the natural environment.",
-  "project_url": "https://ahlab.org/project/fingerdraw/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/fingerdraw/fingerdraw.jpg",
   "people": [
-    {
-      "slug": "anuruddha-hettiarachchi",
-      "name": "Anuruddha Hettiarachchi",
-      "url": "/people/anuruddha-hettiarachchi/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "anuruddha-hettiarachchi",
+    "yeo-kian-peen",
+    "pattie-maes",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "FingerDraw: More than a Digital Paintbrush",
-      "citation": "Hettiarachchi A., Nanayakkara S. C., Yeo K.P., Shilkrot R. and Maes P. ”FingerDraw: More than a Digital Paintbrush”, ACM SIGCHI Augmented Human, March, 2013.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_hettiarachchi_2013.pdf"
-        }
-      ],
-      "slug": "fingerdraw-more-than-a-digital-paintbrush",
-      "url": "/publications/#fingerdraw-more-than-a-digital-paintbrush"
-    }
+    "fingerdraw-more-than-a-digital-paintbrush"
   ],
   "principles": [
     "body",

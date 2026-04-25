@@ -1,42 +1,17 @@
 {
-  "id": "i-draw",
   "slug": "i-draw",
   "title": "I-Draw",
   "year": "2014",
   "description": "I-Draw is a drawing tool to assist free hand drawings on physical surfaces. With I-Draw, we explore a novel approach to combine digital capabilities with physical drawing while keeping the sense of originality and personal touch. It enables interplay between digital guidance and natural freehand drawing allowing users to switch seamlessly between them.",
-  "project_url": "https://ahlab.org/project/i-draw/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/i-draw/i-draw.jpg",
   "people": [
-    {
-      "slug": "piyum-fernando",
-      "name": "Piyum Fernando",
-      "url": "/people/piyum-fernando/"
-    },
-    {
-      "slug": "roshan-peiris",
-      "name": "Roshan Peiris",
-      "url": "/people/roshan-peiris/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "piyum-fernando",
+    "roshan-peiris",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "I-Draw: Towards a Freehand Drawing Assistant",
-      "citation": "Fernando, P., Peiris, R.L. and Nanayakkara, S.C., 2014, December. I-draw: Towards a freehand drawing assistant. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 208-211).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_I-Draw_Short.pdf"
-        }
-      ],
-      "slug": "i-draw-towards-a-freehand-drawing-assistant",
-      "url": "/publications/#i-draw-towards-a-freehand-drawing-assistant"
-    }
+    "i-draw-towards-a-freehand-drawing-assistant"
   ],
   "principles": [
     "cognitive"

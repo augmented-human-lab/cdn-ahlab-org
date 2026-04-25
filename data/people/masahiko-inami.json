@@ -1,95 +1,22 @@
 {
-  "id": "masahiko-inami",
   "slug": "masahiko-inami",
   "name": "Masahiko Inami",
   "role": "Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/masahiko-inami/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/masahiko-inami/masahiko-inami.jpg",
   "bio": "Masahiko Inami is a professor in the School of Media Design at the Keio University (KMD), Japan.\n\nMore about Professor Imani’s work: http://inamilab.kmd.keio.ac.jp",
   "external_links": [],
   "projects": [
-    {
-      "slug": "rippletouch",
-      "title": "RippleTouch",
-      "url": "/projects/rippletouch/"
-    },
-    {
-      "slug": "spidervision",
-      "title": "SpiderVision",
-      "url": "/projects/spidervision/"
-    }
+    "rippletouch",
+    "spidervision"
   ],
   "publications": [
-    {
-      "title": "Electrosmog Visualization through Augmented Blurry Vision",
-      "citation": "Fan, K., Seigneur, J.M., Nanayakkara, S.C. and Inami, M., 2016, February. Electrosmog visualization through augmented blurry vision. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/a35-fan.pdf"
-        }
-      ],
-      "slug": "electrosmog-visualization-through-augmented-blurry-vision",
-      "url": "/publications/#electrosmog-visualization-through-augmented-blurry-vision"
-    },
-    {
-      "title": "Augmented Winter Ski with AR HMD",
-      "citation": "Fan, K., Seigneur, J.M., Guislain, J., Nanayakkara, S.C. and Inami, M., 2016, February. Augmented winter ski with ar hmd. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/a34-fan.pdf"
-        }
-      ],
-      "slug": "augmented-winter-ski-with-ar-hmd",
-      "url": "/publications/#augmented-winter-ski-with-ar-hmd"
-    },
-    {
-      "title": "RippleTouch: Initial Exploration of a Wave Resonant Based Full Body Haptic Interface",
-      "citation": "Withana, A., Koyama, S., Saakes, D., Minamizawa, K., Inami, M. and Nanayakkara, S.C., 2015, March. RippleTouch: initial exploration of a wave resonant based full body haptic interface. In Proceedings of the 6th Augmented Human International Conference (pp. 61-68).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2735711.2735790"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p61-withana.pdf"
-        }
-      ],
-      "slug": "rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface",
-      "url": "/publications/#rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface"
-    },
-    {
-      "title": "Workshop on Assistive Augmentation",
-      "citation": "Huber, J., Rekimoto, J., Inami, M., Shilkrot, R., Maes, P., Meng Ee, W., Pullin, G. and Nanayakkara, S.C., 2014. Workshop on assistive augmentation. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 103-106).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/abstract.pdf"
-        },
-        {
-          "label": "url",
-          "url": "http://assistaugment.xvm.mit.edu/"
-        }
-      ],
-      "slug": "workshop-on-assistive-augmentation",
-      "url": "/publications/#workshop-on-assistive-augmentation"
-    },
-    {
-      "title": "SpiderVision: Extending the Human Field of View for Augmented Awareness",
-      "citation": "Fan, K., Huber, J., Nanayakkara, S.C. and Inami, M., 2014, March. SpiderVision: extending the human field of view for augmented awareness. In Proceedings of the 5th augmented human international conference (pp. 1-8).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2582051.2582100"
-        }
-      ],
-      "slug": "spidervision-extending-the-human-field-of-view-for-augmented-awareness",
-      "url": "/publications/#spidervision-extending-the-human-field-of-view-for-augmented-awareness"
-    }
+    "electrosmog-visualization-through-augmented-blurry-vision",
+    "augmented-winter-ski-with-ar-hmd",
+    "rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface",
+    "workshop-on-assistive-augmentation",
+    "spidervision-extending-the-human-field-of-view-for-augmented-awareness"
   ],
   "career": [
     {

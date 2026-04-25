@@ -1,5 +1,4 @@
 {
-  "id": "lightsense-best-design-awards-installation-exhibition-silver",
   "slug": "lightsense-best-design-awards-installation-exhibition-silver",
   "title": "LightSense | Best Design Awards | Installation & Exhibition: Silver",
   "year": "2022",
@@ -7,9 +6,6 @@
   "outlet": "Designers Institute of New Zealand",
   "url": "https://bestawards.co.nz/digital/installation-exhibition/arc-sec-lab/lightsense/",
   "projects": [
-    {
-      "slug": "lightsense",
-      "title": "LightSense"
-    }
+    "lightsense"
   ]
 }

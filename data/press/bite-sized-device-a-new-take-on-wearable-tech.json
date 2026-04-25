@@ -1,5 +1,4 @@
 {
-  "id": "bite-sized-device-a-new-take-on-wearable-tech",
   "slug": "bite-sized-device-a-new-take-on-wearable-tech",
   "title": "Bite-sized device a new take on wearable tech",
   "year": "2019",
@@ -7,9 +6,6 @@
   "outlet": "NZ Herald",
   "url": "https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12205190",
   "projects": [
-    {
-      "slug": "chewit",
-      "title": "ChewIt"
-    }
+    "chewit"
   ]
 }

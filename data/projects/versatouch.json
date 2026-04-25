@@ -1,51 +1,18 @@
 {
-  "id": "versatouch",
   "slug": "versatouch",
   "title": "VersaTouch",
   "year": "2020",
   "description": "VersaTouch is a portable, plug-and-play system that uses active acoustic sensing to track fine-grained touch locations as well as touch force of multiple fingers on everyday surfaces without having to permanently instrument them or do an extensive calibration. Our system is versatile in multiple aspects. First, with simple calibration, VersaTouch can be arranged in arbitrary layouts in order to fit into crowded surfaces while retaining its accuracy. Second, various modalities of touch input, such as distance and position, can be supported depending on the number of sensors used to suit the interaction scenario. Third, VersaTouch can sense multi-finger touch, touch force, as well as identify the touch source. Last, VersaTouch is capable of providing vibrotactile feedback to fingertips through the same actuators used for touch sensing.",
-  "project_url": "https://ahlab.org/project/versatouch/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/versatouch/versatouch.jpg",
   "people": [
-    {
-      "slug": "shi-yilei",
-      "name": "Shi Yilei",
-      "url": "/people/shi-yilei/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "jiashuo-cao",
-      "name": "Jiashuo Cao",
-      "url": "/people/jiashuo-cao/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "shi-yilei",
+    "haimo-zhang",
+    "jiashuo-cao",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "VersaTouch: A Versatile Plug-and-Play System that Enables Touch Interactions on Everyday Passive Surfaces.",
-      "citation": "Shi, Y., Zhang, H., Cao, J., and Nanayakkara, S.C., 2020. VersaTouch: A Versatile Plug-and-Play System that Enables Touch Interactions on Everyday Passive Surfaces. In AHs ’20: Augmented Humans International Conference (AHs ’20), March 16–17, 2020, Kaiserslautern, Germany.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3384657.3384778"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1i34JQbLRvwYGth08m3AjH6Avwgia_CxB/view?usp=sharing"
-        }
-      ],
-      "slug": "versatouch-a-versatile-plug-and-play-system-that-enables-touch-interactions-on-everyday-passive-surfaces",
-      "url": "/publications/#versatouch-a-versatile-plug-and-play-system-that-enables-touch-interactions-on-everyday-passive-surfaces"
-    }
+    "versatouch-a-versatile-plug-and-play-system-that-enables-touch-interactions-on-everyday-passive-surfaces"
   ],
   "principles": [
     "perceptual",

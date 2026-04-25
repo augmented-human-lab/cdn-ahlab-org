@@ -1,182 +1,37 @@
 {
-  "id": "fingerreader",
   "slug": "fingerreader",
   "title": "FingerReader",
   "year": "2017",
   "description": "We believe smart devices should be more inclusive, and assistive devices deserve more design and innovation. The low demand for assistive devices has led to high cost and little innovation. While mobile phones have gotten smarter with each passing day, assistive devices like the white cane for the blind, has pretty much remained the same all these years.\n\nIn our previous work, we have created a FingerReader-v0 (Finger-worn Assistive Augmentation) with the vision of empowering and enabling people with visual impairments. With FingerReader, blind users are able to simply point at products, text phases etc. and have the results spoken back to them. Our findings suggest that a direct mapping could greatly improve interaction (e.g. easy “re-reading”), as well as scaffold the mental model of a text document effectively, avoiding “ghost text”.\n\nWith FingerReader, we aim to transform this proof of concept project into an affordable everyday product that will sustainably change how the visually impaired community can independently access information on the go.",
-  "project_url": "https://ahlab.org/project/fingerreader/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/fingerreader/fingerreader.jpg",
   "people": [
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "roger-boldu",
-      "name": "Roger Boldu",
-      "url": "/people/roger-boldu/"
-    },
-    {
-      "slug": "pattie-maes",
-      "name": "Pattie Maes",
-      "url": "/people/pattie-maes/"
-    },
-    {
-      "slug": "alexandru-dancu",
-      "name": "Alexandru Dancu",
-      "url": "/people/alexandru-dancu/"
-    },
-    {
-      "slug": "thisum-buddhika",
-      "name": "Thisum Buddhika",
-      "url": "/people/thisum-buddhika/"
-    },
-    {
-      "slug": "shanaka-ransiri",
-      "name": "Shanaka Ransiri",
-      "url": "/people/shanaka-ransiri/"
-    },
-    {
-      "slug": "roy-shilkrot",
-      "name": "Roy Shilkrot",
-      "url": "/people/roy-shilkrot/"
-    },
-    {
-      "slug": "jochen-huber",
-      "name": "Jochen Huber",
-      "url": "/people/jochen-huber/"
-    },
-    {
-      "slug": "sanjay-pushparajan",
-      "name": "Sanjay Pushparajan",
-      "url": "/people/sanjay-pushparajan/"
-    },
-    {
-      "slug": "wong-meng-ee",
-      "name": "Wong Meng Ee",
-      "url": "/people/wong-meng-ee/"
-    },
-    {
-      "slug": "buddhishan-manamperi",
-      "name": "Buddhishan Manamperi",
-      "url": "/people/buddhishan-manamperi/"
-    },
-    {
-      "slug": "pablo-g-c",
-      "name": "Pablo G.C.",
-      "url": "/people/pablo-g-c/"
-    },
-    {
-      "slug": "tomoya-sasaki",
-      "name": "Tomoya Sasaki",
-      "url": "/people/tomoya-sasaki/"
-    },
-    {
-      "slug": "adrian-robertson",
-      "name": "Adrian Robertson",
-      "url": "/people/adrian-robertson/"
-    },
-    {
-      "slug": "priyashri-sridhar",
-      "name": "Priyashri Sridhar",
-      "url": "/people/priyashri-sridhar/"
-    },
-    {
-      "slug": "beniel-thileepan",
-      "name": "Beniel Thileepan",
-      "url": "/people/beniel-thileepan/"
-    },
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    },
-    {
-      "slug": "shamane-siriwardhana",
-      "name": "Shamane Siriwardhana",
-      "url": "/people/shamane-siriwardhana/"
-    },
-    {
-      "slug": "nuwan-tharaka-perera",
-      "name": "Nuwan Tharaka Perera",
-      "url": "/people/nuwan-tharaka-perera/"
-    }
+    "suranga-nanayakkara",
+    "roger-boldu",
+    "pattie-maes",
+    "alexandru-dancu",
+    "thisum-buddhika",
+    "shanaka-ransiri",
+    "roy-shilkrot",
+    "jochen-huber",
+    "sanjay-pushparajan",
+    "wong-meng-ee",
+    "buddhishan-manamperi",
+    "pablo-g-c",
+    "tomoya-sasaki",
+    "adrian-robertson",
+    "priyashri-sridhar",
+    "beniel-thileepan",
+    "vipula-dissanayake",
+    "shamane-siriwardhana",
+    "nuwan-tharaka-perera"
   ],
   "publications": [
-    {
-      "title": "FingerReader2.0: Designing and Evaluating a Wearable Finger-WornCamera to Assist People with Visual Impairments while Shopping,",
-      "citation": "Boldu, R., Dancu, A., Matthies, D. J.C., Buddhika, T., Siriwardhana, S., & Nanayakkara, S.C., 2018. FingerReader2. 0: Designing and Evaluating a Wearable Finger-Worn Camera to Assist People with Visual Impairments while Shopping. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(3), 94. ACM.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3264904"
-        }
-      ],
-      "slug": "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping",
-      "url": "/publications/#fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping"
-    },
-    {
-      "title": "FingerReader: A Wearable Device to Explore Printed Text on the Go",
-      "citation": "Shilkrot, R., Huber, J., Meng Ee, W., Maes, P. and Nanayakkara, S.C., 2015, April. FingerReader: a wearable device to explore printed text on the go. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 2363-2372).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/FingerReaderCHI15%20Camera%20Ready-fonts%20embedded.pdf"
-        },
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/2702123.2702421"
-        }
-      ],
-      "slug": "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
-      "url": "/publications/#fingerreader-a-wearable-device-to-explore-printed-text-on-the-go"
-    },
-    {
-      "title": "Digital Digits: A Comprehensive Survey of Finger Augmentation Devices",
-      "citation": "Shilkrot, R., Huber, J., Steimle, J., Nanayakkara, S.C. and Maes, P., 2015. Digital digits: A comprehensive survey of finger augmentation devices. ACM Computing Surveys (CSUR), 48(2), pp.1-29.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dl.acm.org/citation.cfm?doid=2830539.2828993"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/a30-shilkrot_0.pdf"
-        }
-      ],
-      "slug": "digital-digits-a-comprehensive-survey-of-finger-augmentation-devices",
-      "url": "/publications/#digital-digits-a-comprehensive-survey-of-finger-augmentation-devices"
-    },
-    {
-      "title": "FingerReader: A Wearable Device to Support Text-Reading on the Go",
-      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. FingerReader: a wearable device to support text reading on the go. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 2359-2364).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2559206.2581220"
-        },
-        {
-          "label": "pdf",
-          "url": "http://fluid.media.mit.edu/sites/default/files/paper317.pdf"
-        }
-      ],
-      "slug": "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
-      "url": "/publications/#fingerreader-a-wearable-device-to-support-text-reading-on-the-go"
-    },
-    {
-      "title": "A Wearable Text-Reading Device for the Visually-Impaired",
-      "citation": "Shilkrot, R., Huber, J., Liu, C., Maes, P. and Nanayakkara, S.C., 2014. A wearable text-reading device for the visually-impaired. In CHI'14 Extended Abstracts on Human Factors in Computing Systems (pp. 193-194).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2559206.2579520"
-        }
-      ],
-      "slug": "a-wearable-text-reading-device-for-the-visually-impaired",
-      "url": "/publications/#a-wearable-text-reading-device-for-the-visually-impaired"
-    }
+    "fingerreader2-0-designing-and-evaluating-a-wearable-finger-worncamera-to-assist-people-with-visual-impairments-while-shopping",
+    "fingerreader-a-wearable-device-to-explore-printed-text-on-the-go",
+    "digital-digits-a-comprehensive-survey-of-finger-augmentation-devices",
+    "fingerreader-a-wearable-device-to-support-text-reading-on-the-go",
+    "a-wearable-text-reading-device-for-the-visually-impaired"
   ],
   "principles": [
     "body",

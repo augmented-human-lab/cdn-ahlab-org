@@ -1,5 +1,4 @@
 {
-  "id": "world-changing-ideas-awards-2021-asia-pacific-honorable-mention-kiwrious",
   "slug": "world-changing-ideas-awards-2021-asia-pacific-honorable-mention-kiwrious",
   "title": "World Changing Ideas Awards 2021: Asia-Pacific | Honorable Mention | Kiwrious",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "Fast Company",
   "url": "https://www.fastcompany.com/90624522/world-changing-ideas-awards-2021-asia-pacific-finalists-and-honorable-mentions",
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious"
-    }
+    "kiwrious"
   ]
 }

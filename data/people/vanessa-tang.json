@@ -1,5 +1,4 @@
 {
-  "id": "vanessa-tang",
   "slug": "vanessa-tang",
   "name": "Vanessa Tang",
   "role": "Research Assistant",
@@ -11,71 +10,17 @@
       "end": "2026-04"
     }
   ],
-  "profile_url": "https://ahlab.org/people/vanessa-tang/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/vanessa-tang/vanessa-tang.jpg",
   "bio": "Vanessa completed MEng Chemical Engineering from Imperial College London, specialising in Biotechnology. Her passion lies in innovation, social impact and entrepreneurship.\n\nVanessa co-founded Moonshot with the aim to bring university students together to solve the world's greatest problems. Her final year research project in using Machine Learning approach to cancer classification motivated further exploration in the field of bio/med tech.\n\nIn her spare time, she reads, hikes, bakes, plays squash, goes bouldering, and is now trying to get into boxing/judo.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    },
-    {
-      "slug": "vrhook",
-      "title": "VRHook",
-      "url": "/projects/vrhook/"
-    }
+    "aisee",
+    "vrhook"
   ],
   "publications": [
-    {
-      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
-      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2229485"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
-        }
-      ],
-      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
-      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
-    },
-    {
-      "title": "VRhook: A Data Collection Tool for VR Motion Sickness Research",
-      "citation": "Wen, E., Kaluarachchi, T., Siriwardhana, S., Tang, V., Billinghurst, M., Lindeman, R.W., Yao, R., Lin, J. and Nanayakkara, S.C., 2022. VRhook: A Data Collection Tool for VR Motion Sickness Research. In The 35th Annual ACM Symposium on User Interface Software and Technology (UIST ’22), October 29-November 2, 2022, Bend, OR, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3526113.3545656"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/19XmsgbOQoJD8cteFliCCo2UBbd-6XShr/view?usp=sharing"
-        }
-      ],
-      "slug": "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
-      "url": "/publications/#vrhook-a-data-collection-tool-for-vr-motion-sickness-research"
-    },
-    {
-      "title": "Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting",
-      "citation": "Dissanayake V., Tang V., Elvitigala D.S., Wen E., Wu M., Nanayakkara S.C. 2022. Troi: Towards Understanding Users Perspectives to Mobile Automatic Emotion Recognition System in Their Natural Setting. In Proceedings of the 24th International Conference on Mobile Human-Computer Interaction.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1GhP_cGVEGYihifpJsfKpFDu7rJg7g90m/view?usp=share_link"
-        },
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3546738"
-        }
-      ],
-      "slug": "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting",
-      "url": "/publications/#troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
-    }
+    "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+    "vrhook-a-data-collection-tool-for-vr-motion-sickness-research",
+    "troi-towards-understanding-users-perspectives-to-mobile-automatic-emotion-recognition-system-in-their-natural-setting"
   ],
   "career": [
     {

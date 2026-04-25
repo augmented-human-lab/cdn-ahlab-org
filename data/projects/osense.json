@@ -1,51 +1,18 @@
 {
-  "id": "osense",
   "slug": "osense",
   "title": "oSense",
   "year": "2018",
   "description": "oSense uses motion sensors to recover finger postures and motion, in order to detect the type of object held in hand, and the activity the user is performing with the object. Its applications include guiding activities such as preparing a meal; and activity trackings, such as drinking of water and writing. This work has been submitted and accepted at the Augmented Human International Conference 2019 (AH2019) and will be presented in March this year in Reims, France.",
-  "project_url": "https://ahlab.org/project/osense/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/osense/osense.jpg",
   "people": [
-    {
-      "slug": "thisum-buddhika",
-      "name": "Thisum Buddhika",
-      "url": "/people/thisum-buddhika/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "chamod-weerasinghe",
-      "name": "Chamod Weerasinghe",
-      "url": "/people/chamod-weerasinghe/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "thisum-buddhika",
+    "haimo-zhang",
+    "chamod-weerasinghe",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "oSense: Object-Activity Identification Based on Gasping Posture and Motion",
-      "citation": "Buddhika, T., Zhang, H., Weerasinghe, C., Nanayakkara, S.C. and Zimmermann, R., 2019, March. OSense: Object-activity identification based on gasping posture and motion. In Proceedings of the 10th Augmented Human International Conference 2019 (pp. 1-5).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3311823.3311841"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1jYB9EbB5Ew_xlRgF5zZ2smbUTe1lz9ij/view?usp=sharing"
-        }
-      ],
-      "slug": "osense-object-activity-identification-based-on-gasping-posture-and-motion",
-      "url": "/publications/#osense-object-activity-identification-based-on-gasping-posture-and-motion"
-    }
+    "osense-object-activity-identification-based-on-gasping-posture-and-motion"
   ],
   "principles": [
     "body",

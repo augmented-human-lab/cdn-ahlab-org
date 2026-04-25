@@ -1,5 +1,4 @@
 {
-  "id": "mit-researchers-design-ring-to-help-visually-impaired-people-read",
   "slug": "mit-researchers-design-ring-to-help-visually-impaired-people-read",
   "title": "MIT Researchers Design Ring To Help Visually-Impaired People Read",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Olivia B. Waxman, TIME",
   "url": "http://newsfeed.time.com/2014/02/20/mit-scientists-design-ring-to-help-visually-impaired-people-read/",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

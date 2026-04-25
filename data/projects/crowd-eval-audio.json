@@ -1,51 +1,18 @@
 {
-  "id": "crowd-eval-audio",
   "slug": "crowd-eval-audio",
   "title": "Crowd-Eval-Audio",
   "year": "2023",
   "description": "Novel AI-generated audio samples are evaluated for descriptive qualities such as the smoothness of a morph using crowdsourced human listening tests. However, the methods to design interfaces for such experiments and to effectively articulate the descriptive audio quality under test receive very little attention in the evaluation metrics literature. In this paper, we explore the use of visual metaphors of image-schema to design interfaces to evaluate AI-generated audio. Furthermore, we highlight the importance of framing and contextualizing a descriptive audio quality under measurement using such constructs. Using both pitched sounds and textures, we conduct two sets of experiments to investigate how the quality of responses vary with audio and task complexities. Our results show that, in both cases, by using image-schemas we can improve the quality and consensus of AI-generated audio evaluations. Our findings reinforce the importance of interface design for listening tests and stationary visual constructs to communicate temporal qualities of AI-generated audio samples, especially to naïve listeners on crowdsourced platforms.\n\nThrough this paper, we aim to provide future researchers working at the intersection of HCI and audio AI with novel intuitive representations of audio quality, with an application for obtaining crowdsourced evaluation of audio samples. In summary, the main contributions of this research are:\n\nWe show that directional image-schemas assist in evaluating sound progression in AI-generated general audio better than language alternatives.\n\nSome sample experiments with pitched and texture sound examples can be auditioned on our website: https://animatedsound.com/research/iui2023/crowdaudio/ The source code for the listening test framework can be found at: https://github.com/pkamath2/crowd-eval-audio",
-  "project_url": "https://ahlab.org/project/crowd-eval-audio/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/crowd-eval-audio/crowd-eval-audio.jpg",
   "people": [
-    {
-      "slug": "purnima-kamath",
-      "name": "Purnima Kamath",
-      "url": "/people/purnima-kamath/"
-    },
-    {
-      "slug": "chitralekha-gupta",
-      "name": "Chitralekha Gupta",
-      "url": "/people/chitralekha-gupta/"
-    },
-    {
-      "slug": "lonce-wyse",
-      "name": "Lonce Wyse",
-      "url": "/people/lonce-wyse/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "purnima-kamath",
+    "chitralekha-gupta",
+    "lonce-wyse",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas",
-      "citation": "Kamath, P., Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S.C. and Wyse, L. 2023. Evaluating Descriptive Quality of AI Generated Audio Using Image-Schemas. In 28th International Conference on Intelligent User Interfaces (IUI ’23), March 27–31, 2023, Sydney, NSW, Australia.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3581641.3584083"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/12oQ4uEVB4J1wura4sL9fYQEb8hnTkFtM/view?usp=sharing"
-        }
-      ],
-      "slug": "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas",
-      "url": "/publications/#evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas"
-    }
+    "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas"
   ],
   "principles": [
     "cognitive",

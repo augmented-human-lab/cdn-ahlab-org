@@ -1,10 +1,8 @@
 {
-  "id": "aisee",
   "slug": "aisee",
   "title": "AiSee",
   "year": "2025",
   "description": "The Project AiSee aims to create an assistive device that sustainably changes how people with visual impairments (PVI) can independently access information on the go. Our engagements with PVI users and caretakers have revealed numerous difficulties with existing state-of-the-art technologies, including problems with accuracy, efficiency, cost, and social acceptability. With AiSee, we address these challenges through a novel AI-powered wearable technology. It is a visual companion that is always ready to help, a user simply needs to ask a question to find out more about what it can see.",
-  "project_url": "https://ahlab.org/project/aisee/",
   "external_links": [
     {
       "kind": "website",
@@ -14,104 +12,25 @@
   ],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/aisee/aisee.jpg",
   "people": [
-    {
-      "slug": "hussel-suriyaarachchi",
-      "name": "Hussel Suriyaarachchi",
-      "url": "/people/hussel-suriyaarachchi/"
-    },
-    {
-      "slug": "yasith-samaradivakara",
-      "name": "Yasith Samaradivakara",
-      "url": "/people/yasith-samaradivakara/"
-    },
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "shreyas-sridhar",
-      "name": "Shreyas Sridhar",
-      "url": "/people/shreyas-sridhar/"
-    },
-    {
-      "slug": "vanessa-tang",
-      "name": "Vanessa Tang",
-      "url": "/people/vanessa-tang/"
-    },
-    {
-      "slug": "jaliya-kodithuwakku",
-      "name": "Jaliya Kodithuwakku",
-      "url": "/people/jaliya-kodithuwakku/"
-    },
-    {
-      "slug": "yadeesha-weerasinghe",
-      "name": "Yadeesha Weerasinghe",
-      "url": "/people/yadeesha-weerasinghe/"
-    },
-    {
-      "slug": "priambudi-lintang-bagaskara",
-      "name": "Priambudi Lintang Bagaskara",
-      "url": "/people/priambudi-lintang-bagaskara/"
-    },
-    {
-      "slug": "praveen-sasikumar",
-      "name": "Praveen Sasikumar",
-      "url": "/people/praveen-sasikumar/"
-    },
-    {
-      "slug": "suveen-ellawela",
-      "name": "Suveen Ellawela",
-      "url": "/people/suveen-ellawela/"
-    },
-    {
-      "slug": "alaeddin-nassani",
-      "name": "Alaeddin Nassani",
-      "url": "/people/alaeddin-nassani/"
-    },
-    {
-      "slug": "shamane-siriwardhana",
-      "name": "Shamane Siriwardhana",
-      "url": "/people/shamane-siriwardhana/"
-    },
-    {
-      "slug": "thisum-buddhika",
-      "name": "Thisum Buddhika",
-      "url": "/people/thisum-buddhika/"
-    },
-    {
-      "slug": "chamod-weerasinghe",
-      "name": "Chamod Weerasinghe",
-      "url": "/people/chamod-weerasinghe/"
-    },
-    {
-      "slug": "roger-boldu",
-      "name": "Roger Boldu",
-      "url": "/people/roger-boldu/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "hussel-suriyaarachchi",
+    "yasith-samaradivakara",
+    "yeo-kian-peen",
+    "shreyas-sridhar",
+    "vanessa-tang",
+    "jaliya-kodithuwakku",
+    "yadeesha-weerasinghe",
+    "priambudi-lintang-bagaskara",
+    "praveen-sasikumar",
+    "suveen-ellawela",
+    "alaeddin-nassani",
+    "shamane-siriwardhana",
+    "thisum-buddhika",
+    "chamod-weerasinghe",
+    "roger-boldu",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers",
-      "citation": "Boldu, R., Matthies, D.J., Zhang, H. and Nanayakkara, S.C., 2020. AiSee: An Assistive Wearable Device to Support Visually Impaired Grocery Shoppers. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(4), pp.1-25.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3432196"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/177bq2QQ2R957Mc_fa77Erk108vbO5x9O/view?usp=sharing"
-        }
-      ],
-      "slug": "aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers",
-      "url": "/publications/#aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers"
-    }
+    "aisee-an-assistive-wearable-device-to-support-visually-impaired-grocery-shoppers"
   ],
   "principles": [
     "body",

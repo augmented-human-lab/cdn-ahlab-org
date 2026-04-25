@@ -1,5 +1,4 @@
 {
-  "id": "the-interactive-device-you-can-stick-in-your-mouth",
   "slug": "the-interactive-device-you-can-stick-in-your-mouth",
   "title": "The interactive device you can stick in your mouth",
   "year": "2019",
@@ -7,9 +6,6 @@
   "outlet": null,
   "url": "https://www.auckland.ac.nz/en/news/2019/02/18/interactive-device-stick-in-your-mouth.html",
   "projects": [
-    {
-      "slug": "chewit",
-      "title": "ChewIt"
-    }
+    "chewit"
   ]
 }

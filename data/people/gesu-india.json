@@ -1,5 +1,4 @@
 {
-  "id": "gesu-india",
   "slug": "gesu-india",
   "name": "Gesu India",
   "role": "Research Attachment",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/gesu-india/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/gesu-india/gesu-india.jpg",
   "bio": "Gesu is working as an intern at Augmented Human Lab, SUTD for the summer of 2017. Through her work, she tries to explore various ways of improving the quality of life of differently able individuals through seamless Human Computer Interactions and improvements in Computer Accessibility. At AH Lab, she is working on designing a game for visually impaired children to enhance their spatial skill and awareness.\n\nGesu is a final year undergraduate student at the Indian Institute of Technology (IIT) Patna. In the past, she has been a part of Industrial Design Center, IIT Bombay and Department of Design, IIT Guwahati exploring and improving various aspects of HCI like usable security and accessible interfaces.",
   "external_links": [],

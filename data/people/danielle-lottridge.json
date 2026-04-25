@@ -1,11 +1,9 @@
 {
-  "id": "danielle-lottridge",
   "slug": "danielle-lottridge",
   "name": "Danielle Lottridge",
   "role": "Senior Lecturer",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/danielle-lottridge/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/danielle-lottridge/danielle-lottridge.jpg",
   "bio": "Danielle is a Senior Lecturer in the Department of Computer Science at the University of Auckland, New Zealand. The senior lecturer title is equivalent to associate professor in North American universities. Her research areas are in human computer interaction and human factors engineering, with interests in multitasking, user behavior and the design of mass-market and health technologies. She is an official academic collaborator with Yahoo/Oath.\n\nBefore starting at the University of Auckland, Danielle was a Postdoctoral Fellow at Stanford University. She obtained a PhD in Human Factors Engineering from University of Toronto.",
   "external_links": [
@@ -15,29 +13,10 @@
     }
   ],
   "projects": [
-    {
-      "slug": "magicblocks",
-      "title": "MagicBLOCKS",
-      "url": "/projects/magicblocks/"
-    }
+    "magicblocks"
   ],
   "publications": [
-    {
-      "title": "Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism",
-      "citation": "Wu, Q., Xu, R., Liu, V., Lottridge, Danielle., and Nanayakkara, S.C. 2022. Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism. Proc. ACM Hum.-Comput. Interact. 6, ISS, Article 563 (December 2022), 24 pages. Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3567716"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1dYyg1of9NPlN7IEyhkHiTpzUtywJYTMP/view?usp=sharing"
-        }
-      ],
-      "slug": "players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism",
-      "url": "/publications/#players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism"
-    }
+    "players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism"
   ],
   "career": [
     {

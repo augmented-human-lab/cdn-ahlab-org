@@ -1,5 +1,4 @@
 {
-  "id": "qin-wu",
   "slug": "qin-wu",
   "name": "Qin Wu",
   "email": "qin@ahlab.org",
@@ -12,140 +11,22 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/qin-wu/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/qin-wu/qin-wu.jpg",
   "bio": "Qin received the M.F.A. degree in information arts and design from Tsinghua University, China, in 2016. Her research area includes human-computer interaction, user experience, and accessibility. Her PhD research focuses on using interactive technologies to help children with autism, especially in daily activities learning and social skills improve. She is also the lab director and leads the Interactive Media Studio .\n\nQin grew up in Sichuan, China. In her spare time, she enjoys playing guitar and football.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "kiwrious",
-      "title": "Kiwrious",
-      "url": "/projects/kiwrious/"
-    },
-    {
-      "slug": "magicblocks",
-      "title": "MagicBLOCKS",
-      "url": "/projects/magicblocks/"
-    },
-    {
-      "slug": "jammify",
-      "title": "Jammify",
-      "url": "/projects/jammify/"
-    }
+    "kiwrious",
+    "magicblocks",
+    "jammify"
   ],
   "publications": [
-    {
-      "title": "Augmented Tabletop Interaction as an Assistive Tool: Tidd’s Role in Daily Life Skills Training for Autistic Children",
-      "citation": "Wu, Q., Wang, W., Liu, Q., Zhang, R., Pai, Y.S., Billinghurst, M. and Nanayakkara, S.C., 2025. Augmented tabletop interaction as an assistive tool: Tidd’s role in daily life skills training for autistic children. International Journal of Human-Computer Studies, p.103517.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1016/j.ijhcs.2025.103517"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1ewUCSSh27_SffFbCk7AbVU74bM-_TlID/view?usp=sharing"
-        }
-      ],
-      "slug": "augmented-tabletop-interaction-as-an-assistive-tool-tidds-role-in-daily-life-skills-training-for-autistic-children",
-      "url": "/publications/#augmented-tabletop-interaction-as-an-assistive-tool-tidds-role-in-daily-life-skills-training-for-autistic-children"
-    },
-    {
-      "title": "Early Autism Screening in Children Using Facial Recognition",
-      "citation": "Wu, Q., Xiao, X., Liu, Y., Billinghurst, M. and Nanayakkara, S.C., 2024, May. Early autism screening in children using facial recognition. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-7)",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613905.3651045"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1KuR88zGwSXJeohUUl9fdpgd8pH_YqcUn/view?usp=drive_link"
-        }
-      ],
-      "slug": "early-autism-screening-in-children-using-facial-recognition",
-      "url": "/publications/#early-autism-screening-in-children-using-facial-recognition"
-    },
-    {
-      "title": "Designing Interactive Technology to Support Children with Autism",
-      "citation": "Wu., Q. 2024. Designing Interactive Technology to Support Children with Autism. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613905.3638192"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1uH8vCjTU95wyOvQDxMMi-F15xkp2IK80/view?usp=sharing"
-        }
-      ],
-      "slug": "designing-interactive-technology-to-support-children-with-autism",
-      "url": "/publications/#designing-interactive-technology-to-support-children-with-autism"
-    },
-    {
-      "title": "Tidd: Augmented Tabletop Interaction Supports Children with Autism to Train Daily Living Skills",
-      "citation": "Wu, Q., Wang, W., Liu, Q., Cao, J., Xu, D. and Nanayakkara, S.C., 2023. Tidd: Augmented Tabletop Interaction Supports Children with Autism to Train Daily Living Skills. In ACM SIGGRAPH 2023 Posters (pp. 1-2).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3588028.3603674"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1FCysSYe5KHNdxMQS5Mq7m84Q_a7ygOzs/view?usp=sharing"
-        }
-      ],
-      "slug": "tidd-augmented-tabletop-interaction-supports-children-with-autism-to-train-daily-living-skills",
-      "url": "/publications/#tidd-augmented-tabletop-interaction-supports-children-with-autism-to-train-daily-living-skills"
-    },
-    {
-      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
-      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2229485"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
-        }
-      ],
-      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
-      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
-    },
-    {
-      "title": "Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism",
-      "citation": "Wu, Q., Xu, R., Liu, V., Lottridge, Danielle., and Nanayakkara, S.C. 2022. Players and performance: opportunities for social interaction with augmented tabletop games at centres for children with autism. Proc. ACM Hum.-Comput. Interact. 6, ISS, Article 563 (December 2022), 24 pages. Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3567716"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1dYyg1of9NPlN7IEyhkHiTpzUtywJYTMP/view?usp=sharing"
-        }
-      ],
-      "slug": "players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism",
-      "url": "/publications/#players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism"
-    },
-    {
-      "title": "Jammify: Interactive Multi-Sensory System for Digital Art Jamming",
-      "citation": "Muthukumarana S., Elvitigala D.S., Wu Q., Pai Y.S., Nanayakkara S.C. 2021. Jammify: Interactive Multi-sensory System for Digital Art Jamming. In Human-Computer-Interaction – INTERACT 2021, Springer International Publishing, Cham, 23–41",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1007/978-3-030-85607-6_2"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1IYyGOWazrK5HxzO-s2Bx687PW2n6E-JH/view?usp=sharing"
-        }
-      ],
-      "slug": "jammify-interactive-multi-sensory-system-for-digital-art-jamming",
-      "url": "/publications/#jammify-interactive-multi-sensory-system-for-digital-art-jamming"
-    }
+    "augmented-tabletop-interaction-as-an-assistive-tool-tidds-role-in-daily-life-skills-training-for-autistic-children",
+    "early-autism-screening-in-children-using-facial-recognition",
+    "designing-interactive-technology-to-support-children-with-autism",
+    "tidd-augmented-tabletop-interaction-supports-children-with-autism-to-train-daily-living-skills",
+    "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+    "players-and-performance-opportunities-for-social-interaction-with-augmented-tabletop-games-at-centres-for-children-with-autism",
+    "jammify-interactive-multi-sensory-system-for-digital-art-jamming"
   ],
   "career": [
     {

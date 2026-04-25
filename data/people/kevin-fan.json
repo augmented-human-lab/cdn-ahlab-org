@@ -1,5 +1,4 @@
 {
-  "id": "kevin-fan",
   "slug": "kevin-fan",
   "name": "Kevin Fan",
   "role": "Research Attachment",
@@ -11,54 +10,16 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/kevin-fan/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/kevin-fan/kevin-fan.jpg",
   "bio": "Kevin graduated from the University of British Columbia with a Bachelor’s Degree in Software Engineering. Now Kevin is pursuing PhD in the School of Media Design in Keio University(KMD). Kevin’s research is in the field of HCI, cross-modal sensations, VR, AR. Kevin joined the Augmented Senses group as an intern student.\n\nIn leisure time, Kevin enjoys sports such as basketball and cycling, cooking, and eating.\n\nWebsite: www.kevinfan.com",
   "external_links": [],
   "projects": [
-    {
-      "slug": "spidervision",
-      "title": "SpiderVision",
-      "url": "/projects/spidervision/"
-    }
+    "spidervision"
   ],
   "publications": [
-    {
-      "title": "Electrosmog Visualization through Augmented Blurry Vision",
-      "citation": "Fan, K., Seigneur, J.M., Nanayakkara, S.C. and Inami, M., 2016, February. Electrosmog visualization through augmented blurry vision. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/a35-fan.pdf"
-        }
-      ],
-      "slug": "electrosmog-visualization-through-augmented-blurry-vision",
-      "url": "/publications/#electrosmog-visualization-through-augmented-blurry-vision"
-    },
-    {
-      "title": "Augmented Winter Ski with AR HMD",
-      "citation": "Fan, K., Seigneur, J.M., Guislain, J., Nanayakkara, S.C. and Inami, M., 2016, February. Augmented winter ski with ar hmd. In Proceedings of the 7th Augmented Human International Conference 2016 (pp. 1-2).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/a34-fan.pdf"
-        }
-      ],
-      "slug": "augmented-winter-ski-with-ar-hmd",
-      "url": "/publications/#augmented-winter-ski-with-ar-hmd"
-    },
-    {
-      "title": "SpiderVision: Extending the Human Field of View for Augmented Awareness",
-      "citation": "Fan, K., Huber, J., Nanayakkara, S.C. and Inami, M., 2014, March. SpiderVision: extending the human field of view for augmented awareness. In Proceedings of the 5th augmented human international conference (pp. 1-8).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://doi.acm.org/10.1145/2582051.2582100"
-        }
-      ],
-      "slug": "spidervision-extending-the-human-field-of-view-for-augmented-awareness",
-      "url": "/publications/#spidervision-extending-the-human-field-of-view-for-augmented-awareness"
-    }
+    "electrosmog-visualization-through-augmented-blurry-vision",
+    "augmented-winter-ski-with-ar-hmd",
+    "spidervision-extending-the-human-field-of-view-for-augmented-awareness"
   ],
   "career": [
     {

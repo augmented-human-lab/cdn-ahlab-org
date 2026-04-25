@@ -1,41 +1,16 @@
 {
-  "id": "xr-floatation-therapy",
   "slug": "xr-floatation-therapy",
   "title": "XR Floatation Therapy",
   "year": "2024",
   "description": "Could a playful extended reality floatation tank experience reduce fear of being in water? This project was conducted in collaboration with Maria Fernanda Montoya Vega (Mafe), a PhD student from Monash University (Exertion Games Lab).\n\nFind out more at: https://exertiongameslab.org/fluito-interactive-wellness",
-  "project_url": "https://ahlab.org/project/xr-floatation-therapy/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/xr-floatation-therapy/xr-floatation-therapy.jpg",
   "people": [
-    {
-      "slug": "prasanth-sasikumar",
-      "name": "Prasanth Sasikumar",
-      "url": "/people/prasanth-sasikumar/"
-    },
-    {
-      "slug": "hannah-qiao",
-      "name": "Hannah Qiao",
-      "url": "/people/hannah-qiao/"
-    }
+    "prasanth-sasikumar",
+    "hannah-qiao"
   ],
   "publications": [
-    {
-      "title": "Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water",
-      "citation": "Montoya, M.F., Qiao, H., Sasikumar, P., Elvitigala, D.S., Pell, S.J., Nanayakkara, S.C, Mueller, F. ‘Floyd’, 2024. Exploring an Extended Reality Floatation Tank Experience to Reduce the Fear of Being in Water. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613904.3642285"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1kFNShCVypGn7mNFvkka4nwg2KH-qgEDN/view?usp=drive_link"
-        }
-      ],
-      "slug": "exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water",
-      "url": "/publications/#exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water"
-    }
+    "exploring-an-extended-reality-floatation-tank-experience-to-reduce-the-fear-of-being-in-water"
   ],
   "principles": [
     "cognitive",

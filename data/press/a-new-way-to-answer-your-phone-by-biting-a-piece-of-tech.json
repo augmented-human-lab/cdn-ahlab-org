@@ -1,5 +1,4 @@
 {
-  "id": "a-new-way-to-answer-your-phone-by-biting-a-piece-of-tech",
   "slug": "a-new-way-to-answer-your-phone-by-biting-a-piece-of-tech",
   "title": "A new way to answer your phone by biting a piece of tech",
   "year": "2019",
@@ -7,9 +6,6 @@
   "outlet": "Springwise",
   "url": "https://www.springwise.com/a-new-way-to-answer-your-phone-by-biting-a-piece-of-tech/",
   "projects": [
-    {
-      "slug": "chewit",
-      "title": "ChewIt"
-    }
+    "chewit"
   ]
 }

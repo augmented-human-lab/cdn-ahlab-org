@@ -1,5 +1,4 @@
 {
-  "id": "haptic-chair-rupavahini-interview-part-1",
   "slug": "haptic-chair-rupavahini-interview-part-1",
   "title": "Haptic Chair - rupavahini interview Part 1",
   "year": "2010",
@@ -7,21 +6,9 @@
   "outlet": "Sri Lanka Rupavahini, 2010",
   "url": "http://www.youtube.com/watch?v=yDPutKutT1I",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    },
-    {
-      "slug": "stickear",
-      "title": "StickEar"
-    },
-    {
-      "slug": "hapticchair",
-      "title": "HapticChair"
-    }
+    "fingerreader",
+    "fingerreader-v0",
+    "stickear",
+    "hapticchair"
   ]
 }

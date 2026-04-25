@@ -1,46 +1,17 @@
 {
-  "id": "seear",
   "slug": "seear",
   "title": "SeEar",
   "year": "2024",
   "description": "Deaf and hard-of-hearing (DHH) students often encounter challenges in their educational settings, particularly in language literacy development, due to limited exposure to written and spoken language. We, therefore, adopted a User-Centered Design (UCD) process collaborated with 8 DHH students and 2 Teachers of the Deaf (ToDs) from a School for Deaf in Sri Lanka to develop and utilize a low-cost augmented reality (AR) system incorporated with localized real-time captions, aiming to enhance their learning experience. We designed caption presentation and placement methods, markups for inaccurate ASR transcriptions, and wearer speech visualizations addressing the existing design limitations of AR caption interfaces. User study with 24 DHH participants revealed a strong preference (87.5%) for our prototype and highlighted its potential to enhance the learning experiences.",
-  "project_url": "https://ahlab.org/project/seear/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/seear/seear.jpg",
   "people": [
-    {
-      "slug": "yasith-samaradivakara",
-      "name": "Yasith Samaradivakara",
-      "url": "/people/yasith-samaradivakara/"
-    },
-    {
-      "slug": "prasanth-sasikumar",
-      "name": "Prasanth Sasikumar",
-      "url": "/people/prasanth-sasikumar/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "yasith-samaradivakara",
+    "prasanth-sasikumar",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings",
-      "citation": "Samaradivakara, Y., Ushan, T., Pathirage, A., Sasikumar, P., Karunanayaka, K., Keppitiyagama, C., Nanayakkara, S.C, 2024. SeEar: Tailoring Real-time AR Caption Interfaces for Deaf and Hard-of-Hearing (DHH) Students in Specialized Educational Settings. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613905.3650974"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Lea70xKlKilhKwF3W31LFrolj7sBZ5ri/view?usp=sharing"
-        }
-      ],
-      "slug": "seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings",
-      "url": "/publications/#seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings"
-    }
+    "seear-tailoring-real-time-ar-caption-interfaces-for-deaf-and-hard-of-hearing-dhh-students-in-specialized-educational-settings"
   ],
   "principles": [
     "cognitive",

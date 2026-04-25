@@ -1,83 +1,20 @@
 {
-  "id": "sonicvista",
   "slug": "sonicvista",
   "title": "SonicVista",
   "year": "2025",
   "description": "Spatial awareness, particularly awareness of distant environmental scenes known as the Vista space, is crucial and contributes to the cognitive and aesthetic needs of People with Visual Impairments (PVI). In this project, we investigate AI-based audio generative models to design sounds that can create awareness and experience of vista-space scenes.",
-  "project_url": "https://ahlab.org/project/sonicvista/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/sonicvista/sonicvista.jpg",
   "people": [
-    {
-      "slug": "chitralekha-gupta",
-      "name": "Chitralekha Gupta",
-      "url": "/people/chitralekha-gupta/"
-    },
-    {
-      "slug": "shreyas-sridhar",
-      "name": "Shreyas Sridhar",
-      "url": "/people/shreyas-sridhar/"
-    },
-    {
-      "slug": "denys-matthies",
-      "name": "Denys Matthies",
-      "url": "/people/denys-matthies/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "chitralekha-gupta",
+    "shreyas-sridhar",
+    "denys-matthies",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes",
-      "citation": "Gupta, C., Peng, J., Ram, A., Sridhar, S., Jouffrais, C., Nanayakkara, S.C., 2026. Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791655"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1vTkl0YF-Komg84lNa2_18UB_5fK25vIM/view?usp=sharing"
-        }
-      ],
-      "slug": "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes",
-      "url": "/publications/#beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes"
-    },
-    {
-      "title": "Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People",
-      "citation": "Gupta, C., Ram, A., Sridhar, S., Jouffrais, C. and Nanayakkara, S. C., 2025, April. Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-9).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706599.3719849"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1P9tDkBXMwmtesGTh-TWgldmcurpBMh7z/view?usp=drive_link"
-        }
-      ],
-      "slug": "scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people",
-      "url": "/publications/#scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people"
-    },
-    {
-      "title": "SonicVista: Towards Creating Awareness of Distant Scenes through Sonification",
-      "citation": "Gupta, C., Sridhar, S., Matthies, D.J., Jouffrais, C. and Nanayakkara, S.C., 2024. SonicVista: Towards Creating Awareness of Distant Scenes through Sonification. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), pp.1-32.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3659609"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1VgtLBPs03dJodsN6_7-yPfqLuceCGBSj/view?usp=sharing"
-        }
-      ],
-      "slug": "sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification",
-      "url": "/publications/#sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification"
-    }
+    "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes",
+    "scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people",
+    "sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification"
   ],
   "principles": [
     "cognitive",

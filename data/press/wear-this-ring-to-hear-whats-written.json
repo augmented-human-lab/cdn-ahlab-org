@@ -1,5 +1,4 @@
 {
-  "id": "wear-this-ring-to-hear-whats-written",
   "slug": "wear-this-ring-to-hear-whats-written",
   "title": "Wear this ring to hear what's written",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Hoe Pei Shan, Straits Times",
   "url": "https://cloud.asghub.sutd.edu.sg/public.php?service=files&t=fa5ebeba820ac255844914d055a3c91d",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

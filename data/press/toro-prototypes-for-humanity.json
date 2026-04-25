@@ -1,5 +1,4 @@
 {
-  "id": "toro-prototypes-for-humanity",
   "slug": "toro-prototypes-for-humanity",
   "title": "Toro | Prototypes for Humanity",
   "year": "2023",
@@ -7,9 +6,6 @@
   "outlet": null,
   "url": "https://www.prototypesforhumanity.com/project/toro/",
   "projects": [
-    {
-      "slug": "toro",
-      "title": "Toro"
-    }
+    "toro"
   ]
 }

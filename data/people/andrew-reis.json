@@ -1,5 +1,4 @@
 {
-  "id": "andrew-reis",
   "slug": "andrew-reis",
   "name": "Andrew Reis",
   "role": "Master Student",
@@ -11,60 +10,14 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/andrew-reis/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/andrew-reis/andrew-reis.jpg",
   "bio": "Andrew Reis is a software engineer and financial analyst who is currently completing a Master of Engineering at the University of Auckland. He has extensive experience working in the investment banking industry in both Asia and North America. He is also a self-taught software engineer specialising in web-based technologies and is currently working within the field of Artificial Intelligence. His research interest is interests include Affective Computing, Human-Computer Interaction and Machine Learning.\n\nBeyond this Andrew enjoys Brazilian Jiu-Jitsu, Hiking and e-Sports.",
   "external_links": [],
   "projects": [],
   "publications": [
-    {
-      "title": "Striving for Authentic and Sustained Technology Use in the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-Based Science Education Platform",
-      "citation": "Chua, Y., Cooray, S., Cortes, J.P.F., Denny, P., Dupuch, S., Garbett, D.L., Nassani, A., Cao, J., Qiao, H., Reis, A, Reis, D., Scholl, P.M., Sridhar, P.K., Suriyaarachchi, H., Taimana, F., Tang, V., Weerasinghe, C., Wen, E., Wu, M., Wu, Q., Zhang, H., Nanayakkara, S.C. 2023. Striving for Authentic and Sustained Technology Use In the Classroom: Lessons Learned from a Longitudinal Evaluation of a Sensor-based Science Education Platform. International Journal of Human–Computer Interaction (IJHCI).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1080/10447318.2023.2229485"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1fhABNfB6965rV6NJCIXlgrVl0Bgn6e6n/view?usp=sharing"
-        }
-      ],
-      "slug": "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
-      "url": "/publications/#striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform"
-    },
-    {
-      "title": "A Review of Recent Deep Learning Approaches in Human-Centered Machine Learning",
-      "citation": "Kaluarachchi, T., Reis, A., and Nanayakkara, S.C., 2021. A Review of Recent Deep Learning Approaches in Human-Centered Machine Learning. Sensors. 21(7):2514.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.3390/s21072514"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1nYpzCuuCe7nth0Q6C-ebAg9WHGpOsQKK/view?usp=sharing"
-        }
-      ],
-      "slug": "a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning",
-      "url": "/publications/#a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning"
-    },
-    {
-      "title": "Jointly Fine-Tuning \"BERT-like\" Self Supervised Models to Improve Multimodal Speech Emotion Recognition",
-      "citation": "Siriwardhana, S., Reis, A., Weerasekera, R., and Nanayakkara, S.C., 2020 Jointly Fine-Tuning “BERT-Like” Self Supervised Models to Improve Multimodal Speech Emotion Recognition. Proc. Interspeech 2020, 3755-3759",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.21437/Interspeech.2020-1212"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1wIWsr_58uAD_D6PCq2pQKOFw7CORBLWE/view?usp=sharing"
-        }
-      ],
-      "slug": "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition",
-      "url": "/publications/#jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition"
-    }
+    "striving-for-authentic-and-sustained-technology-use-in-the-classroom-lessons-learned-from-a-longitudinal-evaluation-of-a-sensor-based-science-education-platform",
+    "a-review-of-recent-deep-learning-approaches-in-human-centered-machine-learning",
+    "jointly-fine-tuning-bert-like-self-supervised-models-to-improve-multimodal-speech-emotion-recognition"
   ],
   "career": [
     {

@@ -1,5 +1,4 @@
 {
-  "id": "cutting-edge-festival-brings-together-digital-art-technology-and-virtual-experience",
   "slug": "cutting-edge-festival-brings-together-digital-art-technology-and-virtual-experience",
   "title": "Cutting-edge festival brings together digital art, technology and virtual experience",
   "year": "2021",
@@ -7,9 +6,6 @@
   "outlet": "The University of Auckland",
   "url": "https://www.auckland.ac.nz/en/news/2021/08/30/festival-of-digital-art-technology-and-virtual-experience.html",
   "projects": [
-    {
-      "slug": "lightsense",
-      "title": "LightSense"
-    }
+    "lightsense"
   ]
 }

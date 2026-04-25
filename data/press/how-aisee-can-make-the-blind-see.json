@@ -1,5 +1,4 @@
 {
-  "id": "how-aisee-can-make-the-blind-see",
   "slug": "how-aisee-can-make-the-blind-see",
   "title": "How AiSee Can Make the Blind 'See'",
   "year": "2025",
@@ -7,9 +6,6 @@
   "outlet": "Tech Briefs",
   "url": "https://www.techbriefs.com/component/content/article/52354-how-aisee-can-make-the-blind-see",
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee"
-    }
+    "aisee"
   ]
 }

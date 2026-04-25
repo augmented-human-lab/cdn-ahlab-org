@@ -1,5 +1,4 @@
 {
-  "id": "nadia-aritonang",
   "slug": "nadia-aritonang",
   "name": "Nadia Aritonang",
   "email": "nadia@ahlab.org",
@@ -12,34 +11,14 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/nadia-aritonang/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/nadia-aritonang/nadia-aritonang.jpg",
   "bio": "Victoria is a Master of Computing student with an AI specialization at the National University of Singapore. She previously obtained her bachelor's degree in Computer Science. Before her graduate studies, she worked for several years as a product designer in the e-commerce industry, where she developed an interest in Human-Computer Interaction (HCI). She is now focused on combining her passion for HCI with her academic specialization in machine learning.\n\nIn her free time, Victoria enjoys music, particularly playing the guitar and singing.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "factually",
-      "title": "Factually",
-      "url": "/projects/factually/"
-    }
+    "factually"
   ],
   "publications": [
-    {
-      "title": "Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information",
-      "citation": "Gupta, C.*, Aritonang, N.*, Rajendran D., Danry, V., Maes, P., and Nanayakkara, S. C., 2026. Feeling the Facts: Real-time Wearable Fact-checkers Can Use Nudges to Reduce User Belief in False Information. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791679"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1xVjShf-s0pN6DzpPrydxkbI2SQLsDk_J/view?usp=sharing"
-        }
-      ],
-      "slug": "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information",
-      "url": "/publications/#feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
-    }
+    "feeling-the-facts-real-time-wearable-fact-checkers-can-use-nudges-to-reduce-user-belief-in-false-information"
   ],
   "career": [
     {

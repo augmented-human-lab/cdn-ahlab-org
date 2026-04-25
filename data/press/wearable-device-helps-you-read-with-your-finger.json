@@ -1,5 +1,4 @@
 {
-  "id": "wearable-device-helps-you-read-with-your-finger",
   "slug": "wearable-device-helps-you-read-with-your-finger",
   "title": "Wearable device helps you read with your finger",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Fox Business News",
   "url": "http://video.foxbusiness.com/v/3261393774001/wearable-device-helps-you-read-with-your-finger",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

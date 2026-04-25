@@ -1,5 +1,4 @@
 {
-  "id": "hwan-yoo",
   "slug": "hwan-yoo",
   "name": "Hwan Yoo",
   "role": "Final Year Project Student",
@@ -11,7 +10,6 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/hwan-yoo/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/hwan-yoo/hwan-yoo.jpg",
   "bio": "Hwan is studying engineering at the University of Auckland, specializing in Engineering Science. He is doing his final year project with the Augmented Human Lab, working on adapting the Unsupervised Question-Answering machine to a specific domain. Hwan is interested in deep learning and AI, especially Computer Vision and Natural Language Processing.\n\nIn his spare times, he enjoys playing drums and working out at the gym.",
   "external_links": [],

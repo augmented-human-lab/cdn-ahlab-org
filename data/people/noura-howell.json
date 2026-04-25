@@ -1,5 +1,4 @@
 {
-  "id": "noura-howell",
   "slug": "noura-howell",
   "name": "Noura Howell",
   "role": "Research Attachment",
@@ -11,34 +10,14 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/noura-howell/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/noura-howell/noura-howell.jpg",
   "bio": "As of summer 2017, Noura is a visiting researcher with the Augmented Human Lab at SUTD. Her work explores relationships with biosensing in daily life. She develop alternative representations of biosensory data and studies experiences and interpretations around these artifacts, leveraging material properties to create new associations and interpretations. Through broadening the design space around biosensing, she probe what relationships with biosensory data might mean for our social relationships and sense of self. Currently she is a PhD student at the School of Information, UC Berkeley. Previously she worked at Intel Labs, MIT Media Lab, and Microsoft.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "doodle-daydream",
-      "title": "Doodle Daydream",
-      "url": "/projects/doodle-daydream/"
-    }
+    "doodle-daydream"
   ],
   "publications": [
-    {
-      "title": "Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers",
-      "citation": "Elvitigala, S., Chan, S. W. T., Howell, N., Matthies, D. J. and Nanayakkara, S. C., 2018, October. Doodle Daydream: An Interactive Display to Support Playful and Creative Interactions Between Co-workers. In Proceedings of the Symposium on Spatial User Interaction (pp. 186-186).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3267782.3274681"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1f1HKVvNJUjm2ZmrDFBJb09M2RK6g_swO/view?usp=sharing"
-        }
-      ],
-      "slug": "doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers",
-      "url": "/publications/#doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers"
-    }
+    "doodle-daydream-an-interactive-display-to-support-playful-and-creative-interactions-between-co-workers"
   ],
   "career": [
     {

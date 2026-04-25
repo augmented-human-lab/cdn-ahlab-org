@@ -1,198 +1,31 @@
 {
-  "id": "lonce-wyse",
   "slug": "lonce-wyse",
   "name": "Lonce Wyse",
   "role": "Associate Professor",
   "section": "Collaborators",
   "ahlab_stints": [],
-  "profile_url": "https://ahlab.org/people/lonce-wyse/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/lonce-wyse/lonce-wyse.jpg",
   "bio": "Lonce Wyse is a Associate Professor at the Department of Communication and New Media, National University of Singapore. He directs the IDMI Arts and Creativity Lab with its focus on sound in music and the arts. For his PhD (1994) in Cognitive and Neural Systems from Boston University he developed a computational model of musical pitch perception. He joined the Institute of Incomm Research in Singapore in 1994 where he designed and developed interactive sound systems. He is currently with the faculty of Communications and New Media at the National University of Singapore teaching in Sonic Arts and Media Aesthetics, and pursuing research in electroacoustic music creation, theory, and psychology.\n\nMore about Lonce: www.zwhome.org/~lonce/",
   "external_links": [],
   "projects": [
-    {
-      "slug": "crowd-eval-audio",
-      "title": "Crowd-Eval-Audio",
-      "url": "/projects/crowd-eval-audio/"
-    },
-    {
-      "slug": "audio-morph-gan",
-      "title": "Audio-Morph GAN",
-      "url": "/projects/audio-morph-gan/"
-    },
-    {
-      "slug": "sonicsg",
-      "title": "SonicSG",
-      "url": "/projects/sonicsg/"
-    },
-    {
-      "slug": "soundfloor",
-      "title": "SoundFloor",
-      "url": "/projects/soundfloor/"
-    },
-    {
-      "slug": "hapticchair",
-      "title": "HapticChair",
-      "url": "/projects/hapticchair/"
-    }
+    "crowd-eval-audio",
+    "audio-morph-gan",
+    "sonicsg",
+    "soundfloor",
+    "hapticchair"
   ],
   "publications": [
-    {
-      "title": "Example-Based Framework for Perceptually Guided Audio Texture Generation",
-      "citation": "Kamath, P., Gupta, C., Wyse, L., and Nanayakkara, S.C., “Example-Based Framework for Perceptually Guided Audio Texture Generation,” in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 32, pp. 2555-2565, 2024.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/TASLP.2024.3393741"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1FsLz7rr1eNn0SPOZ-3-_WDTh-eqK55L1/view?usp=sharing"
-        }
-      ],
-      "slug": "example-based-framework-for-perceptually-guided-audio-texture-generation",
-      "url": "/publications/#example-based-framework-for-perceptually-guided-audio-texture-generation"
-    },
-    {
-      "title": "Towards Controllable Audio Texture Morphing",
-      "citation": "Gupta C*., Kamath P*., Wei. Y., Li, Z., Nanayakkara S.C., Wyse L. 2023. Towards Controllable Audio Texture Morphing. In 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '23), 4-10 June, 2023, Rhodes Island, Greece.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Od3J7IHFhiZ0fUatCoNCzD7Fp0AFBfg1/view?usp=sharing"
-        }
-      ],
-      "slug": "towards-controllable-audio-texture-morphing",
-      "url": "/publications/#towards-controllable-audio-texture-morphing"
-    },
-    {
-      "title": "Evaluating Descriptive Quality of AI-Generated Audio Using Image-Schemas",
-      "citation": "Kamath, P., Li, Z., Gupta, C., Jaidka, K., Nanayakkara, S.C. and Wyse, L. 2023. Evaluating Descriptive Quality of AI Generated Audio Using Image-Schemas. In 28th International Conference on Intelligent User Interfaces (IUI ’23), March 27–31, 2023, Sydney, NSW, Australia.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3581641.3584083"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/12oQ4uEVB4J1wura4sL9fYQEb8hnTkFtM/view?usp=sharing"
-        }
-      ],
-      "slug": "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas",
-      "url": "/publications/#evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas"
-    },
-    {
-      "title": "SonicSG: From Floating to Sounding Pixels",
-      "citation": "Nanayakkara, S.C., Schroepfer, T., Wyse, L., Lian, A. and Withana, A., 2017, March. SonicSG: from floating to sounding pixels. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041190"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1wKFn3i8CcrO-L8pi0-3Kqa74dqC3dUMJ/view?usp=sharing"
-        }
-      ],
-      "slug": "sonicsg-from-floating-to-sounding-pixels",
-      "url": "/publications/#sonicsg-from-floating-to-sounding-pixels"
-    },
-    {
-      "title": "Enhancing Musical Experience for the Hearing-impaired using Visual and Haptic Displays",
-      "citation": "Nanayakkara S.C., Wyse L., Ong S.H. and Taylor E. “Enhancing Musical Experience for the Hearing-impaired using Visual and Haptic Inputs”, Human-Computer Interaction, 28 (2), pp.115-160, 2013.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://www.tandfonline.com/doi/abs/10.1080/07370024.2012.697006"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2013_2.pdf"
-        }
-      ],
-      "slug": "enhancing-musical-experience-for-the-hearing-impaired-using-visual-and-haptic-displays",
-      "url": "/publications/#enhancing-musical-experience-for-the-hearing-impaired-using-visual-and-haptic-displays"
-    },
-    {
-      "title": "The Haptic Chair as a Speech Training Aid for the Deaf",
-      "citation": "Nanayakkara, S.C., Wyse, L. and Taylor, E.A., 2012, November. The haptic chair as a speech training aid for the deaf. In Proceedings of the 24th Australian Computer-Human Interaction Conference (pp. 405-410).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012.pdf"
-        }
-      ],
-      "slug": "the-haptic-chair-as-a-speech-training-aid-for-the-deaf",
-      "url": "/publications/#the-haptic-chair-as-a-speech-training-aid-for-the-deaf"
-    },
-    {
-      "title": "Palm-area sensitivity to vibrotactile stimuli above 1 kHz",
-      "citation": "Wyse L., Nanayakkara S.C., Seekings, P., Ong S.H. and Taylor E. “Palm-area sensitivity to vibrotactile stimuli above 1 kHz”, NIME’12.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_wyse_2012.pdf"
-        }
-      ],
-      "slug": "palm-area-sensitivity-to-vibrotactile-stimuli-above-1-khz",
-      "url": "/publications/#palm-area-sensitivity-to-vibrotactile-stimuli-above-1-khz"
-    },
-    {
-      "title": "Effectiveness of the Haptic Chair in Speech Training",
-      "citation": "Nanayakkara, S.C., Wyse, L. and Taylor, E.A., 2012, October. Effectiveness of the haptic chair in speech training. In Proceedings of the 14th international ACM SIGACCESS conference on Computers and accessibility (pp. 235-236).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/2384916.2384970"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_nanayakkara_2012_2.pdf"
-        }
-      ],
-      "slug": "effectiveness-of-the-haptic-chair-in-speech-training",
-      "url": "/publications/#effectiveness-of-the-haptic-chair-in-speech-training"
-    },
-    {
-      "title": "The effect of visualizing audio targets in a musical listening and performance task",
-      "citation": "Wyse, L., Mitani, N. and Nanayakkara, S.C., 2011. The Effect of Visualizing Audio Targets in a Musical Listening and Performance Task. In NIME (pp. 304-307).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_wyse_2011_2.pdf"
-        }
-      ],
-      "slug": "the-effect-of-visualizing-audio-targets-in-a-musical-listening-and-performance-task",
-      "url": "/publications/#the-effect-of-visualizing-audio-targets-in-a-musical-listening-and-performance-task"
-    },
-    {
-      "title": "Biases and interaction effects in gestural acquisition of auditory targets using a hand-held device",
-      "citation": "Wyse, L., Nanayakkara, S.C. and Mitani, N., 2011, November. Biases and interaction effects in gestural acquisition of auditory targets using a hand-held device. In Proceedings of the 23rd Australian Computer-Human Interaction Conference (pp. 315-318).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/2071536.2071586"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p315-wyse.pdf"
-        }
-      ],
-      "slug": "biases-and-interaction-effects-in-gestural-acquisition-of-auditory-targets-using-a-hand-held-device",
-      "url": "/publications/#biases-and-interaction-effects-in-gestural-acquisition-of-auditory-targets-using-a-hand-held-device"
-    },
-    {
-      "title": "An enhanced musical experience for the deaf: design and evaluation of a music display and a haptic chair",
-      "citation": "Nanayakkara, S. C., Taylor, E., Wyse, L. and Ong, S. H. 2009. An enhanced musical experience for the deaf: design and evaluation of a music display and a haptic chair. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). Association for Computing Machinery, New York, NY, USA, 337–346.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1518701.1518756"
-        }
-      ],
-      "slug": "an-enhanced-musical-experience-for-the-deaf-design-and-evaluation-of-a-music-display-and-a-haptic-chair",
-      "url": "/publications/#an-enhanced-musical-experience-for-the-deaf-design-and-evaluation-of-a-music-display-and-a-haptic-chair"
-    }
+    "example-based-framework-for-perceptually-guided-audio-texture-generation",
+    "towards-controllable-audio-texture-morphing",
+    "evaluating-descriptive-quality-of-ai-generated-audio-using-image-schemas",
+    "sonicsg-from-floating-to-sounding-pixels",
+    "enhancing-musical-experience-for-the-hearing-impaired-using-visual-and-haptic-displays",
+    "the-haptic-chair-as-a-speech-training-aid-for-the-deaf",
+    "palm-area-sensitivity-to-vibrotactile-stimuli-above-1-khz",
+    "effectiveness-of-the-haptic-chair-in-speech-training",
+    "the-effect-of-visualizing-audio-targets-in-a-musical-listening-and-performance-task",
+    "biases-and-interaction-effects-in-gestural-acquisition-of-auditory-targets-using-a-hand-held-device",
+    "an-enhanced-musical-experience-for-the-deaf-design-and-evaluation-of-a-music-display-and-a-haptic-chair"
   ],
   "career": [
     {

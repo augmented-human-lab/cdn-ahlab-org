@@ -1,5 +1,4 @@
 {
-  "id": "priambudi-lintang-bagaskara",
   "slug": "priambudi-lintang-bagaskara",
   "name": "Priambudi Lintang Bagaskara",
   "email": "bagas@ahlab.org",
@@ -12,44 +11,16 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/priambudi-lintang-bagaskara/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/priambudi-lintang-bagaskara/priambudi-lintang-bagaskara.jpg",
   "bio": "Bagas is currently pursuing a master's degree specializing in Information Systems at NUS, having previously earned a bachelor's degree in Computer Science. With a strong professional background as a software engineer, Bagas dedicates some of his free time to teaching aspiring web developers in an online boot camp.\n\nHe also spent most of his free time in the Arcade, playing a racing game. Additionally, he is renowned within the global community for his exceptional skills in this racing game and is known as one of the fastest players in the world.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    },
-    {
-      "slug": "sound-designer-generative-ai-interactions",
-      "title": "Sound Designer-Generative AI Interactions",
-      "url": "/projects/sound-designer-generative-ai-interactions/"
-    },
-    {
-      "slug": "itiles",
-      "title": "iTILES",
-      "url": "/projects/itiles/"
-    }
+    "aisee",
+    "sound-designer-generative-ai-interactions",
+    "itiles"
   ],
   "publications": [
-    {
-      "title": "Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers",
-      "citation": "Kamath, P., Morreale, F., Bagaskara, P.L., Wei, Y., and Nanayakkara, S.C. 2024. Sound Designer-Generative AI Interactions: Towards Designing Creative Support Tools for Professional Sound Designers. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3613904.3642040"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1nSdZe0irBvTQlWiNCC0oC6V15PiZOsEV/view?usp=sharing"
-        }
-      ],
-      "slug": "sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers",
-      "url": "/publications/#sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers"
-    }
+    "sound-designer-generative-ai-interactions-towards-designing-creative-support-tools-for-professional-sound-designers"
   ],
   "career": [
     {

@@ -1,53 +1,17 @@
 {
-  "id": "smartfinger",
   "slug": "smartfinger",
   "title": "SmartFinger",
   "year": "2013",
   "description": "One of the key characteristics shared by both digital devices and physical objects is their physical appearance such as colors, dimensions, textures, etc. This motivated us to use visual information to connect devices, objects and people. Our goal was to make this interaction seamless by developing a technology that feels like a natural extension of the body and behavior. For example, a person might be able to point at a device and make a virtual connection to it, point at an object to extract/copy relevant information, point at another person to share digital contents, etc. To this end, we develop SmartFinger with the aim of creating a seamless ‘channel’ between digital devices and physical surrounding. It is an always available and intuitive interface for ‘grasping’ and semantically analyzing visual content from physical objects as well as sharing media between digital devices.",
-  "project_url": "https://ahlab.org/project/smartfinger/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/smartfinger/smartfinger.jpg",
   "people": [
-    {
-      "slug": "shanaka-ransiri",
-      "name": "Shanaka Ransiri",
-      "url": "/people/shanaka-ransiri/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "shanaka-ransiri",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "SmartFinger: Connecting Devices, Objects and People seamlessly",
-      "citation": "Ransiri, S., Peiris, R.L., Yeo, K.P. and Nanayakkara, S.C., 2013, November. SmartFinger: connecting devices, objects and people seamlessly. In Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration (pp. 359-362).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/2541016.2541064"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/ozchi13_SmartFinger_ShortPaper.pdf"
-        }
-      ],
-      "slug": "smartfinger-connecting-devices-objects-and-people-seamlessly",
-      "url": "/publications/#smartfinger-connecting-devices-objects-and-people-seamlessly"
-    },
-    {
-      "title": "SmartFinger: An Augmented Finger as a Seamless ‘Channel’ between Digital and Physical Objects",
-      "citation": "Ransiri, S. and Nanayakkara, S.C., 2013, March. SmartFinger: an augmented finger as a seamless 'channel' between digital and physical objects. In Proceedings of the 4th Augmented Human International Conference (pp. 5-8).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_ransiri_2013.pdf"
-        }
-      ],
-      "slug": "smartfinger-an-augmented-finger-as-a-seamless-channel-between-digital-and-physical-objects",
-      "url": "/publications/#smartfinger-an-augmented-finger-as-a-seamless-channel-between-digital-and-physical-objects"
-    }
+    "smartfinger-connecting-devices-objects-and-people-seamlessly",
+    "smartfinger-an-augmented-finger-as-a-seamless-channel-between-digital-and-physical-objects"
   ],
   "principles": [
     "body",

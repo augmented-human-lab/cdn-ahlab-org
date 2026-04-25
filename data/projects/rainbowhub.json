@@ -1,33 +1,15 @@
 {
-  "id": "rainbowhub",
   "slug": "rainbowhub",
   "title": "RainbowHub",
   "year": "2020",
   "description": "RainbowHub is a unique creative solution to draw attention to the Ellen Melville Centre and help the community celebrate Auckland Pride Festival 2020. The large-scale interactive light installation consists of 2,100 LED lights that are individually controlled. Visitors could interact with the work by downloading a web app, which allows them to choose a graphic, colour it in, then send it to the centre’s giant windows where it will be animated in lights, for everyone in Freyberg Place to see. This was created jointly with Faculty of Creative Arts and Industries at University of Auckland and design agency, Run as well as in collaboration with Auckland Council.",
-  "project_url": "https://ahlab.org/project/rainbowhub/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/rainbowhub/rainbowhub.jpg",
   "people": [
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    },
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "sachith-muthukumarana",
-      "name": "Sachith Muthukumarana",
-      "url": "/people/sachith-muthukumarana/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "vipula-dissanayake",
+    "samitha-elvitigala",
+    "sachith-muthukumarana",
+    "suranga-nanayakkara"
   ],
   "publications": [],
   "principles": [

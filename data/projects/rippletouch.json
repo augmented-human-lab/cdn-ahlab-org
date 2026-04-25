@@ -1,46 +1,17 @@
 {
-  "id": "rippletouch",
   "slug": "rippletouch",
   "title": "RippleTouch",
   "year": "2015",
   "description": "We present RippleTouch, a low resolution haptic interface that is capable of providing haptic stimulation to multiple areas of the body via a single point of contact actuator. Concept is based on the low frequency acoustic wave propagation properties of the human body. By stimulating the body with different amplitude modulated frequencies at a single contact point, we were able to dissipate the wave energy in a particular region of the body, creating a haptic stimulation without direct contact. The RippleTouch system was implemented on a regular chair, in which, four base range speakers were mounted underneath the seat and driven by a simple stereo audio interface. The system was evaluated to investigate the effect of frequency characteristics of the amplitude modulation system. Results demonstrate that we can effectively create haptic sensations at different parts of the body with a single contact point (i.e. chair surface). We believe RippleTouch concept would serve as a scalable solution for providing full-body haptic feedback in variety of situations including entertainment, communication, public spaces and vehicular applications.",
-  "project_url": "https://ahlab.org/project/rippletouch/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/rippletouch/rippletouch.jpg",
   "people": [
-    {
-      "slug": "anusha-withana",
-      "name": "Anusha Withana",
-      "url": "/people/anusha-withana/"
-    },
-    {
-      "slug": "masahiko-inami",
-      "name": "Masahiko Inami",
-      "url": "/people/masahiko-inami/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "anusha-withana",
+    "masahiko-inami",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "RippleTouch: Initial Exploration of a Wave Resonant Based Full Body Haptic Interface",
-      "citation": "Withana, A., Koyama, S., Saakes, D., Minamizawa, K., Inami, M. and Nanayakkara, S.C., 2015, March. RippleTouch: initial exploration of a wave resonant based full body haptic interface. In Proceedings of the 6th Augmented Human International Conference (pp. 61-68).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2735711.2735790"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p61-withana.pdf"
-        }
-      ],
-      "slug": "rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface",
-      "url": "/publications/#rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface"
-    }
+    "rippletouch-initial-exploration-of-a-wave-resonant-based-full-body-haptic-interface"
   ],
   "principles": [
     "body",

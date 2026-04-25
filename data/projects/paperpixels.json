@@ -1,41 +1,16 @@
 {
-  "id": "paperpixels",
   "slug": "paperpixels",
   "title": "PaperPixels",
   "year": "2014",
   "description": "PaperPixels is a toolkit for animating drawings on a regular paper in a subtle and ambient manner. This toolkit consists of two main components: (1) a modularized plug and play type modules (PaperPixels elements) that can be attached on the back of a regular paper; (2) a GUI (graphical user interface) that allows users to stage the animation in a time line format. A user would simply draw on a regular paper, attach PaperPixels elements behind the regions that need to be animated, and specify the sequence of animation by arranging icons on a simple GUI. The competitive advantage of this work is that, with its provisionally patented technology, PaperPixels creates a new application space where any regular paper could potentially become a display. PaperPixels can penetrate into many markets including the Electronic Hobby Kits market and Interior Design market.",
-  "project_url": "https://ahlab.org/project/paperpixels/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/paperpixels/paperpixels.jpg",
   "people": [
-    {
-      "slug": "roshan-peiris",
-      "name": "Roshan Peiris",
-      "url": "/people/roshan-peiris/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "roshan-peiris",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "PaperPixels: a Toolkit to Create Paper Based Displays",
-      "citation": "Peiris, R.L. and Nanayakkara, S.C., 2014, December. PaperPixels: a toolkit to create paper-based displays. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 498-504).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2686612.2686691"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_OzCHI-PaperPixels_fullpaper.pdf"
-        }
-      ],
-      "slug": "paperpixels-a-toolkit-to-create-paper-based-displays",
-      "url": "/publications/#paperpixels-a-toolkit-to-create-paper-based-displays"
-    }
+    "paperpixels-a-toolkit-to-create-paper-based-displays"
   ],
   "principles": [
     "physical"

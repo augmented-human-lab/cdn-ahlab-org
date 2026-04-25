@@ -1,5 +1,4 @@
 {
-  "id": "the-ring-that-reads-for-you-finger-worn-gadget-reads-aloud-when-you-point-at-words",
   "slug": "the-ring-that-reads-for-you-finger-worn-gadget-reads-aloud-when-you-point-at-words",
   "title": "The ring that READS for you: Finger-worn gadget reads aloud when you point at words",
   "year": "2014",
@@ -7,13 +6,7 @@
   "outlet": "Ellie Zolfagharifard, Daily Mail",
   "url": "http://www.dailymail.co.uk/sciencetech/article-2563759/The-ring-READS-Finger-worn-gadget-reads-aloud-point-words-translate-books.html",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

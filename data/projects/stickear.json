@@ -1,58 +1,18 @@
 {
-  "id": "stickear",
   "slug": "stickear",
   "title": "StickEar",
   "year": "2013",
   "description": "Sticky notes provide the versatility of being a redeployable and reusable way of anchoring visual information on physical objects while having the versatility of being redeployable and reusable. StickEar encapsulate sensor network technology in the form factor of a sticky note that has a tangible user interface, offering the affordances of redeployablilty and reusability. It features a distributed set of network-enabled sound-based sensor nodes. StickEar is a multi-function input/output device that enables sound-based interactions for applications such as remote sound monitoring, remote triggering of sound, autonomous response to sound events, and controlling of digital devices using sound. In addition, multiple StickEars can interact with each other to perform novel input and output tasks. We believe this work would provide non-expert users with an intuitive and seamless method of interacting with the environment and its artifacts though sound.",
-  "project_url": "https://ahlab.org/project/stickear/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/stickear/stickear.jpg",
   "people": [
-    {
-      "slug": "yeo-kian-peen",
-      "name": "Yeo Kian Peen",
-      "url": "/people/yeo-kian-peen/"
-    },
-    {
-      "slug": "shanaka-ransiri",
-      "name": "Shanaka Ransiri",
-      "url": "/people/shanaka-ransiri/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "yeo-kian-peen",
+    "shanaka-ransiri",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "StickEar: Making Everyday Objects Respond to Sound",
-      "citation": "Yeo, K.P., Nanayakkara, S.C. and Ransiri, S., 2013, October. StickEar: making everyday objects respond to sound. In Proceedings of the 26th annual ACM symposium on User interface software and technology (pp. 221-226).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://dl.acm.org/doi/10.1145/2501988.2502019"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/StickEar_UIST2013.pdf"
-        }
-      ],
-      "slug": "stickear-making-everyday-objects-respond-to-sound",
-      "url": "/publications/#stickear-making-everyday-objects-respond-to-sound"
-    },
-    {
-      "title": "StickEar: Augmenting Objects and Places Wherever Whenever",
-      "citation": "Yeo, K.P. and Nanayakkara, S.C., 2013. StickEar: augmenting objects and places wherever whenever. In CHI'13 Extended Abstracts on Human Factors in Computing Systems (pp. 751-756).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p_peen_2013.pdf"
-        }
-      ],
-      "slug": "stickear-augmenting-objects-and-places-wherever-whenever",
-      "url": "/publications/#stickear-augmenting-objects-and-places-wherever-whenever"
-    }
+    "stickear-making-everyday-objects-respond-to-sound",
+    "stickear-augmenting-objects-and-places-wherever-whenever"
   ],
   "principles": [
     "physical"

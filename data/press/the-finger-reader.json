@@ -1,5 +1,4 @@
 {
-  "id": "the-finger-reader",
   "slug": "the-finger-reader",
   "title": "The Finger Reader",
   "year": "2018",
@@ -7,9 +6,6 @@
   "outlet": "TVNZ",
   "url": "https://www.tvnz.co.nz/one-news/new-zealand/ring-your-finger-snaps-text-and-reads-back-offering-help-visually-impaired",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    }
+    "fingerreader"
   ]
 }

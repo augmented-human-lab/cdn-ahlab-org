@@ -1,88 +1,21 @@
 {
-  "id": "m-hair",
   "slug": "m-hair",
   "title": "M-Hair",
   "year": "2019",
   "description": "M-Hair is a novel method for providing tactile feedback by stimulating only the body hair without touching the skin. It works by applying passive magnetic materials to the body hair, which is actuated by external magnetic fields. Our user study suggested that the value of the M-hair mechanism is in inducing affective sensations such as pleasantness, rather than effectively discriminating features such as shape, size, and direction. This work invites future research to use this method in applications that induce emotional responses or affective states, and as a research tool for investigations of this novel sensation.",
-  "project_url": "https://ahlab.org/project/m-hair/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/m-hair/m-hair.jpg",
   "people": [
-    {
-      "slug": "roger-boldu",
-      "name": "Roger Boldu",
-      "url": "/people/roger-boldu/"
-    },
-    {
-      "slug": "sambhav-jain",
-      "name": "Sambhav Jain",
-      "url": "/people/sambhav-jain/"
-    },
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "roger-boldu",
+    "sambhav-jain",
+    "juan-pablo-forero-cortes",
+    "haimo-zhang",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair",
-      "citation": "Boldu, R., Wijewardena, M., Zhang, H. and Nanayakkara, S.C., 2020, October. MAGHair: A Wearable System to Create Unique Tactile Feedback by Stimulating Only the Body Hair. In 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-10).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3379503.3403545"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1Yzptyr2NabyuRqgJEuxv28mVEzLbqmMN/view?usp=sharing"
-        }
-      ],
-      "slug": "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair",
-      "url": "/publications/#maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair"
-    },
-    {
-      "title": "M-Hair: Extended Reality by Stimulating the Body Hair",
-      "citation": "Boldu, R., Jain, S., Cortes, J.P.F., Zhang, H. and Nanayakkara, S.C., 2019. M-Hair: Extended Reality by Stimulating the Body Hair. In SIGGRAPH Asia 2019 XR (pp. 27-28).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3355355.3361881"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1uUG4MHtBsoGzp76JsQTtgxu8l90pXgfC/view?usp=sharing"
-        }
-      ],
-      "slug": "m-hair-extended-reality-by-stimulating-the-body-hair",
-      "url": "/publications/#m-hair-extended-reality-by-stimulating-the-body-hair"
-    },
-    {
-      "title": "M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field",
-      "citation": "Boldu, R., Jain, S., Forero Cortes, J.P., Zhang, H. and Nanayakkara, S.C., 2019, October. M-Hair: Creating Novel Tactile Feedback by Augmenting the Body Hair to Respond to Magnetic Field. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (pp. 323-328).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3332165.3347955"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1UMlbIudlZv0bViid-U7XafGVuZMWl5Vl/view?usp=sharing"
-        }
-      ],
-      "slug": "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field",
-      "url": "/publications/#m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
-    }
+    "maghair-a-wearable-system-to-create-unique-tactile-feedback-by-stimulating-only-the-body-hair",
+    "m-hair-extended-reality-by-stimulating-the-body-hair",
+    "m-hair-creating-novel-tactile-feedback-by-augmenting-the-body-hair-to-respond-to-magnetic-field"
   ],
   "principles": [
     "body",

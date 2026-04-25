@@ -1,5 +1,4 @@
 {
-  "id": "tomas-vega",
   "slug": "tomas-vega",
   "name": "Tomás Vega",
   "role": "Research Attachment",
@@ -11,50 +10,15 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/tomas-vega/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/tomas-vega/tomas-vega.jpg",
   "bio": "Tomás was born in Lima, Perú, and studied Computer and Cognitive Science at the University of California, Berkeley. He hopes to create “the human of the future,” which entails developing technology to create new or extend existing human senses and capabilities, including cognition and learning.” His work in assistive technology represents an initial step in that direction. Tomás has been a research assistant at the UC Berkeley Tactical Hybrid Ecologies Laboratory, an “inventioneer” at the school’s Center for Information Technology Research in the Interest of Society (CITRIS) Invention Lab, and a summer intern at the Siri Advanced Development Team at Apple.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "gestakey",
-      "title": "GestAKey",
-      "url": "/projects/gestakey/"
-    }
+    "gestakey"
   ],
   "publications": [
-    {
-      "title": "GestAKey: Touch Interaction on Individual Keycaps.",
-      "citation": "Shi, Y., Zhang, H., Rajapakse, H., Perera, N.T., Vega Gálvez, T. and Nanayakkara, S.C., 2018, April. Gestakey: Touch interaction on individual keycaps. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3174170"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/uc?export=download&id=1sSfqPj_lSe-cPTs-1nJLLJkQVoHZY_WN"
-        }
-      ],
-      "slug": "gestakey-touch-interaction-on-individual-keycaps",
-      "url": "/publications/#gestakey-touch-interaction-on-individual-keycaps"
-    },
-    {
-      "title": "GestAKey: Get More Done with Just-a-Key on a Keyboard",
-      "citation": "Shi, Y., Vega Gálvez, T., Zhang, H. and Nanayakkara, S.C., 2017, October. Gestakey: Get more done with just-a-key on a keyboard. In Adjunct Publication of the 30th Annual ACM Symposium on User Interface Software and Technology (pp. 73-75).",
-      "links": [
-        {
-          "label": "url",
-          "url": "https://dl.acm.org/citation.cfm?id=3131786"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/uc?export=download&id=1TSiXd5f0Exdo4udT2vb8JW854lDdTro6"
-        }
-      ],
-      "slug": "gestakey-get-more-done-with-just-a-key-on-a-keyboard",
-      "url": "/publications/#gestakey-get-more-done-with-just-a-key-on-a-keyboard"
-    }
+    "gestakey-touch-interaction-on-individual-keycaps",
+    "gestakey-get-more-done-with-just-a-key-on-a-keyboard"
   ],
   "career": [
     {

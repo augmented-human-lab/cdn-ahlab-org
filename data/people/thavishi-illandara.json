@@ -1,5 +1,4 @@
 {
-  "id": "thavishi-illandara",
   "slug": "thavishi-illandara",
   "name": "Thavishi Illandara",
   "role": "Research Attachment",
@@ -11,70 +10,16 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/thavishi-illandara/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/thavishi-illandara/thavishi-illandara.jpg",
   "bio": "Thavishi Illandara is an undergraduate at University of Moratuwa (Sri Lanka) studying Electronics and Telecommunications Engineering and is currently working at the Augmented Human Lab as a research intern. Her interest lies in Machine Learning, Computer Vision, Human Computer Interaction and Wearable Devices.\n\nIn addition to her love for engineering she is also passionate about doing community service and helping the less fortunate and is a member of the Rotaract Club. During her free time she enjoys reading, playing the piano and swimming.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "muss-bits",
-      "title": "MuSS-Bits",
-      "url": "/projects/muss-bits/"
-    }
+    "muss-bits"
   ],
   "publications": [
-    {
-      "title": "Supporting Rhythm Activities of Deaf Children using Music-Sensory-Substitution Systems.",
-      "citation": "Petry, B., Illandara, T., Elvitigala, D.S. and Nanayakkara, S.C., 2018, April. Supporting rhythm activities of deaf children using music-sensory-substitution systems. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-10).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3173574.3174060"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/114srp0L-VRv_cMyNHAm6rVli-x-Z3FS2/view?usp=sharing"
-        }
-      ],
-      "slug": "supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems",
-      "url": "/publications/#supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems"
-    },
-    {
-      "title": "MuSS-Bits: Sensor-Display Blocks for Deaf People to Explore Musical Sounds",
-      "citation": "Petry, B., Illandara, T. and Nanayakkara, S.C., 2016, November. MuSS-bits: sensor-display blocks for deaf people to explore musical sounds. In Proceedings of the 28th Australian Conference on Computer-Human Interaction (pp. 72-80).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3010915.3010939"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/OzCHI-MuSS-Bits.pdf"
-        }
-      ],
-      "slug": "muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds",
-      "url": "/publications/#muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds"
-    },
-    {
-      "title": "Ad-Hoc Access to Musical Sound for Deaf Individuals",
-      "citation": "Petry, B., Illandara, T., Forero, J.P. and Nanayakkara, S.C., 2016, October. Ad-Hoc Access to Musical Sound for Deaf Individuals. In Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 285-286).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2982142.2982213"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/pd072-petryA.pdf"
-        },
-        {
-          "label": "poster",
-          "url": "http://bpetry.de/sites/default/files/ASSETS2016_MuSS-Bits_Poster.pdf"
-        }
-      ],
-      "slug": "ad-hoc-access-to-musical-sound-for-deaf-individuals",
-      "url": "/publications/#ad-hoc-access-to-musical-sound-for-deaf-individuals"
-    }
+    "supporting-rhythm-activities-of-deaf-children-using-music-sensory-substitution-systems",
+    "muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds",
+    "ad-hoc-access-to-musical-sound-for-deaf-individuals"
   ],
   "career": [
     {

@@ -1,57 +1,20 @@
 {
-  "id": "lighttank",
   "slug": "lighttank",
   "title": "LightTank",
   "year": "2018",
   "description": "LightTank is a collaborative project with the arc/sec lab in School of Architecture and Planning, University of Auckland. In this project, we implemented a multi-user, large scale touch-tracking system using multiple off-the-shelf Lidar scanners. The final installation is a composite wall structure with interactive stereoscopic 3D visualizations that is responsive to users touching the walls. The installation is part of the Ars Electronica 2018, one of the premier avenues that honor worldwide sensations.",
-  "project_url": "https://ahlab.org/project/lighttank/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/lighttank/lighttank.jpg",
   "people": [
-    {
-      "slug": "uwe-rieger",
-      "name": "Uwe Rieger",
-      "url": "/people/uwe-rieger/"
-    },
-    {
-      "slug": "yinan-liu",
-      "name": "Yinan Liu",
-      "url": "/people/yinan-liu/"
-    },
-    {
-      "slug": "roger-boldu",
-      "name": "Roger Boldu",
-      "url": "/people/roger-boldu/"
-    },
-    {
-      "slug": "heetesh-alwani",
-      "name": "Heetesh Alwani",
-      "url": "/people/heetesh-alwani/"
-    },
-    {
-      "slug": "haimo-zhang",
-      "name": "Haimo Zhang",
-      "url": "/people/haimo-zhang/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "uwe-rieger",
+    "yinan-liu",
+    "roger-boldu",
+    "heetesh-alwani",
+    "haimo-zhang",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "LightTank",
-      "citation": "Rieger, U., Liu, Y., Boldu, R., Zhang, H., Alwani, H. and Nanayakkara, S.C., 2020. LightTank. In SIGGRAPH Asia 2020 Art Gallery (pp. 1-1).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3414686.3427113"
-        }
-      ],
-      "slug": "lighttank",
-      "url": "/publications/#lighttank"
-    }
+    "lighttank"
   ],
   "principles": [
     "perceptual",

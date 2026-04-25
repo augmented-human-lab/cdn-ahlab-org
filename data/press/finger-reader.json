@@ -1,5 +1,4 @@
 {
-  "id": "finger-reader",
   "slug": "finger-reader",
   "title": "Finger Reader",
   "year": "2018",
@@ -7,9 +6,6 @@
   "outlet": "Channel NewsAsia",
   "url": "https://www.facebook.com/Suranga.Nanayakkara/videos/10156575822909477/",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    }
+    "fingerreader"
   ]
 }

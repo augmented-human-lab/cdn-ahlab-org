@@ -1,5 +1,4 @@
 {
-  "id": "roshan-peiris",
   "slug": "roshan-peiris",
   "name": "Roshan Peiris",
   "role": "Research Fellow",
@@ -11,168 +10,27 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/roshan-peiris/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/roshan-peiris/roshan-peiris.jpg",
   "bio": "Roshan Peiris, graduated from the University of Moratuwa with a bachelor’s degree in Electrical Engineering. After joining the Mixed Reality Lab at the National University of Singapore where he worked as a Research Engineer, he continued on to further his studies starting a PhD degree with the NUS Graduate School for Integrative Sciences and Engineering. Roshan recently submitted his PhD thesis titled “Development of an Integrated Programmable Non Emissive Textile Display Material” and is awaiting results.\n\nHis main research areas include ubiquitous and ambient computing, assistive technologies, embedded systems, etc. For his PhD research Roshan engineered a textile material that can change color within itself opening up new possibilities for ubiquitous and ambient applications. He has published this work in many international conferences and journals and has exhibited at leading media arts venus such as Ars Electronica. Currently he is exploring furthering this technology into other materials such as paper and investigating its commercialization possibilities. In addition, at the Augmented Senses group he is working on assistive technologies related projects.\n\nWebsite : www.roshanpeiris.com Publications : http://roshanpeiris.com/Publications-list",
   "external_links": [],
   "projects": [
-    {
-      "slug": "zsense",
-      "title": "zSense",
-      "url": "/projects/zsense/"
-    },
-    {
-      "slug": "stickamps",
-      "title": "StickAmps",
-      "url": "/projects/stickamps/"
-    },
-    {
-      "slug": "shrug",
-      "title": "SHRUG",
-      "url": "/projects/shrug/"
-    },
-    {
-      "slug": "paperpixels",
-      "title": "PaperPixels",
-      "url": "/projects/paperpixels/"
-    },
-    {
-      "slug": "iswarm",
-      "title": "iSwarm",
-      "url": "/projects/iswarm/"
-    },
-    {
-      "slug": "i-draw",
-      "title": "I-Draw",
-      "url": "/projects/i-draw/"
-    },
-    {
-      "slug": "watchme",
-      "title": "WatchMe",
-      "url": "/projects/watchme/"
-    }
+    "zsense",
+    "stickamps",
+    "shrug",
+    "paperpixels",
+    "iswarm",
+    "i-draw",
+    "watchme"
   ],
   "publications": [
-    {
-      "title": "GrabAmps: Grab a Wire to Sense the Current Flow",
-      "citation": "Elvitigala, D.S., Peiris, R., Wilhelm, E., Foong, S. and Nanayakkara, S.C., 2017, March. GrabAmps: grab a wire to sense the current flow. In Proceedings of the 8th Augmented Human International Conference (pp. 1-4).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3041164.3041199"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/GrabAmps-AH2017CameraCopy-version2.pdf"
-        }
-      ],
-      "slug": "grabamps-grab-a-wire-to-sense-the-current-flow",
-      "url": "/publications/#grabamps-grab-a-wire-to-sense-the-current-flow"
-    },
-    {
-      "title": "zSense: Enabling Shallow Depth Gesture Recognition for Greater Input Expressivity on Smart Wearables",
-      "citation": "Withana, A., Peiris, R., Samarasekara, N. and Nanayakkara, S.C., 2015, April. zsense: Enabling shallow depth gesture recognition for greater input expressivity on smart wearables. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3661-3670).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2702123.2702371"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-04_CHI-zSense_Full.pdf"
-        }
-      ],
-      "slug": "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables",
-      "url": "/publications/#zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables"
-    },
-    {
-      "title": "SHRUG: stroke haptic rehabilitation using gaming",
-      "citation": "Peiris, R.L., Wijesinghe, V., and Nanayakkara, S.C., 2015, SHRUG: stroke haptic rehabilitation using gaming. In Proceedings of the 6th Augmented Human International Conference (AH '15). ACM, New York, NY, USA, 213-214.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2735711.2735784"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2015-03_AH-SHRUG_Demo.pdf"
-        }
-      ],
-      "slug": "shrug-stroke-haptic-rehabilitation-using-gaming-2",
-      "url": "/publications/#shrug-stroke-haptic-rehabilitation-using-gaming-2"
-    },
-    {
-      "title": "SHRUG: stroke haptic rehabilitation using gaming",
-      "citation": "Peiris, R.L., Janaka, N., De Silva, D. and Nanayakkara, S.C, 2014, December. SHRUG: stroke haptic rehabilitation using gaming. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 380-383).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2686612.2686669"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_OzCHI-SHRUG_Short.pdf"
-        }
-      ],
-      "slug": "shrug-stroke-haptic-rehabilitation-using-gaming",
-      "url": "/publications/#shrug-stroke-haptic-rehabilitation-using-gaming"
-    },
-    {
-      "title": "PaperPixels: a Toolkit to Create Paper Based Displays",
-      "citation": "Peiris, R.L. and Nanayakkara, S.C., 2014, December. PaperPixels: a toolkit to create paper-based displays. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 498-504).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "http://dx.doi.org/10.1145/2686612.2686691"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_OzCHI-PaperPixels_fullpaper.pdf"
-        }
-      ],
-      "slug": "paperpixels-a-toolkit-to-create-paper-based-displays",
-      "url": "/publications/#paperpixels-a-toolkit-to-create-paper-based-displays"
-    },
-    {
-      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
-      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
-      "links": [
-        {
-          "label": "webpage",
-          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
-        }
-      ],
-      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
-      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
-    },
-    {
-      "title": "I-Draw: Towards a Freehand Drawing Assistant",
-      "citation": "Fernando, P., Peiris, R.L. and Nanayakkara, S.C., 2014, December. I-draw: Towards a freehand drawing assistant. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 208-211).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_I-Draw_Short.pdf"
-        }
-      ],
-      "slug": "i-draw-towards-a-freehand-drawing-assistant",
-      "url": "/publications/#i-draw-towards-a-freehand-drawing-assistant"
-    },
-    {
-      "title": "SmartFinger: Connecting Devices, Objects and People seamlessly",
-      "citation": "Ransiri, S., Peiris, R.L., Yeo, K.P. and Nanayakkara, S.C., 2013, November. SmartFinger: connecting devices, objects and people seamlessly. In Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration (pp. 359-362).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/2541016.2541064"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/ozchi13_SmartFinger_ShortPaper.pdf"
-        }
-      ],
-      "slug": "smartfinger-connecting-devices-objects-and-people-seamlessly",
-      "url": "/publications/#smartfinger-connecting-devices-objects-and-people-seamlessly"
-    }
+    "grabamps-grab-a-wire-to-sense-the-current-flow",
+    "zsense-enabling-shallow-depth-gesture-recognition-for-greater-input-expressivity-on-smart-wearables",
+    "shrug-stroke-haptic-rehabilitation-using-gaming-2",
+    "shrug-stroke-haptic-rehabilitation-using-gaming",
+    "paperpixels-a-toolkit-to-create-paper-based-displays",
+    "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+    "i-draw-towards-a-freehand-drawing-assistant",
+    "smartfinger-connecting-devices-objects-and-people-seamlessly"
   ],
   "career": [
     {

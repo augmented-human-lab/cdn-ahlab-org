@@ -1,56 +1,19 @@
 {
-  "id": "stressshoe",
   "slug": "stressshoe",
   "title": "StressShoe",
   "year": "2021",
   "description": "Self-Tracking stress at work is an important aspect of stress management and is often the first step to improving mental health and personal well-being. We introduce StressShoe, a DIY toolkit for self-tracking stress and just-in-time stress interventions for office workers performing sedentary tasks. Informed by a focus group study and a pilot study, we designed and tested a toolkit that consists of a single, off-the-shelf, shoe-mounted inertial measurement unit (IMU), a machine learning model that estimates acute stress, and a companion mobile app. The mobile app allows for user-defined just-in-time interventions on the estimated stress level. To demonstrate the benefits of our system we evaluated StressShoe with 10 users over 4 weeks. We identified several effective just-in-time personalised intervention users created and found that StressShoe is easy to use and helped them reflect on their daily stressful experiences.",
-  "project_url": "https://ahlab.org/project/stressshoe/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/stressshoe/stressshoe.jpg",
   "people": [
-    {
-      "slug": "samitha-elvitigala",
-      "name": "Samitha Elvitigala",
-      "url": "/people/samitha-elvitigala/"
-    },
-    {
-      "slug": "philip-m-scholl",
-      "name": "Philip M. Scholl",
-      "url": "/people/philip-m-scholl/"
-    },
-    {
-      "slug": "hussel-suriyaarachchi",
-      "name": "Hussel Suriyaarachchi",
-      "url": "/people/hussel-suriyaarachchi/"
-    },
-    {
-      "slug": "vipula-dissanayake",
-      "name": "Vipula Dissanayake",
-      "url": "/people/vipula-dissanayake/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    }
+    "samitha-elvitigala",
+    "philip-m-scholl",
+    "hussel-suriyaarachchi",
+    "vipula-dissanayake",
+    "suranga-nanayakkara"
   ],
   "publications": [
-    {
-      "title": "StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks",
-      "citation": "Elvitigala, D.S., Scholl, P.M., Suriyaarachchi, H., Dissanayake, V. and Nanayakkara, S.C., 2021. StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks. In MobileHCI ’21: The ACM International Conference on Mobile Human-Computer Interaction, September 27–30, 2021, Touluse, France. Honorable Mention Award!",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/1122445.1122456"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/10PlvD_vcwx00qjnCFUK3trsWURCCkBqb/view?usp=sharing"
-        }
-      ],
-      "slug": "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks",
-      "url": "/publications/#stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks"
-    }
+    "stressshoe-a-diy-toolkit-for-just-in-time-personalised-stress-interventions-for-office-workers-performing-sedentary-tasks"
   ],
   "principles": [
     "body",

@@ -1,5 +1,4 @@
 {
-  "id": "piyum-fernando",
   "slug": "piyum-fernando",
   "name": "Piyum Fernando",
   "role": "Research Engineer",
@@ -11,81 +10,20 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/piyum-fernando/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/piyum-fernando/piyum-fernando.jpg",
   "bio": "Piyum Fernando obtained his bachelor’s degree in Computer Science and Engineering from the University of Moratuwa, Sri Lanka. At Moratuwa he worked on Digital Latent fingerprint image enhancement and feature identification as his final year research project. Before joining ASG he worked as a software engineer at WSO2 – an open source middleware development company. He joined the Augmented Senses Group at SUTD in 2014 and is currently working as a Research Engineer.\n\nHis interested research areas include Human- Computer Interaction, computer vision, digital image processing and digital forensics.\n\nApart from technology, he is passionate about music and photography. He likes travelling, reading and playing guitar in his leisure time.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "postbits",
-      "title": "PostBits",
-      "url": "/projects/postbits/"
-    },
-    {
-      "slug": "sparkubes",
-      "title": "SparKubes",
-      "url": "/projects/sparkubes/"
-    },
-    {
-      "slug": "iswarm",
-      "title": "iSwarm",
-      "url": "/projects/iswarm/"
-    },
-    {
-      "slug": "i-draw",
-      "title": "I-Draw",
-      "url": "/projects/i-draw/"
-    }
+    "postbits",
+    "sparkubes",
+    "iswarm",
+    "i-draw"
   ],
   "publications": [
-    {
-      "title": "PostBits: using contextual locations for embedding cloud information in the home",
-      "citation": "Pablo, J., Fernando, P., Sridhar, P., Withana, A., Nanayakkara, S.C., Steimle, J. and Maes, P., 2016. PostBits: using contextual locations for embedding cloud information in the home. Personal and Ubiquitous Computing, 20(6), pp.1001-1014.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/PostBits-PDF.pdf"
-        }
-      ],
-      "slug": "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
-      "url": "/publications/#postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home"
-    },
-    {
-      "title": "SparKubes: Exploring the Interplay between Digital and Physical Spaces with Minimalistic Interfaces",
-      "citation": "Ortega-Avila, S., Huber, J., Janaka, N., Withana, A., Fernando, P. and Nanayakkara, S.C., 2014, December. SparKubes: exploring the interplay between digital and physical spaces with minimalistic interfaces. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 204-207).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/p204-ortega-avila.pdf"
-        }
-      ],
-      "slug": "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces",
-      "url": "/publications/#sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces"
-    },
-    {
-      "title": "iSwarm: a swarm of luminous sea creatures that interact with passers-by",
-      "citation": "Schroepfer, T., Nanayakkara, S. C., A., Wortmann, T., Cornelius, A., Khew, Y.N. and Lian, A., Yeo K.P., Peiris, R.L., Withana, A., Werry. I., Petry, B., Otega, S., Janaka, N., Elvitigala, S., Fernando, P., Samarasekara, N., 2014. iSwarm: a swarm of luminous sea creatures that interact with passers-by. In Singapore iLight 2014 (Marina Bay, Singapore, 7- 30 March, 2014). ​",
-      "links": [
-        {
-          "label": "webpage",
-          "url": "http://2014.ilightmarinabay.sg/installation/iswarm/"
-        }
-      ],
-      "slug": "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
-      "url": "/publications/#iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by"
-    },
-    {
-      "title": "I-Draw: Towards a Freehand Drawing Assistant",
-      "citation": "Fernando, P., Peiris, R.L. and Nanayakkara, S.C., 2014, December. I-draw: Towards a freehand drawing assistant. In Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design (pp. 208-211).",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/03/2014-12_I-Draw_Short.pdf"
-        }
-      ],
-      "slug": "i-draw-towards-a-freehand-drawing-assistant",
-      "url": "/publications/#i-draw-towards-a-freehand-drawing-assistant"
-    }
+    "postbits-using-contextual-locations-for-embedding-cloud-information-in-the-home",
+    "sparkubes-exploring-the-interplay-between-digital-and-physical-spaces-with-minimalistic-interfaces",
+    "iswarm-a-swarm-of-luminous-sea-creatures-that-interact-with-passers-by",
+    "i-draw-towards-a-freehand-drawing-assistant"
   ],
   "career": [
     {

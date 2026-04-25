@@ -1,5 +1,4 @@
 {
-  "id": "el-lector-de-libros-artificial",
   "slug": "el-lector-de-libros-artificial",
   "title": "El lector de libros artificial",
   "year": "2016",
@@ -7,13 +6,7 @@
   "outlet": "Antena3.com",
   "url": "http://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/lector-libros-artificial_2016040700345.html",
   "projects": [
-    {
-      "slug": "fingerreader",
-      "title": "FingerReader"
-    },
-    {
-      "slug": "fingerreader-v0",
-      "title": "FingerReader-v0"
-    }
+    "fingerreader",
+    "fingerreader-v0"
   ]
 }

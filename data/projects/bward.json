@@ -1,51 +1,18 @@
 {
-  "id": "bward",
   "slug": "bward",
   "title": "BWard",
   "year": "2015",
   "description": "In the first few hours following the removal of central venous catheters, severe bleeding from the wound site may occur. These wound sites are pre-emptively heavily bandaged up and placed under blankets. Despite close and regular inspections, catastrophic bleeding may occur and remain undetected, possibly resulting in fatality. Hence, we developed BWard, an effective stand-alone electronic platform devised to monitor the extraction point of catheters for critical re-bleeding, and to alert medical staff immediately should bleeding be detected. The BWard sensor employs two techniques: the first is a sensor fusion technique that exploits the unique light absorption spectra of the hemoglobin to differentiate blood from other bodily fluids. The second is a moisture sensitive electric circuit that is able to detect the presence of liquids in the dressings. A preliminary experimental evaluation of the BWard prototype done with blood of various concentrations showed a 100% detection accuracy. This demonstrates the potential of this technique.",
-  "project_url": "https://ahlab.org/project/bward/",
   "external_links": [],
   "thumbnail": "https://cdn.ahlab.org/media/site/projects/bward/bward.jpg",
   "people": [
-    {
-      "slug": "juan-pablo-forero-cortes",
-      "name": "Juan Pablo Forero Cortés",
-      "url": "/people/juan-pablo-forero-cortes/"
-    },
-    {
-      "slug": "suranga-nanayakkara",
-      "name": "Suranga Nanayakkara",
-      "url": "/people/suranga-nanayakkara/"
-    },
-    {
-      "slug": "foong-shaohui",
-      "name": "Foong Shaohui",
-      "url": "/people/foong-shaohui/"
-    },
-    {
-      "slug": "chionh-chang-yin",
-      "name": "Chionh Chang Yin",
-      "url": "/people/chionh-chang-yin/"
-    }
+    "juan-pablo-forero-cortes",
+    "suranga-nanayakkara",
+    "foong-shaohui",
+    "chionh-chang-yin"
   ],
   "publications": [
-    {
-      "title": "BWard: An Optical Approach for Reliable in-situ Early Blood Leakage Detection at Catheter Extraction Points",
-      "citation": "Cortés, J.P., Ching, T.H., Wu, C., Chionh, C.Y., Nanayakkara, S.C. and Foong, S., 2015, July. Bward: An optical approach for reliable in-situ early blood leakage detection at catheter extraction points. In 2015 IEEE 7th International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE Conference on Robotics, Automation and Mechatronics (RAM) (pp. 232-237). IEEE.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1109/ICCIS.2015.7274626"
-        },
-        {
-          "label": "pdf",
-          "url": "https://ahlab.org/wp-content/uploads/2021/05/BWARD.pdf"
-        }
-      ],
-      "slug": "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points",
-      "url": "/publications/#bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
-    }
+    "bward-an-optical-approach-for-reliable-in-situ-early-blood-leakage-detection-at-catheter-extraction-points"
   ],
   "principles": [
     "body"

@@ -1,5 +1,4 @@
 {
-  "id": "shreyas-sridhar",
   "slug": "shreyas-sridhar",
   "name": "Shreyas Sridhar",
   "email": "shreyas@ahlab.org",
@@ -12,81 +11,19 @@
       "end": null
     }
   ],
-  "profile_url": "https://ahlab.org/people/shreyas-sridhar/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/shreyas-sridhar/shreyas-sridhar.jpg",
   "bio": "Shreyas is currently pursuing his Master's in Computing (Specialising in Artificial Intelligence) at NUS. He has a background in Computer Science and Software Engineering - working for two years in a programmatic advertising start-up after completing his undergraduate degree. Shreyas is always looking to expand his boundaries, exploring a variety of fields such as XR (Extended Reality), Assistive and Augmented Technology, Sustainable Urban Technology and beyond. He is fascinated by the links between machines, technology and humans, geography and anthropology, and aims to empower and connect people from all over the world.\n\nIn his free time, Shreyas enjoys playing sports including football, basketball, volleyball, etc. When he's not out playing a sport, he enjoys reading, playing video games, listening to music and brushing up on his trivia.",
   "external_links": [],
   "projects": [
-    {
-      "slug": "sonicvista",
-      "title": "SonicVista",
-      "url": "/projects/sonicvista/"
-    },
-    {
-      "slug": "dysalytics",
-      "title": "Dysalytics",
-      "url": "/projects/dysalytics/"
-    },
-    {
-      "slug": "aisee",
-      "title": "AiSee",
-      "url": "/projects/aisee/"
-    },
-    {
-      "slug": "itiles",
-      "title": "iTILES",
-      "url": "/projects/itiles/"
-    }
+    "sonicvista",
+    "dysalytics",
+    "aisee",
+    "itiles"
   ],
   "publications": [
-    {
-      "title": "Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes",
-      "citation": "Gupta, C., Peng, J., Ram, A., Sridhar, S., Jouffrais, C., Nanayakkara, S.C., 2026. Beyond Descriptions: A Generative Scene2Audio Framework for Blind and Low-Vision Users to Experience Vista Landscapes. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3772318.3791655"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1vTkl0YF-Komg84lNa2_18UB_5fK25vIM/view?usp=sharing"
-        }
-      ],
-      "slug": "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes",
-      "url": "/publications/#beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes"
-    },
-    {
-      "title": "Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People",
-      "citation": "Gupta, C., Ram, A., Sridhar, S., Jouffrais, C. and Nanayakkara, S. C., 2025, April. Scene-to-Audio: Distant Scene Sonification for Blind and Low Vision People. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-9).",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3706599.3719849"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1P9tDkBXMwmtesGTh-TWgldmcurpBMh7z/view?usp=drive_link"
-        }
-      ],
-      "slug": "scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people",
-      "url": "/publications/#scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people"
-    },
-    {
-      "title": "SonicVista: Towards Creating Awareness of Distant Scenes through Sonification",
-      "citation": "Gupta, C., Sridhar, S., Matthies, D.J., Jouffrais, C. and Nanayakkara, S.C., 2024. SonicVista: Towards Creating Awareness of Distant Scenes through Sonification. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), pp.1-32.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3659609"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1VgtLBPs03dJodsN6_7-yPfqLuceCGBSj/view?usp=sharing"
-        }
-      ],
-      "slug": "sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification",
-      "url": "/publications/#sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification"
-    }
+    "beyond-descriptions-a-generative-scene2audio-framework-for-blind-and-low-vision-users-to-experience-vista-landscapes",
+    "scene-to-audio-distant-scene-sonification-for-blind-and-low-vision-people",
+    "sonicvista-towards-creating-awareness-of-distant-scenes-through-sonification"
   ],
   "career": [
     {

@@ -1,5 +1,4 @@
 {
-  "id": "camera-toting-eyering-could-help-blind-people-to-see-objects",
   "slug": "camera-toting-eyering-could-help-blind-people-to-see-objects",
   "title": "Camera-toting EyeRing could help blind people to \"see\" objects",
   "year": "2012",
@@ -7,9 +6,6 @@
   "outlet": "Gizmag",
   "url": "http://www.gizmag.com/eyering-object-recognition-aural-feedback-mit/23677/",
   "projects": [
-    {
-      "slug": "eyering",
-      "title": "EyeRing"
-    }
+    "eyering"
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "id": "tamil-selvan",
   "slug": "tamil-selvan",
   "name": "Tamil Selvan",
   "role": "Research Attachment",
@@ -11,46 +10,15 @@
       "end": ""
     }
   ],
-  "profile_url": "https://ahlab.org/people/tamil-selvan/",
   "profile_image": "https://cdn.ahlab.org/media/site/people/tamil-selvan/tamil-selvan.jpg",
   "bio": "Tamil Selvan is pursuing his final year of bachelor’s studies in electronics and communication engineering at VIT, Chennai. He is currently an intern at Augmented Human Lab. He is an ardent Tech geek who delves into the realm of innovations and his passion for technology made his life goals to apply the usage of Robotics and Deep learning to improve the healthcare industry. Apart from technology, He is a Cricket fan and he loves reading non-fiction books related to Physics. His research interests are Robotics and Automation, Embedded system design, Deep-Learning and Computer vision",
   "external_links": [],
   "projects": [
-    {
-      "slug": "kinvoice",
-      "title": "KinVoice",
-      "url": "/projects/kinvoice/"
-    }
+    "kinvoice"
   ],
   "publications": [
-    {
-      "title": "A User Study on Sharing Physiological Cues in VR Assembly Tasks",
-      "citation": "Sasikumar, P., Hajika, R., Gupta, K., Selvan, T., Pai, Y.S., Bai, H., Nanayakkara, S.C., and Billinghurst, M. 2024. Title of the Article. In IEEE Conference on Virtual Reality and 3D User Interfaces, 2024.",
-      "links": [
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1M7seP_4dbj9O4xGWd6oXtl2RrWy3D07b/view?usp=drive_link"
-        }
-      ],
-      "slug": "a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks",
-      "url": "/publications/#a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks"
-    },
-    {
-      "title": "KinVoices: Using Voices of Friends and Family in Voice Interfaces",
-      "citation": "Chan, S. W. T., Gunasekaran, T., Pai, Y. S., Zhang, H. and Nanayakkara, S.C. 2021. KinVoices: Using Voices of Friends and Family in Voice Interfaces. Proc. ACM Hum.-Comput. Interact. 5, CSCW2, Article 446 (October 2021), 25 pages.",
-      "links": [
-        {
-          "label": "doi",
-          "url": "https://doi.org/10.1145/3479590"
-        },
-        {
-          "label": "pdf",
-          "url": "https://drive.google.com/file/d/1_Bp0ShrTKy81zvguDyOgrgdBunsin8iX/view?usp=sharing"
-        }
-      ],
-      "slug": "kinvoices-using-voices-of-friends-and-family-in-voice-interfaces",
-      "url": "/publications/#kinvoices-using-voices-of-friends-and-family-in-voice-interfaces"
-    }
+    "a-user-study-on-sharing-physiological-cues-in-vr-assembly-tasks",
+    "kinvoices-using-voices-of-friends-and-family-in-voice-interfaces"
   ],
   "career": [
     {

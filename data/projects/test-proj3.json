@@ -1,0 +1,17 @@
+{
+  "slug": "test-proj3",
+  "title": "Test Proj3",
+  "year": "2025",
+  "description": "Delete this project after testing",
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/test-proj3/1_321329_leyard.jpg",
+  "external_links": [],
+  "principles": [
+    "perceptual"
+  ],
+  "people": [
+    "sankha-cooray",
+    "soundarya-ramesh"
+  ],
+  "publications": [],
+  "sponsors": []
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "test-project-addition",
+  "title": "Test Project Addition",
+  "year": "2026",
+  "description": "Testing new project addition workflow",
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/test-project-addition/Screenshot_2026-04-24_at_12.02.40_AM.jpg",
+  "external_links": [],
+  "principles": [
+    "body",
+    "cognitive"
+  ],
+  "people": [
+    "sankha-cooray"
+  ],
+  "publications": [],
+  "sponsors": []
+}

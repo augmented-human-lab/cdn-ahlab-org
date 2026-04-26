@@ -1,0 +1,17 @@
+{
+  "slug": "test-proj2",
+  "title": "Test Proj2",
+  "year": "Current",
+  "description": "Test project, delete this",
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/test-proj2/1_321329_leyard.jpg",
+  "external_links": [],
+  "principles": [
+    "sociocultural"
+  ],
+  "people": [
+    "sankha-cooray",
+    "hyung-woon-lee"
+  ],
+  "publications": [],
+  "sponsors": []
+}

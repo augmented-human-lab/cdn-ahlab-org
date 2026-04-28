@@ -7,13 +7,18 @@
   "ahlab_stints": [
     {
       "role": "Research Engineer",
-      "start": "2023-10",
+      "start": "2023-04",
       "end": null
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/priambudi-lintang-bagaskara/priambudi-lintang-bagaskara.jpg",
   "bio": "Bagas is currently pursuing a master's degree specializing in Information Systems at NUS, having previously earned a bachelor's degree in Computer Science. With a strong professional background as a software engineer, Bagas dedicates some of his free time to teaching aspiring web developers in an online boot camp.\n\nHe also spent most of his free time in the Arcade, playing a racing game. Additionally, he is renowned within the global community for his exceptional skills in this racing game and is known as one of the fastest players in the world.",
-  "external_links": [],
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://priambudi.fyi/"
+    }
+  ],
   "projects": [
     "aisee",
     "sound-designer-generative-ai-interactions",
@@ -24,8 +29,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "Tokopedia",
+      "role": "Software Engineer-Web Platform",
       "period": ""
     },
     {
@@ -40,8 +45,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
+  "linkedin": "https://www.linkedin.com/in/priambudi-bagaskara/",
+  "github": "https://github.com/priambudiLB",
   "featured_project": "aisee",
-  "google_scholar": ""
+  "google_scholar": "https://scholar.google.com.sg/citations?user=kXvdEbsAAAAJ"
 }

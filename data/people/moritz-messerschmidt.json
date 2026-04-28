@@ -7,7 +7,7 @@
   "ahlab_stints": [
     {
       "role": "Research Fellow",
-      "start": "",
+      "start": "2020",
       "end": null
     }
   ],
@@ -40,8 +40,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "RWTH Aachen University, Germany",
+      "role": "Student Research Assistant",
       "period": ""
     },
     {
@@ -56,8 +56,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/moritz-alexander-messerschmidt/",
   "github": "",
   "featured_project": "gutio",
-  "google_scholar": ""
+  "google_scholar": "https://scholar.google.com/citations?user=F3-_yUkAAAAJ&hl=en"
 }

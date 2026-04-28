@@ -3,6 +3,12 @@
   "title": "Steve Howard Award - for the best long paper by a student presented during OZCHI, CHISIG's Annual Conference: MuSS-Bits: Sensor-Display Blocks for Deaf People to Explore Musical Sounds",
   "year": "2016",
   "type": "award",
-  "outlet": null,
-  "url": null
+  "outlet": "OZCHI",
+  "url": null,
+  "projects": [
+    "muss-bits"
+  ],
+  "publications": [
+    "muss-bits-sensor-display-blocks-for-deaf-people-to-explore-musical-sounds"
+  ]
 }

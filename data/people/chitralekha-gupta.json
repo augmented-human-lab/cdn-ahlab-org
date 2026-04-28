@@ -13,7 +13,12 @@
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/chitralekha-gupta/chitralekha-gupta.jpg",
   "bio": "Chitralekha joined the Augmented Human Lab in the the National University of Singapore (NUS) as a Research Fellow. Her interests include Neural Audio Synthesis, and Music Information Retrieval, specifically singing voice analysis and evaluation, and applications of speech recognition techniques in music such as lyrics alignment and transcription. Chitralekha obtained her PhD degree from NUS.",
-  "external_links": [],
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://chitralekha.info"
+    }
+  ],
   "projects": [
     "factually",
     "blind-drone",
@@ -42,8 +47,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "Dept of Communication and New Media, NUS",
+      "role": "Research Fellow",
       "period": ""
     },
     {
@@ -58,8 +63,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
+  "linkedin": "https://www.linkedin.com/in/chitralekha-gupta-04213546/",
+  "github": "https://github.com/chitralekha18",
   "featured_project": "factually",
-  "google_scholar": ""
+  "google_scholar": "https://scholar.google.com/citations?user=NFi7pkcAAAAJ&hl=en"
 }

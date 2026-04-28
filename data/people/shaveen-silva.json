@@ -16,15 +16,15 @@
   "external_links": [
     {
       "label": "Personal Website",
-      "url": "www.shaveensilva.com"
+      "url": "https://shaveensilva.com/"
     }
   ],
   "projects": [],
   "publications": [],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "Vector Agents",
+      "role": "Software Engineering Intern",
       "period": ""
     },
     {
@@ -39,8 +39,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
-  "featured_project": null,
-  "google_scholar": ""
+  "linkedin": "https://www.linkedin.com/in/shaveensilva/",
+  "github": "https://github.com/Shaveen12",
+  "featured_project": "aisee",
+  "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=HzB2-eEAAAAJ"
 }

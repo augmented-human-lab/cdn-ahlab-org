@@ -13,7 +13,12 @@
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/mia-huong-nguyen/mia-huong-nguyen.jpg",
   "bio": "Mia is a PhD student at the NUS School of Computing. Originally from Vietnam, she went to the Ulsan National Institute of Science and Technology, South Korea to get her bachelor's degree in Computer Science and Math. After spending 4 years on a remote mountain in a remote village of a not-so-remote city in Korea (and eating a lot of Korean BBQ chicken), she went back to Vietnam and worked as a research engineer for Trusting Social. Spending 18 months working, she realized that she missed her academic life working on geeky things.\n\nNow, she's returned to the academic world. She's broadly interested in the human mind, emotions and AI. She wants to build technologies that bring people happiness and enhance their well-being. In her dreams, she sees herself creating Baymax.\n\nIn her free time, she likes to meditate, read books, and play board games. She’s an on-off runner and an infrequent hiker.",
-  "external_links": [],
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://iammia0o.github.io"
+    }
+  ],
   "projects": [
     "gutio",
     "emo-know"
@@ -26,8 +31,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "Trusting Social",
+      "role": "Research Engineer",
       "period": ""
     },
     {
@@ -42,7 +47,7 @@
       "period": ""
     }
   ],
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/miahuongnguyen/",
   "github": "",
   "featured_project": "gutio",
   "google_scholar": ""

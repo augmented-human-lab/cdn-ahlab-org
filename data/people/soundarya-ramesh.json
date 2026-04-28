@@ -7,7 +7,7 @@
   "ahlab_stints": [
     {
       "role": "Research Fellow",
-      "start": "2025-05",
+      "start": "2025-01",
       "end": null
     }
   ],
@@ -30,8 +30,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "NUS School of Computing",
+      "role": "PhD Student",
       "period": ""
     },
     {
@@ -46,8 +46,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
-  "featured_project": "zenflow",
-  "google_scholar": ""
+  "linkedin": "https://www.linkedin.com/in/soundarya-ramesh/",
+  "github": "https://github.com/soundaryaramesh/",
+  "featured_project": "emodrink",
+  "google_scholar": "https://scholar.google.com/citations?user=VWyXi3EAAAAJ&hl=en&oi=ao"
 }

@@ -6,13 +6,18 @@
   "ahlab_stints": [
     {
       "role": "Research Fellow",
-      "start": "2023-05",
+      "start": "2023-04",
       "end": "2026-03"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/prasanth-sasikumar/prasanth-sasikumar.jpg",
   "bio": "Prasanth joined the Augmented Human Lab at the National University of Singapore (NUS) as a Research Fellow. With a strong focus on augmented reality (AR) and virtual reality (VR), Prasanth's research interests revolve around exploring the potential of these immersive technologies. His expertise lies in leveraging multimodal input and remote collaboration to enhance user experiences in AR and VR environments. Prasanth completed his PhD, which investigated the utilization of multimodal input for remote collaboration using AR and VR. Prior to that, he earned a master's degree in Human-Computer Interaction from HIT Lab NZ, where he studied the use of haptics in immersive environments.",
-  "external_links": [],
+  "external_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://prasanthsasikumar.com/"
+    }
+  ],
   "projects": [
     "zenflow",
     "emodrink",
@@ -31,8 +36,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "University of Auckland, New Zealand",
+      "role": "PhD Student",
       "period": ""
     },
     {
@@ -47,8 +52,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
+  "linkedin": "https://www.linkedin.com/in/prasanth-sasikumar/",
+  "github": "https://github.com/prasanthsasikumar",
   "featured_project": "zenflow",
-  "google_scholar": ""
+  "google_scholar": "https://scholar.google.com/citations?hl=en&tzom=-480&user=85RKyZMAAAAJ"
 }

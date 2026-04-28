@@ -294,8 +294,8 @@
   ],
   "career": [
     {
-      "org": "",
-      "role": "",
+      "org": "MIT",
+      "role": "Research Fellow",
       "period": ""
     },
     {
@@ -310,8 +310,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/prof-suranga/",
   "github": "",
-  "featured_project": "zenflow",
-  "google_scholar": ""
+  "featured_project": "hapticchair",
+  "google_scholar": "https://scholar.google.com.sg/citations?hl=en&user=G0JugenpCgwC"
 }

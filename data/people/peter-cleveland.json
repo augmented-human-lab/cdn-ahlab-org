@@ -21,7 +21,7 @@
   "career": [
     {
       "org": "",
-      "role": "",
+      "role": "Research Fellow",
       "period": ""
     },
     {
@@ -36,8 +36,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/peter-cleveland-195b86202",
   "github": "",
-  "featured_project": null,
-  "google_scholar": ""
+  "featured_project": "autopilot",
+  "google_scholar": "https://scholar.google.com/citations?user=fdbi9oQAAAAJ&hl=en"
 }

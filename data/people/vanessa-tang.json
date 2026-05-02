@@ -5,8 +5,13 @@
   "section": "Alumni",
   "ahlab_stints": [
     {
-      "role": "Research Assistant",
+      "role": "Intern",
       "start": "2021-10",
+      "end": "2021-12"
+    },
+    {
+      "role": "Research Assistant",
+      "start": "",
       "end": "2026-04"
     }
   ],

@@ -3,7 +3,9 @@
   "title": "VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors",
   "year": "2026",
   "citation": "Nguyen, M.H., Messerschmidt, M.A., Huber, J. and Nanayakkara, S. C., 2026. VisceroHaptics: Investigating the Effects of Gut-based Audio-Haptic Feedback on Gastric Feelings and Gastric Interoceptive Behaviors. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-  "award": "Honorable Mention Award",
+  "awards": [
+    "Honorable Mention Award"
+  ],
   "links": [
     {
       "label": "doi",

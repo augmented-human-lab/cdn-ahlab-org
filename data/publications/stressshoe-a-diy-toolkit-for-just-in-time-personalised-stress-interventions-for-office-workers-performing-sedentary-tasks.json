@@ -3,7 +3,9 @@
   "title": "StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks",
   "year": "2021",
   "citation": "Elvitigala, D.S., Scholl, P.M., Suriyaarachchi, H., Dissanayake, V. and Nanayakkara, S.C., 2021. StressShoe: A DIY Toolkit for just-in-time Personalised Stress Interventions for Office Workers Performing Sedentary Tasks. In MobileHCI ’21: The ACM International Conference on Mobile Human-Computer Interaction, September 27–30, 2021, Touluse, France. Honorable Mention Award!",
-  "award": "Honorable Mention Award",
+  "awards": [
+    "Honorable Mention Award"
+  ],
   "links": [
     {
       "label": "DOI",

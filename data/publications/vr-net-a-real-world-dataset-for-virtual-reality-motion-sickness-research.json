@@ -3,7 +3,9 @@
   "title": "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research",
   "year": "2024",
   "citation": "Wen, E., Gupta, C., Sasikumar, P., Billinghurst, M., Wilmott, J., Skow, E., Dey, A., Nanayakkara, S.C. VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research. The 31st IEEE Conference on Virtual Reality and 3D User Interfaces, 2024. Best Paper Award!",
-  "award": "Best Paper Award",
+  "awards": [
+    "Best Paper Award"
+  ],
   "links": [
     {
       "label": "DOI",

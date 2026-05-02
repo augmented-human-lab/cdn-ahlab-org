@@ -3,7 +3,9 @@
   "title": "Uncovering the Potential of the Foot as a Source of User Information",
   "year": "2018",
   "citation": "Elvitigala, D.S., 2018, October. Uncovering the Potential of the Foot as a Source of User Information. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (pp. 541-546). Doctoral Colloquium Best Presentation Runners Up Award!",
-  "award": "Best Presentation Runners Up Award",
+  "awards": [
+    "Best Presentation Runners Up Award"
+  ],
   "links": [
     {
       "label": "DOI",

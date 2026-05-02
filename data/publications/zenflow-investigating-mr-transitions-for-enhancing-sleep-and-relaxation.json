@@ -3,7 +3,9 @@
   "title": "Zenflow: Investigating MR Transitions for Enhancing Sleep and Relaxation",
   "year": "2026",
   "citation": "Sasikumar, P., Sasikumar, P., Ramesh, S., Masuda, T., Qiao, H., and Nanayakkara, S. C., 2026. Zenflow: Investigating MR Transitions for Enhancing Sleep and Relaxation. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2026).",
-  "award": "Honorable Mention Award",
+  "awards": [
+    "Honorable Mention Award"
+  ],
   "links": [
     {
       "label": "doi",

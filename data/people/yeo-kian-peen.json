@@ -5,9 +5,14 @@
   "section": "Alumni",
   "ahlab_stints": [
     {
+      "role": "Embedded Engineer",
+      "start": "2012-07",
+      "end": "2014-04"
+    },
+    {
       "role": "Senior Embedded Engineer",
       "start": "2024-03",
-      "end": ""
+      "end": "2026-06"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/yeo-kian-peen/yeo-kian-peen.jpg",

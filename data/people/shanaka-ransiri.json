@@ -5,9 +5,14 @@
   "section": "Alumni",
   "ahlab_stints": [
     {
+      "role": "Software Engineer",
+      "start": "2012",
+      "end": "2014"
+    },
+    {
       "role": "Software Development Lead",
-      "start": "",
-      "end": ""
+      "start": "2016",
+      "end": "2017"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/shanaka-ransiri/shanaka-ransiri.jpg",

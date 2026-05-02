@@ -3,7 +3,9 @@
   "title": "InSight: A Systematic Approach to Create Dynamic Human-Controller-Interactions",
   "year": "2017",
   "citation": "Boldu, R., Zhang, H., Cortés, J.P.F., Muthukumarana, S. and Nanayakkara, S.C., 2017, March. Insight: a systematic approach to create dynamic human-controller-interactions. In Proceedings of the 8th Augmented Human International Conference (pp. 1-5). Best Short Paper Award!",
-  "award": "Best Short Paper Award",
+  "awards": [
+    "Best Short Paper Award"
+  ],
   "links": [
     {
       "label": "DOI",

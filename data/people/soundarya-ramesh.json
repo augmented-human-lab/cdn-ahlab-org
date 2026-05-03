@@ -22,8 +22,7 @@
   "projects": [
     "zenflow",
     "emodrink",
-    "blind-drone",
-    "test-proj3"
+    "blind-drone"
   ],
   "publications": [
     "droneaudioset-an-audio-dataset-for-drone-based-search-and-rescue"

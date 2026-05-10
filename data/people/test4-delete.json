@@ -1,0 +1,24 @@
+{
+  "slug": "test4-delete",
+  "name": "test4 delete",
+  "email": "test4@ahlab.org",
+  "role": "Intern",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2026-06",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/test4-delete/test4-delete.jpg",
+  "bio": "test bio",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "",
+  "google_scholar": ""
+}

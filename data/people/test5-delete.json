@@ -1,0 +1,41 @@
+{
+  "slug": "test5-delete",
+  "name": "test5 delete",
+  "email": "test5@ahlab.org",
+  "role": "Intern",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2026-06",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/test5-delete/test5-delete.jpg",
+  "bio": "test bio",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "NUS",
+      "role": "Student",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Intern",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "",
+  "google_scholar": ""
+}

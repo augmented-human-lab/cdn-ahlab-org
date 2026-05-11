@@ -1,0 +1,41 @@
+{
+  "slug": "sanjay-saha",
+  "name": "Sanjay Saha",
+  "email": "sanjaysaha@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2026-05",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/sanjay-saha/sanjay-saha.jpg",
+  "bio": "Sanjay Saha is a researcher and engineer working at the intersection of multimodal learning, facial biometric analysis, synthetic media intelligence, and trustworthy AI systems. He subsequently completed his PhD in Computer Science at the National University of Singapore, where his doctoral research investigated foundational challenges in deepfake generation and detection, biometric cybersecurity, and the broader societal implications of AI-generated media.\n\nMore: sanjaysaha.info",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "TikTok Pte Ltd",
+      "role": "Machine Learning Engineer",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Research Fellow",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "linkedin.com/in/sanjaysaha",
+  "github": "rgb91",
+  "featured_project": "",
+  "google_scholar": "https://scholar.google.com/citations?user=prPfgTIAAAAJ&hl=en"
+}

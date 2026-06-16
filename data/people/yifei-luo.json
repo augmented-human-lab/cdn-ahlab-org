@@ -2,17 +2,17 @@
   "slug": "yifei-luo",
   "name": "Yifei Luo",
   "email": "yifei@ahlab.org",
-  "role": "Intern",
+  "role": "Research Visitor",
   "section": "Alumni",
   "ahlab_stints": [
     {
-      "role": "Intern",
+      "role": "Research Visitor",
       "start": "2025-06",
       "end": "2026-01"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/yifei-luo/yifei-luo.jpg",
-  "bio": "Yifei is an intern from China, currently pursuing her Master’s degree at RWTH Aachen University in Germany. At AHL, she primarily works on audio engineering, human-computer interaction (HCI), and drones. Her background and research interests include HCI, acoustics, machine learning (ML), and assistive technology.\n\nBefore joining AHL, Yifei worked as a student research assistant at the Institute of Hearing Technology and Acoustics, as well as the Institute of Man-Machine Interaction at RWTH Aachen University. Prior to her studies at RWTH, she obtained a Bachelor's degree in Automation from Tsinghua University in China, where she also worked as an engineer at the Institute of Human-Computer Interaction (HCI) and Media Integration.",
+  "bio": "Yifei is a Research Visitor from China, currently pursuing her Master’s degree at RWTH Aachen University in Germany. At AHL, she primarily works on audio engineering, human-computer interaction (HCI), and drones. Her background and research interests include HCI, acoustics, machine learning (ML), and assistive technology.\n\nBefore joining AHL, Yifei worked as a student research assistant at the Institute of Hearing Technology and Acoustics, as well as the Institute of Man-Machine Interaction at RWTH Aachen University. Prior to her studies at RWTH, she obtained a Bachelor's degree in Automation from Tsinghua University in China, where she also worked as an engineer at the Institute of Human-Computer Interaction (HCI) and Media Integration.",
   "external_links": [],
   "projects": [
     "blind-drone"

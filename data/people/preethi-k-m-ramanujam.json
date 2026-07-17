@@ -1,0 +1,41 @@
+{
+  "slug": "preethi-k-m-ramanujam",
+  "name": "Preethi K M Ramanujam",
+  "email": "preethi@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "Wed Jul 01 2026 08:00:00 GMT+0800 (Singapore Standard Time)",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/preethi-k-m-ramanujam/preethi-k-m-ramanujam.jpg",
+  "bio": "Preethi is a Research Fellow with expertise in applied AI, optimization, and industrial systems. She leverages AI to develop practical solutions for real-world applications and holds a PhD in Operations Management.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Research Fellow",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "",
+  "featured_project": "",
+  "google_scholar": ""
+}

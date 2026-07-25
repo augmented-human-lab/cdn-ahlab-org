@@ -3,12 +3,12 @@
   "name": "Lorelia Latarche",
   "email": "lorelia@ahlab.org",
   "role": "Visiting Student",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Visiting Student",
       "start": "2026-01",
-      "end": null
+      "end": "2026-06"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/lorelia-latarche/lorelia-latarche.jpg",
@@ -26,7 +26,7 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
       "org": "",

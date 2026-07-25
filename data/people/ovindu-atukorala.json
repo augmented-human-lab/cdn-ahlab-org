@@ -3,12 +3,12 @@
   "name": "Ovindu Atukorala",
   "email": "ovindu@ahlab.org",
   "role": "Intern",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Intern",
       "start": "2025-12",
-      "end": null
+      "end": "2026-06"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/ovindu-atukorala/ovindu-atukorala.jpg",
@@ -33,7 +33,7 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
       "org": "",

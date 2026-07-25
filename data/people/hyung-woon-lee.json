@@ -3,12 +3,12 @@
   "name": "Hyung Woon Lee",
   "email": "leehw@ahlab.org",
   "role": "Research Assistant",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Research Assistant",
       "start": "2023-01",
-      "end": null
+      "end": "2026-07"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/hyung-woon-lee/hyung-woon-lee.jpg",
@@ -33,7 +33,7 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
       "org": "",

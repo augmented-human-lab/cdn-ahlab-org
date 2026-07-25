@@ -3,7 +3,7 @@
   "name": "Qin Wu",
   "email": "qin@ahlab.org",
   "role": "PhD Candidate",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "PhD Candidate",
@@ -38,7 +38,7 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
       "org": "",

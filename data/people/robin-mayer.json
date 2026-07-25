@@ -1,0 +1,41 @@
+{
+  "slug": "robin-mayer",
+  "name": "Robin Mayer",
+  "email": "robin@ahlab.org",
+  "role": "Intern",
+  "section": "Current Team",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2026-03",
+      "end": null
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/robin-mayer/robin-mayer.jpg",
+  "bio": "Robin is a Master's student in Human Factors from Germany, currently completing his thesis at Furtwangen University (HFU). He also holds a Bachelor's in Engineering Psychology, and his academic work spans human-centered design, UI/UX, and VR/AR ergonomics. He is particularly passionate about bridging the gap between people and technology — designing systems that feel intuitive, inclusive, human, and also fun. Outside of research, Robin enjoys building things from the ground up — from custom arcade cabinets and ESP32-based hardware projects to game development in Godot. He also loves sports and is a passionate football player.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "Furtwangen University (HFU)",
+      "role": "Master's Student, Human Factors",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/robin-mayer-b00a64295",
+  "github": "",
+  "featured_project": null,
+  "google_scholar": ""
+}

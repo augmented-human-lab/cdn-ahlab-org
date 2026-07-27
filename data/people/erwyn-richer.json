@@ -1,0 +1,41 @@
+{
+  "slug": "erwyn-richer",
+  "name": "Erwyn RICHER",
+  "email": "erwyn@ahlab.org",
+  "role": "Intern",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2026-05",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/erwyn-richer/erwyn-richer.jpg",
+  "bio": "Erwyn RICHER is an engineering student at ENSTA Brest, specializing in observation system and AI. He is currently working on drones designed to serve as assistive technology for blind and low-vision people.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "ENSTA",
+      "role": "Visiting Intern",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Intern",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "linkedin.com/in/erwyn-richer-47b73a385",
+  "github": "ErwynOfficial",
+  "featured_project": "",
+  "google_scholar": ""
+}

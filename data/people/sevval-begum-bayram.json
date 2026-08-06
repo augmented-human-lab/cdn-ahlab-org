@@ -1,0 +1,41 @@
+{
+  "slug": "sevval-begum-bayram",
+  "name": "Sevval Begum Bayram",
+  "email": "sevval@ahlab.org",
+  "role": "Research Assistant",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Research Assistant",
+      "start": "2026-08",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/sevval-begum-bayram/sevval-begum-bayram.jpg",
+  "bio": "A research assistant passionate about Generative AI and its effects on society",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "National University of Singapore",
+      "role": "Research Assistant",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Research Assistant",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "",
+  "github": "sevvalbbayram",
+  "featured_project": "",
+  "google_scholar": ""
+}

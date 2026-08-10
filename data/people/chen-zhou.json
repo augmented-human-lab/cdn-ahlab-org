@@ -1,0 +1,41 @@
+{
+  "slug": "chen-zhou",
+  "name": "Chen Zhou",
+  "email": "chen@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2026-08",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/chen-zhou/chen-zhou.jpg",
+  "bio": "Chen is a Research Fellow at the Augmented Human Lab at the National University of Singapore (NUS). She received her PhD in Computer Science from NUS in May 2026, with her doctoral research focusing on developing wearable AI-powered assistants to tackle mobile content creation challenges and adapt to user multitasking needs. Outside of research, she enjoys photography, casual cycling, cooking, and playing video games.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "National University of Singapore",
+      "role": "PhD Student",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Research Fellow",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "chen-zhou-6335a1228",
+  "github": "czZoe",
+  "featured_project": "",
+  "google_scholar": "TSMwzHAAAAAJ"
+}

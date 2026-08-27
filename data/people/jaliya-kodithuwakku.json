@@ -2,17 +2,22 @@
   "slug": "jaliya-kodithuwakku",
   "name": "Jaliya Kodithuwakku",
   "email": "jaliya@ahlab.org",
-  "role": "Research Engineer Intern",
-  "section": "Alumni",
+  "role": "Research Assistant",
+  "section": "Current",
   "ahlab_stints": [
     {
       "role": "Research Engineer Intern",
       "start": "2024-12",
       "end": "2025-06"
+    },
+    {
+      "role": "Research Assistant",
+      "start": "2026-07",
+      "end": null
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/jaliya-kodithuwakku/jaliya-kodithuwakku.jpg",
-  "bio": "A third-year undergraduate at the University of Moratuwa, Sri Lanka. specializing in Electronic and Telecommunication Engineering, passionate about deep learning, computer vision, artificial intelligence, and research. Academic interests include signal processing, machine learning, computer vision, embedded systems, and circuit designing. Projects span areas such as facial expression recognition, health monitoring, natural language processing, and multimodal AI systems, demonstrating a commitment to advancing technology and solving practical challenges.",
+  "bio": "Jaliya is an Electronic and Telecommunication Engineering graduate from the University of Moratuwa, Sri Lanka, specializing in deep learning, edge AI, and multi-agent systems. He has hands-on experience in TinyML, multimodal AI, VLMs, and LLM optimization for resource-constrained devices. His research focuses on Brain-Computer Interfaces, assistive technologies for the visually impaired, controllable LLMs, and HCI. He is dedicated to building interpretable, human-centered AI systems with real-world engineering impact. Outside of research, he is an avid hiker.",
   "external_links": [],
   "projects": [
     "aisee"
@@ -36,8 +41,8 @@
       "period": ""
     }
   ],
-  "linkedin": "",
-  "github": "",
+  "linkedin": "https://www.linkedin.com/in/jaliya-nimantha",
+  "github": "https://github.com/jaliyanimanthako",
   "featured_project": "aisee",
   "google_scholar": ""
 }

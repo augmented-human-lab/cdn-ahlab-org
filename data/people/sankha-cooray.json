@@ -2,12 +2,17 @@
   "slug": "sankha-cooray",
   "name": "Sankha Cooray",
   "email": "sankha@ahlab.org",
-  "role": "Research Engineer",
+  "role": "Research Associate",
   "section": "Current Team",
   "ahlab_stints": [
     {
       "role": "Research Engineer",
       "start": "2020-05",
+      "end": "2026-10-01"
+    },
+    {
+      "role": "Research Associate",
+      "start": "2026-10-01",
       "end": null
     }
   ],

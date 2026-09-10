@@ -2,12 +2,17 @@
   "slug": "nadia-aritonang",
   "name": "Nadia Aritonang",
   "email": "nadia@ahlab.org",
-  "role": "Master Student",
+  "role": "Research Engineer",
   "section": "Current Team",
   "ahlab_stints": [
     {
       "role": "Master Student",
       "start": "2025-06",
+      "end": "2026-09"
+    },
+    {
+      "role": "Research Engineer",
+      "start": "2026-09",
       "end": null
     }
   ],

@@ -11,8 +11,8 @@
       "end": ""
     }
   ],
-  "profile_image": "https://cdn.ahlab.org/media/site/people/erwyn-richer/erwyn-richer.jpg",
-  "bio": "Erwyn Richer is an engineering student at ENSTA Brest, specializing in observation system and AI. He is currently working on drones designed to serve as assistive technology for blind and low-vision people.",
+  "profile_image": "https://cdn.ahlab.org/media/site/people/erwyn-richer/portrait.jpg",
+  "bio": "Erwyn Richer is a second-year engineering student at ENSTA Bretagne in France, specializing in Observation Systems and Artificial Intelligence. His background focuses heavily on drone technology, particularly in optimizing hardware components and developing target detection systems. He will be joining the Augmented Human Lab to work on the DroneBuddy project, aiming to design drones as assistive technologies for blind and low-vision individuals. Outside the work time, Erwyn enjoys playing badminton, making music, and exploring new cultures.",
   "external_links": [],
   "projects": [],
   "publications": [],
@@ -36,6 +36,6 @@
   ],
   "linkedin": "https://www.linkedin.com/in/erwyn-richer-47b73a385",
   "github": "https://github.com/ErwynOfficial",
-  "featured_project": "",
+  "featured_project": "dronebuddy",
   "google_scholar": ""
 }

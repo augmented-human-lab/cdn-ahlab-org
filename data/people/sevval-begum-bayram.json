@@ -3,12 +3,12 @@
   "name": "Sevval Begum Bayram",
   "email": "sevval@ahlab.org",
   "role": "Research Assistant",
-  "section": "Current",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Research Assistant",
       "start": "2026-08",
-      "end": ""
+      "end": "2026-09"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/sevval-begum-bayram/sevval-begum-bayram.jpg",
@@ -26,10 +26,10 @@
       "org": "AHL",
       "role": "Research Assistant",
       "period": "",
-      "current": true
+      "current": false
     },
     {
-      "org": "",
+      "org": "Starhub",
       "role": "",
       "period": ""
     }

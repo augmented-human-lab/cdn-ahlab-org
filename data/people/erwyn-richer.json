@@ -3,12 +3,12 @@
   "name": "Erwyn Richer",
   "email": "erwyn@ahlab.org",
   "role": "Intern",
-  "section": "Current",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Intern",
       "start": "2026-05",
-      "end": ""
+      "end": "2026-09"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/erwyn-richer/portrait.jpg",
@@ -26,10 +26,10 @@
       "org": "AHL",
       "role": "Intern",
       "period": "",
-      "current": true
+      "current": false
     },
     {
-      "org": "",
+      "org": "ENSTA",
       "role": "",
       "period": ""
     }

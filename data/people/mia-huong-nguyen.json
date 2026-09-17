@@ -3,12 +3,12 @@
   "name": "Mia Huong Nguyen",
   "email": "mia@ahlab.org",
   "role": "PhD Candidate",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "PhD Candidate",
       "start": "2022-06",
-      "end": null
+      "end": "2026-08"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/mia-huong-nguyen/mia-huong-nguyen.jpg",
@@ -41,10 +41,10 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
-      "org": "",
+      "org": "MIT",
       "role": "",
       "period": ""
     }

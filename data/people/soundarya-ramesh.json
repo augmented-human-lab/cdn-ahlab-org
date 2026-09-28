@@ -3,12 +3,12 @@
   "name": "Soundarya Ramesh",
   "email": "soundarya@ahlab.org",
   "role": "Research Fellow",
-  "section": "Current Team",
+  "section": "Alumni",
   "ahlab_stints": [
     {
       "role": "Research Fellow",
       "start": "2025-01",
-      "end": null
+      "end": "2026-09"
     }
   ],
   "profile_image": "https://cdn.ahlab.org/media/site/people/soundarya-ramesh/soundarya-ramesh.jpg",
@@ -37,10 +37,10 @@
       "org": "AHL",
       "role": "",
       "period": "",
-      "current": true
+      "current": false
     },
     {
-      "org": "",
+      "org": "Meta Reality Labs",
       "role": "",
       "period": ""
     }

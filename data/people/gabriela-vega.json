@@ -1,0 +1,41 @@
+{
+  "slug": "gabriela-vega",
+  "name": "Gabriela Vega",
+  "email": "gabriela@ahlab.org",
+  "role": "Intern",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Intern",
+      "start": "2026-10",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/gabriela-vega/gabriela-vega.jpg",
+  "bio": "Gabriela is a Master's student in Media Informatics at Saarland University in Germany and joined AH Lab to work on her master's thesis.\n\nPreviously, she collaborated with Dr. Paul Strohmeier at MPI for Informatics in Germany, Dr. Shunichi Kasahara at SonyCSL/OIST in Japan, Prof. Audrey Girouard and Prof. Karen Cochrane at Carleton University in Canada, and Prof. Katia Vega at UC Davis.\n\nShe is interested in human-computer interaction, wearables, haptics, IoT, human wellbeing, AI companions, and AI alignment.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "Max Planck Institute for Informatics",
+      "role": "Research Assistant",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Intern",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/vegabs",
+  "github": "https://github.com/vegabs",
+  "featured_project": "",
+  "google_scholar": "https://scholar.google.com/citations?user=PriGV5kAAAAJ"
+}

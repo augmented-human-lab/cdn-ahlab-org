@@ -1,0 +1,41 @@
+{
+  "slug": "elen-sargsyan",
+  "name": "Elen Sargsyan",
+  "email": "elen@ahlab.org",
+  "role": "Research Fellow",
+  "section": "Current",
+  "ahlab_stints": [
+    {
+      "role": "Research Fellow",
+      "start": "2026-10",
+      "end": ""
+    }
+  ],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/elen-sargsyan/elen-sargsyan.jpg",
+  "bio": "Elen is a Research Fellow at the Augmented Human Lab (AHLab) at the National University of Singapore (NUS). She holds a PhD in Human-Computer Interaction and Cognitive Sciences from the University of Toulouse, France.\n\nHer research focuses on accessibility, assistive technologies for people with visual impairments, and user-centered design. In her free time, she enjoys exploring new AI-powered design tools and experimenting with creative technologies.",
+  "external_links": [],
+  "projects": [],
+  "publications": [],
+  "career": [
+    {
+      "org": "Université de Bordeaux",
+      "role": "Research Fellow",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "Research Fellow",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/sargsyanelen",
+  "github": "https://github.com/gitelensargsyan",
+  "featured_project": "",
+  "google_scholar": ""
+}

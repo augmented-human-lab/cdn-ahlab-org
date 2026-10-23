@@ -1,0 +1,43 @@
+{
+  "slug": "takahiro-masuda",
+  "name": "Takahiro Masuda",
+  "role": "Research Manager",
+  "affiliation": "Asahi Quality & Innovations, Ltd.",
+  "section": "Collaborators",
+  "collaboration": {
+    "start": "2024-11",
+    "end": null
+  },
+  "ahlab_stints": [],
+  "profile_image": "https://cdn.ahlab.org/media/site/people/takahiro-masuda/takahiro-masuda.jpg",
+  "bio": "Takahiro is a research manager at Asahi Quality & Innovation, Ltd. He spent two years as a visiting researcher at the Augmented Human Lab, where he contributed to joint research projects.",
+  "external_links": [],
+  "projects": [
+    "emodrink"
+  ],
+  "publications": [
+    "emodrink-embodied-mr-for-physiology-informed-beverage-recommendation"
+  ],
+  "career": [
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    },
+    {
+      "org": "AHL",
+      "role": "",
+      "period": "",
+      "current": true
+    },
+    {
+      "org": "",
+      "role": "",
+      "period": ""
+    }
+  ],
+  "linkedin": "https://www.linkedin.com/in/takahiro-masuda-54057726a",
+  "github": "",
+  "featured_project": "emodrink",
+  "google_scholar": ""
+}

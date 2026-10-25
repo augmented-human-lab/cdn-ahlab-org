@@ -1,0 +1,23 @@
+{
+  "slug": "test-proj26",
+  "title": "Test Proj26",
+  "year": "Current",
+  "description": "This is a self-test of new project creation. We will delete this soon.",
+  "thumbnail": "https://cdn.ahlab.org/media/site/projects/test-proj26/Screenshot_2026-10-25_at_2.28.52_PM.jpg",
+  "external_links": [
+    {
+      "kind": "website",
+      "label": "google.com",
+      "url": "https://google.com"
+    }
+  ],
+  "principles": [
+    "body",
+    "cognitive"
+  ],
+  "people": [
+    "sankha-cooray"
+  ],
+  "publications": [],
+  "sponsors": []
+}
